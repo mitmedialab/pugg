@@ -1,7 +1,8 @@
 import csv
 import glob
+from article_accessor import *
 
-class NYTimesArticleAccessor:
+class NYTimesArticleAccessor(ArticleAccessor):
   def __init__(self, data_dir):
     self.data_dir = data_dir
     self.csv_filenames = glob.glob(data_dir + "/*")

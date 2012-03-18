@@ -1,5 +1,5 @@
 class ArticleAccessor:
-  def __init__(data_folder):
+  def __init__(self):
     print "Accessing ArticleAccessor: Please Access Inherited Class"
   def getNextArticle(self):
     print "Accessing ArticleAccessor: Please Access Inherited Class"
