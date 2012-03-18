@@ -1,6 +1,7 @@
 import csv
 import glob
 from article_accessor import *
+from nytimes_article import *
 
 class NYTimesArticleAccessor(ArticleAccessor):
   def __init__(self, data_dir):
@@ -9,6 +10,23 @@ class NYTimesArticleAccessor(ArticleAccessor):
     self.csv_filenames.sort()
     self.current_file = None
     self.nyt_csv_reader = None
+
+  #metadata_keys defined in nyt ruby library app/models/article.rb
+  def createArticle(self, row):
+    return NYTimesArticle({'pub_date': row[0],
+      'bylines': row[1],
+      'datline': row[2], 
+      'descriptors': row[3],
+      'taxonomic_classifiers': row[4],
+      'locations': row[5],
+      'page': row[6],
+      'section': row[7],
+      'column': row[8],
+      'news_desk': row[9],
+      'word_count': row[10],
+      'headline': row[11],
+      'filename': row[12]})
+      
 
   def getNextArticle(self):
     if self.nyt_csv_reader == None:

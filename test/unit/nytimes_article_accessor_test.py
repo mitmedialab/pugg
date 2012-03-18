@@ -1,5 +1,7 @@
 import unittest
 from nytimes_article_accessor import *
+from string import *
+import datetime
 
 class NYTimesArticleAccessorTest(unittest.TestCase):
   def setUp(self):
@@ -17,6 +19,17 @@ class NYTimesArticleAccessorTest(unittest.TestCase):
     for i in range(39):
       assert self.article_accessor.getNextArticle() != None, 'iterating through next articles, ' + str(i) + ' returned None'
     self.assertEqual(None, self.article_accessor.getNextArticle())
+
+  def testCreateArticle(self):
+    article = self.article_accessor.createArticle(self.article_accessor.getNextArticle())
+    print article.headline
+    print article.byline
+    print article.taxonomic_classifiers
+    self.assertEqual("'MY TRIP TO AL-QAEDA'", article.headline)
+    self.assertEqual("charles isherwood", article.byline)
+    self.assertEqual(['Top', 'Top/Features', 
+      'Top/Features/Arts', 'Top/Features/Movies', 'Top/News'], 
+      article.taxonomic_classifiers)
 
 if __name__ == '__main__':
   unittest.main()
