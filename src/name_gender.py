@@ -20,7 +20,16 @@ class NameGender:
     female = self.female_names.has_key(first_name)
   
     if(male and female):
-      difference = atoi(self.female_names[first_name][1]) - atoi(self.male_names[first_name][1])
+      try:
+        female_count = atoi(self.female_names[first_name][1])
+      except ValueError:
+        female_count = 0
+      try:
+        male_count = atoi(self.male_names[first_name][1])
+      except ValueError:
+        male_count = 0 
+
+      difference = female_count - male_count
       if difference > 0:
         return "F"
       else:
