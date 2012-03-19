@@ -16,3 +16,7 @@ class NYTimesArticle(Article):
     self.taxonomic_classifiers = init_dict["taxonomic_classifiers"].split("|")
     self.source = "NYTimes"
     self.fulltext = None
+
+  def getDataFileObject(self, data_dir, extension):
+    data_filename = self.filename.replace("data/full/", data_dir).replace("xml", extension)
+    return open(data_filename, "r")
