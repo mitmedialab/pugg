@@ -1,0 +1,1 @@
+18 March 2012, nytimes_metadata_yearly_gender_counts.csv, calculated annual byline gender for the New York Times aggressively giving a judgement in all cases including ones like "Pat"
