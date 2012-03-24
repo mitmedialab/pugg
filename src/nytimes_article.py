@@ -4,6 +4,7 @@ import datetime
 
 class NYTimesArticle(Article):
   def __init__(self, init_dict):
+    Article.__init__(self)
     self.bylines = init_dict["bylines"].split("|")
     self.byline = lower(self.bylines[0]).replace("by ", "")
 
