@@ -22,9 +22,6 @@ class NYTimesArticleAccessorTest(unittest.TestCase):
 
   def testCreateArticle(self):
     article = self.article_accessor.createArticle(self.article_accessor.getNextArticle())
-    print article.headline
-    print article.byline
-    print article.taxonomic_classifiers
     self.assertEqual("'MY TRIP TO AL-QAEDA'", article.headline)
     self.assertEqual("charles isherwood", article.byline)
     self.assertEqual(['Top', 'Top/Features', 
