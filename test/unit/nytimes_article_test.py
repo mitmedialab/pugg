@@ -17,17 +17,6 @@ class NYTimesArticleTest(unittest.TestCase):
     data_file = article.getDataFileObject("test/fixtures/nytimes-data/", "txt")
     self.assertEqual(article.headline, data_file.readline()[:-1])
 
-  def testSave(self):
-    config.PUGG_DB=2
-    article_accessor = NYTimesArticleAccessor("test/fixtures/nytimes")
-    article = article_accessor.createArticle(article_accessor.getNextArticle())
-    article.establishConnection()
-    article.puggdb.flushdb()
-    article.save()
-    self.assertEqual(article.article_id, article.puggdb.lindex("article.keys", -1))
-    self.assertEqual(article.headline, article.puggdb.get(article.rs("headline")))
-    article.puggdb.flushdb()
-   
 
   def testCreateNYTimesArticle(self):
     nytimes_article = NYTimesArticle({'pub_date': "20070601",

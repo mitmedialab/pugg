@@ -8,6 +8,23 @@ class NYTimesMetadataController:
     self.articles = NYTimesArticleAccessor("data/nytimes")
     self.name_gender = NameGender("data/names/female_names.csv", "data/names/male_names.csv")
 
+  def saveAllToRedis(self):
+    article_row = self.articles.getNextArticle()
+    year = 1986
+    while article_row:
+      try:
+        article = self.articles.createArticle(article_row)
+        #check month, since there are year anomalies in the csvs
+        if article.pub_date.year != year and article.pub_date.month == 1:
+          print year
+          year = article.pub_date.year
+        #article.fulltext = article.getDataFileObject("data/nytimes-fulltext/", "txt").read()[0:-1]
+        article.save()
+      except ValueError:
+        article_row = self.articles.getNextArticle()
+        continue
+      article_row = self.articles.getNextArticle()
+
   def generate_yearly_gender_counts(self):
     total = female = male = unknown = unlabeled = 0 
     print "@year, @total, @female, @male, @unknown, @unlabeled"
@@ -77,4 +94,5 @@ class NYTimesMetadataController:
 
 if __name__ == "__main__":
     nyt_controller = NYTimesMetadataController()
-    nyt_controller.generate_yearly_gender_counts()
+    #nyt_controller.generate_yearly_gender_counts()
+    nyt_controller.saveAllToRedis()

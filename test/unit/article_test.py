@@ -1,7 +1,7 @@
 import unittest
 import sample_class
 
-class SampleClassTest(unittest.TestCase):
+class ArticleTest(unittest.TestCase):
   def runTest(self):
     assert 0
 

@@ -16,7 +16,7 @@ class NYTimesArticleAccessor(ArticleAccessor):
   def createArticle(self, row):
     return NYTimesArticle({'pub_date': row[0],
       'bylines': row[1],
-      'datline': row[2], 
+      'dateline': row[2], 
       'descriptors': row[3],
       'taxonomic_classifiers': row[4],
       'locations': row[5],
