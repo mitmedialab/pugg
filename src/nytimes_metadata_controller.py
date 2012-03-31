@@ -8,6 +8,22 @@ class NYTimesMetadataController:
     self.articles = NYTimesArticleAccessor("data/nytimes")
     self.name_gender = NameGender("data/names/female_names.csv", "data/names/male_names.csv")
 
+  def saveToMongoDB(self):
+    article_row = self.articles.getNextArticle()
+    year = 0
+    while article_row:
+      try:
+        article = self.articles.createArticle(article_row)
+      except ValueError:
+        article_row = self.articles.getNextArticle()
+        continue
+      article.save()
+      if(article.pub_date.month == 1 and year < article.pub_date.year):
+        print year
+        year = article.pub_date.year
+      article_row = self.articles.getNextArticle()
+
+ 
   def generate_yearly_gender_counts(self):
     total = female = male = unknown = unlabeled = 0 
     print "@year, @total, @female, @male, @unknown, @unlabeled"
@@ -78,4 +94,4 @@ class NYTimesMetadataController:
 if __name__ == "__main__":
     nyt_controller = NYTimesMetadataController()
     #nyt_controller.generate_yearly_gender_counts()
-    nyt_controller.saveAllToRedis()
+    nyt_controller.saveToMongoDB()

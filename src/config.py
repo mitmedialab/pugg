@@ -1,3 +1,2 @@
-REDIS_SERVER="127.0.0.1"
-PUGG_DB=0
-NAMES_DB=0
+MONGO_SERVER="127.0.0.1"
+PUGG_DB="pugg_production"
