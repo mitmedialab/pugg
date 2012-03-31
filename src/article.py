@@ -3,8 +3,7 @@ from mongo_connection import *
 
 class Article:
   def __init__(self, init_dict = {}):
-    connection = MongoConnection()
-    self.db = connection.db
+    self.db = MONGO_DB
     self.db.articles
     self.db_object = None
 
