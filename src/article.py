@@ -5,7 +5,7 @@ class Article:
   def __init__(self, init_dict = {}):
     self.db = MONGO_DB
     self.db.articles
-    self.db_object = None
+    self.db_object = init_dict
 
     self.source = init_dict['source'] if init_dict.has_key('source') else None
     self.headline = init_dict['headline'] if init_dict.has_key('headline') else None
@@ -34,3 +34,7 @@ class Article:
   def articleFields():
     return ["source", "headline", "byline", "pub_date", "filename", "fulltext", "word_count"]
   articleFields = staticmethod(articleFields)
+
+  def getDataFileObject(self, orig_dir, data_dir, extension):
+    data_filename = self.filename.replace("data/full/", data_dir).replace("xml", extension)
+    return open(data_filename, "r")
