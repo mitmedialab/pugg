@@ -14,6 +14,7 @@ class Article:
     self.filename = init_dict['filename'] if init_dict.has_key('filename') else None
     self.fulltext = init_dict['fulltext'] if init_dict.has_key('fulltext') else None
     self.word_count = init_dict['word_count'] if init_dict.has_key('word_count') else None
+    self.taxonomic_classifiers = init_dict['taxonomic_classifiers'] if init_dict.has_key('taxonomic_classifiers') else None
 
   def save(self):
     article = {'source': self.source,

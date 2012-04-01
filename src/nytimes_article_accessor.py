@@ -18,7 +18,7 @@ class NYTimesArticleAccessor(ArticleAccessor):
       'bylines': row[1],
       'dateline': row[2], 
       'descriptors': row[3],
-      'taxonomic_classifiers': row[4],
+      'taxonomic_classifiers': row[4].split("|"),
       'locations': row[5],
       'page': row[6],
       'section': row[7],
@@ -27,7 +27,6 @@ class NYTimesArticleAccessor(ArticleAccessor):
       'word_count': row[10],
       'headline': row[11],
       'filename': row[12]})
-      
 
   def getNextArticle(self):
     if self.nyt_csv_reader == None:
