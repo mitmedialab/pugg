@@ -23,7 +23,8 @@ class Article:
                'pub_date': str(self.pub_date),
                'filename': self.filename,
                'fulltext': self.fulltext,
-               'wordcount': self.word_count}
+               'wordcount': self.word_count,
+               'taxonomic_classifiers': self.taxonomic_classifiers}
     if self.db_object:
       self.db_object = self.db.articles.find_one(self.db_object)
       for key in article.iterkeys():
@@ -33,7 +34,7 @@ class Article:
       self.db_object = self.db.articles.insert(article)
 
   def articleFields():
-    return ["source", "headline", "byline", "pub_date", "filename", "fulltext", "word_count"]
+    return ["source", "headline", "byline", "pub_date", "filename", "fulltext", "word_count", "taxonomic_classifiers"]
   articleFields = staticmethod(articleFields)
 
   def getDataFileObject(self, orig_dir, data_dir, extension):
