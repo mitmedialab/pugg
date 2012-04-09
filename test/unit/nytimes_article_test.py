@@ -10,11 +10,11 @@ class NYTimesArticleTest(unittest.TestCase):
     article_accessor = NYTimesArticleAccessor("test/fixtures/nytimes")
 
     article = article_accessor.createArticle(article_accessor.getNextArticle())
-    data_file = article.getDataFileObject("test/fixtures/nytimes-data/", "txt")
+    data_file = article.getDataFileObject("data/full", "test/fixtures/nytimes-data/", "txt")
     self.assertEqual(article.headline, data_file.readline()[:-1])
 
     article = article_accessor.createArticle(article_accessor.getNextArticle())
-    data_file = article.getDataFileObject("test/fixtures/nytimes-data/", "txt")
+    data_file = article.getDataFileObject("data/full", "test/fixtures/nytimes-data/", "txt")
     self.assertEqual(article.headline, data_file.readline()[:-1])
 
 
