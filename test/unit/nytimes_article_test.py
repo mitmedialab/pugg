@@ -1,4 +1,5 @@
 import unittest
+import test_common
 from nytimes_article import *
 from nytimes_article_accessor import *
 import datetime
@@ -35,6 +36,7 @@ class NYTimesArticleTest(unittest.TestCase):
    # dummy_article = NYTimesArticle({'pub_date':"@publication_date", 'bylines':"@bylines",'headline': "@headline", 'taxonomic_classifiers': "@taxonomic_classifiers",'filename': "@filename"})
    # self.assertEqual(None, dummy_article)
 
+test_common.ALL_TESTS.append(NYTimesArticleTest)
 
 if __name__ == '__main__':
   unittest.main()

@@ -1,4 +1,5 @@
 import unittest
+import test_common
 from name_gender import *
 
 class NameGenderTest(unittest.TestCase):
@@ -15,6 +16,8 @@ class NameGenderTest(unittest.TestCase):
     self.assertEqual("M", self.name_gender.estimate_gender("Clair"))
     self.assertEqual("M", self.name_gender.estimate_gender("Pat"))
     self.assertEqual("F", self.name_gender.estimate_gender("Jean"))
+
+test_common.ALL_TESTS.append(NameGenderTest)
 
 if __name__ == '__main__':
   unittest.main()

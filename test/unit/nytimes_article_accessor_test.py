@@ -1,4 +1,5 @@
 import unittest
+import test_common
 from nytimes_article_accessor import *
 from string import *
 import datetime
@@ -27,6 +28,8 @@ class NYTimesArticleAccessorTest(unittest.TestCase):
     self.assertEqual(['Top', 'Top/Features', 
       'Top/Features/Arts', 'Top/Features/Movies', 'Top/News'], 
       article.taxonomic_classifiers)
+
+test_common.ALL_TESTS.append(NYTimesArticleAccessorTest)
 
 if __name__ == '__main__':
   unittest.main()
