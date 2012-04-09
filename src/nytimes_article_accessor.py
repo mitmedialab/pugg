@@ -18,7 +18,7 @@ class NYTimesArticleAccessor(ArticleAccessor):
       'bylines': row[1],
       'dateline': row[2], 
       'descriptors': row[3],
-      'taxonomic_classifiers': row[4].split("|"),
+      'taxonomic_classifiers': row[4],
       'locations': row[5],
       'page': row[6],
       'section': row[7],
