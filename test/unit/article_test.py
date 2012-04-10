@@ -20,7 +20,22 @@ class ArticleTest(unittest.TestCase):
     self.assertEqual(1, MONGO_DB.articles.count())
     self.assertEqual(article.headline, MONGO_DB.articles.find_one()["headline"])
 
-  #def testGetDataFileObject():
+  def testGetDataFileObject(self):
+    article_accessor = NYTimesArticleAccessor("test/fixtures/nytimes")
+    article = article_accessor.createArticle(article_accessor.getNextArticle())
+    self.assertEqual("charles isherwood", article.byline)
+    fulltext = open("test/fixtures/nytimes-data/2007/06/01/1851199.txt").read()
+    article.fulltext = article.getDataFileObject("data/full/", "test/fixtures/nytimes-data/", "txt").read()
+    self.assertEqual(fulltext,article.fulltext)
+
+    #skip dud row
+    article_accessor.getNextArticle()
+    #now check the next row
+    article = article_accessor.createArticle(article_accessor.getNextArticle())
+    fulltext = open("test/fixtures/nytimes-data/2007/06/01/1851247.txt").read()
+    article.fulltext = article.getDataFileObject("data/full/", "test/fixtures/nytimes-data/", "txt").read()
+    self.assertEqual(fulltext,article.fulltext)
+   
 
 test_common.ALL_TESTS.append(ArticleTest)
 
