@@ -1,11 +1,13 @@
 import unittest
+ALL_TESTS=[]
 import test_common
-from article_accessor_test import *
+
+from sample_test_case import *
 from article_test import *
+from article_accessor_test import *
 from nytimes_article_accessor_test import *
 from nytimes_article_test import *
 from name_gender_test import *
-from sample_test_case import *
 
 runner = unittest.TextTestRunner()
 results ={"run":0, "errors":[], "failures":[]}

@@ -1,8 +1,9 @@
 import config
-from nytimes_article_accessor import *
-
 config.PUGG_DB="pugg_test"
 ALL_TESTS=[]
+
+from nytimes_article_accessor import *
+
 
 from mongo_connection import *
 import json

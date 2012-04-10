@@ -4,10 +4,6 @@ from nytimes_article_accessor import *
 from string import *
 import datetime
 
-import config
-config.PUGG_DB="pugg_test"
-
-
 class NYTimesArticleAccessorTest(unittest.TestCase):
   def setUp(self):
     self.article_accessor = NYTimesArticleAccessor("test/fixtures/nytimes")

@@ -4,7 +4,7 @@ from mongo_connection import *
 class Article:
   def __init__(self, init_dict = {}):
     self.db = MONGO_DB
-    self.db.articles
+    self.articles = self.db.articles
     self.db_object = init_dict
 
     self.source = init_dict['source'] if init_dict.has_key('source') else None
@@ -26,12 +26,12 @@ class Article:
                'wordcount': self.word_count,
                'taxonomic_classifiers': self.taxonomic_classifiers}
     if self.db_object:
-      self.db_object = self.db.articles.find_one(self.db_object)
+      self.db_object = self.articles.find_one(self.db_object)
       for key in article.iterkeys():
         self.db_object[key] = article[key]
-      self.db.articles.save(self.db_object)
+      self.articles.save(self.db_object)
     else:
-      self.db_object = self.db.articles.insert(article)
+      self.db_object = self.articles.insert(article)
 
   def articleFields():
     return ["source", "headline", "byline", "pub_date", "filename", "fulltext", "word_count", "taxonomic_classifiers"]

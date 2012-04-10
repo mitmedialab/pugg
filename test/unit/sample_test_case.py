@@ -4,7 +4,6 @@ config.PUGG_DB="pugg_test"
 import unittest
 import sample_class
 import test_common 
-from mongo_connection import *
 
 class SampleClassTest(unittest.TestCase):
   def setUp(self):
@@ -16,8 +15,8 @@ class SampleClassTest(unittest.TestCase):
     test_common.CommonSetup.teardownNYTimesFixtures()
 
   def testSetupTeardown(self):
-    self.assertEqual(5, MONGO_DB.mc_articles.count())
-    self.assertEqual(39, MONGO_DB.articles.count())
+    self.assertEqual(5, test_common.MONGO_DB.mc_articles.count())
+    self.assertEqual(39, test_common.MONGO_DB.articles.count())
 
 test_common.ALL_TESTS.append(SampleClassTest)
 
