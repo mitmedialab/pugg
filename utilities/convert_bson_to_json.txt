@@ -1,0 +1,2 @@
+from bson import json_util
+json.dumps(MONGO_DB.mc_articles.find()[78], default=json_util.default)
