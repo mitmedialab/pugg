@@ -1,5 +1,7 @@
 import csv
 import glob
+import mongo_connection
+import pymongo
 from article_accessor import *
 from nytimes_article import *
 
@@ -10,6 +12,8 @@ class NYTimesArticleAccessor(ArticleAccessor):
     self.csv_filenames = glob.glob(data_dir + "/*")
     self.csv_filenames.sort()
     self.current_file = None
+    self.current_db_cursor = None
+    self.current_db_counter = 0 
     self.nyt_csv_reader = None
 
   #metadata_keys defined in nyt ruby library app/models/article.rb
@@ -38,6 +42,21 @@ class NYTimesArticleAccessor(ArticleAccessor):
     except StopIteration:
       self.nyt_csv_reader = None
       return self.getNextArticle()
+
+  def getNextDBArticle(self):
+    if self.current_db_cursor == None:
+      self.current_db_cursor = MONGO_DB.articles.find()
+      self.current_db_counter = 0
+    else:
+      self.current_db_counter += 1
+
+    if self.current_db_counter < self.current_db_cursor.count():
+      article_dict = self.current_db_cursor[self.current_db_counter]
+      return article_dict
+    else:
+      self.current_db_cursor = None
+      return None
+   
 
   def getNextMonth(self):
     load_success = self.loadNextMonth()

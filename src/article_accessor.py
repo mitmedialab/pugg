@@ -8,5 +8,7 @@ class ArticleAccessor:
     print "Accessing ArticleAccessor: Please Access Inherited Class"
   def getNextArticle(self):
     print "Accessing ArticleAccessor: Please Access Inherited Class"
+  def getNextDBArticle(self):
+    print "Accessing ArticleAccessor: Please Access Inherited Class"
   def getNextMonth(self):
     print "Accessing ArticleAccessotr: Please Access Inherited Class"
