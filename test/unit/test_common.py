@@ -15,10 +15,10 @@ class CommonSetup:
     #load MediaCloud articles into mc_articles
     mongo_fixtures = json.load(open("test/fixtures/mediacloud/mediacloud_articles.json", "r"))
     for mongo_fixture in mongo_fixtures:
-      MONGO_DB.mc_articles.insert(mongo_fixture)
+      MONGO_DB.mc_import_articles.insert(mongo_fixture)
   @staticmethod
   def teardownMediaCloudFixtures():
-    MONGO_DB.mc_articles.remove()
+    MONGO_DB.mc_import_articles.remove()
       
   @staticmethod
   def setupNYTimesFixtures():

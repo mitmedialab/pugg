@@ -12,11 +12,14 @@ class NYTimesArticleTest(unittest.TestCase):
 
     article = article_accessor.createArticle(article_accessor.getNextArticle())
     data_file = article.getDataFileObject("data/full", "test/fixtures/nytimes-data/", "txt")
-    self.assertEqual(article.headline, data_file.readline()[:-1])
+    data_file.readline()
+    second_line = data_file.readline()[:-1].strip()
+    self.assertEqual("CHARLES ISHERWOOD  THE LISTINGS | JUNE 1 - JUNE 7", second_line)
 
+    article_accessor.getNextArticle()
     article = article_accessor.createArticle(article_accessor.getNextArticle())
     data_file = article.getDataFileObject("data/full", "test/fixtures/nytimes-data/", "txt")
-    self.assertEqual(article.headline, data_file.readline()[:-1])
+    self.assertEqual("The congressman overseeing plans to stage a debate among Democratic presidential hopefuls on the Fox News Channel said yesterday that the forum would go on as planned, despite the defection of two more candidates, Senator Christopher J. Dodd of Connecticut and Gov. Bill Richardson of New Mexico.", data_file.readline()[:-1].strip())
 
 
   def testCreateNYTimesArticle(self):

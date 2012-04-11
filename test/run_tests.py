@@ -7,6 +7,7 @@ from article_test import *
 from article_accessor_test import *
 from nytimes_article_accessor_test import *
 from nytimes_article_test import *
+from mediacloud_article import *
 from name_gender_test import *
 
 runner = unittest.TextTestRunner()

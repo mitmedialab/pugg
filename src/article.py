@@ -7,6 +7,15 @@ class Article:
     self.articles = self.db.articles
     self.db_object = init_dict
 
+    class_name = self.__class__.__name__
+    if init_dict.has_key('article_type'):
+      if class_name != init_dict["article_type"]:
+        raise NameError("Trying to import a " +init_dict["article_type"] + " into a " + class_name)
+      else:
+        self.article_type = init_dict["article_type"]
+    else:
+      self.article_type = class_name
+
     self.source = init_dict['source'] if init_dict.has_key('source') else None
     self.headline = init_dict['headline'] if init_dict.has_key('headline') else None
     self.byline = init_dict['byline'] if init_dict.has_key('byline') else None
@@ -24,7 +33,8 @@ class Article:
                'filename': self.filename,
                'fulltext': self.fulltext,
                'wordcount': self.word_count,
-               'taxonomic_classifiers': self.taxonomic_classifiers}
+               'taxonomic_classifiers': self.taxonomic_classifiers,
+               'article_type': self.article_type}
     if self.db_object:
       self.db_object = self.articles.find_one(self.db_object)
       for key in article.iterkeys():
