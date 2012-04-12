@@ -14,6 +14,18 @@ class NameGender:
     for name in male_file:
       self.male_names[name[0].lower()] = name[1]
 
+  def check_gender(self, name):
+    first_name = name.split(" ")[0].lower()
+    male = self.male_names.has_key(first_name)
+    female = self.female_names.has_key(first_name)
+    if(male and female):
+      return None
+    elif male:
+      return "M"
+    elif female:
+      return "F"
+    return None
+
   def estimate_gender(self, name):
     first_name = name.split(" ")[0].lower()
     male = self.male_names.has_key(first_name)
