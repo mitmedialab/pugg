@@ -3,9 +3,9 @@ from article import *
 from name_gender import *
 
 articles = NYTimesArticleAccessor("data/nytimes")
-genderer = NameGender("data/names/female_names.csv", "data/names/male_names.csv")
+genderer = NameGender("data/names/female_names.csv", "data/names/male_names.csv", "data/names/female_auxilliary.csv", "data/names/male_auxilliary.csv")
 
-article = articles.createArticle(articles.getNextDBArticle())
+article = articles.createArticle(articles.getNextArticle())
 no_bylines = 0
 bylines = 0
 male = 0
@@ -25,8 +25,7 @@ while article:
     else:
       none += 1
   try:
-  article = articles.createArticle(articles.getNextArticle())
-  count += 1
+    article = articles.createArticle(articles.getNextArticle())
   except ValueError:
     article = articles.createArticle(articles.getNextArticle())
 

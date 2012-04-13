@@ -18,6 +18,8 @@ class NYTimesArticleAccessor(ArticleAccessor):
 
   #metadata_keys defined in nyt ruby library app/models/article.rb
   def createArticle(self, row):
+    if row == None:
+      return None
     return NYTimesArticle({'pub_date': row[0],
       'bylines': row[1],
       'dateline': row[2], 

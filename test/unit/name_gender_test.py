@@ -16,8 +16,12 @@ class NameGenderTest(unittest.TestCase):
 
     #overlapping cases
     self.assertEqual("M", self.name_gender.estimate_gender("Clair"))
-    self.assertEqual("M", self.name_gender.estimate_gender("Pat"))
+    self.assertEqual(None, self.name_gender.estimate_gender("Pat"))
     self.assertEqual("F", self.name_gender.estimate_gender("Jean"))
+
+    self.assertEqual("M", self.name_gender.estimate_gender("gerald eskenazi"))
+    self.assertEqual("F", self.name_gender.estimate_gender("georgia dulleo"))
+    self.assertEqual("F", self.name_gender.estimate_gender("patricia malarcher"))
 
   def testCheckGender(self):
     self.assertEqual(None, self.name_gender.check_gender("SlithyTove"))
