@@ -60,9 +60,9 @@ class NameGender:
       total = female_count + male_count
       prob_female = float(female_count) / float(total)
       prob_male = float(male_count) / float(total)
-      if prob_female > 0.65:
+      if prob_female > 0.62:
         return "F"
-      elif prob_male > 0.65:
+      elif prob_male > 0.62:
         return "M"
       else:
         return None
