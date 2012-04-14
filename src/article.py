@@ -5,7 +5,7 @@ class Article:
   def __init__(self, init_dict = {}):
     self.db = MONGO_DB
     self.articles = self.db.articles
-    self.db_object = init_dict
+    self.db_object = None #init_dict
 
     class_name = self.__class__.__name__
     if init_dict.has_key('article_type'):
@@ -25,7 +25,7 @@ class Article:
     self.word_count = init_dict['word_count'] if init_dict.has_key('word_count') else None
     self.taxonomic_classifiers = init_dict['taxonomic_classifiers'] if init_dict.has_key('taxonomic_classifiers') else None
 
-  def save(self):
+  def save(self, addendum = {}):
     article = {'source': self.source,
                'headline': self.headline,
                'byline': self.byline,
@@ -35,6 +35,7 @@ class Article:
                'wordcount': self.word_count,
                'taxonomic_classifiers': self.taxonomic_classifiers,
                'article_type': self.article_type}
+    article.update(addendum)
     if self.db_object:
       self.db_object = self.articles.find_one(self.db_object)
       for key in article.iterkeys():
