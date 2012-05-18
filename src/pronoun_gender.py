@@ -28,6 +28,8 @@ class PronounGender:
             female_count += 1
           elif word in self.male_pronouns:
             male_count += 1
+      if male_count + female_count == 0:
+        return "U"
       male_percent = (float(male_count) / float(male_count + female_count))
 
       if male_percent > 0.66:
