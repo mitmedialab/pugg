@@ -2,6 +2,7 @@ from name_gender import *
 from pronoun_gender import *
 from nytimes_article import *
 from nytimes_article_accessor import *
+from decimal import *
 import sys
 
 class NYTimesMetadataController:
@@ -70,12 +71,17 @@ class NYTimesMetadataController:
       gender_dict[key]["subject_female"] += 1
     
   def generate_monthly_gender_counts(self):
-    header =  "@date, @total, @total_subject_male, @total_subject_female, @total_subject_middle, @female, @female_subject_male, @female_subject_female, @female_subject_middle, @male, @male_subject_male, @male_subject_female, @male_subject_middle, @unknown, @unknown_subject_male, @unknown_subject_female, @unknown_subject_middle, @unlabeled, @unlabeled_subject_male, @unlabeled_subject_female, @unlabeled_subject_middle"
+    header =  "@date, @total, @female, @female_subject_male, @female_subject_female, @female_subject_middle, @female_subject_male_percent, @female_subject_female_percent, @female_subject_middle_percent, @male, @male_subject_male, @male_subject_female, @male_subject_middle, @male_subject_male_percent, @male_subject_female_percent, @male_subject_middle_percent, @unknown, @unknown_subject_male, @unknown_subject_female, @unknown_subject_middle, @unknown_subject_male_percent, @unknown_subect_female_percent, @unknown_subject_middle_percent, @unlabeled, @unlabeled_subject_male, @unlabeled_subject_female, @unlabeled_subject_middle, @unlabeled_subject_male_percent, @unlabeled_subject_female_percent, @unlabeled_subject_middle_percent"
     print header
     articles = self.articles.getNextMonth()
+    getcontext.prec = 4
     gender = {}
     while articles:
-      gender["total"] = gender["female"] = gender["male"] = gender["unknown"] = gender["unlabeled"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
+      gender["total"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
+      gender["female"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
+      gender["male"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
+      gender["unknown"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
+      gender["unlabeled"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
       for article_row in articles:
         try:
           article = self.articles.createArticle(article_row)
@@ -104,10 +110,20 @@ class NYTimesMetadataController:
 
       #for every month, print CSV line
       date = str(article.pub_date.month) + "/" + str(article.pub_date.year)
-      ##csv_line = "01/" + date + "," + str(gender["total"]["bylines"]) + "," + str(gender["female"]["bylines"]) + "," + str(gender["male"]["bylines"]) + "," + str(gender["unknown"]["bylines"]) + "," + str(gender["unlabeled"]["bylines"])
       csv_line = "01/" + date 
       for key in ["total", "female", "male", "unknown", "unlabeled"]:
-        csv_line += "," + str(gender[key]["bylines"]) + "," + str(gender[key]["subject_male"]) + "," + str(gender[key]["subject_female"]) + "," + str(gender[key]["subject_middle"])
+        csv_line += "," + str(gender[key]["bylines"]) 
+        if(key!="total"):
+          subject_total = float(gender[key]["subject_male"] + gender[key]["subject_female"] + gender[key]["subject_middle"])
+          csv_line += "," + str(gender[key]["subject_male"]) 
+          csv_line += "," + str(gender[key]["subject_female"])
+          csv_line += "," + str(gender[key]["subject_middle"])
+          csv_line += "," + str(Decimal(Decimal(gender[key]["subject_male"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
+          csv_line += "," + str(Decimal(Decimal(gender[key]["subject_female"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
+          csv_line += "," + str(Decimal(Decimal(gender[key]["subject_middle"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
+        ##except ZeroDivisionError:
+        ##  import pdb;pdb.set_trace()
+
       print csv_line
       articles = self.articles.getNextMonth()
 
