@@ -82,6 +82,10 @@ class NYTimesMetadataController:
       gender["male"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
       gender["unknown"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
       gender["unlabeled"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
+      if(self.articles.createArticle(articles[0]).pub_date.year < 1997):
+        articles = self.articles.getNextMonth()
+        continue
+        
       for article_row in articles:
         try:
           article = self.articles.createArticle(article_row)

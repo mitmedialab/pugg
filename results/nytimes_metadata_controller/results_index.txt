@@ -1,1 +1,2 @@
 18 March 2012, nytimes_metadata_yearly_gender_counts.csv, calculated annual byline gender for the New York Times aggressively giving a judgement in all cases including ones like "Pat"
+18 May 2012, nytimes_metadata_monthly_byline_pronoun_gender_1987-1996.csv, calculated monthly byline and pronoun gender for the New York Times, on a fairly cautious basis
