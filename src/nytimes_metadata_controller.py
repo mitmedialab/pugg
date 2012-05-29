@@ -2,6 +2,7 @@ from name_gender import *
 from pronoun_gender import *
 from nytimes_article import *
 from nytimes_article_accessor import *
+from nytimes_taxonomic_classifier import *
 from decimal import *
 import sys
 
@@ -9,7 +10,7 @@ class NYTimesMetadataController:
   def __init__(self):
     self.articles = NYTimesArticleAccessor("data/nytimes")
     self.name_gender = NameGender("data/names/female_names.csv", "data/names/male_names.csv")
-    self.pronoun_gender = PronounGender("data/pronouns/female-EN.csv", "data/pronouns/male-EN.csv")
+    self.pronoun_gender = PronounGender("data/pronouns/female-EN.csv", "data/pronouns/male-EN.csv", "data/pronouns/neutral-EN.csv")
 
   def saveToMongoDB(self):
     article_row = self.articles.getNextArticle()
@@ -69,22 +70,29 @@ class NYTimesMetadataController:
       gender_dict[key]["subject_middle"] += 1
     elif pronoun_result == "F":
       gender_dict[key]["subject_female"] += 1
+
+  def initialize_gender_dict(self, dictionary):
+      dictionary["total"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
+      dictionary["female"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
+      dictionary["male"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
+      dictionary["unknown"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
+      dictionary["unlabeled"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
     
   def generate_monthly_gender_counts(self):
-    header =  "@date, @total, @female, @female_subject_male, @female_subject_female, @female_subject_middle, @female_subject_male_percent, @female_subject_female_percent, @female_subject_middle_percent, @male, @male_subject_male, @male_subject_female, @male_subject_middle, @male_subject_male_percent, @male_subject_female_percent, @male_subject_middle_percent, @unknown, @unknown_subject_male, @unknown_subject_female, @unknown_subject_middle, @unknown_subject_male_percent, @unknown_subect_female_percent, @unknown_subject_middle_percent, @unlabeled, @unlabeled_subject_male, @unlabeled_subject_female, @unlabeled_subject_middle, @unlabeled_subject_male_percent, @unlabeled_subject_female_percent, @unlabeled_subject_middle_percent"
+    header =  "@date, @classifier, @total, @female, @female_subject_male, @female_subject_female, @female_subject_middle, @female_subject_male_percent, @female_subject_female_percent, @female_subject_middle_percent, @male, @male_subject_male, @male_subject_female, @male_subject_middle, @male_subject_male_percent, @male_subject_female_percent, @male_subject_middle_percent, @unknown, @unknown_subject_male, @unknown_subject_female, @unknown_subject_middle, @unknown_subject_male_percent, @unknown_subect_female_percent, @unknown_subject_middle_percent, @unlabeled, @unlabeled_subject_male, @unlabeled_subject_female, @unlabeled_subject_middle, @unlabeled_subject_male_percent, @unlabeled_subject_female_percent, @unlabeled_subject_middle_percent"
     print header
     articles = self.articles.getNextMonth()
     getcontext.prec = 4
-    gender = {}
+
+    nyt_classifier = NYTimesTaxonomicClassifier("data/utility-data/nytimes_taxonomic_classifier_exclusion.yml", "data/utility-data/nytimes_taxonomic_classifier_aggregation.yml")
+    
     while articles:
-      gender["total"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
-      gender["female"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
-      gender["male"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
-      gender["unknown"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
-      gender["unlabeled"] = {"bylines": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
       if(self.articles.createArticle(articles[0]).pub_date.year < 1997):
         articles = self.articles.getNextMonth()
         continue
+      monthly_counts = {}
+      monthly_counts["all"] = {}
+      self.initialize_gender_dict(monthly_counts["all"])
         
       for article_row in articles:
         try:
@@ -92,7 +100,6 @@ class NYTimesMetadataController:
           fulltext = article.getDataFileObject("data/full/", "data/nytimes-fulltext/", "txt").read()
         except ValueError:
           continue
-
 
         article_gender = self.name_gender.estimate_gender(article.byline)
         subject_gender = self.pronoun_gender.estimate_gender(fulltext)
@@ -108,27 +115,41 @@ class NYTimesMetadataController:
           else:
             gender_key = "unlabeled"
 
-        gender["total"]["bylines"] += 1
-        gender[gender_key]["bylines"] += 1
-        self.increment_gender_dict(gender, gender_key, subject_gender)
+        monthly_counts["all"]["total"]["bylines"] += 1
+        monthly_counts["all"][gender_key]["bylines"] += 1
+        self.increment_gender_dict(monthly_counts["all"], gender_key, subject_gender)
+
+        for classifier in nyt_classifier.winnow(article.taxonomic_classifiers):
+          if classifier not in monthly_counts:
+            monthly_counts[classifier] = {}
+            self.initialize_gender_dict(monthly_counts[classifier])
+
+          monthly_counts[classifier]["total"]["bylines"] += 1
+          monthly_counts[classifier][gender_key]["bylines"] += 1
+          self.increment_gender_dict(monthly_counts[classifier], gender_key, subject_gender)
 
       #for every month, print CSV line
       date = str(article.pub_date.month) + "/" + str(article.pub_date.year)
-      csv_line = "01/" + date 
-      for key in ["total", "female", "male", "unknown", "unlabeled"]:
-        csv_line += "," + str(gender[key]["bylines"]) 
-        if(key!="total"):
-          subject_total = float(gender[key]["subject_male"] + gender[key]["subject_female"] + gender[key]["subject_middle"])
-          csv_line += "," + str(gender[key]["subject_male"]) 
-          csv_line += "," + str(gender[key]["subject_female"])
-          csv_line += "," + str(gender[key]["subject_middle"])
-          csv_line += "," + str(Decimal(Decimal(gender[key]["subject_male"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
-          csv_line += "," + str(Decimal(Decimal(gender[key]["subject_female"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
-          csv_line += "," + str(Decimal(Decimal(gender[key]["subject_middle"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
-        ##except ZeroDivisionError:
-        ##  import pdb;pdb.set_trace()
+      for classifier, gender in monthly_counts.items():
+        csv_line = "01/" + date + "," + re.sub(",",".", classifier)
+        for key in ["total", "female", "male", "unknown", "unlabeled"]:
+          csv_line += "," + str(gender[key]["bylines"]) 
+          try: 
+            if(key!="total"):
+              subject_total = float(gender[key]["subject_male"] + gender[key]["subject_female"] + gender[key]["subject_middle"])
+              if(subject_total == 0):
+                csv_line += ", 0.0, 0.0, 0.0, 0.0, 0.0, 0.0"
+                continue
+              csv_line += "," + str(gender[key]["subject_male"]) 
+              csv_line += "," + str(gender[key]["subject_female"])
+              csv_line += "," + str(gender[key]["subject_middle"])
+              csv_line += "," + str(Decimal(Decimal(gender[key]["subject_male"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
+              csv_line += "," + str(Decimal(Decimal(gender[key]["subject_female"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
+              csv_line += "," + str(Decimal(Decimal(gender[key]["subject_middle"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
+          except:
+            import pdb;pdb.set_trace()
 
-      print csv_line
+        print csv_line
       articles = self.articles.getNextMonth()
 
 if __name__ == "__main__":
