@@ -4,13 +4,13 @@ require 'open-uri'
 require 'pp'
 require 'json'
 
-date_articles = {}
+index_data = JSON.load(File.open(ARGV[0]).read)
+error_counter =0
 
-current_date = Date.parse("1 June 2011")
-while(current_date <= Date.parse("23 July 2012"))
-#while(current_date <= Date.parse("1 June 2011"))
+index_data.each do |key, value|
+  next if value.size > 1
   articles = []
-  dateformat =  current_date.strftime("%Y-%-m-%d")
+  dateformat =  key
   url = "http://www.telegraph.co.uk/archive/#{dateformat}.html"
   puts "\n" + url
   begin
@@ -28,19 +28,20 @@ while(current_date <= Date.parse("23 July 2012"))
       $stdout.flush
     end
   rescue Exception => e
-    if e.message=="Timeout::Error"
+    if e.message=="Timeout::Error" and error_counter<=3
       puts "TIMEOUT"
-      current_date -=1
+      error_counter +=1
+      redo
     else
       articles << ["READ ERROR"]
       puts e.message
       puts e.backtrace
     end
   end
-  date_articles[dateformat] = articles
-  current_date +=1
+  index_data[dateformat] = articles
+  error_counter = 0 
   sleep(2)
 end
-File.open(ARGV[0], "wb"){|f|
-  f.write date_articles.to_json
+File.open(ARGV[1], "wb"){|f|
+  f.write index_data.to_json
 }
