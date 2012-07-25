@@ -1,6 +1,7 @@
 from nytimes_article_accessor import *
 from article import *
 from name_gender import *
+from nytimes_taxonomic_classifier import *
 
 articles = NYTimesArticleAccessor("data/nytimes")
 genderer = NameGender("data/names/female_names.csv", "data/names/male_names.csv", "data/names/female_auxilliary.csv", "data/names/male_auxilliary.csv")
