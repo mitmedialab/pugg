@@ -19,7 +19,8 @@ index_data.each do |date, articles|
     url = basepath + articles[index]["url"]
 
     begin
-      article_text = URI.parse(url).read
+      article = Hpricot::XML(URI.parse(url).read)
+      article_text = (article/'div.twoThirds')[0].inner_html
     rescue  Exception => e
       print "x"
       sleep(2)
@@ -32,7 +33,7 @@ index_data.each do |date, articles|
       end
     end
     print "."
-    filename = date + index.to_s
+    filename = date + "_" + index.to_s
     File.open("data/telegraph/articles/#{filename}.html", "wb"){|f|
       f.write article_text
     }
