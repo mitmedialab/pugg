@@ -1,7 +1,7 @@
+require 'rubygems'
 require 'date'
 require 'hpricot'
 require 'open-uri'
-require 'rest_client'
 require 'pp'
 require 'json'
 
