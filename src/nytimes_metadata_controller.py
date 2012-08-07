@@ -199,14 +199,13 @@ class NYTimesMetadataController:
       subject_total = float(monthly_counts["subject_female"] + monthly_counts["subject_male"] + monthly_counts["subject_middle"])
       if(subject_total == 0):
           csv_line += ", 0.0, 0.0, 0.0, 0.0, 0.0, 0.0"
-          continue
-      csv_line += "," + str(monthly_counts["subject_female"])
-      csv_line += "," + str(monthly_counts["subject_male"])
-      csv_line += "," + str(monthly_counts["subject_middle"])
-      csv_line += "," + str(Decimal(Decimal(monthly_counts["subject_female"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
-      csv_line += "," + str(Decimal(Decimal(monthly_counts["subject_male"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
-      csv_line += "," + str(Decimal(Decimal(monthly_counts["subject_middle"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
-
+      else:
+        csv_line += "," + str(monthly_counts["subject_female"])
+        csv_line += "," + str(monthly_counts["subject_male"])
+        csv_line += "," + str(monthly_counts["subject_middle"])
+        csv_line += "," + str(Decimal(Decimal(monthly_counts["subject_female"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
+        csv_line += "," + str(Decimal(Decimal(monthly_counts["subject_male"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
+        csv_line += "," + str(Decimal(Decimal(monthly_counts["subject_middle"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
       
       print csv_line
       articles = self.articles.getNextMonth()
