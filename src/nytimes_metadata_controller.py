@@ -169,7 +169,7 @@ class NYTimesMetadataController:
     articles = self.articles.getNextMonth()
     getcontext.prec = 4
 
-    nyt_classifier = NYTimesTaxonomicClassifier("data/utility-data/nytimes_taxonomic_classifier_Exclusion.yml", "data/utility-data/nytimes_taxonomic_classifier_aggregation.yml")
+    nyt_classifier = NYTimesTaxonomicClassifier("data/utility-data/nytimes_taxonomic_classifier_exclusion.yml", "data/utility-data/nytimes_taxonomic_classifier_aggregation.yml")
     
     while articles:
       if(self.articles.createArticle(articles[0]).pub_date.year < 1997):
