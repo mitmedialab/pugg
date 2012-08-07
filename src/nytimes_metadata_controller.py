@@ -9,7 +9,7 @@ import sys
 class NYTimesMetadataController:
   def __init__(self):
     self.articles = NYTimesArticleAccessor("data/nytimes")
-    self.name_gender = NameGender("data/names/female_names.csv", "data/names/male_names.csv")
+    self.name_gender = NameGender("data/names/female_names_EN_US.csv", "data/names/male_names_EN_US.csv")
     self.pronoun_gender = PronounGender("data/pronouns/female-EN.csv", "data/pronouns/male-EN.csv", "data/pronouns/neutral-EN.csv")
 
   def saveToMongoDB(self):
