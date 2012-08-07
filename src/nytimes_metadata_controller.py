@@ -152,7 +152,67 @@ class NYTimesMetadataController:
         print csv_line
       articles = self.articles.getNextMonth()
 
+  def increment_gender_dict_monthObit(self, gender_dict, pronoun_result):
+    if pronoun_result == "M":
+      gender_dict["subject_male"] += 1
+    elif pronoun_result == "N":
+      gender_dict["subject_middle"] += 1
+    elif pronoun_result == "F":
+      gender_dict["subject_female"] += 1
+
+  def initialize_gender_dict_monthObit(self, dictionary):
+      dictionary = {"total": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
+    
+  def generate_monthly_obituary_counts(self):
+    header =  "@date, @total, @subject_female, @subject_male, @subject_middle, @subject_female_percent, @subject_male_percent, @subject_middle_percent"
+    print header
+    articles = self.articles.getNextMonth()
+    getcontext.prec = 4
+
+    nyt_classifier = NYTimesTaxonomicClassifier("data/utility-data/nytimes_taxonomic_classifier_exclusion.yml", "data/utility-data/nytimes_taxonomic_classifier_aggregation.yml")
+    
+    while articles:
+      if(self.articles.createArticle(articles[0]).pub_date.year < 1997):
+        articles = self.articles.getNextMonth()
+        continue
+      monthly_counts = {}
+      self.initialize_gender_dict_monthObit(monthly_counts)
+        
+      for article_row in articles:
+        try:
+          article = self.articles.createArticle(article_row)
+          fulltext = article.getDataFileObject("data/full/", "data/nytimes-fulltext/", "txt").read()
+        except ValueError:
+          continue
+
+        # Only increment monthly_counts for obituaries
+        if "Death" in nyt_classifier.winnow(article.taxonomic_classifiers):
+            subject_gender = self.pronoun_gender.estimate_gender(fulltext)
+
+            monthly_counts["total"] += 1
+            self.increment_gender_dict_monthObit(monthly_counts, subject_gender)
+
+      #for every month, print CSV line
+      date = str(article.pub_date.month) + "/" + str(article.pub_date.year)
+      csv_line = date
+      csv_line += "," + str(monthly_counts["total"])
+      subject_total = float(monthly_counts["subject_female"] + monthly_counts["subject_male"] + monthly_counts["subject_middle"])
+      if(subject_total == 0):
+          csv_line += ", 0.0, 0.0, 0.0, 0.0, 0.0, 0.0"
+          continue
+      csv_line += "," + str(monthly_counts["subject_female"])
+      csv_line += "," + str(monthly_counts["subject_male"])
+      csv_line += "," + str(monthly_counts["subject_middle"])
+      csv_line += "," + str(Decimal(Decimal(monthly_counts["subject_female"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
+      csv_line += "," + str(Decimal(Decimal(monthly_counts["subject_male"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
+      csv_line += "," + str(Decimal(Decimal(monthly_counts["subject_middle"]) / Decimal(subject_total)).quantize(Decimal("0.0001"), rounding=ROUND_UP))
+
+      
+      print csv_line
+      articles = self.articles.getNextMonth()
+
 if __name__ == "__main__":
     nyt_controller = NYTimesMetadataController()
-    nyt_controller.generate_monthly_gender_counts()
+    nyt_controller.generate_monthly_obituary_counts()
     #nyt_controller.saveToMongoDB()
+
