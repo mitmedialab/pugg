@@ -159,9 +159,6 @@ class NYTimesMetadataController:
       gender_dict["subject_middle"] += 1
     elif pronoun_result == "F":
       gender_dict["subject_female"] += 1
-
-  def initialize_gender_dict_monthObit(self, dictionary):
-      dictionary = {"total": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
     
   def generate_monthly_obituary_counts(self):
     header =  "@date, @total, @subject_female, @subject_male, @subject_middle, @subject_female_percent, @subject_male_percent, @subject_middle_percent"
@@ -175,8 +172,7 @@ class NYTimesMetadataController:
       if(self.articles.createArticle(articles[0]).pub_date.year < 1997):
         articles = self.articles.getNextMonth()
         continue
-      monthly_counts = {}
-      self.initialize_gender_dict_monthObit(monthly_counts)
+      monthly_counts = {"total": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
         
       for article_row in articles:
         try:
