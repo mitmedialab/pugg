@@ -181,7 +181,7 @@ class NYTimesMetadataController:
       for article_row in articles:
         try:
           article = self.articles.createArticle(article_row)
-          fulltext = article.getDataFileObject("data/full/", "data/nytimes-fulltext/", "txt").read()
+          fulltext = article.getDataFileObject("data/nytimes/", "data/nytimes-fulltext/", "txt").read()
         except ValueError:
           continue
 
