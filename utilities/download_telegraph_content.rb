@@ -8,7 +8,7 @@ require 'iconv'
 
 index_data = JSON.load(File.open(ARGV[0]))
 error_counter = 0
-counter = 25000
+counter = 300000
 
 ic = Iconv.new('UTF-8//IGNORE', 'UTF-8')
 
@@ -36,8 +36,13 @@ index_data.each do |date, articles|
       text = ic.iconv(text + ' ')[0..-2]
 
       article = Hpricot::XML(text)
-      article_text = (article/'div.twoThirds')[0].inner_html
-      article_text = article if article_text.nil?
+      at = (article/'div.twoThirds')
+      if(at and at.size>0)
+        article_text = at[0].inner_html
+      else
+        article_text = article
+      end
+      article_text = text if article_text.nil?
       #article_text = URI.parse(url).read
     rescue  Exception => e
       sleep(2)
@@ -45,8 +50,14 @@ index_data.each do |date, articles|
         print "X"
         error_counter += 1
         redo if error_counter <= 3
+      elsif e.message=="404 Not Found"
+        print "4"
+        index_data[date][index]["fulltext"]="404"
+        error_counter = 0
+        next
       else
-        print "x"
+        print "X"
+        puts e
         error_counter = 0
         next
       end
