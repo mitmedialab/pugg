@@ -203,8 +203,64 @@ class NYTimesMetadataController:
       print csv_line
       articles = self.articles.getNextMonth()
 
+  def generate_obituary_fulltext_samples(self):
+    
+    monthID = 0
+
+    filename_female = "female0.txt"
+    filename_male = "male0.txt"
+    filename_middle = "middle0.txt"
+
+    file_female = open("fulltext_samples/" + filename_female, 'w')
+    file_male = open("fulltext_samples/" + filename_male, 'w')
+    file_middle = open("fulltext_samples/" + filename_middle, 'w')
+    
+    articles = self.articles.getNextMonth()
+    getcontext.prec = 4
+
+    nyt_classifier = NYTimesTaxonomicClassifier("data/utility-data/nytimes_taxonomic_classifier_exclusion.yml", "data/utility-data/nytimes_taxonomic_classifier_aggregation.yml")
+    
+    while articles:
+      if(self.articles.createArticle(articles[0]).pub_date.year < 1997):
+        articles = self.articles.getNextMonth()
+        continue
+        
+      for article_row in articles:
+        try:
+          article = self.articles.createArticle(article_row)
+          fulltext = article.getDataFileObject("data/nytimes/", "data/nytimes-fulltext/", "txt").read()
+        except ValueError:
+          continue
+
+        # Only increment monthly_counts for obituaries
+        if "Death" in nyt_classifier.winnow(article.taxonomic_classifiers):
+            subject_gender = self.pronoun_gender.estimate_gender(fulltext)
+            read_to_char_index = min(200, len(fulltext))
+            if subject_gender == "F":
+              file_female.write(fulltext[:read_to_char_index])
+            if subject_gender == "M":
+              file_male.write(fulltext[:read_to_char_index])
+            if subject_gender == "N":
+              file_middle.write(fulltext[:read_to_char_index])
+
+      monthID += 1
+
+      file_female.close()
+      file_male.close()
+      file_middle.close()
+
+      filename_female = "female" + str(monthID) + ".txt"
+      filename_male = "male" + str(monthID) + ".txt"
+      filename_middle = "middle" + str(monthID) + ".txt"
+
+      file_female = open("fulltext_samples/" + filename_female, 'w')
+      file_male = open("fulltext_samples/" + filename_male, 'w')
+      file_middle = open("fulltext_samples/" + filename_middle, 'w')
+      articles = self.articles.getNextMonth()
+
+
 if __name__ == "__main__":
     nyt_controller = NYTimesMetadataController()
-    nyt_controller.generate_monthly_obituary_counts()
+    nyt_controller.generate_obituary_fulltext_samples()
     #nyt_controller.saveToMongoDB()
 
