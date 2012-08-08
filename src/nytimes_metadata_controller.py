@@ -169,9 +169,6 @@ class NYTimesMetadataController:
     nyt_classifier = NYTimesTaxonomicClassifier("data/utility-data/nytimes_taxonomic_classifier_exclusion.yml", "data/utility-data/nytimes_taxonomic_classifier_aggregation.yml")
     
     while articles:
-      if(self.articles.createArticle(articles[0]).pub_date.year < 1997):
-        articles = self.articles.getNextMonth()
-        continue
       monthly_counts = {"total": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
         
       for article_row in articles:
