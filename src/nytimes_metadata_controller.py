@@ -179,7 +179,7 @@ class NYTimesMetadataController:
           continue
 
         # Only increment monthly_counts for obituaries
-        if "Death" in nyt_classifier.winnow(article.taxonomic_classifiers):
+        if "Death_unpaid" in nyt_classifier.winnow(article.taxonomic_classifiers): #"Death" for obits & paid death notices, "Death_unpaid" for just obits.
             subject_gender = self.pronoun_gender.estimate_gender(fulltext)
 
             monthly_counts["total"] += 1
