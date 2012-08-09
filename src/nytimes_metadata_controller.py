@@ -238,11 +238,11 @@ class NYTimesMetadataController:
             subject_gender = self.pronoun_gender.estimate_gender(fulltext)
             read_to_char_index = min(300, len(fulltext))
             if subject_gender == "F":
-              file_female.write(re.sub('\n',' ',fulltext[:read_to_char_index])+'\n')
+              file_female.write(re.sub('         ',' ',re.sub('\n',' ',fulltext[:read_to_char_index]))+'\n')
             if subject_gender == "M":
-              file_male.write(re.sub('\n',' ',fulltext[:read_to_char_index])+'\n')
+              file_male.write(re.sub('         ',' ',re.sub('\n',' ',fulltext[:read_to_char_index]))+'\n')
             if subject_gender == "N":
-              file_middle.write(re.sub('\n',' ',fulltext[:read_to_char_index])+'\n')
+              file_middle.write(re.sub('         ',' ',re.sub('\n',' ',fulltext[:read_to_char_index]))+'\n')
 
       monthID += 1
 
