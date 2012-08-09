@@ -5,6 +5,7 @@ from nytimes_article_accessor import *
 from nytimes_taxonomic_classifier import *
 from decimal import *
 import sys
+import re
 
 class NYTimesMetadataController:
   def __init__(self):
@@ -237,11 +238,11 @@ class NYTimesMetadataController:
             subject_gender = self.pronoun_gender.estimate_gender(fulltext)
             read_to_char_index = min(300, len(fulltext))
             if subject_gender == "F":
-              file_female.write(fulltext[:read_to_char_index])
+              file_female.write(re.sub('\n',' ',fulltext[:read_to_char_index])+'\n')
             if subject_gender == "M":
-              file_male.write(fulltext[:read_to_char_index])
+              file_male.write(re.sub('\n',' ',fulltext[:read_to_char_index])+'\n')
             if subject_gender == "N":
-              file_middle.write(fulltext[:read_to_char_index])
+              file_middle.write(re.sub('\n',' ',fulltext[:read_to_char_index])+'\n')
 
       monthID += 1
 
