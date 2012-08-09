@@ -180,7 +180,7 @@ class NYTimesMetadataController:
           continue
 
         # Only increment monthly_counts for obituaries
-        if "Death" in nyt_classifier.winnow(article.taxonomic_classifiers): #"Death" for obits & paid death notices, "Death_unpaid" for just obits.
+        if "Death_unpaid" in nyt_classifier.winnow(article.taxonomic_classifiers): #"Death" for obits & paid death notices, "Death_unpaid" for just obits.
             subject_gender = self.pronoun_gender.estimate_gender(fulltext)
 
             monthly_counts["total"] += 1
@@ -262,6 +262,6 @@ class NYTimesMetadataController:
 
 if __name__ == "__main__":
     nyt_controller = NYTimesMetadataController()
-    nyt_controller.generate_obituary_fulltext_samples()
+    nyt_controller.generate_monthly_obituary_counts()
     #nyt_controller.saveToMongoDB()
 
