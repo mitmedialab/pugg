@@ -235,13 +235,14 @@ class NYTimesMetadataController:
         # Only increment monthly_counts for obituaries
         if "Death" in nyt_classifier.winnow(article.taxonomic_classifiers):
             subject_gender = self.pronoun_gender.estimate_gender(fulltext)
-            read_to_char_index = min(200, len(fulltext))
+            read_to_char_index = min(208, len(fulltext))
+            read_from_char_index = min(8, len(fulltext))
             if subject_gender == "F":
-              file_female.write(fulltext[:read_to_char_index])
+              file_female.write(fulltext[read_from_char_index:read_to_char_index])
             if subject_gender == "M":
-              file_male.write(fulltext[:read_to_char_index])
+              file_male.write(fulltext[read_from_char_index:read_to_char_index])
             if subject_gender == "N":
-              file_middle.write(fulltext[:read_to_char_index])
+              file_middle.write(fulltext[read_from_char_index:read_to_char_index])
 
       monthID += 1
 
