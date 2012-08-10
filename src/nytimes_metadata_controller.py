@@ -180,7 +180,7 @@ class NYTimesMetadataController:
           continue
 
         # Only increment monthly_counts for obituaries
-        if "Death_unpaid" in nyt_classifier.winnow(article.taxonomic_classifiers): #"Death" for obits & paid death notices, "Death_unpaid" for just obits.
+        if "Death" in nyt_classifier.winnow(article.taxonomic_classifiers): #"Death" for obits & paid death notices, "Death_unpaid" for just obits.
             subject_gender = self.pronoun_gender.estimate_gender(fulltext)
 
             monthly_counts["total"] += 1
@@ -222,9 +222,9 @@ class NYTimesMetadataController:
     nyt_classifier = NYTimesTaxonomicClassifier("data/utility-data/nytimes_taxonomic_classifier_exclusion.yml", "data/utility-data/nytimes_taxonomic_classifier_aggregation.yml")
     
     while articles:
-      if(self.articles.createArticle(articles[0]).pub_date.year < 1997):
-        articles = self.articles.getNextMonth()
-        continue
+      #if(self.articles.createArticle(articles[0]).pub_date.year < 1997):
+      #  articles = self.articles.getNextMonth()
+      #  continue
         
       for article_row in articles:
         try:
@@ -238,11 +238,11 @@ class NYTimesMetadataController:
             subject_gender = self.pronoun_gender.estimate_gender(fulltext)
             read_to_char_index = min(300, len(fulltext))
             if subject_gender == "F":
-              file_female.write(re.sub('         ',' ',re.sub('\n',' ',fulltext[:read_to_char_index]))+'\n')
+              file_female.write(re.sub(' LEAD: ', '',re.sub('         ',' ',re.sub('\n',' ',fulltext[:read_to_char_index]))+'\n'))
             if subject_gender == "M":
-              file_male.write(re.sub('         ',' ',re.sub('\n',' ',fulltext[:read_to_char_index]))+'\n')
+              file_male.write(re.sub(' LEAD: ', '',re.sub('         ',' ',re.sub('\n',' ',fulltext[:read_to_char_index]))+'\n'))
             if subject_gender == "N":
-              file_middle.write(re.sub('         ',' ',re.sub('\n',' ',fulltext[:read_to_char_index]))+'\n')
+              file_middle.write(re.sub(' LEAD: ', '',re.sub('         ',' ',re.sub('\n',' ',fulltext[:read_to_char_index]))+'\n'))
 
       monthID += 1
 
@@ -262,6 +262,6 @@ class NYTimesMetadataController:
 
 if __name__ == "__main__":
     nyt_controller = NYTimesMetadataController()
-    nyt_controller.generate_monthly_obituary_counts()
+    nyt_controller.generate_obituary_fulltext_samples()
     #nyt_controller.saveToMongoDB()
 

@@ -1,10 +1,6 @@
 Death:
   - "Top/News/Obituaries"
   - "Top/Features/Movies/News and Features/Obituaries"
-  - "Top/Classifieds/Paid Death Notices"
-Death_unpaid:
-  - "Top/News/Obituaries"
-  - "Top/Features/Movies/News and Features/Obituaries"
 Marriage:
   - "Top/Features/Style/Fashion and Style/Weddings and Celebrations"
 Opinion:
