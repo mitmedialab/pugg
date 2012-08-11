@@ -228,7 +228,7 @@ class NYTimesMetadataController:
     for category in ["Local News", "Travel", "World News", "National News", "Business", "Sports", "Home and Garden", \
                      "Fashion and Style", "Arts", "Opinion", "Education", "Health", "Science and Technology", "Food"]:
       print category
-      generate_monthly_category_counts(category)
+      nyt_controller.generate_monthly_category_counts(category)
 
   def generate_obituary_fulltext_samples(self):
     
