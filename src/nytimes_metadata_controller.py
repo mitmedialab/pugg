@@ -153,7 +153,7 @@ class NYTimesMetadataController:
         print csv_line
       articles = self.articles.getNextMonth()
 
-  def increment_gender_dict_monthObit(self, gender_dict, pronoun_result):
+  def increment_category_gender_dict(self, gender_dict, pronoun_result):
     if pronoun_result == "M":
       gender_dict["subject_male"] += 1
     elif pronoun_result == "N":
@@ -161,13 +161,28 @@ class NYTimesMetadataController:
     elif pronoun_result == "F":
       gender_dict["subject_female"] += 1
     
-  def generate_monthly_obituary_counts(self):
+  def generate_monthly_category_counts(self, category): # Takes one of the keys of cat_dict, defined below
     header =  "@date, @total, @subject_female, @subject_male, @subject_middle, @subject_female_percent, @subject_male_percent, @subject_middle_percent"
     print header
     articles = self.articles.getNextMonth()
     getcontext.prec = 4
 
-    nyt_classifier = NYTimesTaxonomicClassifier("data/utility-data/nytimes_taxonomic_classifier_exclusion.yml", "data/utility-data/nytimes_taxonomic_classifier_aggregation.yml")
+    cat_dict = {"Local News": [re.compile("Top/News/New York and Region")], \
+                "Travel": [re.compile("Top/Features/Travel")], \
+                "World News": [re.compile("Top/News/World")], \
+                "National News":[re.compile("Top/News/U.S."), re.compile("Top/News/Washington")], \
+                "Business": [re.compile("Top/News/Business")], \
+                "Sports":[re.compile("Top/News/Sports")], \
+                "Home and Garden":[re.compile("Top/Features/Home and Garden")], \
+                "Fashion and Style": [re.compile("Top/Features/Style")], \
+                "Arts": [re.compile(""), re.compile(""), re.compile(""), re.compile("")], \
+                "Obituaries": [re.compile("Top/News/Obituaries")], \
+                "Opinion": [re.compile("Top/Opinion")], \
+                "Education": [re.compile("Top/News/Education")], \
+                "Health": [re.compile("Top/News/Health")], \
+                "Science and Technology": [re.compile("Top/News/Science"), re.compile("Top/News/Technology")], \
+                "Food": [re.compile("Top/Features/Dining and Wine")], \
+                }
     
     while articles:
       monthly_counts = {"total": 0, "subject_male": 0, "subject_middle": 0, "subject_female": 0}
@@ -179,12 +194,17 @@ class NYTimesMetadataController:
         except ValueError:
           continue
 
-        # Only increment monthly_counts for obituaries
-        if "Death" in nyt_classifier.winnow(article.taxonomic_classifiers): #"Death" for obits & paid death notices, "Death_unpaid" for just obits.
-            subject_gender = self.pronoun_gender.estimate_gender(fulltext)
-
-            monthly_counts["total"] += 1
-            self.increment_gender_dict_monthObit(monthly_counts, subject_gender)
+        # Only increment monthly_counts if article has relevant taxonomic classifiers
+        Done = False
+        for reg_ex in cat_dict[category]:
+          for classifier in article.taxonomic_classifiers:
+            if reg_ex.match(classifier):
+              subject_gender = self.pronoun_gender.estimate_gender(fulltext)
+              monthly_counts["total"] += 1
+              self.increment_category_gender_dict(monthly_counts, subject_gender)
+              Done = True
+              break
+          if Done: break
 
       #for every month, print CSV line
       date = str(article.pub_date.month) + "/" + str(article.pub_date.year)
@@ -203,6 +223,12 @@ class NYTimesMetadataController:
       
       print csv_line
       articles = self.articles.getNextMonth()
+
+  def generate_all_monthly_category_counts(self):
+    for category in ["Local News", "Travel", "World News", "National News", "Business", "Sports", "Home and Garden", \
+                     "Fashion and Style", "Arts", "Opinion", "Education", "Health", "Science and Technology", "Food"]:
+      print category
+      generate_monthly_category_counts(category)
 
   def generate_obituary_fulltext_samples(self):
     
@@ -262,6 +288,6 @@ class NYTimesMetadataController:
 
 if __name__ == "__main__":
     nyt_controller = NYTimesMetadataController()
-    nyt_controller.generate_obituary_fulltext_samples()
+    nyt_controller.generate_all_monthly_category_counts()
     #nyt_controller.saveToMongoDB()
 
