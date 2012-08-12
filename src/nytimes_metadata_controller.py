@@ -163,6 +163,7 @@ class NYTimesMetadataController:
     
   def generate_monthly_category_counts(self, category, results): # Takes one of the keys of cat_dict, defined below
     header =  "@date, @total, @subject_female, @subject_male, @subject_middle, @subject_female_percent, @subject_male_percent, @subject_middle_percent"
+    self.articles = NYTimesArticleAccessor("data/nytimes")
     articles = self.articles.getNextMonth()
     getcontext.prec = 4
     results.write(header + '\n')
@@ -226,7 +227,7 @@ class NYTimesMetadataController:
 
   def generate_all_monthly_category_counts(self):
     results = open("results/nytimes_metadata_controller/all_categories_monthly_counts.txt", 'w')
-    for category in ["Local News", "Travel", "World News", "National News", "Business", "Sports", "Home and Garden", \
+    for category in ["Travel", "World News", "National News", "Business", "Sports", "Home and Garden", \
                      "Fashion and Style", "Arts", "Opinion", "Education", "Health", "Science and Technology", "Food"]:
       results.write(category + '\n')
       nyt_controller.generate_monthly_category_counts(category, results)
