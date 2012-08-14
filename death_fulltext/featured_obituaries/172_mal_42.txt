@@ -1,0 +1,24 @@
+
+        Dr. Kenneth Mark Colby, a psychiatrist known for his work with artificial intelligence, died on April 20 at his home in Malibu, Calif. He was 81.
+        Dr. Colby, a founder and chairman of Malibu Artifactual Intelligence Works, a software company, was an emeritus professor of psychiatry and behavioral sciences at the University of California at Los Angeles.
+        He created one of the early software programs known as chatterbots, which simulate conversations with people. His program, called Parry, for paranoia, appeared in 1971 and is said to be the only one to have passed the ''Turing test,'' named for the British mathematician Alan M. Turing, who in 1950  suggested that if a computer could successfully impersonate a human by carrying on a typed conversation with a person, it could be called intelligent.
+        With Parry, Dr. Colby established that a computer chip could be programmed to imitate a paranoid schizophrenic. In test interviews, psychiatrists communicating with Parry by Teletype were indeed unable to distinguish its responses from those of real paranoiacs.
+        Kenneth Colby was born in Waterbury, Conn., and graduated from Yale in 1941 and from its School of Medicine two years later.
+        Early in his career, he was a professor of computer science at Stanford, where he also did research for the National Institute of Mental Health. He created Parry at the university's Artificial Intelligence Laboratory.
+        In 1974, he went to U.C.L.A., where he was affiliated with the department of psychiatry and biobehavioral sciences.
+        At 31, Dr. Colby published ''A Primer for Psychotherapists.'' He wrote or contributed to nine more books and over 100 articles on psychiatry, psychology, psychotherapy and artificial intelligence.
+        He and his son, Peter, founded Malibu Artifactual Intelligence Works in 1989. Among the software they produced is a therapy program called Overcoming Depression, which features interactive plain language designed to help a patient understand, overcome and prevent depression.
+        Besides his son, of Malibu, Dr. Colby is survived by his wife of 43 years, Maxine Hansbold Colby; a daughter, Erin Johnson of Santa Maria, Calif.; and two grandsons.
+        Dr. Colby adapted Parry from another program, Eliza, created in 1966 by Dr. Joseph Weizenbaum at the Massachusetts Institute of Technology.
+        Eliza was developed more as a language-parsing tool than as an exercise in human intelligence. Named for the Eliza Doolittle character in ''Pygmalion,'' it was the first conversational computer program, designed to imitate a psychotherapist asking questions instead of giving advice. It appeared to give conversational answers, although it could be led to lapse into obtuse nonsense.
+        Eliza and the paranoid Parry  eventually met for a ''talk,'' executing different programs. One exchange went something like this:
+        PARRY -- In my opinion, you have a one-track mind.
+        ELIZA -- What makes you think I have a one-track mind?
+        PARRY -- I used to go to the track every week.
+        ELIZA -- What does that suggest to you?
+        PARRY -- I avoid racetracks now because the races are fixed.
+        ELIZA -- Is that the real reason?
+        PARRY -- I'd rather not discuss it.
+        ELIZA -- What else would you like to discuss?
+        PARRY -- That's something I don't want to go into.
+      

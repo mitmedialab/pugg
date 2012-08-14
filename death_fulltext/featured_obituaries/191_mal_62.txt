@@ -1,0 +1,12 @@
+
+        Dr. Saul Amarel, who helped develop the field of artificial intelligence and founded the computer science department at Rutgers University, died on Wednesday in Princeton, N.J., where he lived. He was 74.
+        The cause was complications of cancer, according to Rutgers.
+        At Rutgers, Dr. Amarel developed computer time-sharing, and his laboratory became an early node on Arpanet, the precursor to the Internet. He took a leave in the 1980's to spend a few years directing a computer science program at the Pentagon, and returned to Rutgers in 1988.
+        Among his peers, Dr. Amarel was perhaps best known for a paper he wrote in 1968, which put him at the vanguard of the artificial intelligence movement.
+        Decades later, the importance of the paper may be hard to understand. It concerned the way one might program a computer to solve a brain-teaser well known to mathematicians that involves three cannibals, three missionaries and a boat that seats only two. The challenge for the missionaries is to transport the cannibals across a river without ever letting any of their party be outnumbered -- and eaten.
+        Solving the problem was not really the point. That had already been done. What Dr. Amarel set out to do was to create an approach that did not rely on a mechanical crunching of numbers, but instead used an algorithm that allowed the computer to figure out a solution in a manner more akin to human reasoning.
+        Later, Dr. Amarel joined artificial intelligence with other fields. He worked, for example, to develop a machine that could diagnose illness, and he envisioned a time when machines would be able to do things like customizing drugs.
+        Saul Amarel was born in Salonika, Greece, and moved with his family to what became Israel. He graduated from the Israel Institute of Technology in 1948, fought in Israel's war of independence, then went to Columbia University, where he earned a master's degree and a doctorate.
+        Before Rutgers, he worked at the Computer Theory Group at RCA Laboratories in Princeton.
+        Dr. Amarel's first wife, Marianne Kroh Amarel, died in 1989. He is survived by his second wife, Irene, and two sons from the first marriage, Dan and David, of New York.
+      

@@ -1,0 +1,11 @@
+
+        Aaron D. Wyner, an information theorist at Bell Laboratories whose research is central to the way data move through through a modem or satellite network, died on Sept. 29 at Morris Hills Nursing Home in Morristown, N.J. He was 58, and lived in South Orange, N.J.
+        The cause was cancer, family members said.
+        Dr. Wyner paid careful attention to redundancy. In a stretch of DNA or in a photograph of a cat, for example, much of the information is repetitive. If a letter can represent each identical string of symbols, the volume of information can be compressed, and more easily stored or transmitted.
+        Dr. Wyner's mathematical statements, or algorithms, analyzed how to find the common sections in thousands of bits of data. His work extended a theory published in 1977 by Abraham Lempel and Jacob Ziv to allow for the compression of information in the presence of strings of meaningless signals, called noise. In 1989, Dr. Wyner, working with Dr. Ziv, devised a way to compress data that pushed it to its limit.
+        Sergio Verdu, professor of electrical engineering at Princeton University, said Dr. Wyner wrote proofs for  classic ideas of information theory, mainly the work of Claude E. Shannon in the 1940's. His mathematical proofs of earlier intuitive work support most information systems today, Dr. Verdu said.
+        Dr. Wyner was born in the Bronx, attended the Bronx High School of Science and earned a B.S. in mathematics and physics from Queens College. He received another B.S. and a Ph.D. in electrical engineering from Columbia University.
+        He led the communications analysis research department at Bell Laboratories, now part of Lucent Technologies, for 19 years, until 1993, when he became a researcher in the information theory department.
+        Elected to the National Academy of Engineering in 1994, Dr. Wyner that year won the Claude E. Shannon Award from the Information Theory Society, part of the Institute of Electrical and Electronics Engineers.
+        He is survived by his wife, Nusha, of South Orange; three daughters, Tamar Wyner Herman of Springfield, N.J., Dena Glasgow of Newton, Mass., and Yael Wyner of Manhattan; a son, Abraham Wyner of San Francisco; his mother, Mary Jacobson Wyner of the Bronx, and a sister, Sara Gootblatt of Scarsdale, N.Y.
+      

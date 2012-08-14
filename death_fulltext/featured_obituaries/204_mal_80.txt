@@ -1,0 +1,21 @@
+
+        Thomas G. Stockham Jr., a pioneer in digital electronics whose work helped to pave the way for the transition from long-playing records to compact discs, died on Jan. 6 in Salt Lake City. He was 70.
+        The cause was Alzheimer's disease, his wife, Martha, said.
+        An electrical engineer trained at the Massachusetts Institute of Technology, Dr. Stockham began working on projects involving the primitive digitization of sound almost immediately after he joined M.I.T. as an associate professor in 1957.
+        But his early work had little to do with music.
+        ''We were more interested in digital sound for communications purposes,'' Dr. Stockham said in a 1980 interview in The New York Times. ''It became immediately apparent, though, that if speech could be digitized, so could music.''
+        Older recording and sound transmission systems used analogue technology, which involves changes in electrical voltage that mirror a continuous wave; digital recording takes samples of information along the wave and translates them into a series of 1's and 0's, or ons and offs. Digitized information is easy to process, compress, copy and edit, and extraneous sounds can be removed.
+        Dr. Stockham and his colleagues were not alone in their quest for digital audio. Major companies, particularly in the United States and Japan, were also experimenting and coming up with systems similar to the one he was working on.
+        In 1968, Dr. Stockham moved from M.I.T. to the University of Utah, where he was able to combine his personal and institutional research, laying the groundwork for Soundstream, the audio company he founded. He remained a member of the computer science faculty at Utah until 1994, when his Alzheimer's disease was diagnosed.
+        Soundstream and Dr. Stockham first captured the public's attention in 1976, with the release by RCA of ''Caruso: A Legendary Performer.'' It was the first in a series of Caruso's early 20th century recordings to be digitally remastered by Soundstream.
+        Later that same year, Dr. Stockham made the first live digital recording of the Santa Fe Opera.
+        The company sold 16 of its professional digital editing systems for around $160,000 each before it merged in 1980 with the Digital Recording Corporation.
+        In the mid-1970's, Dr. Stockham's work involved him in the Watergate scandal. He was one of six technical experts appointed by Judge John J. Sirica of Federal District Court to determine what caused the famous 18 1/2-minute gap on a crucial Watergate tape made in President Richard M. Nixon's office.
+        Early in 1974, Dr. Stockham and other panel members reported that the gap was caused by at least five separate erasures and rerecordings, not by a single accidental pressing of the wrong button on a tape recorder, as the Nixon White House had suggested.
+        Thomas Greenway Stockham was born on Dec. 22, 1933, in Passaic, N.J. He earned his bachelor's, master's and Ph.D. degrees at M.I.T.
+        In addition to his wife, he is survived by three sons, Thomas G. III and David W., both of Salt Lake City, and John M., of Thousand Oaks, Calif.; a daughter, Carol Stockham Forester of Idaho City, Idaho; and eight grandchildren.
+        Although he earned handsome consulting fees from his work, he never became wealthy.
+        ''He didn't go through life bitter that he never got really rich,'' his son Tom said. ''He didn't have a patent that he owned.''
+        He won not only the respect of his peers but also major honors from the entertainment industry he helped to transform.
+        He won an Emmy award in 1988 for his work on tapeless audio and editing systems. In 1994 he won a Grammy award for his ''visionary role in pioneering and advancing the era of digital recording,'' and in 1999 Dr. Stockham and Robert Ingebretsen received an Oscar, a Scientific and Engineering Award, from the Academy of Motion Picture Arts and Sciences for work in digital audio editing.
+      

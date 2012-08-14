@@ -1,0 +1,18 @@
+
+        Edgar F. Codd, a mathematician and computer scientist who laid the theoretical foundation for relational databases, the standard method by which information is organized in and retrieved from computers, died on Friday at his home in Williams Island, Fla. He was 79.
+        The cause was heart failure, said his wife, Sharon B. Codd.
+        Computers can store vast amounts of data. But before Dr. Codd's work found its way into commercial products, electronic databases were ''completely ad hoc and higgledy-piggledy,'' said Chris Date, a database expert and former business partner of Dr. Codd's, who was known as Ted.
+        Dr. Codd's idea, based on mathematical set theory, was to store data in cross-referenced tables, allowing the information to be presented in multiple permutations. For instance, a user could ask the computer for a list of all baseball players from both the National League and the American League with batting averages over .300.
+        Relational databases now lie at the heart of systems ranging from hospitals' patient records to airline flights and schedules.
+        While working as a researcher at the I.B.M. San Jose Research Laboratory in the 1960's and 70's, Dr. Codd wrote several papers outlining his ideas. To his frustration, I.B.M. largely ignored his work, as the company was investing heavily at the time in commercializing a different type of database system.
+        ''His approach was not, shall we say, welcomed with open arms at I.B.M.,'' said Harwood Kolsky, a physicist who worked with Dr. Codd at I.B.M. in the 1950's and 60's. ''It was a revolutionary approach.''
+        It was not until 1978 that Frank T. Cary, then chairman and chief executive of I.B.M., ordered the company to build a product based on Dr. Codd's ideas. But I.B.M. was beaten to the market by Lawrence J. Ellison, a Silicon Valley entrepreneur, who used Dr. Codd's papers as the basis of a product around which he built a start-up company that has since become the Oracle Corporation.
+        ''The sad thing is that Ted never became rich out of his idea,'' Mr. Date said. ''Other people did, but not Ted.''
+        Edgar Frank Codd was born the youngest of seven children in Portland Bill, in Dorset, England, in 1923. His father was a leather manufacturer, his mother a schoolteacher.
+        He attended Oxford University on a full scholarship, studying mathematics and chemistry. During World War II, he was a pilot with the Royal Air Force. In 1948 he moved to New York and, hearing that I.B.M. was hiring mathematicians, obtained a job there as a researcher.
+        A few years later, in 1953, angered by Senator Joseph R. McCarthy's pursuit of Americans he said had Communist ties or sympathies, Dr. Codd moved to Ottawa for several years.
+        After returning to the United States, he began graduate studies at the University of Michigan at Ann Arbor, where he received his doctorate in computer science in 1965. In 1967, he moved to California to work in the I.B.M. San Jose Research Laboratory.
+        He and his first wife, Elizabeth, were divorced in 1978. In 1990, Dr. Codd married Sharon Weinberg, a mathematician and I.B.M. colleague.
+        In 1981, he received the A. M. Turing Award, the highest honor in the computer science field.
+        Dr. Codd is survived by his wife, of Williams Island; a daughter, Katherine Codd Clark of Palo Alto, Calif.; three sons, Ronald, of Alamo, Calif., Frank, of Castro Valley, Calif., and David, of Boca Raton, Fla.; and six grandchildren.
+      

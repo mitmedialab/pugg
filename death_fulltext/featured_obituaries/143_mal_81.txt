@@ -1,0 +1,12 @@
+
+        Dr. Odo J. Struger, who invented the programmable logic controller, which makes possible modern factory automation, amusement park rides and lavish stage effects in Broadway productions, died on Dec. 8 in Cleveland. He was 67.
+        He had thyroid cancer, family members said.
+        The device Dr. Struger invented, essentially a rugged computer that controls machinery, was based on a concept developed in his doctoral dissertation at the Technical University of Austria and is ubiquitous in factories throughout the world.
+        Dr. Struger left the university in 1956 for a job at Asea Brown Boveri, a Swiss power company. While there, he completed his dissertation, ''The Process for Quantitative Handling of Positioning Errors of Numerical Control Machines.''
+        His paper led to a job in 1958 as a research engineer at Allen-Bradley in Milwaukee, where he headed the team that developed the programmable logic controller, or P.L.C., creating a billion-dollar-a-year business.
+        Murray Slovick, editor of Spectrum, the magazine of the Institute for Electrical and Electronics Engineers, said: ''Programmable logic controllers are what industry uses to automate factories. They are used to control a wide range of equipment, everything from heating, ventilation, air-conditioning, to plastic injection molding machines to commercial washing machines.''
+        William Little, chief technical officer at Rockwell Automation, Allen-Bradley's parent, said: ''P.L.C.'s are pervasive. They show up in the road production of 'Phantom of the Opera' and in rides at Disney World.'' Mr. Little said the devices were designed to work in real time, taking in information, processing it and producing commands to control a mechanical process as it happens.
+        Dr. Struger was a fellow of the Institute for Electrical and Electronics Engineers. He held 50 patents and published more than 40 papers.
+        He was born in Austria in 1931 and lived in Cleveland, where he had been a vice president for Allen-Bradley until retiring last year.
+        He is survived by his wife, Marlene; two sons, Andre, of Farmington Hills, Mich., and Gregory, of Newbury, Ohio; a sister, Franziska Panger of Austria, and three grandchildren.
+      
