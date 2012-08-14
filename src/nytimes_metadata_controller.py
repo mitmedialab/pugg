@@ -245,6 +245,10 @@ class NYTimesMetadataController:
     bothID_fem = 0 # ID of individual article, including featured obits and paid death notices, in a given month
     bothID_mid = 0
     bothID_mal = 0
+
+    f_fe = open("symlinks_fem.txt", 'w')
+    f_ma = open("symlinks_mal.txt", 'w')
+    f_mi = open("symlinks_mid.txt", 'w')
     
     articles = self.articles.getNextMonth()
     getcontext.prec = 4
@@ -275,6 +279,7 @@ class NYTimesMetadataController:
             both_filename_female = str(monthID) + "_fem_" + str(bothID_fem) + ".txt"
             os.symlink("death_fulltext/featured_obituaries/" + obit_filename_female, "death_fulltext/all_symlinks/" + both_filename_female)
             bothID_fem +=1
+            f_fe.write("death_fulltext/all_symlinks/" + both_filename_female + "\n")
             
           if subject_gender == "M":
             obit_filename_male = str(monthID) + "_mal_" + str(obitID_mal) + ".txt"
@@ -286,6 +291,7 @@ class NYTimesMetadataController:
             both_filename_male = str(monthID) + "_mal_" + str(bothID_mal) + ".txt"
             os.symlink("death_fulltext/featured_obituaries/" + obit_filename_male, "death_fulltext/all_symlinks/" + both_filename_male)
             bothID_mal +=1
+            f_ma.write("death_fulltext/all_symlinks/" + both_filename_male + "\n")
             
           if subject_gender == "N":
             obit_filename_middle = str(monthID) + "_mid_" + str(obitID_mid) + ".txt"
@@ -297,6 +303,7 @@ class NYTimesMetadataController:
             both_filename_middle = str(monthID) + "_mid_" + str(bothID_mid) + ".txt"
             os.symlink("death_fulltext/featured_obituaries/" + obit_filename_middle, "death_fulltext/all_symlinks/" + both_filename_middle)
             bothID_mid +=1
+            f_mi.write("death_fulltext/all_symlinks/" + both_filename_middle + "\n")
 
         # Paid Death Notices
         if "Top/Classifieds/Paid Death Notices" in article.taxonomic_classifiers:
@@ -313,6 +320,7 @@ class NYTimesMetadataController:
               both_filename_female = str(monthID) + "_fem_" + str(bothID_fem) + ".txt"
               os.symlink("death_fulltext/paid_death_notices/" + notice_filename_female, "death_fulltext/all_symlinks/" + both_filename_female)
               bothID_fem +=1
+              f_fe.write("death_fulltext/all_symlinks/" + both_filename_female + "\n")
             
           if subject_gender == "M":
             notice_filename_male = str(monthID) + "_mal_" + str(noticeID_mal) + ".txt"
@@ -325,6 +333,7 @@ class NYTimesMetadataController:
               both_filename_male = str(monthID) + "_mal_" + str(bothID_mal) + ".txt"
               os.symlink("death_fulltext/paid_death_notices/" + notice_filename_male, "death_fulltext/all_symlinks/" + both_filename_male)
               bothID_mal +=1
+              f_ma.write("death_fulltext/all_symlinks/" + both_filename_male + "\n")
             
           if subject_gender == "N":
             notice_filename_middle = str(monthID) + "_mid_" + str(noticeID_mid) + ".txt"
@@ -337,6 +346,7 @@ class NYTimesMetadataController:
               both_filename_middle = str(monthID) + "_mid_" + str(bothID_mid) + ".txt"
               os.symlink("death_fulltext/paid_death_notices/" + notice_filename_middle, "death_fulltext/all_symlinks/" + both_filename_middle)
               bothID_mid +=1
+              f_mi.write("death_fulltext/all_symlinks/" + both_filename_middle + "\n")
 
       monthID +=1 # Keep track of months
       obitID_fem = 0 # ID of individual featured obits in a given month
@@ -350,6 +360,10 @@ class NYTimesMetadataController:
       bothID_mal = 0
 
       articles = self.articles.getNextMonth()
+
+    f_fe.close()
+    f_mi.close()
+    f_ma.close()
 
 
 if __name__ == "__main__":
