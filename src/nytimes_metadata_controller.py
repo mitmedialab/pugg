@@ -233,27 +233,23 @@ class NYTimesMetadataController:
       nyt_controller.generate_monthly_category_counts(category, results)
     results.close()
 
-  def generate_obituary_fulltext_samples(self):
+  def generate_death_samples(self):
     
-    monthID = 0
-
-    filename_female = "female0.txt"
-    filename_male = "male0.txt"
-    filename_middle = "middle0.txt"
-
-    file_female = open("fulltext_samples/" + filename_female, 'w')
-    file_male = open("fulltext_samples/" + filename_male, 'w')
-    file_middle = open("fulltext_samples/" + filename_middle, 'w')
+    monthID = 0 # Keep track of months
+    obitID_fem = 0 # ID of individual featured obits in a given month
+    obitID_mid = 0
+    obitID_mal = 0
+    noticeID_fem = 0 # ID of individual paid death notices in a given month
+    noticeID_mid = 0
+    noticeID_mal = 0
+    bothID_fem = 0 # ID of individual article, including featured obits and paid death notices, in a given month
+    bothID_mid = 0
+    bothID_mal = 0
     
     articles = self.articles.getNextMonth()
     getcontext.prec = 4
 
-    nyt_classifier = NYTimesTaxonomicClassifier("data/utility-data/nytimes_taxonomic_classifier_exclusion.yml", "data/utility-data/nytimes_taxonomic_classifier_aggregation.yml")
-    
     while articles:
-      #if(self.articles.createArticle(articles[0]).pub_date.year < 1997):
-      #  articles = self.articles.getNextMonth()
-      #  continue
         
       for article_row in articles:
         try:
@@ -262,35 +258,102 @@ class NYTimesMetadataController:
         except ValueError:
           continue
 
-        # Only increment monthly_counts for obituaries
-        if "Death" in nyt_classifier.winnow(article.taxonomic_classifiers):
-            subject_gender = self.pronoun_gender.estimate_gender(fulltext)
-            read_to_char_index = min(300, len(fulltext))
-            if subject_gender == "F":
-              file_female.write(re.sub(' LEAD: ', '',re.sub('         ',' ',re.sub('\n',' ',fulltext[:read_to_char_index]))+'\n'))
-            if subject_gender == "M":
-              file_male.write(re.sub(' LEAD: ', '',re.sub('         ',' ',re.sub('\n',' ',fulltext[:read_to_char_index]))+'\n'))
-            if subject_gender == "N":
-              file_middle.write(re.sub(' LEAD: ', '',re.sub('         ',' ',re.sub('\n',' ',fulltext[:read_to_char_index]))+'\n'))
+        has_death = False
 
-      monthID += 1
+        # Featured Obituaries
+        if "Top/News/Obituaries" in article.taxonomic_classifiers:
+          has_death = True
+          subject_gender = self.pronoun_gender.estimate_gender(fulltext)
+          if subject_gender == "F":
+            
+            obit_filename_female = str(monthID) + "_fem_" + str(obitID_fem) + ".txt"
+            obit_file_female = open("death_fulltext/featured_obituaries/" + obit_filename_female, 'w')
+            obit_file_female.write(re.sub(' LEAD: ', '',fulltext))
+            obit_file_female.close()
+            obitID_fem +=1
+            
+            both_filename_female = str(monthID) + "_fem_" + str(bothID_fem) + ".txt"
+            os.symlink("death_fulltext/featured_obituaries/" + obit_filename_female, "death_fulltext/all_symlinks/" + both_filename_female)
+            bothID_fem +=1
+            
+          if subject_gender == "M":
+            obit_filename_male = str(monthID) + "_mal_" + str(obitID_mal) + ".txt"
+            obit_file_male = open("death_fulltext/featured_obituaries/" + obit_filename_male, 'w')
+            obit_file_male.write(re.sub(' LEAD: ', '',fulltext))
+            obit_file_male.close()
+            obitID_mal +=1
+            
+            both_filename_male = str(monthID) + "_mal_" + str(bothID_mal) + ".txt"
+            os.symlink("death_fulltext/featured_obituaries/" + obit_filename_male, "death_fulltext/all_symlinks/" + both_filename_male)
+            bothID_mal +=1
+            
+          if subject_gender == "N":
+            obit_filename_middle = str(monthID) + "_mid_" + str(obitID_mid) + ".txt"
+            obit_file_middle = open("death_fulltext/featured_obituaries/" + obit_filename_middle, 'w')
+            obit_file_middle.write(re.sub(' LEAD: ', '',fulltext))
+            obit_file_middle.close()
+            obitID_mid +=1
+            
+            both_filename_middle = str(monthID) + "_mid_" + str(bothID_mid) + ".txt"
+            os.symlink("death_fulltext/featured_obituaries/" + obit_filename_middle, "death_fulltext/all_symlinks/" + both_filename_middle)
+            bothID_mid +=1
 
-      file_female.close()
-      file_male.close()
-      file_middle.close()
+        # Paid Death Notices
+        if "Top/Classifieds/Paid Death Notices" in article.taxonomic_classifiers:
+          subject_gender = self.pronoun_gender.estimate_gender(fulltext)
+          if subject_gender == "F":
+            
+            notice_filename_female = str(monthID) + "_fem_" + str(noticeID_fem) + ".txt"
+            notice_file_female = open("death_fulltext/paid_death_notices/" + notice_filename_female, 'w')
+            notice_file_female.write(re.sub(' LEAD: ', '',fulltext))
+            notice_file_female.close()
+            noticeID_fem +=1
 
-      filename_female = "female" + str(monthID) + ".txt"
-      filename_male = "male" + str(monthID) + ".txt"
-      filename_middle = "middle" + str(monthID) + ".txt"
+            if not has_death:
+              both_filename_female = str(monthID) + "_fem_" + str(bothID_fem) + ".txt"
+              os.symlink("death_fulltext/paid_death_notices/" + notice_filename_female, "death_fulltext/all_symlinks/" + both_filename_female)
+              bothID_fem +=1
+            
+          if subject_gender == "M":
+            notice_filename_male = str(monthID) + "_mal_" + str(noticeID_mal) + ".txt"
+            notice_file_male = open("death_fulltext/paid_death_notices/" + notice_filename_male, 'w')
+            notice_file_male.write(re.sub(' LEAD: ', '',fulltext))
+            notice_file_male.close()
+            noticeID_mal +=1
 
-      file_female = open("fulltext_samples/" + filename_female, 'w')
-      file_male = open("fulltext_samples/" + filename_male, 'w')
-      file_middle = open("fulltext_samples/" + filename_middle, 'w')
+            if not has_death:
+              both_filename_male = str(monthID) + "_mal_" + str(bothID_mal) + ".txt"
+              os.symlink("death_fulltext/paid_death_notices/" + notice_filename_male, "death_fulltext/all_symlinks/" + both_filename_male)
+              bothID_mal +=1
+            
+          if subject_gender == "N":
+            notice_filename_middle = str(monthID) + "_mid_" + str(noticeID_mid) + ".txt"
+            notice_file_middle = open("death_fulltext/paid_death_notices/" + notice_filename_middle, 'w')
+            notice_file_middle.write(re.sub(' LEAD: ', '',fulltext))
+            notice_file_middle.close()
+            noticeID_mid +=1
+
+            if not has_death:
+              both_filename_middle = str(monthID) + "_mid_" + str(bothID_mid) + ".txt"
+              os.symlink("death_fulltext/paid_death_notices/" + notice_filename_middle, "death_fulltext/all_symlinks/" + both_filename_middle)
+              bothID_mid +=1
+
+      monthID +=1 # Keep track of months
+      obitID_fem = 0 # ID of individual featured obits in a given month
+      obitID_mid = 0
+      obitID_mal = 0
+      noticeID_fem = 0 # ID of individual paid death notices in a given month
+      noticeID_mid = 0
+      noticeID_mal = 0
+      bothID_fem = 0 # ID of individual article, including featured obits and paid death notices, in a given month
+      bothID_mid = 0
+      bothID_mal = 0
+
       articles = self.articles.getNextMonth()
 
 
 if __name__ == "__main__":
     nyt_controller = NYTimesMetadataController()
-    nyt_controller.generate_all_monthly_category_counts()
+    nyt_controller.generate_death_samples()
     #nyt_controller.saveToMongoDB()
 
