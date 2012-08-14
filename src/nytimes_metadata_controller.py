@@ -246,9 +246,9 @@ class NYTimesMetadataController:
     bothID_mid = 0
     bothID_mal = 0
 
-    f_fe = open("symlinks_fem.txt", 'w')
-    f_ma = open("symlinks_mal.txt", 'w')
-    f_mi = open("symlinks_mid.txt", 'w')
+    f_fe = open("death_fulltext/symlinks_fem.txt", 'w')
+    f_ma = open("death_fulltext/symlinks_mal.txt", 'w')
+    f_mi = open("death_fulltext/symlinks_mid.txt", 'w')
     
     articles = self.articles.getNextMonth()
     getcontext.prec = 4
