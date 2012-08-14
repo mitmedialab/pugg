@@ -6,6 +6,7 @@ from nytimes_taxonomic_classifier import *
 from decimal import *
 import sys
 import re
+import os
 
 class NYTimesMetadataController:
   def __init__(self):
