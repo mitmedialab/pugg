@@ -1,0 +1,115 @@
+Grouping the topics (final topic choices):
+
+Places
+7	0.5	calif los san angeles california francisco santa berkeley diego university survived barbara oakland stanford moved monica southern hills fe
+8	0.5	chicago university ill died wife survived illinois park ross grandchildren born wisconsin wis degree son northwestern received home madison
+13	0.5	ohio died survived cleveland grandchildren wife taylor home years university rose hall daughter born cincinnati college sister family columbus
+20	0.5	manhattan york east street side city west real avenue estate upper school village lower brother baker brooklyn hampton apartment
+29	0.5	brooklyn york manhattan queens bronx lived college mount hospital died sinai survived center grandchildren years daughter retired westchester plains
+36	0.5	soviet union mr communist russian moscow years russia war died polish party stalin poland press reported agency death central
+38	0.5	conn yale died years greenwich lived wilson grandchildren connecticut survived haven hospital retired hartford sons daughter daughters wife stamford 
+40	0.5	london british french paris france england sir de britain royal lord world queen war english oxford king born prince
+44	0.5	fla beach died years grandchildren miami palm florida lived retired wife survived fort west daughter son hospital great boca
+48	0.5	mass boston harvard college school cambridge massachusetts graduated vt grandchildren phillips newton wife england died daughters dartmouth survived sons
+51	0.5	years died lee lawrence wife born iowa son survived school daughter hamilton wood worked john american began year indiana
+57	0.5	south africa india indian african years ancient world anthropology death died family born people indians country apartheid village western
+60	0.5	va williams virginia died grandchildren wife survived anderson home lived years son richmond daughters falls jr atlanta ga stone
+61	0.5	church catholic bishop father st roman rev john christian pope seminary religious cardinal paul priest episcopal archbishop theological churches
+84	0.5	texas jones martin tex houston died dallas green years ariz son austin rogers survived oklahoma university wife worked fox
+86	0.5	germany german war berlin nazi world vienna hitler died west ii camp born nazis von europe switzerland east european
+93	0.5	china japan japanese chinese years tokyo died death born asian deng kong hong korea asia beijing mao son communist
+95	0.5	de mr mexico spanish latin spain died brazil years puerto mexican born cuba cuban juan castro el la city
+96	0.5	university miller mich michigan city died ann detroit survived wife colo adams denver kansas degree grandchildren born lake home
+99	0.5	long years island died illness hospital van lived wife survived home grandchildren daughter sunday huntington bay shore staten retired
+
+Professions
+3	0.5	health children social director public program services care community center programs work child organization service development helped education people
+4	0.5	war army general ii world military forces corps served colonel air vietnam service lieutenant gen staff officer force commander
+5	0.5	mr building architecture design architect buildings construction projects city center housing built park designed house wright architectural planning project
+10	0.5	university professor dr college taught columbia faculty received studies doctorate department emeritus history degree master author research earned princeton
+11	0.5	wrote book social study work american published history philosophy books called ideas society theory influential intellectual thought political human 
+12	0.5	company mr business products founded industry sold ford family companies sales steel chairman manufacturer founder son world mills corporation
+15	0.5	state york county served university rockefeller nelson years buffalo albany syracuse gov appointed governor commission hughes named chairman wife 
+16	0.5	air force space pilot flying flight plane aircraft american world aviation flew planes war fighter fly crash pilots airlines 
+17	0.5	fashion designer design store designed stores york designs business furniture designers clothing clothes shop interior manhattan goodman avenue klein 
+18	0.5	show broadway musical shows appeared television wrote song comedy songs stage star singer included singing hit hope played career
+22	0.5	mr police prison trial case charges crime federal convicted found death investigation accused charged murder criminal evidence sentenced jury 
+23	0.5	dr research university work institute blood disease scientific laboratory human biology chemistry cells medical science scientists study national received 
+24	0.5	engineering technology institute engineer research computer bell systems developed electrical development system worked technical degree science helped electric electronic 
+25	0.5	english poetry published literature poet book literary wrote work american language writing poems prize critic works writers review university
+28	0.5	president executive company vice chief chairman corporation retired joined director business general manager officer named division senior management board
+30	0.5	won race track racing accident olympic world gold car horse year sports team olympics horses national record time medal 
+31	0.5	dr medical hospital medicine university center surgery school practice patients clinical health physician college professor surgeon treatment degree psychiatry 
+32	0.5	million business company money sold family bought year owned oil billion father estate largest companies real fortune built selling 
+33	0.5	union mr labor workers president local relations members helped strike international board national member unions industrial american leader employees
+37	0.5	opera italian italy made metropolitan rome la met york sang voice debut roles role born career director singing city
+39	0.5	davis won world moore tennis champion title year robinson professional collins time boxing open career round las championship player
+41	0.5	history american library century historian books society collection world historical duke book work early born rare schwartz america field 
+42	0.5	economic economics government canada university world toronto economist canadian price economy years montreal policy friedman federal development international tax
+45	0.5	mr advertising agency johnson director york public worked relations executive years agent campbell died home marketing born joined survived 
+46	0.5	film films movie hollywood movies television made series played actor won screen directed director academy award role career appeared 
+47	0.5	president kennedy nixon washington house white johnson john reagan administration carter secretary national ford richard roosevelt eisenhower office presidential
+49	0.5	league team game football season baseball coach played games players player basketball teams career series national record won major 
+50	0.5	art museum gallery work york artists arts artist works painting paintings modern painter collection exhibition fine american abstract sculpture 
+52	0.5	dance ballet company theater dancer american york graham performed school city director choreographer dancers dancing modern danced de robbins
+55	0.5	school college education university students schools high teacher dean taught teachers degree teaching student master program columbia graduate educational
+58	0.5	party government political minister prime country power president leader military communist politics led movement parliament rule national general leaders
+59	0.5	dr physics research nuclear university science atomic energy bomb laboratory mathematics institute scientists work scientific theory project professor national
+63	0.5	city york mayor department public brooklyn commissioner years police john murphy lindsay office wagner assistant council robert deputy worked 
+64	0.5	mr firm partner york investment company manhattan wall exchange street stock business securities senior financial management joined corporate school
+70	0.5	book books wrote published author writing writer novels story stories children times fiction publishing review short write writers written
+72	0.5	mr jazz band music recorded group records songs rock played album blues singer recording playing musicians record song albums 
+73	0.5	television mr radio news cbs show program network nbc broadcast station producer series broadcasting abc programs shows host produced
+75	0.5	mr work photographer photographs photography magazine life pictures worked cooper picture including art disney images artist camera comic drawing 
+76	0.5	mr political democratic republican senator state elected senate election governor house campaign politics party committee congress democrat term won 
+79	0.5	theater broadway play stage plays actor production york role productions appeared played drama acting director television directed actress actors 
+80	0.5	food restaurant garden hotel cook opened restaurants cooking business farm family home owner gardner began kitchen mcdonald owned started
+82	0.5	music mr orchestra works composer symphony piano york concert hall musical pianist conductor studied philharmonic played chamber performed classical 
+83	0.5	editor times magazine newspaper news mr york press reporter wrote publisher journalism post newspapers daily correspondent paper column journal 
+85	0.5	mr bank chairman president insurance years morgan retired trust died wife company served national banking york executive home vice
+87	0.5	united foreign nations international secretary service served states department affairs washington ambassador state war american government office policy assistant
+91	0.5	president board member association national foundation chairman committee american served society council director active fund trustee organization arts founder 
+92	0.5	land mountain water natural environmental river meyer society conservation park national bird world fish nature birds sea fishing alaska
+97	0.5	law court judge lawyer justice school supreme legal counsel federal firm case state district attorney practice cases bar rights 
+98	0.5	war navy world ii naval pacific marine served admiral captain sea officer ship atlantic commander lieutenant retired academy harbor
+
+Relationships
+0	0.5	ms miss women woman husband mother married daughter year york born girl life marriage love female young divorced called 
+6	0.5	mrs husband women family daughter married home died children mother grandchildren woman great couple house years widow son death
+9	0.5	father family young life year children time mother married made age moved met left months school spent found decided
+19	0.5	mr friend yesterday working friends time late wife met close longtime began hired mark generation managed involved shared decade
+67	0.5	smith died years charles home william grandchildren son henry howard great wife morris daughter survived allen jr walter family
+81	0.5	marriage wife ended divorce daughter son david survived born addition family died previous bruce married stepdaughter brain stepson children
+
+Culture
+1	0.5	jewish israel rabbi jews jerusalem hebrew israeli arab yiddish king years egypt palestine family religious leader middle al lebanon 
+61	0.5	church catholic bishop father st roman rev john christian pope seminary religious cardinal paul priest episcopal archbishop theological churches
+74	0.5	black white rights civil king south jackson racial blacks harlem southern jr people wallace national atlanta ala alabama mississippi
+
+Lifestyle
+2	0.5	life man world people time work interview great critics human personal experience view felt sense young told added age
+14	0.5	day back days time told fire night times man men made shot hand left feet returned months dead killed
+21	0.5	united states american world war ii international america years europe country born simon helped home wife army americans returned
+35	0.5	career time years year began work spent early returned death part decades working left continued including worked full age
+43	0.5	john died richard survived peter wife brother robert home sons michael son hudson years australia born kelly james stanley
+54	0.5	people told interview time don asked good recalled day wanted didn called make thought back job man knew things
+66	0.5	made man called red white hair blue father high dog circus make famous wore put world big named wearing
+68	0.5	pa philadelphia brown jersey pennsylvania died university grandchildren survived princeton years newark pittsburgh lived walker graduate wife school graduated
+69	0.5	life man made times good love great yesterday long age time friends young century style sense gave called success
+71	0.5	year public time years made months role power long called end announced brought control yesterday close forced early statement
+77	0.5	work made called small wine found modern make making working world early began time form light developed set created
+90	0.5	manhattan center lived york hospital died years medical columbia hill survived university complications cohen roosevelt graduate lenox luke college
+94	0.5	time helped make made people high led set put system called effort found began percent gave efforts nation change
+
+Deathstyle
+26	0.5	heart years attack died failure hospital lived wife congestive friday thursday saturday monday kidney apparently tuesday wednesday surgery sunday 
+27	0.5	aids death drug gay mother people found parents disease life treatment complications year companion men sex sexual drugs group
+34	0.5	years died home disease wife lewis survived son grandchildren great born ore complications portland tuesday herbert russell orleans parkinson
+53	0.5	st years louis died hospital joseph lived frank mary john vincent paul gordon sister francis harris rochester brothers survived
+56	0.5	thomas years died james club son wife home golf survived arrest cardiac donald port great family brother harry jr
+65	0.5	died george years scott born wife home son alexander survived family daughter include fisher greek survivors anthony brother including
+78	0.5	years died home nursing north stroke retired clark sunday lived saturday survived carolina friday survivors pneumonia hill thursday ago 
+89	0.5	cancer years died lung memorial lived manhattan survived hospital center yesterday sloan brother home sister liver murray wife kettering
+
+Obituary Corrections
+88	0.5	obituary correction yesterday saturday death late misstated thursday year june york friday april tuesday wednesday died born wife harrison
