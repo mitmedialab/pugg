@@ -7,19 +7,24 @@ require './utilities/guardian/couch.rb'
 
 error_counter = 0
 
-baseurls = {"telegraph"=>"http://telegraph.co.uk", "dailymail"=>"http://dailymail.co.uk", "guardian"=>""}
-url_key = {"telegraph"=>"url", "dailymail"=>"url", "guardian", "webUrl"}
+baseurls = {"telegraph"=>"http://www.telegraph.co.uk", "dailymail"=>"http://www.dailymail.co.uk", "guardian"=>""}
+url_key = {"telegraph"=>"url", "dailymail"=>"url", "guardian"=> "webUrl"}
+database = ARGV[0]
 
 server = Couch::Server.new("localhost", "5984")
 
-index_data = server.get("#{ARGV[0]}/all_docs")
+index_data = JSON.load(server.get("/#{ARGV[0]}/_all_docs").response.body)
 
+index_data["rows"].each do |row|
+  index = row["id"]
 
-index_data.each do |index|
-  article = server.get("#{ARGV[0]}/#{index}")
+  article_url = "/#{database}/#{index}"
+  article = JSON.load(server.get(article_url).response.body)
+
   next if article.has_key? "sharedata"
+
   basepath = ""
-  basepath = baseurls[ARGV[1]] if(!article[url_key[ARGV[0]]].match(/http/))
+  basepath = baseurls[ARGV[0]] if(!article[url_key[ARGV[0]]].match(/http/))
   url = "http://localhost:1337/?q=" + basepath + article[url_key[ARGV[0]]]
 
   begin
@@ -38,7 +43,7 @@ index_data.each do |index|
   print "."
   article["sharedata"] = sharedata
 
-  server.put("#{ARGV[0]}/#{index}", article)
+  server.put("/#{ARGV[0]}/#{index}", article.to_json)
 
   error_counter = 0
   sleep(1.0/8.0)
