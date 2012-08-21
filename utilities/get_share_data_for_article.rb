@@ -8,7 +8,7 @@ index_data = JSON.load(File.open(ARGV[0]))
 error_counter = 0
 counter = 500
 
-baseurls = {"telegraph"=>"http://telegraph.co.uk", "dailymail"=>"http://dailymail.co.uk"}
+baseurls = {"telegraph"=>"http://www.telegraph.co.uk", "dailymail"=>"http://www.dailymail.co.uk", "guardian"=>""}
 
 index_data.each do |date, articles|
   articles.each_index do |index|
