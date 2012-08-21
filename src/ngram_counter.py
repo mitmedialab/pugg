@@ -12,7 +12,7 @@ class WordCounter: # Looks for single words in article fulltexts
         self.papa_dir = papa_dir
         self.phrases = phrases
         
-        # This dictionary will be used when calculating phrase use rate
+        # This dictionary will be used when calculating phrase use/total articles
         self.yearly_female_obit_totals = {1987: 293, 1988: 338, \
                                           1989: 415, 1990: 456, \
                                           1991: 375, 1992: 369, \
@@ -23,10 +23,24 @@ class WordCounter: # Looks for single words in article fulltexts
                                           2001: 232, 2002: 223, \
                                           2003: 193, 2004: 187, \
                                           2005: 156, 2006: 193}
+
+        # This dictionary will be used when calculating phrase use/total words
+        self.yearly_allword_totals = {1987: 93494, 1988: 98204, \
+                                          1989: 119915, 1990: 149492, \
+                                          1991: 119066, 1992: 136511, \
+                                          1993: 120013, 1994: 116375, \
+                                          1995: 135716, 1996: 163163, \
+                                          1997: 152117, 1998: 174124, \
+                                          1999: 143830, 2000: 148206, \
+                                          2001: 156630, 2002: 157607, \
+                                          2003: 126611, 2004: 123912, \
+                                          2005: 105244, 2006: 158888} 
         
       # Create a dictionary mapping phrases to (boolean, int)
       # for marking and counting occurrences of that phrase.
-        self.phrase_bools_count_rate = {phrase: [False, 0, 0] for phrase in phrases}
+      # bool, number of articles using that phrase, num articles phrase/total num articles,
+      #   total phrase uses/total words, total phrase uses
+        self.phrase_counter = {phrase: [False, 0, 0, 0, 0] for phrase in phrases}
 
         self.phrase_fulltext_dict = {} # For .txt's to store relevant fulltext
 
@@ -35,12 +49,12 @@ class WordCounter: # Looks for single words in article fulltexts
       # Create 20 txt files (one per year) associated with each phrase in which
       # to store fulltexts that contain that phrase.
       # Must access using dict[phrase][year-1987]
-        line = "year,total_fem_obit"
+        line = "year,total_fem_obit,total_words" 
         for phrase in self.phrases:
         ###    self.phrase_fulltext_dict[phrase] = \
         ###        [open(self.papa_dir+'/results/'+phrase+'_'+str(i)+'.txt', 'w')\
         ###         for i in range(1987, 2007)]
-            line = line +','+phrase+'_count'+','+phrase+'_rate'
+            line = line +','+phrase+'_count'+','+'articles_containing_'+phrase+'/total_articles'+','+phrase+'_uses/total_words'
 
         print line
 
@@ -52,30 +66,35 @@ class WordCounter: # Looks for single words in article fulltexts
                     for word in word_tokenize(sentence):
                         word = word.lower()
                         if word in self.phrases:
-                            # For now, each article can only count once
-                            if not self.phrase_bools_count_rate[word][0]:
-                                self.phrase_bools_count_rate[word][0] = True
+                            self.phrase_counter[word][4] += 1
+                            if not self.phrase_counter[word][0]:
+                                self.phrase_counter[word][0] = True
                                 ###self.phrase_fulltext_dict[word][year-1987].write(re.sub('\n', ' ', fulltext)+'\n')
                 current_file.close()
                 # Increment phrase count and reset phrase bool to false
                 for phrase in self.phrases:
-                    if self.phrase_bools_count_rate[word][0]:
-                        self.phrase_bools_count_rate[word][1] += 1
-                    self.phrase_bools_count_rate[phrase][0] = False
+                    if self.phrase_counter[phrase][0]:
+                        self.phrase_counter[phrase][1] += 1
+                    self.phrase_counter[phrase][0] = False
 
             # Calculate and store phrase-use-rates
             for phrase in self.phrases:
-                self.phrase_bools_count_rate[phrase][2] = \
-                        self.phrase_bools_count_rate[phrase][1] / \
+                self.phrase_counter[phrase][2] = \
+                        self.phrase_counter[phrase][1] / \
                         float(self.yearly_female_obit_totals[year])
+                self.phrase_counter[phrase][3] = \
+                        self.phrase_counter[phrase][4] / \
+                        float(self.yearly_allword_totals[year])
                 ###self.phrase_fulltext_dict[phrase][year-1987].close()
 
             # Print counts & rates and reset all count variables to 0
-            line = str(year)+','+str(self.yearly_female_obit_totals[year])
+            line = str(year)+','+str(self.yearly_female_obit_totals[year])+','+str(self.yearly_allword_totals[year])
             for phrase in self.phrases:
-                line = line +','+str(self.phrase_bools_count_rate[phrase][1])+','+ \
-                       str(self.phrase_bools_count_rate[phrase][2])
-                self.phrase_bools_count_rate[phrase] = [False, 0, 0]
+                line = line +','+str(self.phrase_counter[phrase][1])+','+ \
+                       str(self.phrase_counter[phrase][2])+','+ \
+                       str(self.phrase_counter[phrase][3])+','+ \
+                       str(self.phrase_counter[phrase][4])
+                self.phrase_counter[phrase] = [False, 0, 0, 0, 0]
                 
             print line
 
