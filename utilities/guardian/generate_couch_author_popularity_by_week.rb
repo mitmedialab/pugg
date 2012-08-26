@@ -94,10 +94,12 @@ class Author
   end
 end
 
-def Author.write_authors yearweek
+def Author.write_authors yearweek, date
   File.open(ARGV[1] + "_#{yearweek}.csv", "wb") do |f|
+    f.write "year,month,week,name,articles,facebook,googleplus,twitter\n"
+    weekfields = "#{date.year.to_s},#{date.month.to_s},#{date.cweek.to_s},"
     Author.get_authors.each do |name, author|
-      f.write author.to_csv + "\n"
+      f.write weekfields + author.to_csv + "\n"
     end
     puts "==o=="
   end
@@ -141,7 +143,7 @@ while more_articles
     curdate_week = curdate.year.to_s + curdate.cweek.to_s
     if(curdate_week!=prevdate_week)
       puts prevdate_week
-      Author.write_authors prevdate_week
+      Author.write_authors prevdate_week, curdate
       Author.delete_all!
     end
     #TODO: Calculate the current week, compare to prev week
