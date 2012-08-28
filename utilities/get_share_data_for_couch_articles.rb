@@ -17,7 +17,8 @@ index_data = JSON.parse(server.get("/#{ARGV[0]}/_all_docs").response.body)
 index_data["rows"].each do |row|
   index = row["id"]
   article = JSON.parse(server.get("/#{ARGV[0]}/#{index}").response.body)
-  if article.has_key? "sharedata" and article["sharedata"].has_key? "total" and article["sharedata"]["total"]!=0
+  if article.has_key? "sharedata" and !article["sharedata"].nil? and 
+     article["sharedata"].has_key? "total" and article["sharedata"]["total"]!=0
     print "o"
     next  
   end
