@@ -91,7 +91,14 @@ index_data["rows"].each do |row|
     rescue Exception=>e
       puts e
     end
-    puts "========YEAH YEAH (#{filename}) YEAH YEAH======="
+  end
+
+  if !article.has_key?("sectionName") and article.has_key?("url")
+    section = article["url"].match(/\/(.*?)\//)
+    section = section[1] if(section.size > 1)
+    article["sectionName"] = section
+    post = true
+    puts "========YEAH YEAH (#{filename}: #{section}) YEAH YEAH======="
   end
 
   server.put("/#{ARGV[0]}/#{index}", article.to_json) if post
