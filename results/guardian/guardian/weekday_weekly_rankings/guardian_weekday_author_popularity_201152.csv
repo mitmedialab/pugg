@@ -1,0 +1,560 @@
+year,month,week,name,articles,facebook,googleplus,twitter
+2012,1,1,Paul Laity,1,34,1,24
+2012,1,1,Martin Wainwright,5,136,7,178
+2012,1,1,Sean Ingle,1,37,0,18
+2012,1,1,Barry Glendenning,3,88,1,163
+2012,1,1,James Richardson,1,37,0,18
+2012,1,1,Noah Payne-Frank,4,235,5,78
+2012,1,1,Nicholas Watt,10,321,1,532
+2012,1,1,Presented by Alok Jha,1,29,2,46
+2012,1,1,produced by Jason Phipps,2,44,2,62
+2012,1,1,Phillip Inman,1,6710,37,711
+2012,1,1,Patrick Collinson,2,15,0,58
+2012,1,1,Rebecca Smithers,3,226,3,65
+2012,1,1,Steve Busfield,2,15,0,6
+2012,1,1,AP,1,7,0,1
+2012,1,1,Staff,20,1313,7,673
+2012,1,1,agencies,37,2883,37,1577
+2012,1,1,Calestous Juma,1,98,3,48
+2012,1,1,GrrlScientist,15,156,31,278
+2012,1,1,Sam Jordison,1,1,0,6
+2012,1,1,David Barnett,1,20,0,15
+2012,1,1,Simon Jeffery,2,198,0,47
+2012,1,1,Mary Hennock,3,425,11,305
+2012,1,1,Will Hayler,9,5,0,52
+2012,1,1,Greg Wood,5,36,2,62
+2012,1,1,Tony Paley,2,0,0,11
+2012,1,1,Stephen Isaac-Wilson,1,38,2,42
+2012,1,1,Allegra Stratton,4,108,0,194
+2012,1,1,Associated Press,43,1882,46,1155
+2012,1,1,Reuters,47,1370,24,956
+2012,1,1,Nick Hopkins,4,244,7,294
+2012,1,1,Oliver Laughland,1,631,22,167
+2012,1,1,Andy Gallagher,2,635,22,178
+2012,1,1,Richard Sprenger,1,631,22,167
+2012,1,1,Paolo Bandini,4,26,0,143
+2012,1,1,Press Association,94,3415,35,2430
+2012,1,1,Saeed Kamali Dehghan,1,835,9,254
+2012,1,1,Henry McDonald,4,172,2,107
+2012,1,1,Alan Gardner,2,7,1,17
+2012,1,1,Peter Walker,4,245,5,246
+2012,1,1,Alexandra Topping,6,1307,9,511
+2012,1,1,Tara Conlan,3,46,0,91
+2012,1,1,Jessica Martin,1,9,0,16
+2012,1,1,Kira Cochrane,1,26,1,53
+2012,1,1,James Meikle,11,1527,8,828
+2012,1,1,Tom Jenkins,1,1,0,4
+2012,1,1,Jonny Weeks,4,22,0,119
+2012,1,1,Sarfraz Manzoor,1,108,0,64
+2012,1,1,Jonathan Steele,1,85,0,58
+2012,1,1,Elisabeth Mahoney,6,42,0,123
+2012,1,1,Mohammed Hanif,1,114,1,21
+2012,1,1,Jonathan Watts,1,54,1,107
+2012,1,1,Dominic Fifield at Stamford Bridge,2,30,0,60
+2012,1,1,Roy Greenslade,10,294,5,443
+2012,1,1,Dan Milmo,5,101,4,240
+2012,1,1,Will Hayler at Kempton,2,29,0,15
+2012,1,1,Leo Hickman,2,176,8,182
+2012,1,1,Masha Gessen,1,712,32,208
+2012,1,1,Nesrine Malik,2,75,1,79
+2012,1,1,Simon Burnton,5,255,2,126
+2012,1,1,Jamie Jackson at Reebok Stadium,1,3,0,10
+2012,1,1,Louise Taylor at Stadium of Light,1,1,0,16
+2012,1,1,Kevin McCarra at The Hawthorns,1,2,0,17
+2012,1,1,Daniel Taylor at Old Trafford,1,34,0,92
+2012,1,1,Paul Wilson at Anfield,3,45,1,70
+2012,1,1,Richard Williams at Stamford Bridge,1,38,0,56
+2012,1,1,Christabelle Davey,1,0,0,37
+2012,1,1,Dennis Ruston,1,2,0,9
+2012,1,1,Brian Glanville,1,1,0,4
+2012,1,1,Ronald Bergan,1,5,0,48
+2012,1,1,Aditya Chakrabortty,1,87,3,39
+2012,1,1,Dave Hill,1,7,0,48
+2012,1,1,Paul Rees at Parc y Scarlets,1,2,0,3
+2012,1,1,Andy Wilson at Edgeley Park,1,0,0,1
+2012,1,1,Owen Bowcott,8,370,8,174
+2012,1,1,Jason Burke,4,247,4,106
+2012,1,1,Paul Weaver at St Mary's,1,2,0,8
+2012,1,1,Katie Allen,7,155,5,248
+2012,1,1,Angelique Chrisafis,1,35,0,28
+2012,1,1,Tom Kington,4,214,8,127
+2012,1,1,Hélène Mulholland,1,27,1,56
+2012,1,1,David Lammy,2,52,1,42
+2012,1,1,Jo Johnson,1,15,0,40
+2012,1,1,Clar Ni Chonghaile,1,279,4,135
+2012,1,1,Mike Averis at Kingsholm,1,2,0,2
+2012,1,1,Greg Wood at Kempton Park,1,4,0,4
+2012,1,1,Riazat Butt,5,697,10,270
+2012,1,1,Jill Treanor,3,19,0,96
+2012,1,1,Stuart James at The Hawthorns,1,49,0,42
+2012,1,1,Greg Wood at Kempton,1,10,0,4
+2012,1,1,Tom Phillips,3,738,11,237
+2012,1,1,Stephen Bates,5,251,9,259
+2012,1,1,Lucy Mangan,6,36,0,84
+2012,1,1,Jessica Shepherd,3,449,5,421
+2012,1,1,John Kampfner,1,79,3,60
+2012,1,1,Daniel Taylor,1,21,0,42
+2012,1,1,Stuart James,2,74,0,100
+2012,1,1,Ben Quinn,5,1016,26,528
+2012,1,1,John Vallins,1,5,0,15
+2012,1,1,Sam Delaney,1,15,1,40
+2012,1,1,Ronan Bennett,1,1,0,2
+2012,1,1,Daniel King,1,1,0,2
+2012,1,1,Imogen Fox,2,53,1,53
+2012,1,1,Robert Kitson,1,0,0,4
+2012,1,1,Richard Rae at Britannia Stadium,1,0,0,15
+2012,1,1,Andy Wilson,2,19,0,12
+2012,1,1,Editorial,15,570,8,667
+2012,1,1,Scott Murray,3,56,0,41
+2012,1,1,Paul MacInnes,2,155,3,65
+2012,1,1,Alexis Petridis,3,143,1,63
+2012,1,1,Kitty Empire,1,112,0,26
+2012,1,1,Tim Jonze,1,112,0,26
+2012,1,1,Jonathan Jones,2,100,3,74
+2012,1,1,Mark O'Brien,4,23,0,42
+2012,1,1,Owen Barder,1,99,2,139
+2012,1,1,Justine Jordan,1,20,2,19
+2012,1,1,Shiv Malik,10,1191,16,620
+2012,1,1,David Smith,6,593,13,244
+2012,1,1,George Hall,2,1,0,21
+2012,1,1,Rol,1,1324,19,411
+2012,1,1,Kelts,1,1324,19,411
+2012,1,1,Lauren,1,0,0,9
+2012,1,1,Sophie Barnes,1,37,0,25
+2012,1,1,Ben Dowell,1,20,1,19
+2012,1,1,Steven Morris,1,59,3,78
+2012,1,1,Ben Child,8,767,11,278
+2012,1,1,Emma Kennedy,2,3,0,23
+2012,1,1,Paul Rees,3,2,0,8
+2012,1,1,Luis Hernández Navarro,1,45,0,27
+2012,1,1,Michael Billington,2,117,2,45
+2012,1,1,Joris Luyendijk,2,294,4,176
+2012,1,1,Nicholas Lezard,1,36,0,38
+2012,1,1,Caroline Davies,5,134,3,137
+2012,1,1,Philippe Jacqué,1,3,0,23
+2012,1,1,Sally Saint-Rémy,1,6,0,12
+2012,1,1,Laurent Borredon,1,8,0,4
+2012,1,1,Benjamen Walker,1,120,6,53
+2012,1,1,Richard Adams,6,185,5,202
+2012,1,1,Bruno Philip,1,39,0,27
+2012,1,1,Neil Willis,1,0,0,4
+2012,1,1,Jim Falzarano,1,8,0,4
+2012,1,1,Giles Tremlett,1,23,0,31
+2012,1,1,Andorra,1,23,0,31
+2012,1,1,Kate Harrad,1,189,3,85
+2012,1,1,Dixe Wills,1,187,0,56
+2012,1,1,Jill Insley,3,77,1,49
+2012,1,1,Open thread,4,33,2,97
+2012,1,1,Jonathan Wilson,1,44,1,77
+2012,1,1,Chris McGreal,1,16,2,36
+2012,1,1,Lizzy Davies,3,84,3,195
+2012,1,1,Hayder al-Khoei,1,23,0,37
+2012,1,1,Helen Pidd,4,230,6,134
+2012,1,1,Berlin,1,25,0,17
+2012,1,1,,1,25,0,17
+2012,1,1,Ian McMillan,1,16,0,22
+2012,1,1,David Hytner at Emirates Stadium,1,6,0,19
+2012,1,1,Robert Booth,7,655,31,979
+2012,1,1,Kim Willsher,2,29,4,73
+2012,1,1,Owen Gibson,3,106,0,162
+2012,1,1,Rachel Shabi,1,72,0,59
+2012,1,1,Dominic Fifield,5,63,0,161
+2012,1,1,Paul Rees at Sixways,1,0,0,3
+2012,1,1,Will Hayler at Kempton Park,1,0,0,3
+2012,1,1,Ewan Murray,6,21,0,42
+2012,1,1,Mark King,3,123,3,178
+2012,1,1,Paul Doyle,4,69,0,164
+2012,1,1,Juliette Garside,6,88,10,528
+2012,1,1,Adam Sweeting,1,246,2,54
+2012,1,1,Simon Jenkins,1,628,2,147
+2012,1,1,Zoe Wood,5,101,2,232
+2012,1,1,Julia Finch,1,7,0,34
+2012,1,1,Terry Macalister,3,27,0,155
+2012,1,1,Nick Fletcher,10,21,0,83
+2012,1,1,Julia Kollewe,2,10,0,57
+2012,1,1,Simon Bowers,3,42,1,146
+2012,1,1,Rupert Neate,1,7,0,34
+2012,1,1,Richard Wachman,1,7,0,34
+2012,1,1,Joe Lovejoy at Liberty Stadium,1,1,0,9
+2012,1,1,Greg Wood at Leopardstown,5,67,0,27
+2012,1,1,Brian Braiker,3,738,2,161
+2012,1,1,Vicky Frost,2,33,1,65
+2012,1,1,Harriet Sherwood,3,1017,14,267
+2012,1,1,Julian Borger,3,191,15,140
+2012,1,1,Jane Martinson,1,33,0,27
+2012,1,1,Glenn Greenwald,1,1933,25,294
+2012,1,1,Severin Carrell,1,78,1,108
+2012,1,1,Scotl,1,78,1,108
+2012,1,1,Karen McVeigh,2,1394,11,163
+2012,1,1,Abdel-Rahman Hussein,1,415,7,144
+2012,1,1,David Hytner at the Emirates Stadium,2,26,0,41
+2012,1,1,Robert Kitson at Twickenham,1,4,0,8
+2012,1,1,Interviews by Homa Khaleeli,1,3105,18,583
+2012,1,1,Rob Fearn,1,3105,18,583
+2012,1,1,Amy Fleming,1,3105,18,583
+2012,1,1,Sarah Phillips,1,3105,18,583
+2012,1,1,Paula Cocozza,1,3105,18,583
+2012,1,1,Paul Evans,1,8,0,21
+2012,1,1,Juliette Jowit,3,767,21,393
+2012,1,1,Denis Campbell,5,953,8,602
+2012,1,1,Sam Wollaston,2,40,1,39
+2012,1,1,Ben Jennings,3,64,0,45
+2012,1,1,Paul Simons,1,4,0,34
+2012,1,1,Louise Taylor,5,108,0,120
+2012,1,1,Rob Smyth,1,28,1,55
+2012,1,1,Barney Ronay,4,159,1,58
+2012,1,1,Russell Kempson at Carrow Road,2,41,0,55
+2012,1,1,Andrew Pulver,4,1316,14,219
+2012,1,1,Catherine Shoard,4,1308,14,212
+2012,1,1,Peter Bradshaw,4,141,5,83
+2012,1,1,Henry Barnes,4,1298,14,197
+2012,1,1,Xan Brooks,3,1298,14,197
+2012,1,1,Justin McCurry,5,970,22,346
+2012,1,1,Alok Jha,3,593,24,338
+2012,1,1,Ian Sample,4,1996,47,523
+2012,1,1,Heydon Prowse,1,68,0,35
+2012,1,1,William Pine,1,68,0,35
+2012,1,1,Emma Cardwell,1,68,0,35
+2012,1,1,Julia Letts,1,12,0,9
+2012,1,1,Polly Curtis,1,53,1,61
+2012,1,1,Penny Darbyshire,1,4,0,20
+2012,1,1,Kaila Colbin,1,26,2,33
+2012,1,1,<a href="http://www.ccskills.org.uk/" title="">Creative,2,32,3,59
+2012,1,1,Cultural Skills</a>,2,32,3,59
+2012,1,1,part of the <a href="http://www.guardian.co.uk/culture-professionals-network">Guardian Culture Professionals Network</a>,1,26,2,33
+2012,1,1,Krazy Kesh,1,0,0,13
+2012,1,1,Sean O'Hagan,1,143,2,76
+2012,1,1,Kevin Watkins,1,71,0,66
+2012,1,1,Guardian Government Computing,2,0,0,10
+2012,1,1,Jonathan Rée,1,120,3,96
+2012,1,1,Hilary Osborne,4,140,1,156
+2012,1,1,Maria Adebowale for the <a href="http://www.guardian.co.uk/guardian-professional" title="Guardian Professional Network">Guardian Professional Network</a>,1,5,0,14
+2012,1,1,Josh Halliday,7,66,8,511
+2012,1,1,Keith Stuart,5,28,5,268
+2012,1,1,Richard Wilson,1,11,0,14
+2012,1,1,Alex Hawkes,5,2,0,30
+2012,1,1,Martin Feldstein,1,27,0,32
+2012,1,1,Ally Fogg,1,33,1,20
+2012,1,1,Rosie Birkett,1,15,1,11
+2012,1,1,Tony Naylor,2,88,0,24
+2012,1,1,Liam Kelly,1,6,0,23
+2012,1,1,William Skidelsky,1,32,1,11
+2012,1,1,Natalie Bennett,1,0,0,3
+2012,1,1,Monkey,5,68,0,114
+2012,1,1,John Plunkett,4,143,0,128
+2012,1,1,Richard Williams,1,85,2,36
+2012,1,1,John Domokos,1,513,2,111
+2012,1,1,Christian Bennett,1,513,2,111
+2012,1,1,Chris Power,1,198,0,98
+2012,1,1,Katy Murrells,2,31,0,79
+2012,1,1,Colin Horgan,1,4,1,5
+2012,1,1,Kerry Eustice,1,13,2,37
+2012,1,1,Stuart Jeffries,2,127,5,135
+2012,1,1,Damian Carrington,1,244,11,262
+2012,1,1,Yvonne Antrobus,1,10,0,4
+2012,1,1,By Shafi'i Mohyaddin Abokar,1,27,2,38
+2012,1,1,for <a href="http://www.ips.org/institutional/" title="">IPS</a>,1,27,2,38
+2012,1,1,part of the <a href="http://www.guardian.co.uk/global-development/series/guardian-development-network" title="">Guardian development network</a>,3,50,3,49
+2012,1,1,Carol Rumens,1,7,0,20
+2012,1,1,Walter Schwarz,1,4,0,19
+2012,1,1,Julie Willis,1,26,0,53
+2012,1,1,Heather Stewart,4,172,7,101
+2012,1,1,Mark Vernon,1,38,0,40
+2012,1,1,Jonathan Heawood,1,6,0,50
+2012,1,1,Andrew Purcell,1,36,0,12
+2012,1,1,Michael McNay,1,390,0,33
+2012,1,1,Mike Selvey,1,10,0,14
+2012,1,1,Matthew Taylor,1,210,3,117
+2012,1,1,Esther Addley,1,210,3,117
+2012,1,1,Laura Oliver,2,14,0,116
+2012,1,1,David Cohen,1,238,4,87
+2012,1,1,Jamie Jackson,9,350,2,292
+2012,1,1,Michelle Pauli,2,110,1,77
+2012,1,1,Stephen Burgen,2,180,1,65
+2012,1,1,Dalya Alberge,2,504,8,195
+2012,1,1,Helena Smith,1,1375,17,308
+2012,1,1,SA Mathieson,1,4,1,15
+2012,1,1,Andrew Woods,1,55,0,28
+2012,1,1,John Hooper,3,142,6,108
+2012,1,1,Constanze Letsch,3,592,7,89
+2012,1,1,Felicity Cloake,2,128,2,51
+2012,1,1,Amy Goodman,1,495,6,102
+2012,1,1,AW Moore,1,1000,33,182
+2012,1,1,Jack Shenker,1,2074,8,363
+2012,1,1,Paul Harris,5,577,4,206
+2012,1,1,Agencies,5,18,0,44
+2012,1,1,Ewen MacAskill,5,208,2,147
+2012,1,1,Zoe Williams,1,71,0,95
+2012,1,1,Ana Marie Cox,3,67,4,85
+2012,1,1,Patrick Wintour,2,17,4,65
+2012,1,1,Charlie Brooker,1,1132,34,538
+2012,1,1,Jonathan Freedland,1,171,1,53
+2012,1,1,Irel,2,131,0,63
+2012,1,1,Sarah Hughes,2,66,4,284
+2012,1,1,Pete Cashmore,2,635,3,75
+2012,1,1,Raz Akkoc,1,125,0,67
+2012,1,1,Patrick Kingsley,1,125,0,67
+2012,1,1,Peter Robinson,1,86,1,47
+2012,1,1,Ray Collier,1,4,0,31
+2012,1,1,Mark Lawson,2,87,0,70
+2012,1,1,Alex Rayner,1,11,0,70
+2012,1,1,Gregg McClymont,1,40,0,69
+2012,1,1,Ben Jackson,1,40,0,69
+2012,1,1,Vikram Dodd,2,16,0,10
+2012,1,1,Steve Bell,1,89,1,107
+2012,1,1,Dan Sabbagh,2,8,1,39
+2012,1,1,John Crace,1,42,4,73
+2012,1,1,Guardian football writers,1,46,1,51
+2012,1,1,Kevin McCarra,2,34,0,82
+2012,1,1,Paul Wilson,4,47,0,101
+2012,1,1,Joanna Walters,1,56,2,11
+2012,1,1,Kate Ravilious,1,2,0,1
+2012,1,1,Phoebe Greenwood,1,237,4,88
+2012,1,1,David Hytner,4,246,0,128
+2012,1,1,Ewan Murray at Celtic Park,1,55,0,32
+2012,1,1,Zia Mahmood,1,2,0,1
+2012,1,1,Martin Williams,1,21,1,51
+2012,1,1,Jeevan Vasagar,1,21,1,51
+2012,1,1,Rupert Jones,2,61,2,34
+2012,1,1,Randeep Ramesh,1,53,0,61
+2012,1,1,James Brickell,1,37,0,22
+2012,1,1,Jayati Ghosh,1,25,0,28
+2012,1,1,Trevor Phillips,1,6,1,26
+2012,1,1,part of the <a href="http://www.guardian.co.uk/culture-professionals-network" title="">Guardian Culture Professionals Network</a>,1,6,1,26
+2012,1,1,Jill Papworth,1,6,0,30
+2012,1,1,Simon Rogers,3,300,28,319
+2012,1,1,Sade Laja,1,0,0,4
+2012,1,1,Skye Sherwin,1,25,0,20
+2012,1,1,John Dugdale,1,51,2,26
+2012,1,1,jamesk96,1,0,0,3
+2012,1,1,Alex von Tunzelmann,1,61,0,24
+2012,1,1,Dan Holloway,1,117,0,18
+2012,1,1,Alfred Hickling,1,5,0,4
+2012,1,1,Ed Gillespie for the <a href="http://www.guardian.co.uk/guardian-professional" title="Guardian Professional Network">Guardian Professional Network</a>,1,15,0,36
+2012,1,1,Emily Dashwood,1,282,2,109
+2012,1,1,Martin Godwin,1,95,0,27
+2012,1,1,Nicky Rojas,1,95,0,27
+2012,1,1,Jim Powell,1,95,0,27
+2012,1,1,Ryan Lewis,1,16,0,38
+2012,1,1,Fiona Harvey,2,359,7,364
+2012,1,1,Peter Lennon,1,14,1,7
+2012,1,1,Charles Arthur,6,534,39,928
+2012,1,1,Sean Michaels,2,66,1,35
+2012,1,1,Hans Lucht,1,124,1,52
+2012,1,1,Julia Raeside,1,8,0,30
+2012,1,1,Matt Hall,1,26,2,15
+2012,1,1,Dan Collyns,2,122,2,90
+2012,1,1,Salar de Uyuni,1,108,2,53
+2012,1,1,Bolivia,1,108,2,53
+2012,1,1,Lisa Allardice,1,168,2,25
+2012,1,1,Hunter Felt,1,9,0,6
+2012,1,1,Gavan Titley,1,505,6,138
+2012,1,1,John O'Brennan,1,505,6,138
+2012,1,1,Helienne Lindvall,1,55,1,122
+2012,1,1,Mark Sweney,7,931,7,427
+2012,1,1,Jonathan Crowther,1,0,0,9
+2012,1,1,Presented by James Richardson,1,11,0,22
+2012,1,1,produced by Ben Green,1,11,0,22
+2012,1,1,Michael Cragg,2,25,1,30
+2012,1,1,Presented by Jason Solomons,1,15,0,16
+2012,1,1,with Xan Brooks,1,15,0,16
+2012,1,1,Tracey Brown,1,156,6,168
+2012,1,1,Tom Parfitt,3,83,1,103
+2012,1,1,Alistair Smith,1,21,0,29
+2012,1,1,Alan Connor,1,13,0,22
+2012,1,1,Interview by Emma Bird,1,3,0,8
+2012,1,1,David Skelton,1,281,0,130
+2012,1,1,Jack Schofield,1,6,0,77
+2012,1,1,Mark Brown,1,73,0,43
+2012,1,1,Fiona Walsh,1,15,0,19
+2012,1,1,Keza MacDonald,1,3,0,63
+2012,1,1,By <a href="http://www.irinnews.org/" title="">IRIN</a>,2,23,1,11
+2012,1,1,Paul Carr,1,23,2,199
+2012,1,1,Adam Boult,2,30,0,147
+2012,1,1,Alan Travis,6,2294,25,695
+2012,1,1,Graham Turner,1,1,0,12
+2012,1,1,Paddy Allen,1,48,0,25
+2012,1,1,Nina Hymans,1,48,0,25
+2012,1,1,Simon Tisdall,1,129,1,43
+2012,1,1,Peter Beaumont,4,1404,13,408
+2012,1,1,Suzanne Goldenberg,1,55,2,114
+2012,1,1,Cuba,1,55,2,114
+2012,1,1,Giles Fraser,1,112,0,51
+2012,1,1,Guardian readers,1,84,1,90
+2012,1,1,John Longhurst,1,7,0,1
+2012,1,1,Dan Gillmor,1,73,19,238
+2012,1,1,Marie-Louise Ng,1,5,5,28
+2012,1,1,Simon Goodley,2,10,2,113
+2012,1,1,Michael White,2,8,0,18
+2012,1,1,Graeme Wearden,2,73,2,172
+2012,1,1,Charles Saatchi,2,163,3,56
+2012,1,1,Helen Carter,2,222,0,96
+2012,1,1,Jon Boone,1,231,3,34
+2012,1,1,Morven Crumlish,1,55,2,19
+2012,1,1,Oliver Thring,1,48,1,22
+2012,1,1,Brian Whitaker,2,154,1,61
+2012,1,1,Agnès Poirier,1,60,3,42
+2012,1,1,David Batty,9,635,23,793
+2012,1,1,Maev Kennedy,2,47,5,48
+2012,1,1,Joshua Alston,1,204,1,51
+2012,1,1,Christine Smith,1,5,1,42
+2012,1,1,Adrian Searle,1,68,3,30
+2012,1,1,Alison Flood,2,76,0,37
+2012,1,1,Guardian writers,1,68,1,38
+2012,1,1,Judith Mackrell,1,46,0,19
+2012,1,1,Tom Service,1,17,2,30
+2012,1,1,Stephen Lee,1,4,0,0
+2012,1,1,Alex Needham,3,164,1,83
+2012,1,1,Shaun Edwards,1,8,0,13
+2012,1,1,Jonathan Glancey,2,192,7,140
+2012,1,1,Richard Vine,1,2,0,28
+2012,1,1,Caspar Llewellyn Smith,1,21,1,29
+2012,1,1,Sali Hughes,2,94,0,18
+2012,1,1,Lauren Niland,1,4,0,1
+2012,1,1,John Ashdown,1,7,1,29
+2012,1,1,Iowa,1,70,0,30
+2012,1,1,Sarah Boseley,2,28,0,55
+2012,1,1,Deborah Bräutigam,1,192,2,54
+2012,1,1,Graham Hayday,1,3,0,30
+2012,1,1,Martin Kettle,1,58,1,58
+2012,1,1,Adam Lopez,1,175,0,116
+2012,1,1,Lisa Bachelor,4,35,0,51
+2012,1,1,Lyn Gardner,1,42,1,28
+2012,1,1,Bookworm 55,1,1,0,3
+2012,1,1,Miranda France,1,4,0,11
+2012,1,1,Ami Sedghi,1,187,24,251
+2012,1,1,Lisa Evans,1,187,24,251
+2012,1,1,James Ball,1,187,24,251
+2012,1,1,Kathryn Hughes,1,10,1,16
+2012,1,1,Matthew Baxter-Reynolds,1,322,25,447
+2012,1,1,Martin Chulov,2,83,2,94
+2012,1,1,Richard Norton-Taylor,1,38,0,42
+2012,1,1,Rick Peters,1,400,2,102
+2012,1,1,Simon Murphy,2,162,0,49
+2012,1,1,Liz Ford,2,118,3,60
+2012,1,1,James Dart,2,1,0,13
+2012,1,1,Richard Lea,1,18,0,58
+2012,1,1,Tim Farron,1,15,0,18
+2012,1,1,Simon Zadek for the <a href="http://www.guardian.co.uk/guardian-professional" title="Guardian Professional Network">Guardian Professional</a>,1,45,1,33
+2012,1,1,Claire Provost,1,80,1,26
+2012,1,1,Kevin Rushby,2,300,2,101
+2012,1,1,Presented by Claire Armitstead,1,7,0,55
+2012,1,1,produced by Tim Maby,1,7,0,55
+2012,1,1,Nushin Arbabzadah,1,344,0,104
+2012,1,1,Ian Malin,2,0,0,4
+2012,1,1,Sophie Ellis,1,107,0,58
+2012,1,1,Maggie Brown,1,23,0,35
+2012,1,1,Joanna Moorhead,1,850,2,92
+2012,1,1,Leonard Barden,1,6,0,2
+2012,1,1,David Lacey,1,1,0,12
+2012,1,1,Sarah Crown,1,4,1,12
+2012,1,1,Matt Davis,1,114,0,8
+2012,1,1,Julie Bindel,2,52,1,60
+2012,1,1,Peter Preston,1,17,0,28
+2012,1,1,Rachel Holmes,1,70,0,32
+2012,1,1,Ken Macfarlane,1,0,0,0
+2012,1,1,Kieran Yates,1,106,3,76
+2012,1,1,Jess Cartner-Morley,2,107,1,34
+2012,1,1,Priscilla Kwateng,1,106,1,29
+2012,1,1,Elliot Smith,1,106,1,29
+2012,1,1,Bruce Bueno de Mesquita,1,17,0,11
+2012,1,1,Christopher Masters,1,60,2,23
+2012,1,1,Luke Harding,1,103,1,33
+2012,1,1,John Vidal,3,1715,13,397
+2012,1,1,Presented by Alexis Petridis,1,10,0,36
+2012,1,1,produced by Scott Cawley,1,10,0,36
+2012,1,1,Hannah Waldram,1,0,0,1
+2012,1,1,James Walsh,1,0,0,1
+2012,1,1,Guardian Readers,1,0,0,1
+2012,1,1,Joshua Surtees,1,21,0,15
+2012,1,1,Jason Deans,1,101,0,35
+2012,1,1,Adam Gabbatt,1,58,32,164
+2012,1,1,Richard Thomas,1,5,2,15
+2012,1,1,Marina Hyde,1,29,0,29
+2012,1,1,Gail Rebuck,1,1517,29,602
+2012,1,1,Philip Hoare,1,10,0,34
+2012,1,1,John Fordham,1,33,0,12
+2012,1,1,Pope Benedict XVI,1,40,2,23
+2012,1,1,Polly Toynbee,1,1046,3,423
+2012,1,1,Delly Mawazo Sesete,1,1082,20,548
+2012,1,1,Derek Niemann,1,1,0,38
+2012,1,1,Simon Hoggart,1,0,0,11
+2012,1,1,Gary Barker,1,21,0,16
+2012,1,1,Ian Jack,1,17,0,21
+2012,1,1,Philip Ball,1,45,12,36
+2012,1,1,Tim Radford,1,0,0,5
+2012,1,1,Tim Rich,1,30,0,49
+2012,1,1,Gemma Bowes,1,15,0,21
+2012,1,1,Jonathan Knott,1,330,0,111
+2012,1,1,Nikki Bayley,1,60,0,50
+2012,1,1,Linda Buckley-Archer,1,2,0,12
+2012,1,1,Steven Poole,1,0,1,14
+2012,1,1,John Mullan,2,19,1,17
+2012,1,1,Sue Arnold,1,1,0,11
+2012,1,1,Louisa Young,1,1,0,30
+2012,1,1,Laura Wilson,1,18,0,11
+2012,1,1,Paul Batchelor,1,25,0,10
+2012,1,1,Thomas Jones,1,10,1,12
+2012,1,1,Hisham Matar,1,26,1,9
+2012,1,1,Miles Brignall,3,7,0,23
+2012,1,1,Decca Aitkenhead,1,174,3,209
+2012,1,1,Jane Perrone,1,2,0,2
+2012,1,1,Stephen Collins,1,16,0,10
+2012,1,1,Fiona Beckett,1,6,0,6
+2012,1,1,Matthew Fort,1,4,0,0
+2012,1,1,Dan Lepard,1,71,0,18
+2012,1,1,Yotam Ottolenghi,1,32,0,6
+2012,1,1,Rosanna Greenstreet,1,3,1,6
+2012,1,1,John Butler,1,180,3,25
+2012,1,1,Alys Fowler,2,11,0,1
+2012,1,1,Micky Flanagan,1,1,0,10
+2012,1,1,John Lanchester,1,22,0,9
+2012,1,1,Becky Barnicoat. Photograph: <a href="http://www.emilystein.co.uk/" title="">Emily Stein</a>,1,3,0,5
+2012,1,1,Hugh Fearnley-Whittingstall,1,33,1,17
+2012,1,1,Thomas Eaton,1,0,0,1
+2012,1,1,Tim Dowling,1,18,0,7
+2012,1,1,The Secret Footballer,1,18,1,11
+2012,1,1,Andy Hunter,1,5,0,20
+2012,1,1,Richard Williams at Anfield,1,1,0,14
+2012,1,1,Barney Ronay at St Mary's,1,2,0,2
+2012,1,1,Andrew Collins,1,4,0,11
+2012,1,1,Emine Saner,1,136,1,124
+2012,1,1,Charlie Condou,1,1,0,2
+2012,1,1,Carol Birch,1,11,0,60
+2012,1,1,Steven Appleby,1,34,0,0
+2012,1,1,Annalisa Barbieri,2,7,0,4
+2012,1,1,Jon Henley,1,152,0,38
+2012,1,1,Stephen Carrick-Davies,1,117,3,68
+2012,1,1,Kathryn Flett,1,0,0,9
+2012,1,1,Nick McGrath,1,76,0,30
+2012,1,1,Interview by Oliver Laughland,1,5,0,7
+2012,1,1,Jennie Price,1,1,0,29
+2012,1,1,Bidisha,1,1,0,0
+2012,1,1,Stephen Moss,1,64,2,96
+2012,1,1,Gerry Adams,1,26,2,36
+2012,1,1,Shelagh McKinlay,1,24,0,37
+2012,1,1,Paul Wilson at Old Trafford,2,116,0,86
+2012,1,1,David Hopps at Oakwell,1,4,0,7
+2012,1,1,Kevin Mitchell,2,57,0,69
+2012,1,1,Clancy Sigal,1,28,0,20
+2012,1,1,Dan Logen,1,5,2,24
+2012,1,1,Ganesh Gupta,1,131,5,48
+2012,1,1,Robin McKie,2,87,2,144
+2012,1,1,Rob Bagchi,1,4,0,117
+2012,1,1,Barney Ronay at the Liberty Stadium,1,2,0,7
+2012,1,1,Joe Lovejoy at the Reebok Stadium,1,0,0,6
+2012,1,1,Jamie Jackson at Carrow Road,1,1,0,10
+2012,1,1,Toby Helm,2,223,5,300
+2012,1,1,Will Hayler at Newbury,1,0,0,3
+2012,1,1,Vanessa Thorpe,2,100,2,109
+2012,1,1,Mike Averis at Sandy Park,1,0,0,6
+2012,1,1,Tracy McVeigh,1,151,1,129
+2012,1,1,Jamie Doward,2,153,4,172
+2012,1,1,Sachin Nakrani,1,110,0,49
+2012,1,1,Joe Berger,1,0,0,7
+2012,1,1,Pascal Wyse,1,0,0,7
+2012,1,1,Giles Richards,1,1,0,5
+2012,1,1,Observer Sport staff,1,27,0,33
+2012,1,1,David James,1,10,0,4
+2012,1,1,David Hopps,1,1,0,8
+2012,1,1,David Hills,1,58,2,46
