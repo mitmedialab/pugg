@@ -57,9 +57,15 @@ class WordCounter: # Looks for single words in article fulltexts
       # and dict[phrase][1][year-1987], respectively.
         line = "year" 
         for phrase in self.phrases:
+<<<<<<< HEAD
 	    self.phrase_fulltext_dict[phrase] = [[],[]]
             self.phrase_fulltext_dict[phrase][0] = \
                 [open(self.papa_dir+'/results/'+phrase+'_full_'+str(i)+'.txt', 'w') for i in range(1987, 2007)]
+=======
+            self.phrase_fulltext_dict[phrase][0] = \
+                [open(self.papa_dir+'/results/'+phrase+'_full_'+str(i)+'.txt', 'w')\
+                 for i in range(1987, 2007)]
+>>>>>>> 475d63241309e7a435fbf3ce99b60d76d2aa500a
             self.phrase_fulltext_dict[phrase][1] = \
                 [open(self.papa_dir+'/results/'+phrase+'_sent_'+str(i)+'.txt', 'w')\
                  for i in range(1987, 2007)]
@@ -89,7 +95,11 @@ class WordCounter: # Looks for single words in article fulltexts
             for phrase in self.phrases:
                 self.phrase_counter[phrase][1][year] = \
                     (self.phrase_counter[phrase][0]/float(self.yearly_allword_totals[year]))*100000
+<<<<<<< HEAD
                 line = line + ',' + str(self.phrase_counter[phrase][1][year])
+=======
+                line = line + ',' + self.phrase_counter[phrase][1][year]
+>>>>>>> 475d63241309e7a435fbf3ce99b60d76d2aa500a
                 self.phrase_counter[phrase][0] = 0
             print line
 
@@ -168,5 +178,10 @@ class WordCounter: # Looks for single words in article fulltexts
                 
             
 if __name__ == "__main__":
+<<<<<<< HEAD
     word_counter = WordCounter(['grandchildren', 'brother', 'sister', 'daughter', 'husband', 'son', 'family', 'wife', 'children', 'friend', 'divorce', 'child', 'married', 'mother', 'father'], "obits_fem")
     word_counter.count_words()
+=======
+    word_counter = WordCounter(["married", "founded", "research"], "obits_fem")
+    word_counter.count_change_ratio_and_avg_rate()
+>>>>>>> 475d63241309e7a435fbf3ce99b60d76d2aa500a
