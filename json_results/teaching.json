@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": -4, 
+        "max_height": 402, 
         "id": "meta-data", 
-        "midline": 193, 
+        "midline": 396, 
         "word": "Teaching", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 0.126, 
+        "s_f": 7.936507936507937, 
         "words_included": "teacher, schoolteacher", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,192S40,196,50,196L70,196S80,196,80,195S80,195,90,195L110,195S120,195,120,195S120,196,130,196L150,196S160,196,160,196S160,196,170,196L190,196S200,196,200,196S200,196,210,196L230,196S240,196,240,195S240,195,250,195L270,195S280,195,280,194S280,194,290,194L310,194S320,194,320,194S320,195,330,195L350,195S360,195,360,195S360,195,370,195L390,195S400,195,400,194S400,194,410,194L430,194S440,194,440,194S440,194,450,194L470,194S480,194,480,194S480,195,490,195L510,195S520,195,520,194S520,194,530,194L550,194S560,194,560,194S560,194,570,194L590,194S600,194,600,194S600,194,610,194L630,194S640,194,640,194S640,194,650,194L670,194S680,194,680,194S680,194,690,194L710,194S720,194,720,194S720,195,730,195L750,195S760,195,760,194S760,194,770,194L790,194S800,194,800,194S800,195,810,195L830,195S840,195,840,198L840,192", 
-            "M40,193S40,190,50,190L70,190S80,190,80,191S80,191,90,191L110,191S120,191,120,191S120,190,130,190L150,190S160,190,160,190S160,190,170,190L190,190S200,190,200,190S200,190,210,190L230,190S240,190,240,191S240,191,250,191L270,191S280,191,280,192S280,192,290,192L310,192S320,192,320,192S320,191,330,191L350,191S360,191,360,191S360,191,370,191L390,191S400,191,400,192S400,192,410,192L430,192S440,192,440,192S440,192,450,192L470,192S480,192,480,192S480,191,490,191L510,191S520,191,520,192S520,192,530,192L550,192S560,192,560,192S560,192,570,192L590,192S600,192,600,192S600,192,610,192L630,192S640,192,640,192S640,192,650,192L670,192S680,192,680,192S680,192,690,192L710,192S720,192,720,192S720,191,730,191L750,191S760,191,760,192S760,192,770,192L790,192S800,192,800,192S800,191,810,191L830,191S840,191,840,188"
+            "M40,395L40,592S40,602,50,602L70,602S80,602,80,592L80,561S80,551,90,551L110,551S120,551,120,561L120,584S120,594,130,594L150,594S160,594,160,584L160,584S160,574,170,574L190,574S200,574,200,578S200,582,210,582L230,582S240,582,240,572L240,533S240,523,250,523L270,523S280,523,280,513L280,513S280,503,290,503L310,503S320,503,320,511S320,519,330,519L350,519S360,519,360,527S360,535,370,535L390,535S400,535,400,525L400,481S400,471,410,471L430,471S440,471,440,471S440,471,450,471L470,471S480,471,480,481L480,529S480,539,490,539L510,539S520,539,520,529L520,509S520,499,530,499L550,499S560,499,560,489L560,461S560,451,570,451L590,451S600,451,600,461L600,465S600,475,610,475L630,475S640,475,640,485L640,489S640,499,650,499L670,499S680,499,680,495S680,491,690,491L710,491S720,491,720,501L720,505S720,515,730,515L750,515S760,515,760,509S760,503,770,503L790,503S800,503,800,511S800,519,810,519L830,519S840,519,840,509L840,396L840,395", 
+            "M40,396L40,200S40,190,50,190L70,190S80,190,80,200L80,231S80,241,90,241L110,241S120,241,120,231L120,208S120,198,130,198L150,198S160,198,160,208L160,208S160,218,170,218L190,218S200,218,200,214S200,210,210,210L230,210S240,210,240,220L240,259S240,269,250,269L270,269S280,269,280,279L280,279S280,289,290,289L310,289S320,289,320,281S320,273,330,273L350,273S360,273,360,265S360,257,370,257L390,257S400,257,400,267L400,311S400,321,410,321L430,321S440,321,440,321S440,321,450,321L470,321S480,321,480,311L480,263S480,253,490,253L510,253S520,253,520,263L520,283S520,293,530,293L550,293S560,293,560,303L560,331S560,341,570,341L590,341S600,341,600,331L600,327S600,317,610,317L630,317S640,317,640,307L640,303S640,293,650,293L670,293S680,293,680,297S680,301,690,301L710,301S720,301,720,291L720,287S720,277,730,277L750,277S760,277,760,283S760,289,770,289L790,289S800,289,800,281S800,273,810,273L830,273S840,273,840,283L840,396"
         ], 
         "y_spacing": 190
     }, 
@@ -61,7 +61,7 @@
             "Miss Kryl was born in Philadelphia on July 4, 1897, but lived most of her early life in Chicago, where she studied with the well-known pianist and teacher Rudolph Ganz.", 
             "At the time of her second marriage she retired from singing - still, as her recordings of 1932 demonstrate, at the height of her powers - and began a long and notable career as a teacher."
         ], 
-        "height": -4, 
+        "height": 402, 
         "rate": 52, 
         "start_y": 195, 
         "id": 0
@@ -97,9 +97,9 @@
             "'' From Teacher to Writer Miss Parish was born in Manning, and graduated from the University of South Carolina with a degree in English.", 
             "Teresa Rosen Gordon, a retired English teacher in New York City, died of stomach cancer Sunday at her son's home in San Francisco."
         ], 
-        "height": -6, 
+        "height": 300, 
         "rate": 39, 
-        "start_y": 196, 
+        "start_y": 246, 
         "id": 1
     }, 
     {
@@ -150,9 +150,9 @@
             "Maud Russell, who spent a quarter of a century in China as a welfare worker and teacher for the Young Women's Christian Association and lobbied for American recognition of the Chinese Communist Government after World War II, died of lung cancer Wednesday at her home in Manhattan.", 
             "Mrs. Young had recently moved from New Orleans, where she had been a schoolteacher, and led a fund-raising drive for Atlanta programs for the elderly."
         ], 
-        "height": -4, 
+        "height": 386, 
         "rate": 50, 
-        "start_y": 195, 
+        "start_y": 203, 
         "id": 2
     }, 
     {
@@ -212,9 +212,9 @@
             " Marinka Gurewich, a voice teacher whose students included several prominent opera singers, died on Sunday at her home in Manhattan.", 
             "Ms. Vuole died of congestive heart failure, her brother, Joseph, of Albertson, L.I., said She joined the school system as a foreign language teacher at Franklin K. Lane High School in Queens, where she later became dean."
         ], 
-        "height": -4, 
+        "height": 346, 
         "rate": 45, 
-        "start_y": 195, 
+        "start_y": 223, 
         "id": 3
     }, 
     {
@@ -276,9 +276,9 @@
             "We called her La Super Francaise, because she was so French: a wonderful teacher, wonderful enthusiasm.", 
             "In Stamford she volunteered as a teacher's assistant."
         ], 
-        "height": -4, 
+        "height": 362, 
         "rate": 47, 
-        "start_y": 195, 
+        "start_y": 215, 
         "id": 4
     }, 
     {
@@ -327,9 +327,9 @@
             "\" Miss Adler counseled: \"The teacher has to inspire, to agitate.", 
             "Miss Andrews, who was born in Bury St. Edmunds, England, on April 19, 1898, specialized in linocuts, a printing method popularized between the wars in England by the artist Claude Flight, who was her teacher at the Grosvenor School."
         ], 
-        "height": -6, 
+        "height": 244, 
         "rate": 32, 
-        "start_y": 196, 
+        "start_y": 274, 
         "id": 5
     }, 
     {
@@ -368,9 +368,9 @@
             " Helen Marshall, an American painter and art teacher, died on Nov. 24 at her home in Lavenham, Sussex, England.", 
             "While living in Siam, Mrs. Landon discovered the autobiographical books by Anna Leonowens, a Welsh widow who was a governess, teacher and secretary in the court of King Mongkut in the 1860's."
         ], 
-        "height": -8, 
+        "height": 204, 
         "rate": 27, 
-        "start_y": 197, 
+        "start_y": 294, 
         "id": 6
     }, 
     {
@@ -411,9 +411,9 @@
             "Mrs. Glaser, a former teacher, was infected with the human immunodeficiency virus when she was nine months pregnant with Ariel, her first child.", 
             "She was educated at the University of Wisconsin and at Boston University and worked as a teacher and as a director at the Los Angeles Children's Museum."
         ], 
-        "height": -6, 
+        "height": 236, 
         "rate": 31, 
-        "start_y": 196, 
+        "start_y": 278, 
         "id": 7
     }, 
     {
@@ -467,9 +467,9 @@
             " Bonnie Bird, a Martha Graham dancer in the 1930's and an internationally known teacher, died on Sunday at her home in Tiburon, Calif. She was 80.", 
             "\" Miss Bird was best known, however, as an imaginative, practical teacher of dance who believed strongly that dancers must not only be trained in their craft but must also be aware of and a part of the world around them."
         ], 
-        "height": -6, 
+        "height": 268, 
         "rate": 35, 
-        "start_y": 196, 
+        "start_y": 262, 
         "id": 8
     }, 
     {
@@ -507,9 +507,9 @@
             " Irene Arnold, a lawyer and teacher who spent her life in the service of the retarded and other victims of circumstance, like war and persecution, died on Jan. 4 at the DeWitt Nursing Home in Manhattan.", 
             "From 1929 to 1954, Dr. Eisenstein taught music education and the history of Jewish music at Jewish Theological Seminary's Teacher's Institute, now known as  the Albert A."
         ], 
-        "height": -8, 
+        "height": 140, 
         "rate": 19, 
-        "start_y": 197, 
+        "start_y": 326, 
         "id": 9
     }, 
     {
@@ -545,9 +545,9 @@
             "Both Mr. Allison, an English teacher, and Ms. Hubert, a writer, did the cooking.", 
             "As a child, she studied ballet with a private teacher."
         ], 
-        "height": -8, 
+        "height": 140, 
         "rate": 19, 
-        "start_y": 197, 
+        "start_y": 326, 
         "id": 10
     }, 
     {
@@ -614,9 +614,9 @@
             "On her retirement from dancing, she became a popular teacher and dancers' coach, working in public onstage in Maina Gielgud's ''Steps, Notes and Squeaks'' in 1978 and 1980.", 
             "She exploited the skills of a research chemist, a merchant and a teacher to achieve eminence in three careers over the course of 50 years."
         ], 
-        "height": -6, 
+        "height": 276, 
         "rate": 36, 
-        "start_y": 196, 
+        "start_y": 258, 
         "id": 11
     }, 
     {
@@ -660,9 +660,9 @@
             "She was cautioned by a teacher that her baby-talk way of speaking -- which has been described as if ''filtered through a ceramic nose'' -- would be a handicap.", 
             "Lucile Petry, a teacher at the University of Minnesota School of Nursing, was chosen to initiate the program."
         ], 
-        "height": -8, 
+        "height": 196, 
         "rate": 26, 
-        "start_y": 197, 
+        "start_y": 298, 
         "id": 12
     }, 
     {
@@ -690,9 +690,9 @@
             "Ignoring those who urged her to become a teacher, she enrolled in pre-law courses at Columbia University.", 
             "She was regarded as a grande dame of America's black writers and an honored member of the literary elite, a sought-after teacher and a poet who was valued for her sensitive portraits of black women, her precise use of language and the universality of her work."
         ], 
-        "height": -8, 
+        "height": 100, 
         "rate": 14, 
-        "start_y": 197, 
+        "start_y": 346, 
         "id": 13
     }, 
     {
@@ -730,9 +730,9 @@
             "She trained as an art teacher, and in 1940 married Ernest Whitehouse, an engineer, who died last year.", 
             " Mercedes Matter, a painter, teacher and the chief founder of the New York Studio School in Greenwich Village, died on Tuesday."
         ], 
-        "height": -8, 
+        "height": 148, 
         "rate": 20, 
-        "start_y": 197, 
+        "start_y": 322, 
         "id": 14
     }, 
     {
@@ -779,9 +779,9 @@
             "Mrs. Hancock, born Margaret Morris in Washington and trained as a teacher, married a black minister and became a dedicated ''voluntary Negro.", 
             " Mieke van Hoek, a Dutch-born modern-dance choreographer and teacher, died on Nov. 13 in Manhattan."
         ], 
-        "height": -8, 
+        "height": 196, 
         "rate": 26, 
-        "start_y": 197, 
+        "start_y": 298, 
         "id": 15
     }, 
     {
@@ -818,9 +818,9 @@
             "Correction:  November 17, 2003, Monday  An obituary on Nov. 2 about Dorothy Farnan, a New York City teacher who wrote ''Auden in Love,'' a book about W. H. Auden and his companion, Chester Kallman, misstated the year in which she became chairman of the English department at Erasmus Hall High School in Brooklyn.", 
             "In addition to her husband, a teacher of mathematics and the history of science whom she married in 1958, Mrs."
         ], 
-        "height": -8, 
+        "height": 180, 
         "rate": 24, 
-        "start_y": 197, 
+        "start_y": 306, 
         "id": 16
     }, 
     {
@@ -863,9 +863,9 @@
             "Later the renowned vocal pedagogue Carmen Melis became her most important teacher.", 
             "In New York City, she was chairwoman of the dance department from 1954 to 1972 at the High School of Performing Arts, the subject of the movie ''Fame,'' and was teacher in charge of the school from 1973 to 1975."
         ], 
-        "height": -6, 
+        "height": 228, 
         "rate": 30, 
-        "start_y": 196, 
+        "start_y": 282, 
         "id": 17
     }, 
     {
@@ -900,9 +900,9 @@
             "She began teaching English at the University of California at Los Angeles in 1946 and, at the same time, worked with the Los Angeles teacher and choreographer Eugene Loring.", 
             "Ms. Cohen, a tiny soft-spoken woman, could be a rigorous teacher, but she delighted in presiding graciously over social events."
         ], 
-        "height": -8, 
+        "height": 204, 
         "rate": 27, 
-        "start_y": 197, 
+        "start_y": 294, 
         "id": 18
     }, 
     {
@@ -956,9 +956,9 @@
             "Her father, Leo, was a lawyer, her mother, Rebecca, a teacher.", 
             "Originally a schoolteacher and later a journalist, Ms. Campbell made her mark as a writer of fiction with her first novel, ''Your Blues Ain't Like Mine'' (Putnam), published in 1992."
         ], 
-        "height": -6, 
+        "height": 236, 
         "rate": 31, 
-        "start_y": 196, 
+        "start_y": 278, 
         "id": 19
     }
 ]

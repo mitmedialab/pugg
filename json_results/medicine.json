@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": -10, 
+        "max_height": 440, 
         "id": "meta-data", 
-        "midline": 190, 
+        "midline": 415, 
         "word": "Medicine", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 0.04, 
+        "s_f": 25.0, 
         "words_included": "doctor, dr, surgeon", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,189S40,190,50,190L70,190S80,190,80,190S80,190,90,190L110,190S120,190,120,190S120,190,130,190L150,190S160,190,160,190S160,190,170,190L190,190S200,190,200,190S200,190,210,190L230,190S240,190,240,190S240,190,250,190L270,190S280,190,280,190S280,190,290,190L310,190S320,190,320,190S320,190,330,190L350,190S360,190,360,190S360,190,370,190L390,190S400,190,400,190S400,190,410,190L430,190S440,190,440,190S440,190,450,190L470,190S480,190,480,190S480,190,490,190L510,190S520,190,520,190S520,190,530,190L550,190S560,190,560,190S560,190,570,190L590,190S600,190,600,190S600,190,610,190L630,190S640,190,640,190S640,190,650,190L670,190S680,190,680,190S680,190,690,190L710,190S720,190,720,190S720,190,730,190L750,190S760,190,760,190S760,190,770,190L790,190S800,190,800,190S800,190,810,190L830,190S840,190,840,195L840,189", 
-            "M40,190S40,190,50,190L70,190S80,190,80,190S80,190,90,190L110,190S120,190,120,190S120,190,130,190L150,190S160,190,160,190S160,190,170,190L190,190S200,190,200,190S200,190,210,190L230,190S240,190,240,190S240,190,250,190L270,190S280,190,280,190S280,190,290,190L310,190S320,190,320,190S320,190,330,190L350,190S360,190,360,190S360,190,370,190L390,190S400,190,400,190S400,190,410,190L430,190S440,190,440,190S440,190,450,190L470,190S480,190,480,190S480,190,490,190L510,190S520,190,520,190S520,190,530,190L550,190S560,190,560,190S560,190,570,190L590,190S600,190,600,190S600,190,610,190L630,190S640,190,640,190S640,190,650,190L670,190S680,190,680,190S680,190,690,190L710,190S720,190,720,190S720,190,730,190L750,190S760,190,760,190S760,190,770,190L790,190S800,190,800,190S800,190,810,190L830,190S840,190,840,185"
+            "M40,414L40,542S40,552,50,552L70,552S80,552,80,542L80,500S80,490,90,490L110,490S120,490,120,500L120,592S120,602,130,602L150,602S160,602,160,592L160,537S160,527,170,527L190,527S200,527,200,521S200,515,210,515L230,515S240,515,240,525L240,530S240,540,250,540L270,540S280,540,280,550L280,592S280,602,290,602L310,602S320,602,320,592L320,587S320,577,330,577L350,577S360,577,360,567L360,562S360,552,370,552L390,552S400,552,400,542L400,525S400,515,410,515L430,515S440,515,440,508S440,502,450,502L470,502S480,502,480,512L480,630S480,640,490,640L510,640S520,640,520,630L520,500S520,490,530,490L550,490S560,490,560,483S560,477,570,477L590,477S600,477,600,487L600,505S600,515,610,515L630,515S640,515,640,525L640,542S640,552,650,552L670,552S680,552,680,542L680,500S680,490,690,490L710,490S720,490,720,500L720,530S720,540,730,540L750,540S760,540,760,550L760,580S760,590,770,590L790,590S800,590,800,580L800,537S800,527,810,527L830,527S840,527,840,517L840,415L840,414", 
+            "M40,415L40,288S40,278,50,278L70,278S80,278,80,288L80,330S80,340,90,340L110,340S120,340,120,330L120,238S120,228,130,228L150,228S160,228,160,238L160,293S160,303,170,303L190,303S200,303,200,309S200,315,210,315L230,315S240,315,240,305L240,300S240,290,250,290L270,290S280,290,280,280L280,238S280,228,290,228L310,228S320,228,320,238L320,243S320,253,330,253L350,253S360,253,360,263L360,268S360,278,370,278L390,278S400,278,400,288L400,305S400,315,410,315L430,315S440,315,440,322S440,328,450,328L470,328S480,328,480,318L480,200S480,190,490,190L510,190S520,190,520,200L520,330S520,340,530,340L550,340S560,340,560,347S560,353,570,353L590,353S600,353,600,343L600,325S600,315,610,315L630,315S640,315,640,305L640,288S640,278,650,278L670,278S680,278,680,288L680,330S680,340,690,340L710,340S720,340,720,330L720,300S720,290,730,290L750,290S760,290,760,280L760,250S760,240,770,240L790,240S800,240,800,250L800,293S800,303,810,303L830,303S840,303,840,313L840,415"
         ], 
         "y_spacing": 190
     }, 
@@ -30,9 +30,9 @@
             "Hyla Stowell Watters, a Methodist missionary surgeon in China and India who remained in practice until 1974, died Aug. 2 of heart failure at Saranac Lake General Hospital, N.Y. She was 93 years old and lived in Tupper Lake, N.Y. Hyla Stowell Watters, a Methodist missionary surgeon in China and India who remained in practice until 1974, died Aug. 2 of heart failure at Saranac Lake General Hospital, N.Y. She was 93 years old and lived in Tupper Lake, N.Y. Dr. Watters served as a Methodist missionary surgeon in China at the Wu Hu General Hospital on the Yangtze River from 1924 to 1948.", 
             "In 1929 she met and married Dr."
         ], 
-        "height": -10, 
+        "height": 264, 
         "rate": 11, 
-        "start_y": 195, 
+        "start_y": 283, 
         "id": 0
     }, 
     {
@@ -45,9 +45,9 @@
             "On television, Miss Castang starred in ''The Elephant Man''; in ''The Widowing of Mrs. Holyroyd''; in the PBS series ''Theater in America''; in the movie ''A Doctor's Story,'' which also starred Art Carney; as a guest on the sitcom ''Kate and Allie,'' and in episodes of the soap operas ''As the World Turns'' and ''All My Children.", 
             "In January of this year a jury found her doctor, Dr. Kenneth Bernstein, negligent in treating and diagnosing Ms. Ramos in 1985."
         ], 
-        "height": -10, 
+        "height": 140, 
         "rate": 6, 
-        "start_y": 195, 
+        "start_y": 345, 
         "id": 1
     }, 
     {
@@ -70,9 +70,9 @@
             "A prescription from his doctor was to fish.", 
             "Miss Burr was committed in January of 1936 on the recommendation of her mother and her family doctor, a cousin."
         ], 
-        "height": -10, 
+        "height": 364, 
         "rate": 15, 
-        "start_y": 195, 
+        "start_y": 233, 
         "id": 2
     }, 
     {
@@ -90,9 +90,9 @@
             "Success, With the Help of a Cat Miss Arden made her film debut in a 1937 grade-B melodrama called \"Oh, Doctor,\" in which she disastrously played a gun moll.", 
             "She started a practice in Manhattan as a dental surgeon, sharing offices with her husband, the late Dr. David L. Poe, an otolaryngologist."
         ], 
-        "height": -10, 
+        "height": 214, 
         "rate": 9, 
-        "start_y": 195, 
+        "start_y": 308, 
         "id": 3
     }, 
     {
@@ -108,9 +108,9 @@
             " Dorothy Weed, a piano teacher and former director of the Diller-Quaile Music School on the Upper East Side, died on Tuesday at Doctor's Hospital.", 
             "\"The doctor said that because she wouldn't eat, she died,\" he said."
         ], 
-        "height": -10, 
+        "height": 190, 
         "rate": 8, 
-        "start_y": 195, 
+        "start_y": 320, 
         "id": 4
     }, 
     {
@@ -129,9 +129,9 @@
             " Katherine Swan Ginsburg, a doctor at Brigham and Women's Hospital in Boston and an instructor at the Harvard Medical School, died Friday at Beth Israel Hospital in Boston.", 
             "In 1989 Rosebud received an honorary doctor of humane letters degree from the University of South Dakota."
         ], 
-        "height": -10, 
+        "height": 240, 
         "rate": 10, 
-        "start_y": 195, 
+        "start_y": 295, 
         "id": 5
     }, 
     {
@@ -154,9 +154,9 @@
             "\" Dr.", 
             "Efforts on West Side Along with her husband, Dr. Arthur C. Logan, a surgeon, she was involved in efforts to stabilize the West Side as an integrated community during urban-renewal efforts there."
         ], 
-        "height": -10, 
+        "height": 364, 
         "rate": 15, 
-        "start_y": 195, 
+        "start_y": 233, 
         "id": 6
     }, 
     {
@@ -178,9 +178,9 @@
             "She testified about AIDS before Congress, and in 1992 she was recognized by the Surgeon General and the Department of Health and Human Services for her work.", 
             "She received a bachelor's degree in biology and pre-medical sciences from Hunter College with the intention of becoming a doctor."
         ], 
-        "height": -10, 
+        "height": 314, 
         "rate": 13, 
-        "start_y": 195, 
+        "start_y": 258, 
         "id": 7
     }, 
     {
@@ -199,9 +199,9 @@
             "Mrs. Masson later married Dr. James C. Masson, a surgeon at the Mayo Clinic.", 
             "But Heide Lange, vice president of the Sanford J. Greenburger agency, with which Ms. Cleaver was affiliated, said the doctor who had examined Ms. Cleaver said that the cause of death appeared to have been either a heart attack or stroke."
         ], 
-        "height": -10, 
+        "height": 264, 
         "rate": 11, 
-        "start_y": 195, 
+        "start_y": 283, 
         "id": 8
     }, 
     {
@@ -221,9 +221,9 @@
             "A doctor's daughter, Mrs. Gaiser was born in Ogdensburg, N.Y., received a bachelor's degree from Wellesley in 1923, and taught school in Bronxville, N.Y. until she married Mr. Jewett in 1925.", 
             "She married Dr. David Wesley Gaiser, a surgeon, in 1961, and he died in 1985."
         ], 
-        "height": -10, 
+        "height": 190, 
         "rate": 8, 
-        "start_y": 195, 
+        "start_y": 320, 
         "id": 9
     }, 
     {
@@ -240,9 +240,9 @@
             "''When I got the call 21 months ago from the doctor about Dawn's condition,'' said Mr. Roven, ''I was told that 97 percent of the people who had this die within the first six months.", 
             "As a result, Simone Ovide was trained as a nurse's aide, and was working in that capacity when she met and was soon being courted by a young doctor named Francois Duvalier."
         ], 
-        "height": -10, 
+        "height": 164, 
         "rate": 7, 
-        "start_y": 195, 
+        "start_y": 333, 
         "id": 10
     }, 
     {
@@ -281,7 +281,7 @@
             "The key to her success in therapy with Indian patients was her understanding of the importance placed on a balance of life's forces, and she often asked family members to join in the therapy, Dr.", 
             "When she was 88, she collaborated on a new version of her 1975 book, this time called ''Psychotherapy and Culture'' (University of New Mexico Press, 1987), with Dr."
         ], 
-        "height": -10, 
+        "height": 440, 
         "rate": 18, 
         "start_y": 195, 
         "id": 11
@@ -299,9 +299,9 @@
             "She wrote a book, ''So You Want to Be a Doctor?", 
             "Birding went from a hobby to a passion for Mrs. Snetsinger on the day in 1981 that a doctor told her she had an incurable cancer, with less than a year to live."
         ], 
-        "height": -10, 
+        "height": 140, 
         "rate": 6, 
-        "start_y": 195, 
+        "start_y": 345, 
         "id": 12
     }, 
     {
@@ -315,9 +315,9 @@
             "She spent the last few years archiving the photo albums and diaries of her father, Bernhard Bardach, a doctor in the Austro-Hungarian Army during World War I.", 
             "She received the certificate of an education supervisor and administrator from Hunter, and, in 1981, she received a doctor of laws degree from Brooklyn Law School."
         ], 
-        "height": -10, 
+        "height": 114, 
         "rate": 5, 
-        "start_y": 195, 
+        "start_y": 358, 
         "id": 13
     }, 
     {
@@ -336,9 +336,9 @@
             "The Johnson Johnson books, some published under the name Dorothy Halliday and released under varying titles, were originally known as ''Dolly and the Singing Bird,'' 1968, ''Dolly and the Cookie Bird,'' 1970, ''Dolly and the Doctor Bird,'' 1971, ''Dolly and the Starry Bird,'' 1973, ''Dolly and the Nanny Bird.", 
             "From tiny strands of hair she made magic: the classic Scottish flies like the Jock Scott, Silver Doctor and Durham Ranger; American favorites like the Green Butt and Woolly Hugger; and the fly named after her, the Megan Boyd, a nifty blue and black number famous for attracting salmon at the height of summer, when the water is low, hot and dead."
         ], 
-        "height": -10, 
+        "height": 190, 
         "rate": 8, 
-        "start_y": 195, 
+        "start_y": 320, 
         "id": 14
     }, 
     {
@@ -360,9 +360,9 @@
             "In one, she remembered that his first word was ''car'' and that the doctor had just forbidden him to drive.", 
             "Jack Aubrey and Stephen Maturin, ship surgeon, characters who delighted in sailing, words and music."
         ], 
-        "height": -10, 
+        "height": 264, 
         "rate": 11, 
-        "start_y": 195, 
+        "start_y": 283, 
         "id": 15
     }, 
     {
@@ -377,9 +377,9 @@
             "Meg Clark, owner of Camp Waldemar in the Texas Hill Country, where Mrs. Reeves taught riding for 67 years, said she had been riding more this year than in previous years and was delighted that Dr Pepper remained so spirited.", 
             "Her father, a doctor who played the violin, and her mother, who sang and played the organ, encouraged her musical talent."
         ], 
-        "height": -10, 
+        "height": 140, 
         "rate": 6, 
-        "start_y": 195, 
+        "start_y": 345, 
         "id": 16
     }, 
     {
@@ -398,9 +398,9 @@
             "A knock-kneed child, she was sent by her doctor to a London school called Miss Thorne's Dancing Academy.", 
             " The soprano Renata Tebaldi, one of the most beloved opera singers of all time -- Arturo Toscanini, hard to please, said she had ''the voice of an angel'' -- died yesterday in the Republic of San Marino, where she had a home, her doctor told The Associated Press."
         ], 
-        "height": -10, 
+        "height": 240, 
         "rate": 10, 
-        "start_y": 195, 
+        "start_y": 295, 
         "id": 17
     }, 
     {
@@ -422,9 +422,9 @@
             "An American who trained as a surgeon in France before World War II, Mother Benedict helped found the abbey in 1947.", 
             "During the war, she quietly continued her work as a community doctor."
         ], 
-        "height": -10, 
+        "height": 340, 
         "rate": 14, 
-        "start_y": 195, 
+        "start_y": 245, 
         "id": 18
     }, 
     {
@@ -445,9 +445,9 @@
             "Her father was a country doctor, and she often accompanied him on rounds.", 
             "In 1940, Dr. Hodgson married Frank Quattlebaum, a vascular surgeon; he died in 2004."
         ], 
-        "height": -10, 
+        "height": 214, 
         "rate": 9, 
-        "start_y": 195, 
+        "start_y": 308, 
         "id": 19
     }
 ]

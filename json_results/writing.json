@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": 112, 
+        "max_height": 382, 
         "id": "meta-data", 
-        "midline": 251, 
+        "midline": 386, 
         "word": "Writing", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 0.56, 
+        "s_f": 1.7857142857142858, 
         "words_included": "editor, publisher, writer, author, novelist", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,250L40,302S40,312,50,312L70,312S80,312,80,310S80,309,90,309L110,309S120,309,120,308S120,308,130,308L150,308S160,308,160,302S160,297,170,297L190,297S200,297,200,295S200,293,210,293L230,293S240,293,240,292S240,292,250,292L270,292S280,292,280,288S280,285,290,285L310,285S320,285,320,284S320,284,330,284L350,284S360,284,360,284S360,284,370,284L390,284S400,284,400,285S400,287,410,287L430,287S440,287,440,289S440,291,450,291L470,291S480,291,480,283S480,276,490,276L510,276S520,276,520,284S520,292,530,292L550,292S560,292,560,290S560,289,570,289L590,289S600,289,600,284S600,279,610,279L630,279S640,279,640,283S640,288,650,288L670,288S680,288,680,282S680,277,690,277L710,277S720,277,720,282S720,287,730,287L750,287S760,287,760,291S760,295,770,295L790,295S800,295,800,285L800,284S800,274,810,274L830,274S840,274,840,264L840,251L840,250", 
-            "M40,251L40,200S40,190,50,190L70,190S80,190,80,192S80,193,90,193L110,193S120,193,120,194S120,194,130,194L150,194S160,194,160,200S160,205,170,205L190,205S200,205,200,207S200,209,210,209L230,209S240,209,240,210S240,210,250,210L270,210S280,210,280,214S280,217,290,217L310,217S320,217,320,218S320,218,330,218L350,218S360,218,360,218S360,218,370,218L390,218S400,218,400,217S400,215,410,215L430,215S440,215,440,213S440,211,450,211L470,211S480,211,480,219S480,226,490,226L510,226S520,226,520,218S520,210,530,210L550,210S560,210,560,212S560,213,570,213L590,213S600,213,600,218S600,223,610,223L630,223S640,223,640,219S640,214,650,214L670,214S680,214,680,220S680,225,690,225L710,225S720,225,720,220S720,215,730,215L750,215S760,215,760,211S760,207,770,207L790,207S800,207,800,217L800,218S800,228,810,228L830,228S840,228,840,238L840,251"
+            "M40,385L40,572S40,582,50,582L70,582S80,582,80,576S80,571,90,571L110,571S120,571,120,570S120,570,130,570L150,570S160,570,160,560L160,542S160,532,170,532L190,532S200,532,200,526S200,521,210,521L230,521S240,521,240,519S240,518,250,518L270,518S280,518,280,508L280,506S280,496,290,496L310,496S320,496,320,494S320,492,330,492L350,492S360,492,360,492S360,492,370,492L390,492S400,492,400,496S400,501,410,501L430,501S440,501,440,507S440,513,450,513L470,513S480,513,480,503L480,475S480,465,490,465L510,465S520,465,520,475L520,507S520,517,530,517L550,517S560,517,560,512S560,507,570,507L590,507S600,507,600,497L600,487S600,477,610,477L630,477S640,477,640,487L640,494S640,504,650,504L670,504S680,504,680,494L680,481S680,471,690,471L710,471S720,471,720,481L720,490S720,500,730,500L750,500S760,500,760,510L760,517S760,527,770,527L790,527S800,527,800,517L800,471S800,461,810,461L830,461S840,461,840,451L840,386L840,385", 
+            "M40,386L40,200S40,190,50,190L70,190S80,190,80,196S80,201,90,201L110,201S120,201,120,202S120,202,130,202L150,202S160,202,160,212L160,230S160,240,170,240L190,240S200,240,200,246S200,251,210,251L230,251S240,251,240,253S240,254,250,254L270,254S280,254,280,264L280,266S280,276,290,276L310,276S320,276,320,278S320,280,330,280L350,280S360,280,360,280S360,280,370,280L390,280S400,280,400,276S400,271,410,271L430,271S440,271,440,265S440,259,450,259L470,259S480,259,480,269L480,297S480,307,490,307L510,307S520,307,520,297L520,265S520,255,530,255L550,255S560,255,560,260S560,265,570,265L590,265S600,265,600,275L600,285S600,295,610,295L630,295S640,295,640,285L640,278S640,268,650,268L670,268S680,268,680,278L680,291S680,301,690,301L710,301S720,301,720,291L720,282S720,272,730,272L750,272S760,272,760,262L760,255S760,245,770,245L790,245S800,245,800,255L800,301S800,311,810,311L830,311S840,311,840,321L840,386"
         ], 
         "y_spacing": 190
     }, 
@@ -171,7 +171,7 @@
             "While working as a magazine editor, she took courses at Columbia University that drew her toward sociology.", 
             "Kate L. Turabian, author of one of the most widely read stylebooks on dissertations, died yesterday morning in her sleep at a retirement home in Los Angeles."
         ], 
-        "height": 112, 
+        "height": 382, 
         "rate": 220, 
         "start_y": 195, 
         "id": 0
@@ -316,9 +316,9 @@
             "Ms. Odover eventually became publisher of Jove, and in 1983 she was named president and publisher of Pinnacle Books, a mass-market publisher.", 
             "Ms. Ordover, an editor and publisher of paperback books, is also survived by a sister, Nancy Levin of Los Angeles.       "
         ], 
-        "height": 106, 
+        "height": 360, 
         "rate": 207, 
-        "start_y": 198, 
+        "start_y": 206, 
         "id": 1
     }, 
     {
@@ -495,9 +495,9 @@
             "She worked for several years as a stenographer and then as an editor for New Directions, writing poems all the time.", 
             "Constance K. Kaiser, an executive, philanthropist and former publisher of telephone directories for Westchester and Connecticut communities, died of cancer on Wednesday at her home in New Rochelle, N.Y. She was 56 years old."
         ], 
-        "height": 104, 
+        "height": 358, 
         "rate": 206, 
-        "start_y": 199, 
+        "start_y": 207, 
         "id": 2
     }, 
     {
@@ -683,9 +683,9 @@
             "Then, in 1982, Knight-Ridder Newspapers, the Herald's corporate parent, appointed her president and publisher of The Daily Camera in Boulder, Colo., making her the first female chief executive of one of the organization's newspapers.", 
             "Five years later, she returned to The Herald as executive editor."
         ], 
-        "height": 82, 
+        "height": 282, 
         "rate": 164, 
-        "start_y": 210, 
+        "start_y": 245, 
         "id": 3
     }, 
     {
@@ -856,9 +856,9 @@
             " Mary McDonough Phillips, an editor who helped train a generation of fashion journalists, died last Friday at Memorial Sloan-Kettering Cancer Center after a long illness.", 
             "She then moved to Harper's Bazaar, becoming executive editor in 1952."
         ], 
-        "height": 74, 
+        "height": 260, 
         "rate": 151, 
-        "start_y": 214, 
+        "start_y": 256, 
         "id": 4
     }, 
     {
@@ -1029,9 +1029,9 @@
             " Ruth Lynch Saunders, a psychoanalyst and a former magazine editor, died on Monday at her home in Manhattan.", 
             "She was an editor for The Saturday Review of Literature from 1960 to 1965, and McCall's from 1965 to 1967."
         ], 
-        "height": 72, 
+        "height": 254, 
         "rate": 148, 
-        "start_y": 215, 
+        "start_y": 259, 
         "id": 5
     }, 
     {
@@ -1174,9 +1174,9 @@
             " Patricia Simon, a freelance writer who collaborated on a 1972 cookbook, \"Simca's Cuisine,\" that won high praise from food critics, died on Friday at her home in Philadelphia.", 
             "Her father, Batya Bat, was a journalist and writer who used the pen name Stanislav Budin."
         ], 
-        "height": 58, 
+        "height": 210, 
         "rate": 123, 
-        "start_y": 222, 
+        "start_y": 281, 
         "id": 6
     }, 
     {
@@ -1306,9 +1306,9 @@
             "In an article in The New York Times in 1964, Angela Taylor, a fashion writer, wrote that Mrs. Julianelli \"ignored the rule that bare shoes come out only in spring and summer,\" designing several sandals for the fall, including \"one that is virtually nothing but toe.", 
             "Praising the work in The New Republic, the author Alfred Kazin wrote, \"The scholarship is remarkably full, meticulous and far-reaching."
         ], 
-        "height": 56, 
+        "height": 202, 
         "rate": 119, 
-        "start_y": 223, 
+        "start_y": 285, 
         "id": 7
     }, 
     {
@@ -1458,9 +1458,9 @@
             "As editor of the center's quarterly newsletter, The Out-Stretched Arm, Ms. Hermanson published articles on breast cancer, support groups and health-care workshops.", 
             "She was also editor of the Sloan-Kettering Annual Report."
         ], 
-        "height": 56, 
+        "height": 202, 
         "rate": 119, 
-        "start_y": 223, 
+        "start_y": 285, 
         "id": 8
     }, 
     {
@@ -1657,9 +1657,9 @@
             " Eleanor Clark, an author best known for the evocative range of her accounts of oystering in Brittany and of the streets of Rome, died on Friday at a retirement home in Boston.", 
             "Although she was sometimes described as a travel writer, \"Rome and a Villa\" is not a traditional travel book."
         ], 
-        "height": 62, 
+        "height": 220, 
         "rate": 129, 
-        "start_y": 220, 
+        "start_y": 276, 
         "id": 9
     }, 
     {
@@ -1861,9 +1861,9 @@
             "''She had a lot of power, but it wasn't an idyllic marriage,'' said Bernard Diederich, author of a biography of Francois Duvalier.", 
             " After Shira A. Scheindlin was appointed to the Federal District Court in Manhattan a few years ago, she told an interviewer for a legal newspaper that she expected to be more of a ''settling judge than a brilliant opinion writer."
         ], 
-        "height": 70, 
+        "height": 244, 
         "rate": 143, 
-        "start_y": 216, 
+        "start_y": 264, 
         "id": 10
     }, 
     {
@@ -2007,9 +2007,9 @@
             "One of her first clients was Ira Levin, then a television writer.", 
             "Besides being responsible for many additions to the permanent collection, Mrs. Baker founded and was the first editor of ''News Notes,'' the museum's monthly bulletin."
         ], 
-        "height": 40, 
+        "height": 148, 
         "rate": 89, 
-        "start_y": 231, 
+        "start_y": 312, 
         "id": 11
     }, 
     {
@@ -2206,9 +2206,9 @@
             "She was the foundation's treasurer and one of its founders, along with her husband and Donald M. Wilson, a former vice president of Time Inc. Mr. Greenfield, a former foreign correspondent for Time magazine and former assistant secretary of state, is now a consulting member of the editorial board at The New York Times, where he has also been foreign editor and later an assistant managing editor.", 
             "''She allowed people to be intuitive about their knitting, rather than just being blind followers of the written word,'' said Nancy J. Thomas, editor of Knitter's Magazine."
         ], 
-        "height": 72, 
+        "height": 252, 
         "rate": 147, 
-        "start_y": 215, 
+        "start_y": 260, 
         "id": 12
     }, 
     {
@@ -2387,9 +2387,9 @@
             " Jane Troxell Stark, a dealer in exotic fabrics and jewelry who was a fashion editor for magazines including Glamour, died last Saturday outside Mexico City.", 
             "Born in Mankato, Minn., and a graduate of the University of Minnesota, Marvel Jackson moved to New York in 1926 and worked as secretary for W. E. B. DuBois, editor of The Crisis, the magazine of the National Association for the Advancement of Colored People."
         ], 
-        "height": 66, 
+        "height": 232, 
         "rate": 136, 
-        "start_y": 218, 
+        "start_y": 270, 
         "id": 13
     }, 
     {
@@ -2541,9 +2541,9 @@
             "In 1939 she married Richard W. Johnston, who was also a war correspondent and who eventually became the executive editor of Sports Illustrated.", 
             "In 1953 she wrote ''Elizabeth Enters: The Story of a Queen'' (Scribners), a biography for which Mr. Johnston served as the picture editor."
         ], 
-        "height": 46, 
+        "height": 172, 
         "rate": 102, 
-        "start_y": 228, 
+        "start_y": 300, 
         "id": 14
     }, 
     {
@@ -2733,9 +2733,9 @@
             "Mr. Hall and Harriet Mencken, a writer on The New York Journal-American, came up with Dolly Dawn.", 
             "You are not just seeing the writer; you are not trying to see yourself."
         ], 
-        "height": 64, 
+        "height": 226, 
         "rate": 132, 
-        "start_y": 219, 
+        "start_y": 273, 
         "id": 15
     }, 
     {
@@ -2845,9 +2845,9 @@
             "As a writer for The Musical Courier in the 1930's she interviewed the composers Bela Bartok, Darius Milhaud and Heitor Villa-Lobos and wrote a monograph on American music from 1900 to 1940.", 
             "Ms. Roth joined the staff of the music publisher Boosey & Hawkes in 1939 and directed its publicity office until 1941, when she left to form her own publicity agency."
         ], 
-        "height": 42, 
+        "height": 160, 
         "rate": 95, 
-        "start_y": 230, 
+        "start_y": 306, 
         "id": 16
     }, 
     {
@@ -2998,9 +2998,9 @@
             "Ms. Shahn, who began her career as a writer, printmaker and illustrator, was best known in recent decades for her paintings, which critics described as simultaneously realistic and mysterious in style.", 
             " Henny Backus, the widow of the comic actor Jim Backus and an actress and author of wit and verve, died on Dec. 9 in Los Angeles, her longtime home."
         ], 
-        "height": 62, 
+        "height": 218, 
         "rate": 128, 
-        "start_y": 220, 
+        "start_y": 277, 
         "id": 17
     }, 
     {
@@ -3150,9 +3150,9 @@
             " Selma Jeanne Cohen, a historian, editor and teacher who devoted her career to proclaiming dance an art worthy of the same scholarly respect traditionally awarded to painting, music and literature, died on Friday at her home in Greenwich Village.", 
             "Ms. Cohen became its sole editor in 1966."
         ], 
-        "height": 78, 
+        "height": 272, 
         "rate": 158, 
-        "start_y": 212, 
+        "start_y": 250, 
         "id": 18
     }, 
     {
@@ -3275,9 +3275,9 @@
             "(A former singer and actress who was a client of Ms. Webb's, Ms. Spillane was once married to the crime novelist Mickey Spillane.", 
             "''If I have chosen the female form in particular, it is because beauty has been debased and exploited in our sensual 20th century,'' she told Margaretta K. Mitchell, author of ''Ruth Bernhard: Between Art and Life'' (2000)."
         ], 
-        "height": 36, 
+        "height": 140, 
         "rate": 84, 
-        "start_y": 233, 
+        "start_y": 316, 
         "id": 19
     }
 ]

@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": -6, 
+        "max_height": 424, 
         "id": "meta-data", 
-        "midline": 192, 
+        "midline": 407, 
         "word": "Military", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 0.09440000000000001, 
+        "s_f": 10.59322033898305, 
         "words_included": "military, army, navy", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,191S40,192,50,192L70,192S80,192,80,192S80,193,90,193L110,193S120,193,120,193S120,193,130,193L150,193S160,193,160,193S160,193,170,193L190,193S200,193,200,193S200,193,210,193L230,193S240,193,240,193S240,193,250,193L270,193S280,193,280,193S280,193,290,193L310,193S320,193,320,193S320,193,330,193L350,193S360,193,360,193S360,193,370,193L390,193S400,193,400,192S400,192,410,192L430,192S440,192,440,192S440,193,450,193L470,193S480,193,480,193S480,193,490,193L510,193S520,193,520,193S520,193,530,193L550,193S560,193,560,193S560,194,570,194L590,194S600,194,600,193S600,193,610,193L630,193S640,193,640,193S640,193,650,193L670,193S680,193,680,193S680,193,690,193L710,193S720,193,720,192S720,192,730,192L750,192S760,192,760,192S760,193,770,193L790,193S800,193,800,193S800,193,810,193L830,193S840,193,840,197L840,191", 
-            "M40,192S40,192,50,192L70,192S80,192,80,192S80,191,90,191L110,191S120,191,120,191S120,191,130,191L150,191S160,191,160,191S160,191,170,191L190,191S200,191,200,191S200,191,210,191L230,191S240,191,240,191S240,191,250,191L270,191S280,191,280,191S280,191,290,191L310,191S320,191,320,191S320,191,330,191L350,191S360,191,360,191S360,191,370,191L390,191S400,191,400,192S400,192,410,192L430,192S440,192,440,192S440,191,450,191L470,191S480,191,480,191S480,191,490,191L510,191S520,191,520,191S520,191,530,191L550,191S560,191,560,191S560,190,570,190L590,190S600,190,600,191S600,191,610,191L630,191S640,191,640,191S640,191,650,191L670,191S680,191,680,191S680,191,690,191L710,191S720,191,720,192S720,192,730,192L750,192S760,192,760,192S760,191,770,191L790,191S800,191,800,191S800,191,810,191L830,191S840,191,840,187"
+            "M40,406L40,423S40,433,50,433L70,433S80,433,80,443L80,503S80,513,90,513L110,513S120,513,120,523L120,582S120,592,130,592L150,592S160,592,160,582L160,560S160,550,170,550L190,550S200,550,200,540L200,528S200,518,210,518L230,518S240,518,240,528L240,534S240,544,250,544L270,544S280,544,280,534L280,507S280,497,290,497L310,497S320,497,320,507L320,519S320,529,330,529L350,529S360,529,360,523S360,518,370,518L390,518S400,518,400,508L400,496S400,486,410,486L430,486S440,486,440,496L440,582S440,592,450,592L470,592S480,592,480,584S480,576,490,576L510,576S520,576,520,566L520,533S520,523,530,523L550,523S560,523,560,533L560,614S560,624,570,624L590,624S600,624,600,614L600,517S600,507,610,507L630,507S640,507,640,517L640,566S640,576,650,576L670,576S680,576,680,566L680,565S680,555,690,555L710,555S720,555,720,545L720,491S720,481,730,481L750,481S760,481,760,491L760,513S760,523,770,523L790,523S800,523,800,513L800,507S800,497,810,497L830,497S840,497,840,487L840,407L840,406", 
+            "M40,407L40,391S40,381,50,381L70,381S80,381,80,371L80,311S80,301,90,301L110,301S120,301,120,291L120,232S120,222,130,222L150,222S160,222,160,232L160,254S160,264,170,264L190,264S200,264,200,274L200,286S200,296,210,296L230,296S240,296,240,286L240,280S240,270,250,270L270,270S280,270,280,280L280,307S280,317,290,317L310,317S320,317,320,307L320,295S320,285,330,285L350,285S360,285,360,291S360,296,370,296L390,296S400,296,400,306L400,318S400,328,410,328L430,328S440,328,440,318L440,232S440,222,450,222L470,222S480,222,480,230S480,238,490,238L510,238S520,238,520,248L520,281S520,291,530,291L550,291S560,291,560,281L560,200S560,190,570,190L590,190S600,190,600,200L600,297S600,307,610,307L630,307S640,307,640,297L640,248S640,238,650,238L670,238S680,238,680,248L680,249S680,259,690,259L710,259S720,259,720,269L720,323S720,333,730,333L750,333S760,333,760,323L760,301S760,291,770,291L790,291S800,291,800,301L800,307S800,317,810,317L830,317S840,317,840,327L840,407"
         ], 
         "y_spacing": 190
     }, 
@@ -27,9 +27,9 @@
             "She also held posts in other civic and political organizations, including the National Association for the Advancement of Colored People; the National Democratic Committee; the Salvation Army Advisory Committee, and St. Mary's Hospital.", 
             "Miss Mills, who was born in Stamford, Conn., was an Army Nurse and a ''farmerette,'' a member of a corps of young women working on farms, in World War I."
         ], 
-        "height": -10, 
+        "height": 42, 
         "rate": 5, 
-        "start_y": 197, 
+        "start_y": 386, 
         "id": 0
     }, 
     {
@@ -53,9 +53,9 @@
             "During World War II she served in the United States Army Signal Corps.", 
             "In 1952, Farouk was deposed in a military coup led, among others, by then-Col. Gamal Abdel Nasser."
         ], 
-        "height": -8, 
+        "height": 202, 
         "rate": 20, 
-        "start_y": 196, 
+        "start_y": 306, 
         "id": 1
     }, 
     {
@@ -92,9 +92,9 @@
             "She officially retired from Salvation Army work in 1951.       ", 
             "She supervised neighborhood action programs, social and ethical responsibility work, ministry of the laity and ministries to military and institutional chaplains."
         ], 
-        "height": -8, 
+        "height": 360, 
         "rate": 35, 
-        "start_y": 196, 
+        "start_y": 227, 
         "id": 2
     }, 
     {
@@ -137,9 +137,9 @@
             "She joined the Navy Women's Air Raid Division and worked on the newly developed radar system tracking aircraft carriers in the Pacific throughout the war.", 
             "She was a member of the Women's Air Raid Defense, an Army unit composed initially of civilian women who tracked aircraft in the Pacific.       "
         ], 
-        "height": -8, 
+        "height": 276, 
         "rate": 27, 
-        "start_y": 196, 
+        "start_y": 269, 
         "id": 3
     }, 
     {
@@ -170,9 +170,9 @@
             "During World War II she served in a number of executive positions with the Brooklyn chapter of the Motor Transport Service of the American Women's Voluntary Services, the organization that aided the armed forces and local military bases.", 
             "In World War II she served as an Army psychologist and then worked at several institutions in New York, Buffalo and Niagara Falls, N.Y. She retired as an educational psychologist at City College in 1980."
         ], 
-        "height": -8, 
+        "height": 212, 
         "rate": 21, 
-        "start_y": 196, 
+        "start_y": 301, 
         "id": 4
     }, 
     {
@@ -210,9 +210,9 @@
             "In the late 1930's she returned to legal work as a volunteer lawyer for various agencies: the New Jersey Board of Mediation, the Army's Legal Department, the Governor's Commission for Refugees after the Soviet invasion of Hungary in 1956 and the Governor's Landlord-Tenant Committee in the 1960's.", 
             "Her work was honored by two Army commendations, a New Jersey State Bar award in 1986 and Governor Thomas Kean's Humanitarian of the Year Award in 1989."
         ], 
-        "height": -8, 
+        "height": 264, 
         "rate": 26, 
-        "start_y": 196, 
+        "start_y": 275, 
         "id": 5
     }, 
     {
@@ -236,9 +236,9 @@
             "In 1948, she became chief of medical mycology at the Walter Reed Army Institute of Research in Washington.", 
             "She also arranged for entertainment in 50 military hospitals and put in long stints at stage-door canteens."
         ], 
-        "height": -8, 
+        "height": 170, 
         "rate": 17, 
-        "start_y": 196, 
+        "start_y": 322, 
         "id": 6
     }, 
     {
@@ -271,9 +271,9 @@
             "The medieval-style 1840's window was restored under her direction and given on extended loan to the museum, where it hangs in the Charles Engelhard Court of the American Wing Miss Hayward served as a technical illustrator for the United States Navy during World War II.", 
             "At acommittee session in August 1944 she declared that the nation's \"magnificent war production\" was due to the \"hidden army\" of women working for victory."
         ], 
-        "height": -8, 
+        "height": 234, 
         "rate": 23, 
-        "start_y": 196, 
+        "start_y": 290, 
         "id": 7
     }, 
     {
@@ -302,9 +302,9 @@
             "Her eldest son, Joseph Jr., a Navy pilot, was killed when his plane exploded over the English Channel on a mission in World War II.", 
             "She entered the Army in 1992 as a lieutenant colonel to head the psychiatric service at Fort Sill, Okla. After two years in the Army, she returned to private practice, opening offices in Bedford Hills and Manhattan."
         ], 
-        "height": -8, 
+        "height": 212, 
         "rate": 21, 
-        "start_y": 196, 
+        "start_y": 301, 
         "id": 8
     }, 
     {
@@ -335,9 +335,9 @@
             "The novelist was born Suzanne Doreau, the daughter of an army officer and a teacher, in a village near St.-Tropez on the French Riviera.", 
             "When the Russian President, Boris N. Yeltsin, awarded Miss Chukovskaya a literary prize last year, she refused the money because she disagreed with Moscow's military campaign to keep Chechnya a part of Russia, said her longtime friend and English translator, Sylvia Rubashova, who lives in  London."
         ], 
-        "height": -10, 
+        "height": 148, 
         "rate": 15, 
-        "start_y": 197, 
+        "start_y": 333, 
         "id": 9
     }, 
     {
@@ -391,9 +391,9 @@
             "Her father was a career Army officer.", 
             "'' And recently, the Federal Court of Appeals overturned another decision, in which she found unconstitutional a law allowing the Government to ban the sale of sexually explicit magazines on military bases."
         ], 
-        "height": -8, 
+        "height": 360, 
         "rate": 35, 
-        "start_y": 196, 
+        "start_y": 227, 
         "id": 10
     }, 
     {
@@ -450,9 +450,9 @@
             "Although the couple subsequently had two daughters, their marriage ended in 1941 after Foster joined the army, leaving Ms. Godden with the children and huge gambling debts.", 
             "She also served on a British-American crisis team that worked to enhance relations between British civilians and American military personnel stationed in Britain."
         ], 
-        "height": -8, 
+        "height": 328, 
         "rate": 32, 
-        "start_y": 196, 
+        "start_y": 243, 
         "id": 11
     }, 
     {
@@ -489,9 +489,9 @@
             "The next morning all the children showed up at the Bates home to be picked up by a military convoy.", 
             "In exchange, said Ellen Schell, a nursing historian based in San Francisco, candidates had to ''promise to participate in essential military or civilian nursing for as long as the war lasted."
         ], 
-        "height": -8, 
+        "height": 222, 
         "rate": 22, 
-        "start_y": 196, 
+        "start_y": 296, 
         "id": 12
     }, 
     {
@@ -554,7 +554,7 @@
             "She spent the last few years archiving the photo albums and diaries of her father, Bernhard Bardach, a doctor in the Austro-Hungarian Army during World War I.", 
             "The Trumps were also active in the Salvation Army, the Boy Scouts of America and the Lighthouse for the Blind, among others."
         ], 
-        "height": -6, 
+        "height": 424, 
         "rate": 41, 
         "start_y": 195, 
         "id": 13
@@ -590,9 +590,9 @@
             "In 1953, Mrs. Holberton joined the Navy's Applied Math Lab at the David Taylor Model Basin in Maryland as the supervisor of advanced programming, where she worked until 1966.", 
             "During World War II, she covered the Pacific from Pearl Harbor and was one of the few women accredited to report on both the Army and the Navy."
         ], 
-        "height": -8, 
+        "height": 190, 
         "rate": 19, 
-        "start_y": 196, 
+        "start_y": 312, 
         "id": 14
     }, 
     {
@@ -644,9 +644,9 @@
             "It served up the flavor of life before the main in the Royal Navy and the recipes for dishes a hungry sailor might enjoy.", 
             "He had learned to play the piccolo from his Scottish father, and, having fled from Virginia, played it in a Union Army band during the Civil War."
         ], 
-        "height": -8, 
+        "height": 328, 
         "rate": 32, 
-        "start_y": 196, 
+        "start_y": 243, 
         "id": 15
     }, 
     {
@@ -687,9 +687,9 @@
             "In her long career, Dr. Singer investigated and testified about techniques used by North Koreans against American soldiers in wartime and the Symbionese Liberation Army's influence over the kidnapped heiress Patricia Hearst.", 
             "Dr. Singer and her colleagues delved into a little known area of psychology at the trial, arguing that Ms. Hearst had helped rob a bank because she had been brainwashed to embrace the values of the Symbionese Liberation Army, which abducted her."
         ], 
-        "height": -8, 
+        "height": 286, 
         "rate": 28, 
-        "start_y": 196, 
+        "start_y": 264, 
         "id": 16
     }, 
     {
@@ -712,9 +712,9 @@
             "They were tried and convicted by a secret Hungarian military court but freed the following year, in time to cover the anti-Communist uprising and its suppression by Soviet forces.", 
             "Until her retirement at 79, she supervised the Bluebells' every performance (two shows a day, seven days a week) with military precision, while ferociously guarding their virtue from a stream of stage-door Lotharios."
         ], 
-        "height": -10, 
+        "height": 138, 
         "rate": 14, 
-        "start_y": 197, 
+        "start_y": 338, 
         "id": 17
     }, 
     {
@@ -740,9 +740,9 @@
             "She then spent the remaining years of World War II touring Army installations for the U.S.O.", 
             "In her work, she depicted a 1950's-era Colombian dictator, Gen. Gustavo Rojas Pinilla, as a toad, and portrayed a military junta as five monkeys wrapped in Colombia's flag."
         ], 
-        "height": -8, 
+        "height": 222, 
         "rate": 22, 
-        "start_y": 196, 
+        "start_y": 296, 
         "id": 18
     }, 
     {
@@ -775,9 +775,9 @@
             "Her eldest son, Lt. Gen. Liu Yuan, was appointed a political commissar of the Academy of Military Sciences, a rank equivalent to a cabinet minister, according to Reuters.", 
             " Jeane J. Kirkpatrick, the Reagan administration's first United Nations ambassador and a beacon of neoconservative thought who helped guide American military, diplomatic and covert action from 1981 to 1985, died Thursday at her home in Bethesda, Md."
         ], 
-        "height": -8, 
+        "height": 170, 
         "rate": 17, 
-        "start_y": 196, 
+        "start_y": 322, 
         "id": 19
     }
 ]

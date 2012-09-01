@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": 6, 
+        "max_height": 492, 
         "id": "meta-data", 
-        "midline": 198, 
+        "midline": 441, 
         "word": "Assistant", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 0.1834, 
+        "s_f": 5.452562704471101, 
         "words_included": "assistant, secretary, aide", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,197S40,204,50,204L70,204S80,204,80,204S80,204,90,204L110,204S120,204,120,203S120,203,130,203L150,203S160,203,160,202S160,202,170,202L190,202S200,202,200,204S200,206,210,206L230,206S240,206,240,204S240,203,250,203L270,203S280,203,280,202S280,202,290,202L310,202S320,202,320,202S320,203,330,203L350,203S360,203,360,202S360,201,370,201L390,201S400,201,400,201S400,202,410,202L430,202S440,202,440,202S440,202,450,202L470,202S480,202,480,201S480,201,490,201L510,201S520,201,520,201S520,202,530,202L550,202S560,202,560,201S560,201,570,201L590,201S600,201,600,200S600,200,610,200L630,200S640,200,640,200S640,200,650,200L670,200S680,200,680,200S680,200,690,200L710,200S720,200,720,200S720,201,730,201L750,201S760,201,760,201S760,201,770,201L790,201S800,201,800,201S800,201,810,201L830,201S840,201,840,203L840,197", 
-            "M40,198S40,192,50,192L70,192S80,192,80,192S80,192,90,192L110,192S120,192,120,193S120,193,130,193L150,193S160,193,160,194S160,194,170,194L190,194S200,194,200,192S200,190,210,190L230,190S240,190,240,192S240,193,250,193L270,193S280,193,280,194S280,194,290,194L310,194S320,194,320,194S320,193,330,193L350,193S360,193,360,194S360,195,370,195L390,195S400,195,400,195S400,194,410,194L430,194S440,194,440,194S440,194,450,194L470,194S480,194,480,195S480,195,490,195L510,195S520,195,520,195S520,194,530,194L550,194S560,194,560,195S560,195,570,195L590,195S600,195,600,196S600,196,610,196L630,196S640,196,640,196S640,196,650,196L670,196S680,196,680,196S680,196,690,196L710,196S720,196,720,196S720,195,730,195L750,195S760,195,760,195S760,195,770,195L790,195S800,195,800,195S800,195,810,195L830,195S840,195,840,193"
+            "M40,440L40,605S40,615,50,615L70,615S80,615,80,625L80,627S80,637,90,637L110,637S120,637,120,627L120,595S120,585,130,585L150,585S160,585,160,577S160,569,170,569L190,569S200,569,200,579L200,682S200,692,210,692L230,692S240,692,240,682L240,595S240,585,250,585L270,585S280,585,280,578S280,572,290,572L310,572S320,572,320,582L320,583S320,593,330,593L350,593S360,593,360,583L360,538S360,528,370,528L390,528S400,528,400,538L400,570S400,580,410,580L430,580S440,580,440,573S440,566,450,566L470,566S480,566,480,556L480,543S480,533,490,533L510,533S520,533,520,543L520,551S520,561,530,561L550,561S560,561,560,552S560,544,570,544L590,544S600,544,600,534L600,524S600,514,610,514L630,514S640,514,640,517S640,520,650,520L670,520S680,520,680,518S680,517,690,517L710,517S720,517,720,524S720,531,730,531L750,531S760,531,760,532S760,533,770,533L790,533S800,533,800,536S800,539,810,539L830,539S840,539,840,529L840,441L840,440", 
+            "M40,441L40,277S40,267,50,267L70,267S80,267,80,257L80,255S80,245,90,245L110,245S120,245,120,255L120,287S120,297,130,297L150,297S160,297,160,305S160,313,170,313L190,313S200,313,200,303L200,200S200,190,210,190L230,190S240,190,240,200L240,287S240,297,250,297L270,297S280,297,280,304S280,310,290,310L310,310S320,310,320,300L320,299S320,289,330,289L350,289S360,289,360,299L360,344S360,354,370,354L390,354S400,354,400,344L400,312S400,302,410,302L430,302S440,302,440,309S440,316,450,316L470,316S480,316,480,326L480,339S480,349,490,349L510,349S520,349,520,339L520,331S520,321,530,321L550,321S560,321,560,330S560,338,570,338L590,338S600,338,600,348L600,358S600,368,610,368L630,368S640,368,640,365S640,362,650,362L670,362S680,362,680,364S680,365,690,365L710,365S720,365,720,358S720,351,730,351L750,351S760,351,760,350S760,349,770,349L790,349S800,349,800,346S800,343,810,343L830,343S840,343,840,353L840,441"
         ], 
         "y_spacing": 190
     }, 
@@ -70,9 +70,9 @@
             "In 1920 she became the social secretary of Charles R. Crane, an envoy to China, and returned to that country for several years.", 
             "Before her retirement, she was assistant to Bob Criqui, the league's controller."
         ], 
-        "height": 2, 
+        "height": 338, 
         "rate": 64, 
-        "start_y": 197, 
+        "start_y": 272, 
         "id": 0
     }, 
     {
@@ -136,9 +136,9 @@
             "She then served as executive secretary of the National Association for the Education of Young Children, in Washington, until 1966.", 
             "She was assistant professor at the General Theological Seminary in Manhattan."
         ], 
-        "height": 2, 
+        "height": 382, 
         "rate": 72, 
-        "start_y": 197, 
+        "start_y": 250, 
         "id": 1
     }, 
     {
@@ -200,9 +200,9 @@
             "She was 66 years old and lived in Cliffside Park, N.J. Catherine M. Kelly, an executive secretary at The New York Times from 1953 to 1970, died of a stroke Sunday at Roosevelt Hospital in Manhattan.", 
             "She was an assistant news editor of People magazine at its inception in 1974."
         ], 
-        "height": 0, 
+        "height": 278, 
         "rate": 53, 
-        "start_y": 198, 
+        "start_y": 302, 
         "id": 2
     }, 
     {
@@ -270,9 +270,9 @@
             "She died of cancer, said Norman Wang, her assistant.", 
             "She served as assistant to the president of the Mannes College of Music from 1966 to 1970 and was acting director of the New York University Institute for the Humanities in the late 1970's."
         ], 
-        "height": -2, 
+        "height": 246, 
         "rate": 47, 
-        "start_y": 199, 
+        "start_y": 318, 
         "id": 3
     }, 
     {
@@ -373,7 +373,7 @@
             "Assistant to Man Ray Atget's photographs, which combine straightforward description with great formal beauty, have exerted a great influence on the development of American photography.", 
             "She went into photography by accident, going to work in Paris in 1923 as a darkroom assistant for the American Surrealist Man Ray."
         ], 
-        "height": 6, 
+        "height": 492, 
         "rate": 92, 
         "start_y": 195, 
         "id": 4
@@ -451,9 +451,9 @@
             "In 1938 he appointed her secretary to the Board of Estimate and, in 1941, to a 10-year term as a City Magistrate.", 
             "She enrolled there because it was the only school where she could attend night classes while working days, as a secretary."
         ], 
-        "height": 0, 
+        "height": 278, 
         "rate": 53, 
-        "start_y": 198, 
+        "start_y": 302, 
         "id": 5
     }, 
     {
@@ -510,9 +510,9 @@
             "\" Miss Loy was married four times, to Arthur Hornblow Jr., a movie producer; John D. Hertz Jr., an auto-rental and advertising executive; Gene Markey, a producer and screenwriter, and Howland H. Sargeant, a producer and, at the time, Assistant Secretary of State for Public Affairs.", 
             "While living in Siam, Mrs. Landon discovered the autobiographical books by Anna Leonowens, a Welsh widow who was a governess, teacher and secretary in the court of King Mongkut in the 1860's."
         ], 
-        "height": -2, 
+        "height": 252, 
         "rate": 48, 
-        "start_y": 199, 
+        "start_y": 315, 
         "id": 6
     }, 
     {
@@ -578,9 +578,9 @@
             " Aminda Badeau Wilkins, a retired welfare official and the widow of Roy Wilkins, longtime executive secretary of the National Association for the Advancement of Colored People, died on Saturday at New York University Medical Center.", 
             "She retired in 1971 as an assistant commissioner in the city's Department of Welfare."
         ], 
-        "height": 0, 
+        "height": 294, 
         "rate": 56, 
-        "start_y": 198, 
+        "start_y": 294, 
         "id": 7
     }, 
     {
@@ -625,9 +625,9 @@
             "\"She died peacefully in her sleep,\" said her personal assistant, Sue Leary, who could not say which of Miss Kuhn's many ailments, from arthritis to osteoporosis, had caused her death.", 
             "Ms. Lopez also worked with the New Jersey Department of Human Services, as an assistant administrator of Marlboro Psychiatric Hospital in Marlboro, N.J., and chief executive of Ancora Psychiatric Hospital in Hammonton, N.J. She held undergraduate and master's degrees in social work from Rutgers University."
         ], 
-        "height": -4, 
+        "height": 164, 
         "rate": 32, 
-        "start_y": 200, 
+        "start_y": 359, 
         "id": 8
     }, 
     {
@@ -709,9 +709,9 @@
             "Lynn's work as a volunteer nurse's aide at the Neuropsychiatric Institute at the University of California at Los Angeles in the 1950's led her to propose  a program of theatrical therapy.", 
             "Miss Barry, who was born in St. Louis and graduated from St. Louis University, started as an editorial assistant at the The New Yorker in 1967 before moving down the street to The Times in 1975."
         ], 
-        "height": -2, 
+        "height": 268, 
         "rate": 51, 
-        "start_y": 199, 
+        "start_y": 307, 
         "id": 9
     }, 
     {
@@ -776,9 +776,9 @@
             "Mr. Angell gave her a tryout and she went on to become his  assistant.", 
             "As a result, Simone Ovide was trained as a nurse's aide, and was working in that capacity when she met and was soon being courted by a young doctor named Francois Duvalier."
         ], 
-        "height": -2, 
+        "height": 240, 
         "rate": 46, 
-        "start_y": 199, 
+        "start_y": 321, 
         "id": 10
     }, 
     {
@@ -844,9 +844,9 @@
             "In 1935 she went to work for the Federal Art Project of the Works Progress Administration, later becoming its assistant director.", 
             "She became the museum's assistant director in 1949 and its associate director in charge of exhibitions, membership and special events in 1953."
         ], 
-        "height": -4, 
+        "height": 174, 
         "rate": 34, 
-        "start_y": 200, 
+        "start_y": 354, 
         "id": 11
     }, 
     {
@@ -908,9 +908,9 @@
             "On taking office, Mr. Brown broke precedent by naming Ms. Bird secretary of agriculture, a post traditionally held by a grower.", 
             "She was the foundation's treasurer and one of its founders, along with her husband and Donald M. Wilson, a former vice president of Time Inc. Mr. Greenfield, a former foreign correspondent for Time magazine and former assistant secretary of state, is now a consulting member of the editorial board at The New York Times, where he has also been foreign editor and later an assistant managing editor."
         ], 
-        "height": -2, 
+        "height": 230, 
         "rate": 44, 
-        "start_y": 199, 
+        "start_y": 326, 
         "id": 12
     }, 
     {
@@ -968,9 +968,9 @@
             "Mrs. Leighton-Porter continued modeling for ''Jane'' after the war, and when Mr. Pett left The Daily Mirror in 1948, the drawings were taken over by his assistant, Michael Hubbard.", 
             "Born in Mankato, Minn., and a graduate of the University of Minnesota, Marvel Jackson moved to New York in 1926 and worked as secretary for W. E. B. DuBois, editor of The Crisis, the magazine of the National Association for the Advancement of Colored People."
         ], 
-        "height": -4, 
+        "height": 196, 
         "rate": 38, 
-        "start_y": 200, 
+        "start_y": 343, 
         "id": 13
     }, 
     {
@@ -1017,9 +1017,9 @@
             "From 1972 to 1979 she worked as assistant curator and then curator at the California Historical Society in San Francisco.", 
             "'' An aide to Prince Charles once showed up and asked that she quickly whip up a masterpiece or two."
         ], 
-        "height": -6, 
+        "height": 136, 
         "rate": 27, 
-        "start_y": 201, 
+        "start_y": 373, 
         "id": 14
     }, 
     {
@@ -1068,9 +1068,9 @@
             "Jack Valenti, a friend of Mrs. Mahoney, was a special assistant to the president in the Johnson administration.", 
             "She worked as a teaching assistant to Lucas Hoving at the American Dance Festival in Durham, N.C., and studied in New York at the Laban/Bartenieff Institute."
         ], 
-        "height": -6, 
+        "height": 148, 
         "rate": 29, 
-        "start_y": 201, 
+        "start_y": 367, 
         "id": 15
     }, 
     {
@@ -1112,9 +1112,9 @@
             "Active in the New York Urban League since the mid-1960's, she was the secretary of its board until 1990 and the founder of its annual Frederick Douglass Awards Dinner; she was the dinner's chairwoman from 1966 to 1990.", 
             "When Ms. Winant (pronounced WYE-nant) moved to New York from California after World War II to find work on Broadway, she was hired as a production assistant for ''A Streetcar Named Desire'' and ''Death of a Salesman."
         ], 
-        "height": -6, 
+        "height": 142, 
         "rate": 28, 
-        "start_y": 201, 
+        "start_y": 370, 
         "id": 16
     }, 
     {
@@ -1160,9 +1160,9 @@
             "There, she met Rivera's assistant, Ben Shahn, who became her life companion.", 
             "She never had an assistant."
         ], 
-        "height": -4, 
+        "height": 170, 
         "rate": 33, 
-        "start_y": 200, 
+        "start_y": 356, 
         "id": 17
     }, 
     {
@@ -1203,9 +1203,9 @@
             "As secretary, she was a leader in instituting voter registration by mail and lowering the voting age to 18.", 
             "In October 1942, she was transferred to Maidanek and promoted to assistant warden."
         ], 
-        "height": -4, 
+        "height": 174, 
         "rate": 34, 
-        "start_y": 200, 
+        "start_y": 354, 
         "id": 18
     }, 
     {
@@ -1266,9 +1266,9 @@
             "But her new boss, Secretary of State George P. Shultz, opposed her.", 
             "The next year, as the Iran-contra story began unfolding, Mr. Casey urged the president to make her secretary of state, but Mr. Reagan rejected the idea."
         ], 
-        "height": -4, 
+        "height": 186, 
         "rate": 36, 
-        "start_y": 200, 
+        "start_y": 348, 
         "id": 19
     }
 ]

@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": 86, 
+        "max_height": 416, 
         "id": "meta-data", 
-        "midline": 238, 
+        "midline": 403, 
         "word": "Dance", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 0.4776, 
+        "s_f": 2.0938023450586263, 
         "words_included": "dancer, dance, ballet", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,237L40,263S40,273,50,273L70,273S80,273,80,265S80,258,90,258L110,258S120,258,120,257S120,256,130,256L150,256S160,256,160,258S160,260,170,260L190,260S200,260,200,267S200,274,210,274L230,274S240,274,240,268S240,263,250,263L270,263S280,263,280,263S280,264,290,264L310,264S320,264,320,262S320,261,330,261L350,261S360,261,360,262S360,264,370,264L390,264S400,264,400,264S400,264,410,264L430,264S440,264,440,262S440,261,450,261L470,261S480,261,480,264S480,268,490,268L510,268S520,268,520,277S520,286,530,286L550,286S560,286,560,276L560,273S560,263,570,263L590,263S600,263,600,266S600,270,610,270L630,270S640,270,640,268S640,267,650,267L670,267S680,267,680,265S680,263,690,263L710,263S720,263,720,268S720,274,730,274L750,274S760,274,760,270S760,266,770,266L790,266S800,266,800,268S800,270,810,270L830,270S840,270,840,260L840,238L840,237", 
-            "M40,238L40,213S40,203,50,203L70,203S80,203,80,211S80,218,90,218L110,218S120,218,120,219S120,220,130,220L150,220S160,220,160,218S160,216,170,216L190,216S200,216,200,209S200,202,210,202L230,202S240,202,240,208S240,213,250,213L270,213S280,213,280,213S280,212,290,212L310,212S320,212,320,214S320,215,330,215L350,215S360,215,360,214S360,212,370,212L390,212S400,212,400,212S400,212,410,212L430,212S440,212,440,214S440,215,450,215L470,215S480,215,480,212S480,208,490,208L510,208S520,208,520,199S520,190,530,190L550,190S560,190,560,200L560,203S560,213,570,213L590,213S600,213,600,210S600,206,610,206L630,206S640,206,640,208S640,209,650,209L670,209S680,209,680,211S680,213,690,213L710,213S720,213,720,208S720,202,730,202L750,202S760,202,760,206S760,210,770,210L790,210S800,210,800,208S800,206,810,206L830,206S840,206,840,216L840,238"
+            "M40,402L40,548S40,558,50,558L70,558S80,558,80,548L80,500S80,490,90,490L110,490S120,490,120,486S120,483,130,483L150,483S160,483,160,491S160,500,170,500L190,500S200,500,200,510L200,551S200,561,210,561L230,561S240,561,240,551L240,523S240,513,250,513L270,513S280,513,280,514S280,516,290,516L310,516S320,516,320,510S320,505,330,505L350,505S360,505,360,512S360,519,370,519L390,519S400,519,400,518S400,518,410,518L430,518S440,518,440,511S440,504,450,504L470,504S480,504,480,514L480,526S480,536,490,536L510,536S520,536,520,546L520,606S520,616,530,616L550,616S560,616,560,606L560,525S560,515,570,515L590,515S600,515,600,525L600,533S600,543,610,543L630,543S640,543,640,536S640,530,650,530L670,530S680,530,680,522S680,514,690,514L710,514S720,514,720,524L720,553S720,563,730,563L750,563S760,563,760,553L760,537S760,527,770,527L790,527S800,527,800,535S800,544,810,544L830,544S840,544,840,534L840,403L840,402", 
+            "M40,403L40,258S40,248,50,248L70,248S80,248,80,258L80,306S80,316,90,316L110,316S120,316,120,320S120,323,130,323L150,323S160,323,160,315S160,306,170,306L190,306S200,306,200,296L200,255S200,245,210,245L230,245S240,245,240,255L240,283S240,293,250,293L270,293S280,293,280,292S280,290,290,290L310,290S320,290,320,296S320,301,330,301L350,301S360,301,360,294S360,287,370,287L390,287S400,287,400,288S400,288,410,288L430,288S440,288,440,295S440,302,450,302L470,302S480,302,480,292L480,280S480,270,490,270L510,270S520,270,520,260L520,200S520,190,530,190L550,190S560,190,560,200L560,281S560,291,570,291L590,291S600,291,600,281L600,273S600,263,610,263L630,263S640,263,640,270S640,276,650,276L670,276S680,276,680,284S680,292,690,292L710,292S720,292,720,282L720,253S720,243,730,243L750,243S760,243,760,253L760,269S760,279,770,279L790,279S800,279,800,271S800,262,810,262L830,262S840,262,840,272L840,403"
         ], 
         "y_spacing": 190
     }, 
@@ -115,9 +115,9 @@
             "Born in Pittsburgh, Mrs. Walker was an art student at the Carnegie Institute of Technology from 1933 to 1934, then moved to New York, where she studied dance with Ruth St. Denis.", 
             "Previously Ms. Murray had worked for the American Ballet Theater and Phoenix Theater in New York and the Atlantic Monthly Press and Charles Playhouse in Boston."
         ], 
-        "height": 60, 
+        "height": 300, 
         "rate": 148, 
-        "start_y": 208, 
+        "start_y": 253, 
         "id": 0
     }, 
     {
@@ -173,9 +173,9 @@
             "The Cafritz party guests ranged from the Duke and Duchess of Windsor, who once danced on a transparent dance floor lighted from below, to Supreme Court justices.", 
             "She gave dozens of parties every year in her 57-room, white brick mansion on a seven-acre hilltop that included a basement night club with illuminated dance floor, a gym and an Olympic-size swimming pool."
         ], 
-        "height": 30, 
+        "height": 164, 
         "rate": 83, 
-        "start_y": 223, 
+        "start_y": 321, 
         "id": 1
     }, 
     {
@@ -243,9 +243,9 @@
             "The movie gave Miss Bari, playing a poor dancer who rises to power as a viceroy's consort, her greatest chance by leading a cast of celebrated performers, including Alla Nazimova, Louis Calhern, Blanche Yurka and Akim Tamiroff, but the film was marred by a pompous script and a hurried production schedule.", 
             "Audrey Christie, a versatile actress who began her career as a singer and dancer in musical comedies and went on to deft dramatic portrayals, died of emphysema on Dec. 19 at her home in West Hollywood, Calif. She was 79 years old."
         ], 
-        "height": 26, 
+        "height": 150, 
         "rate": 77, 
-        "start_y": 225, 
+        "start_y": 328, 
         "id": 2
     }, 
     {
@@ -347,9 +347,9 @@
             "Mrs. Doll also contributed to the Dance Theater of Harlem, the Joffrey Ballet and the companies of Paul Taylor and Alvin Ailey, as well as the American Symphony Orchestra, Carnegie Hall, the Brooklyn Academy of Music and the French Institute/Alliance Francaise.", 
             "In 1986 she was named an Officier de L'Ordre des Arts et des Lettres by the French Government for her support of the Paris Opera Ballet."
         ], 
-        "height": 34, 
+        "height": 184, 
         "rate": 93, 
-        "start_y": 221, 
+        "start_y": 311, 
         "id": 3
     }, 
     {
@@ -485,9 +485,9 @@
             "\" Among those present were Janet Suzman, Geraldine James, Charles Dance, Joss Ackland, Richard Eyre and Peter O'Toole.", 
             "Mrs. Kriendler was a longtime contributor to the New York City Ballet and the New York City Opera and helped raise funds for them."
         ], 
-        "height": 62, 
+        "height": 306, 
         "rate": 151, 
-        "start_y": 207, 
+        "start_y": 250, 
         "id": 4
     }, 
     {
@@ -605,9 +605,9 @@
             "Her film and theater roles included the player queen in the stage production of \"Hamlet\" starring Leslie Howard, and she played the dancer in a film version of \"Romeo and Juliet\" that starred Norma Shearer.", 
             "Mrs. Green was managing director of the Agnes de Mille Dance Theater from the 1960's through the early 70's, and she assisted Miss de Mille in her lecture appearances."
         ], 
-        "height": 40, 
+        "height": 210, 
         "rate": 105, 
-        "start_y": 218, 
+        "start_y": 298, 
         "id": 5
     }, 
     {
@@ -711,9 +711,9 @@
             "Myriad Beneficiaries In addition to her involvement with Lincoln Center, Miss Tully was an active supporter of dance, art and humanitarian organizations.", 
             "She gave generously to the Martha Graham Dance Company and Eliot Feld's ballet troupe, and she was a board member of numerous other arts and educational institutions."
         ], 
-        "height": 42, 
+        "height": 216, 
         "rate": 108, 
-        "start_y": 217, 
+        "start_y": 295, 
         "id": 6
     }, 
     {
@@ -807,9 +807,9 @@
             "But the scores of songs on she which stamped her bittersweet, gently mocking signature included \"Alfie,\" \"The Music That Makes Me Dance,\" \"Guess Who I Saw Today?,\" \"Blame It on My Youth,\" \"Yesterdays\" and \"Mean to Me.", 
             "It said Miss Zahn had moved to Oregon in 1986 from New York City, where she had begun teaching at the Isadora Duncan School of Dance in 1924."
         ], 
-        "height": 36, 
+        "height": 194, 
         "rate": 98, 
-        "start_y": 220, 
+        "start_y": 306, 
         "id": 7
     }, 
     {
@@ -926,9 +926,9 @@
             "Miss Bird played an important part in the founding and development of the American Dance Guild and the Congress on Research in Dance.", 
             "In 1974, she began a long association with the Laban Center for Movement and Dance in London."
         ], 
-        "height": 42, 
+        "height": 222, 
         "rate": 111, 
-        "start_y": 217, 
+        "start_y": 292, 
         "id": 8
     }, 
     {
@@ -1078,9 +1078,9 @@
             "\"Chorus Line\" legends clung to Ms. Henry, including one about her persistence in completing the high-powered dance number \"Music and the Mirror\" while bats flew around her head in one Midwestern theater.", 
             "While designing and editing the Sunday Arts and Leisure Guide, editing art and dance reviews and designing the daily cultural pages, she began contributing articles to The Times, a career she continued and expanded after she returned to The New Yorker in 1990 as managing editor of the Goings On About Town section."
         ], 
-        "height": 42, 
+        "height": 220, 
         "rate": 110, 
-        "start_y": 217, 
+        "start_y": 293, 
         "id": 9
     }, 
     {
@@ -1204,9 +1204,9 @@
             "In 1935, she appeared with the American Ballet, Balanchine's first New York company.", 
             "She appeared in such movies as ''Their Big Moment'' (1934), ''Manhattan Merry-Go-Round'' (1937) and ''Orchestra Wives'' (1942), and she choreographed the dances in ''Specter of the Rose'' (1946), Ben Hecht's film about a ballerina who falls in love with an insane dancer."
         ], 
-        "height": 36, 
+        "height": 192, 
         "rate": 97, 
-        "start_y": 220, 
+        "start_y": 307, 
         "id": 10
     }, 
     {
@@ -1374,9 +1374,9 @@
             "She also taught at the London Contemporary Dance School from 1984 to 1987 and, from early in her career, at universities and dance festivals throughout the United States.", 
             "Correction:  January 6, 1999, Wednesday  An obituary of the dancer and choreographer Viola Farber on Dec. 31 misstated the work and the year in which she last performed."
         ], 
-        "height": 50, 
+        "height": 256, 
         "rate": 127, 
-        "start_y": 213, 
+        "start_y": 275, 
         "id": 11
     }, 
     {
@@ -1594,7 +1594,7 @@
             "In 1985, she founded the Dancers Emergency Fund at City Ballet.", 
             "Ms. Cage also taught unofficial tai chi classes at the City Ballet-affiliated School of American Ballet."
         ], 
-        "height": 86, 
+        "height": 416, 
         "rate": 204, 
         "start_y": 195, 
         "id": 12
@@ -1731,9 +1731,9 @@
             "A theater fan from early childhood, Ms. Mitchell attended dance classes and subsequently spent several summers hoofing on the summer theater circuit.", 
             "Eventually, she developed a way for them to go to a range of cultural events, from City Center Theater, the opera and ballet center that preceded Lincoln Center, to Carnegie Hall to small Off Broadway theaters."
         ], 
-        "height": 40, 
+        "height": 214, 
         "rate": 107, 
-        "start_y": 218, 
+        "start_y": 296, 
         "id": 13
     }, 
     {
@@ -1895,9 +1895,9 @@
             "The family's apartment was above a dance hall, and she won dance contests as a girl.", 
             "She declined, saying that was going to a Scottish dance in the village."
         ], 
-        "height": 54, 
+        "height": 270, 
         "rate": 134, 
-        "start_y": 211, 
+        "start_y": 268, 
         "id": 14
     }, 
     {
@@ -2045,9 +2045,9 @@
             "She worked as a teaching assistant to Lucas Hoving at the American Dance Festival in Durham, N.C., and studied in New York at the Laban/Bartenieff Institute.", 
             "'' Later, she played clubs, dance halls and street fairs, among other engagements, all over the United States."
         ], 
-        "height": 48, 
+        "height": 244, 
         "rate": 122, 
-        "start_y": 214, 
+        "start_y": 281, 
         "id": 15
     }, 
     {
@@ -2149,9 +2149,9 @@
             "Correction:  December 5, 2003, Friday  An obituary on this page yesterday erroneously reported the death of Katharine Sergava, a dancer and an actress who portrayed the dream-ballet  version of Laurey, the heroine, in the original production of ''Oklahoma!", 
             "Correction:  December 5, 2003, Friday  An obituary yesterday erroneously reported the death of Katharine Sergava, a dancer and actress who portrayed the dream-ballet version of Laurey, the heroine, in the original production of ''Oklahoma!"
         ], 
-        "height": 40, 
+        "height": 212, 
         "rate": 106, 
-        "start_y": 218, 
+        "start_y": 297, 
         "id": 16
     }, 
     {
@@ -2292,9 +2292,9 @@
             "She wrote several books on physical education, sports and dance, including ''Modern Dance Techniques and Teaching'' (1946), written with Gertrude Shurr, an early Martha Graham dancer and longtime colleague.", 
             "Dr. Yocom also wrote songs and was a dance photographer."
         ], 
-        "height": 62, 
+        "height": 310, 
         "rate": 153, 
-        "start_y": 207, 
+        "start_y": 248, 
         "id": 17
     }, 
     {
@@ -2386,9 +2386,9 @@
             "Ms. Cohen wrote and edited several important books, among them ''The Modern Dance: Seven Statements of Belief'' (Wesleyan University Press, 1966), an anthology of essays by contemporary choreographers; ''Doris Humphrey: An Artist First'' (Wesleyan, 1972), a biography of a pioneering modern dancer; and ''Next Week, Swan Lake'' (Wesleyan, 1982), a study of dance aesthetics.", 
             "Her ''Dance as a Theater Art'' (Dodd, Mead, 1974), a history of dance since the Renaissance, remains a popular college text."
         ], 
-        "height": 46, 
+        "height": 238, 
         "rate": 119, 
-        "start_y": 215, 
+        "start_y": 284, 
         "id": 18
     }, 
     {
@@ -2553,9 +2553,9 @@
             "It wasn't long before they heard from Mr. Bernstein, their erstwhile accompanist, who said he'd been working on a ballet with Jerome Robbins and that the two of them had decided that the ballet, called ''Fancy Free,'' had the makings of a Broadway show.", 
             "Straddling the divide between literary and mass-market novels, Ms. Campbell's work explored not only the turbulent dance between blacks and whites but also the equally fraught relationship between men and women."
         ], 
-        "height": 54, 
+        "height": 272, 
         "rate": 135, 
-        "start_y": 211, 
+        "start_y": 267, 
         "id": 19
     }
 ]

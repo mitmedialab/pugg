@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": 18, 
+        "max_height": 408, 
         "id": "meta-data", 
-        "midline": 204, 
+        "midline": 399, 
         "word": "Visual art", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 0.2582, 
+        "s_f": 3.872966692486445, 
         "words_included": "artist, painter, photographer, painted, sculptor, curator, architect, illustrator", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,203S40,211,50,211L70,211S80,211,80,214S80,218,90,218L110,218S120,218,120,215S120,212,130,212L150,212S160,212,160,212S160,212,170,212L190,212S200,212,200,213S200,215,210,215L230,215S240,215,240,214S240,213,250,213L270,213S280,213,280,213S280,213,290,213L310,213S320,213,320,212S320,212,330,212L350,212S360,212,360,211S360,210,370,210L390,210S400,210,400,210S400,210,410,210L430,210S440,210,440,210S440,210,450,210L470,210S480,210,480,210S480,211,490,211L510,211S520,211,520,211S520,212,530,212L550,212S560,212,560,212S560,212,570,212L590,212S600,212,600,212S600,213,610,213L630,213S640,213,640,212S640,211,650,211L670,211S680,211,680,211S680,211,690,211L710,211S720,211,720,212S720,214,730,214L750,214S760,214,760,212S760,210,770,210L790,210S800,210,800,211S800,212,810,212L830,212S840,212,840,209L840,203", 
-            "M40,204S40,197,50,197L70,197S80,197,80,194S80,190,90,190L110,190S120,190,120,193S120,196,130,196L150,196S160,196,160,196S160,196,170,196L190,196S200,196,200,195S200,193,210,193L230,193S240,193,240,194S240,195,250,195L270,195S280,195,280,195S280,195,290,195L310,195S320,195,320,196S320,196,330,196L350,196S360,196,360,197S360,198,370,198L390,198S400,198,400,198S400,198,410,198L430,198S440,198,440,198S440,198,450,198L470,198S480,198,480,198S480,197,490,197L510,197S520,197,520,197S520,196,530,196L550,196S560,196,560,196S560,196,570,196L590,196S600,196,600,196S600,195,610,195L630,195S640,195,640,196S640,197,650,197L670,197S680,197,680,197S680,197,690,197L710,197S720,197,720,196S720,194,730,194L750,194S760,194,760,196S760,198,770,198L790,198S800,198,800,197S800,196,810,196L830,196S840,196,840,199"
+            "M40,398L40,501S40,511,50,511L70,511S80,511,80,521L80,598S80,608,90,608L110,608S120,608,120,598L120,531S120,521,130,521L150,521S160,521,160,521S160,521,170,521L190,521S200,521,200,531L200,557S200,567,210,567L230,567S240,567,240,557L240,554S240,544,250,544L270,544S280,544,280,538S280,532,290,532L310,532S320,532,320,527S320,523,330,523L350,523S360,523,360,513L360,496S360,486,370,486L390,486S400,486,400,488S400,490,410,490L430,490S440,490,440,494S440,498,450,498L470,498S480,498,480,505S480,513,490,513L510,513S520,513,520,520S520,528,530,528L550,528S560,528,560,522S560,517,570,517L590,517S600,517,600,527L600,530S600,540,610,540L630,540S640,540,640,530L640,511S640,501,650,501L670,501S680,501,680,504S680,507,690,507L710,507S720,507,720,517L720,546S720,556,730,556L750,556S760,556,760,546L760,498S760,488,770,488L790,488S800,488,800,498L800,515S800,525,810,525L830,525S840,525,840,515L840,399L840,398", 
+            "M40,399L40,297S40,287,50,287L70,287S80,287,80,277L80,200S80,190,90,190L110,190S120,190,120,200L120,267S120,277,130,277L150,277S160,277,160,277S160,277,170,277L190,277S200,277,200,267L200,241S200,231,210,231L230,231S240,231,240,241L240,244S240,254,250,254L270,254S280,254,280,260S280,266,290,266L310,266S320,266,320,271S320,275,330,275L350,275S360,275,360,285L360,302S360,312,370,312L390,312S400,312,400,310S400,308,410,308L430,308S440,308,440,304S440,300,450,300L470,300S480,300,480,293S480,285,490,285L510,285S520,285,520,278S520,270,530,270L550,270S560,270,560,276S560,281,570,281L590,281S600,281,600,271L600,268S600,258,610,258L630,258S640,258,640,268L640,287S640,297,650,297L670,297S680,297,680,294S680,291,690,291L710,291S720,291,720,281L720,252S720,242,730,242L750,242S760,242,760,252L760,300S760,310,770,310L790,310S800,310,800,300L800,283S800,273,810,273L830,273S840,273,840,283L840,399"
         ], 
         "y_spacing": 190
     }, 
@@ -65,9 +65,9 @@
             "Ione Gaul Walker, a painter, arts patron and former art dealer, died of cancer of the throat on Monday at her home in Provincetown, Mass.", 
             "Mrs. Scalamandre, an artist and designer, founded the company in 1929 with her husband, Franco."
         ], 
-        "height": 4, 
+        "height": 214, 
         "rate": 58, 
-        "start_y": 202, 
+        "start_y": 292, 
         "id": 0
     }, 
     {
@@ -146,7 +146,7 @@
             "Gertrude Cowan, a newspaper editor and illustrator who was known professionally as Trudi Cowan, died of cancer yesterday at North Shore University Hospital in Manhasset, L.I.", 
             "Margaret Mee, a botanical artist and explorer of Amazonian rain forests, died in a car accident, her family said Friday."
         ], 
-        "height": 18, 
+        "height": 408, 
         "rate": 108, 
         "start_y": 195, 
         "id": 1
@@ -208,9 +208,9 @@
             "In 1928, she married the sculptor Meyer Wolfe, who died in 1985.", 
             "Frances Hammer, a painter and the wife of Dr. Armand Hammer, the industrialist and philanthropist, died of pneumonia on Saturday after undergoing surgery for a broken hip at the UCLA Medical Center."
         ], 
-        "height": 6, 
+        "height": 234, 
         "rate": 63, 
-        "start_y": 201, 
+        "start_y": 282, 
         "id": 2
     }, 
     {
@@ -297,9 +297,9 @@
             " Taina Waisman Katz, an architect, died on Friday at St. Francis Hospital in Roslyn, L.I.", 
             "With her husband, Sidney, and another architect, Read Weber, Mrs. Katz founded the firm of Katz Waisman Weber in Manhattan in 1942."
         ], 
-        "height": 6, 
+        "height": 234, 
         "rate": 63, 
-        "start_y": 201, 
+        "start_y": 282, 
         "id": 3
     }, 
     {
@@ -397,9 +397,9 @@
             "By the mid-1930's, she was living in California and was well-established as a painter of commissioned portraits, with Hollywood studio heads like Louis B. Mayer and Adolf Zukor among her clients.", 
             "In the 1940's she painted portraits of several members of the Truman Administration and their families, which led to commissions for portraits of the President, his wife and daughter."
         ], 
-        "height": 12, 
+        "height": 326, 
         "rate": 87, 
-        "start_y": 198, 
+        "start_y": 236, 
         "id": 4
     }, 
     {
@@ -496,9 +496,9 @@
             "Miss Andrews, who was born in Bury St. Edmunds, England, on April 19, 1898, specialized in linocuts, a printing method popularized between the wars in England by the artist Claude Flight, who was her teacher at the Grosvenor School.", 
             "In addition to her husband, Stephen, an architect and photographer who contributed to her articles, Mrs. Carter is survived by two brothers, Dr. Thomas Killip, of Manhattan, and Colbeth Killip, of Ogonquit, Me., and an aunt, Priscilla Balaban, of Wilmington, N.C.       "
         ], 
-        "height": 8, 
+        "height": 280, 
         "rate": 75, 
-        "start_y": 200, 
+        "start_y": 259, 
         "id": 5
     }, 
     {
@@ -580,9 +580,9 @@
             "In addition to being a journalist, photographer and anthropologist, she was also a horticulturist.", 
             " Helen Marshall, an American painter and art teacher, died on Nov. 24 at her home in Lavenham, Sussex, England."
         ], 
-        "height": 8, 
+        "height": 256, 
         "rate": 69, 
-        "start_y": 200, 
+        "start_y": 271, 
         "id": 6
     }, 
     {
@@ -658,9 +658,9 @@
             "Gres was the name taken by her husband, Serge Czerefkow, a Russian painter she married in the 30's.", 
             "Trained as a sculptor, she began designing clothes in 1930 after learning sketching and cutting at the house of Premet."
         ], 
-        "height": 6, 
+        "height": 238, 
         "rate": 64, 
-        "start_y": 201, 
+        "start_y": 280, 
         "id": 7
     }, 
     {
@@ -723,9 +723,9 @@
             "Five years later, she joined the archeological staff at the agora, and in 1939 was made its official photographer, a position she kept until 1964.", 
             "Her husband at the time, Jim, described the fashions, which included painted jersey, silk and chiffon dresses, and hip-hugger bell bottoms made from old draperies, as \"somewhere between here and Mars."
         ], 
-        "height": 2, 
+        "height": 164, 
         "rate": 45, 
-        "start_y": 203, 
+        "start_y": 317, 
         "id": 8
     }, 
     {
@@ -804,9 +804,9 @@
             "Two years later, she married Walker O. Cain, an architect.", 
             "In addition to her daughter, of Needham, Mass., she is survived by a son, Gabriel, a sculptor, of Wood River Junction, R.I., and four grandchildren.       "
         ], 
-        "height": 2, 
+        "height": 172, 
         "rate": 47, 
-        "start_y": 203, 
+        "start_y": 313, 
         "id": 9
     }, 
     {
@@ -886,9 +886,9 @@
             "When the foundation began to focus on Newark's urban troubles at the end of the 1950's, she became a principal architect of its evolving programs in education.", 
             "Reviewing the show in The New York Times, Brooks Atkinson wrote that Miss Geva ''is so magnificent as the mistress of the dance that she can burlesque it with the authority of an artist on a holiday."
         ], 
-        "height": 2, 
+        "height": 188, 
         "rate": 51, 
-        "start_y": 203, 
+        "start_y": 305, 
         "id": 10
     }, 
     {
@@ -992,9 +992,9 @@
             "Andre Bishop, the artistic director of Lincoln Center Theater, said Ms. Roberts had ''a real ability to think like a producer, feel like an artist and act like an agent.", 
             "Born into a musical family in Brooklyn and named Mildred Sophia Weiss, Mrs. Baker became deeply involved with museums and art galleries after marrying an artist, Emil Holzhauer, in 1925."
         ], 
-        "height": 4, 
+        "height": 218, 
         "rate": 59, 
-        "start_y": 202, 
+        "start_y": 290, 
         "id": 11
     }, 
     {
@@ -1090,9 +1090,9 @@
             " Elizabeth Zimmermann, who brought a penetrating intellect and a sculptor's sensitivity to revolutionizing the ancient art of knitting, died Nov. 30 at a hospital in Marshfield, Wis., where she lived.", 
             "''She was more than a sculptor,'' Ms. Ligon said."
         ], 
-        "height": 6, 
+        "height": 248, 
         "rate": 67, 
-        "start_y": 201, 
+        "start_y": 275, 
         "id": 12
     }, 
     {
@@ -1180,9 +1180,9 @@
             "While vacationing in Hollywood in the early 1940's, Ms. Wilkens, then an illustrator, was erroneously introduced at a party as a children's fashion designer.", 
             "Mrs. Stark honed her sense of fashion in the college shop at Lord & Taylor and as a fashion photographer for the B. Altman department store in New York."
         ], 
-        "height": 6, 
+        "height": 226, 
         "rate": 61, 
-        "start_y": 201, 
+        "start_y": 286, 
         "id": 13
     }, 
     {
@@ -1293,9 +1293,9 @@
             "'' In it, she lamented the phasing out of the extended studio classes required to initiate ''that painfully slow education of the senses,'' which she considered an artist's life work.", 
             "''But I told John, 'If you're an artist, you can't be a huckster."
         ], 
-        "height": 8, 
+        "height": 272, 
         "rate": 73, 
-        "start_y": 200, 
+        "start_y": 263, 
         "id": 14
     }, 
     {
@@ -1378,9 +1378,9 @@
             "The 25-year-old subsurface building will be transformed into a daffodil-yellow two-story showcase, designed by the architect Raphael Vi\u00f1oly, and featuring two L-shaped wings spreading along Brooklyn and St. Marks Avenues.", 
             "Her husband, Bill Fulbrecht, is an artist and kindergarten teacher at Public School 321 in Park Slope."
         ], 
-        "height": 4, 
+        "height": 194, 
         "rate": 53, 
-        "start_y": 202, 
+        "start_y": 302, 
         "id": 15
     }, 
     {
@@ -1450,9 +1450,9 @@
             "'' It was also during this period that she took off for Mexico, where Diego Rivera painted her as a nude odalisque.", 
             "Dahl-Wolfe often requested Mrs. Russell, according to Irving Solero, the photographer of the museum of the Fashion Institute of Technology, which houses Dahl-Wolfe's color archive."
         ], 
-        "height": 4, 
+        "height": 206, 
         "rate": 56, 
-        "start_y": 202, 
+        "start_y": 296, 
         "id": 16
     }, 
     {
@@ -1549,9 +1549,9 @@
             "Once she starting painting again in 1974, however, she worked solidly until the end of her life, in a format that seldom varied: six-foot-square canvases on which she drew horizontal graphite lines and painted bands of color with subtly vigorous strokes.", 
             "The lectures were collected into a book in 1992, ''Writings,'' which established her as a moral thinker as well as an artist."
         ], 
-        "height": 10, 
+        "height": 304, 
         "rate": 81, 
-        "start_y": 199, 
+        "start_y": 247, 
         "id": 17
     }, 
     {
@@ -1600,9 +1600,9 @@
             "She was born Sarah Margaret Moore on July 26, 1911, in Indianapolis and graduated from Vassar in 1932, the year she married Fletcher Hodges Jr., a museum curator.", 
             "Ms. Cohen wrote and edited several important books, among them ''The Modern Dance: Seven Statements of Belief'' (Wesleyan University Press, 1966), an anthology of essays by contemporary choreographers; ''Doris Humphrey: An Artist First'' (Wesleyan, 1972), a biography of a pioneering modern dancer; and ''Next Week, Swan Lake'' (Wesleyan, 1982), a study of dance aesthetics."
         ], 
-        "height": 2, 
+        "height": 168, 
         "rate": 46, 
-        "start_y": 203, 
+        "start_y": 315, 
         "id": 18
     }, 
     {
@@ -1703,9 +1703,9 @@
             "''Here before me was indisputable evidence of what I had thought possible -- an intensely vital artist whose medium was photography.", 
             "In the early 1940s Ms. Bernhard became involved with an artist and designer, Eveline Phimister, and for the next 10 years they lived together in New York, then in Carmel, Calif.; Los Angeles; and San Francisco, which became Ms. Bernhard's permanent home in 1953."
         ], 
-        "height": 6, 
+        "height": 242, 
         "rate": 65, 
-        "start_y": 201, 
+        "start_y": 278, 
         "id": 19
     }
 ]

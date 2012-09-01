@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": 98, 
+        "max_height": 334, 
         "id": "meta-data", 
-        "midline": 244, 
+        "midline": 362, 
         "word": "Music", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 0.56, 
+        "s_f": 1.7857142857142858, 
         "words_included": "musician, composer, pianist, opera, orchestra, singer, sing, sang, performed", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,243L40,281S40,291,50,291L70,291S80,291,80,283S80,276,90,276L110,276S120,276,120,283S120,290,130,290L150,290S160,290,160,288S160,286,170,286L190,286S200,286,200,279S200,273,210,273L230,273S240,273,240,276S240,279,250,279L270,279S280,279,280,288S280,298,290,298L310,298S320,298,320,288L320,288S320,278,330,278L350,278S360,278,360,277S360,277,370,277L390,277S400,277,400,280S400,284,410,284L430,284S440,284,440,278S440,272,450,272L470,272S480,272,480,279S480,286,490,286L510,286S520,286,520,285S520,285,530,285L550,285S560,285,560,281S560,278,570,278L590,278S600,278,600,280S600,282,610,282L630,282S640,282,640,283S640,284,650,284L670,284S680,284,680,286S680,289,690,289L710,289S720,289,720,283S720,277,730,277L750,277S760,277,760,279S760,282,770,282L790,282S800,282,800,286S800,291,810,291L830,291S840,291,840,281L840,244L840,243", 
-            "M40,244L40,207S40,197,50,197L70,197S80,197,80,205S80,212,90,212L110,212S120,212,120,205S120,198,130,198L150,198S160,198,160,200S160,202,170,202L190,202S200,202,200,209S200,215,210,215L230,215S240,215,240,212S240,209,250,209L270,209S280,209,280,200S280,190,290,190L310,190S320,190,320,200L320,200S320,210,330,210L350,210S360,210,360,211S360,211,370,211L390,211S400,211,400,208S400,204,410,204L430,204S440,204,440,210S440,216,450,216L470,216S480,216,480,209S480,202,490,202L510,202S520,202,520,203S520,203,530,203L550,203S560,203,560,207S560,210,570,210L590,210S600,210,600,208S600,206,610,206L630,206S640,206,640,205S640,204,650,204L670,204S680,204,680,202S680,199,690,199L710,199S720,199,720,205S720,211,730,211L750,211S760,211,760,209S760,206,770,206L790,206S800,206,800,202S800,197,810,197L830,197S840,197,840,207L840,244"
+            "M40,361L40,503S40,513,50,513L70,513S80,513,80,503L80,474S80,464,90,464L110,464S120,464,120,474L120,500S120,510,130,510L150,510S160,510,160,503S160,496,170,496L190,496S200,496,200,486L200,466S200,456,210,456L230,456S240,456,240,465S240,474,250,474L270,474S280,474,280,484L280,524S280,534,290,534L310,534S320,534,320,524L320,482S320,472,330,472L350,472S360,472,360,469S360,466,370,466L390,466S400,466,400,476L400,479S400,489,410,489L430,489S440,489,440,479L440,461S440,451,450,451L470,451S480,451,480,461L480,487S480,497,490,497L510,497S520,497,520,496S520,495,530,495L550,495S560,495,560,485L560,482S560,472,570,472L590,472S600,472,600,478S600,485,610,485L630,485S640,485,640,488S640,491,650,491L670,491S680,491,680,498S680,506,690,506L710,506S720,506,720,496L720,478S720,468,730,468L750,468S760,468,760,476S760,484,770,484L790,484S800,484,800,494L800,504S800,514,810,514L830,514S840,514,840,504L840,362L840,361", 
+            "M40,362L40,221S40,211,50,211L70,211S80,211,80,221L80,250S80,260,90,260L110,260S120,260,120,250L120,224S120,214,130,214L150,214S160,214,160,221S160,228,170,228L190,228S200,228,200,238L200,258S200,268,210,268L230,268S240,268,240,259S240,250,250,250L270,250S280,250,280,240L280,200S280,190,290,190L310,190S320,190,320,200L320,242S320,252,330,252L350,252S360,252,360,255S360,258,370,258L390,258S400,258,400,248L400,245S400,235,410,235L430,235S440,235,440,245L440,263S440,273,450,273L470,273S480,273,480,263L480,237S480,227,490,227L510,227S520,227,520,228S520,229,530,229L550,229S560,229,560,239L560,242S560,252,570,252L590,252S600,252,600,246S600,239,610,239L630,239S640,239,640,236S640,233,650,233L670,233S680,233,680,226S680,218,690,218L710,218S720,218,720,228L720,246S720,256,730,256L750,256S760,256,760,248S760,240,770,240L790,240S800,240,800,230L800,220S800,210,810,210L830,210S840,210,840,220L840,362"
         ], 
         "y_spacing": 190
     }, 
@@ -126,9 +126,9 @@
             "She was the first to sing Zerbinetta in the revised version of Richard Strauss' ''Ariadne auf Naxos.", 
             "They were divorced in 1932, and in the next year she married the pianist Michael Raucheisen, who died in 1984."
         ], 
-        "height": 84, 
+        "height": 292, 
         "rate": 169, 
-        "start_y": 202, 
+        "start_y": 216, 
         "id": 0
     }, 
     {
@@ -216,9 +216,9 @@
             "In radio, Miss Seymour not only performed but wrote and directed programs between 1932 and 1961.", 
             "She was 82 years old and lived in Coronado, Calif. Miss Jordan made her first film, ''The Taming of the Shrew,'' in 1929, and later performed opposite Ramon Novarro."
         ], 
-        "height": 54, 
+        "height": 194, 
         "rate": 114, 
-        "start_y": 217, 
+        "start_y": 265, 
         "id": 1
     }, 
     {
@@ -364,9 +364,9 @@
             "Her writing included an English translation, with James Durbin Jr., of Rossini's opera ''Cenerentola'' (Cinderella).", 
             "Audrey Christie, a versatile actress who began her career as a singer and dancer in musical comedies and went on to deft dramatic portrayals, died of emphysema on Dec. 19 at her home in West Hollywood, Calif. She was 79 years old."
         ], 
-        "height": 82, 
+        "height": 286, 
         "rate": 166, 
-        "start_y": 203, 
+        "start_y": 219, 
         "id": 2
     }, 
     {
@@ -538,9 +538,9 @@
             "In 1986 she was named an Officier de L'Ordre des Arts et des Lettres by the French Government for her support of the Paris Opera Ballet.", 
             " Marinka Gurewich, a voice teacher whose students included several prominent opera singers, died on Sunday at her home in Manhattan."
         ], 
-        "height": 74, 
+        "height": 258, 
         "rate": 150, 
-        "start_y": 207, 
+        "start_y": 233, 
         "id": 3
     }, 
     {
@@ -654,9 +654,9 @@
             "Mrs. Kriendler was a longtime contributor to the New York City Ballet and the New York City Opera and helped raise funds for them.", 
             " Gabriella Pessl Sobotka, a harpsichordist, pianist and organist who performed as Yella Pessl, died on Sunday at her home in Northampton, Mass."
         ], 
-        "height": 48, 
+        "height": 178, 
         "rate": 105, 
-        "start_y": 220, 
+        "start_y": 273, 
         "id": 4
     }, 
     {
@@ -800,9 +800,9 @@
             "They swayed back and forth in red and yellow robes as they sang: \"I'm so tired and weary, no more do I want to roam.", 
             "\"Just because I was little and could sing and wasn't too bad to look at, I was called a prima donna and was cast repeatedly in operettas and musical comedies as the fair young girl who was good and noble and got what she deserved,\" Miss Segal complained to an interviewer in 1940."
         ], 
-        "height": 60, 
+        "height": 214, 
         "rate": 126, 
-        "start_y": 214, 
+        "start_y": 255, 
         "id": 5
     }, 
     {
@@ -1000,7 +1000,7 @@
             "\" She also sang the title role in a production of Bizet's \"Carmen\" at the Manhattan Opera House in 1935, and through the late 1930's she performed frequently as a recitalist in Europe and the United States.", 
             "After chamber music and art songs, her love was opera, particularly Wagner, and well into her 80's she regularly traveled to Europe to see new productions, keep track of singers and directors, and serve on competition juries."
         ], 
-        "height": 98, 
+        "height": 334, 
         "rate": 193, 
         "start_y": 195, 
         "id": 6
@@ -1128,9 +1128,9 @@
             " Frances Prince Schuman, the founding chairwoman of the National Friends of Public Broadcasting and the wife of the composer William Schuman, died on Monday at her home in Manhattan.", 
             "She was a founding director of the Cerebral Palsy Association and the Urban League of Westchester County, and at the time of her death was on the boards of the MacDowell Colony and the American Composers Orchestra."
         ], 
-        "height": 58, 
+        "height": 210, 
         "rate": 124, 
-        "start_y": 215, 
+        "start_y": 257, 
         "id": 7
     }, 
     {
@@ -1274,9 +1274,9 @@
             "But she did not make her United States debut until 1961, when she played the Mozart Concerto in E flat (K. 482) with George Szell and the Cleveland Orchestra at Carnegie Hall.", 
             "She performed from 1933 to 1937, appearing in works that included \"Celebration,\" \"American Provincial,\" \"Panorama\" and \"Chronicle."
         ], 
-        "height": 56, 
+        "height": 198, 
         "rate": 117, 
-        "start_y": 216, 
+        "start_y": 263, 
         "id": 8
     }, 
     {
@@ -1476,9 +1476,9 @@
             "She held several jobs, becoming a professional singer in Australia, working as a Conservative Party organizer and serving as a magistrate in England.", 
             "She traveled throughout the country with the New York and touring companies of numerous musicals, including \"Promises, Promises\" and \"Cats,\" but she was best known for her work in \"A Chorus Line,\" in which she performed so often that she was sent out to prepare new touring companies of the show."
         ], 
-        "height": 70, 
+        "height": 244, 
         "rate": 142, 
-        "start_y": 209, 
+        "start_y": 240, 
         "id": 9
     }, 
     {
@@ -1608,9 +1608,9 @@
             "Later she sang at the St. Louis Municipal Opera, the Los Angeles Civic Light Opera and the Sacramento Music Circus.", 
             "Miss Geva performed on Broadway in such musicals as ''Whoopee'' (1928), ''Three's a Crowd'' (1930) and ''Flying Colors'' (1932)."
         ], 
-        "height": 46, 
+        "height": 168, 
         "rate": 100, 
-        "start_y": 221, 
+        "start_y": 278, 
         "id": 10
     }, 
     {
@@ -1838,9 +1838,9 @@
             "'' At her death, Ms. Arron was preparing to bring yet another performing space to Carnegie Hall, a below-ground area long occupied by the Carnegie Hall Cinema to be equipped with high-tech appurtenances and intended for smaller opera productions and experimental work.", 
             "Correction:  December 25, 1998, Friday  An obituary on Monday, and in some copies on Sunday, about Judith Arron, the executive and artistic director of Carnegie Hall, misstated the position of her husband, Ronald D. Arron, in the Metropolitan Opera  Orchestra."
         ], 
-        "height": 74, 
+        "height": 260, 
         "rate": 152, 
-        "start_y": 207, 
+        "start_y": 232, 
         "id": 11
     }, 
     {
@@ -2024,9 +2024,9 @@
             "At age 7, when she and her mother returned to New York from a vacation in Europe, a New York newspaper ran the headline ''Gloria Caruso, Here With a Voice'' and pronounced her ''a potential opera star of the first magnitude.", 
             "Only one, Enrico Caruso Jr., sought a career as a singer."
         ], 
-        "height": 72, 
+        "height": 256, 
         "rate": 149, 
-        "start_y": 208, 
+        "start_y": 234, 
         "id": 12
     }, 
     {
@@ -2188,9 +2188,9 @@
             " A memorial service for Lucia Dlugoszewski, the composer and choreographer who died in April at the age of 68, will be held on Friday at 3 p.m. at the John Jay College Theater, 899 10th Avenue, at 59th Street, Manhattan.", 
             "Eventually, she developed a way for them to go to a range of cultural events, from City Center Theater, the opera and ballet center that preceded Lincoln Center, to Carnegie Hall to small Off Broadway theaters."
         ], 
-        "height": 58, 
+        "height": 210, 
         "rate": 123, 
-        "start_y": 215, 
+        "start_y": 257, 
         "id": 13
     }, 
     {
@@ -2382,9 +2382,9 @@
             "''I never had the talent to be a diva,'' she said in an interview, ''but I just like to sing and act so much.", 
             "Its teachers, chosen by the students, included the artists Guston, Bradley Walker Tomlin, Charles Cajori, Louis Finkelstein and Sidney Geist; the art historian Meyer Schapiro; and the composer Morton Feldman."
         ], 
-        "height": 66, 
+        "height": 236, 
         "rate": 138, 
-        "start_y": 211, 
+        "start_y": 244, 
         "id": 14
     }, 
     {
@@ -2576,9 +2576,9 @@
             "She sang first with George Hall and His Orchestra, and then with a group carved out of the band called ''Dolly Dawn and Her Dawn Patrol.", 
             "Tommy Dorsey asked her to sing with his band, but she turned him down, said Ronald Knoth, a social worker who helped her during her later years."
         ], 
-        "height": 70, 
+        "height": 248, 
         "rate": 145, 
-        "start_y": 209, 
+        "start_y": 238, 
         "id": 15
     }, 
     {
@@ -2763,9 +2763,9 @@
             " Friede F. Roth, a personal representative for classical musicians, most notably the pianist Claudio Arrau, died on Friday in Manhattan, said Josephine Hemsing, a friend of Ms. Roth.", 
             "In recent decades Ms. Roth devoted herself entirely to the career of Arrau, the Chilean pianist, and after his death in 1991 she fought tirelessly for the reissue of his dozens of recordings."
         ], 
-        "height": 80, 
+        "height": 278, 
         "rate": 161, 
-        "start_y": 204, 
+        "start_y": 223, 
         "id": 16
     }, 
     {
@@ -2901,9 +2901,9 @@
             "She worried that she was being typecast as a Jewish mother, a part she played in ''Golda'' on Broadway with Anne Bancroft, in James Lapine's Off Broadway ''Table Settings,'' and in three separate productions of Clifford Odets's ''Awake and Sing.", 
             "In the 1960's, she had a recurring role on the soap opera ''The Edge of Night."
         ], 
-        "height": 56, 
+        "height": 202, 
         "rate": 119, 
-        "start_y": 216, 
+        "start_y": 261, 
         "id": 17
     }, 
     {
@@ -3028,9 +3028,9 @@
             "She and Chasins married in 1949, and performed and recorded together as a duo-piano team.", 
             "In the several years that followed, she performed with the New York Philharmonic and the Philadelphia Orchestra, and toured with Benny Goodman, as the soloist in Gershwin's ''Rhapsody in Blue."
         ], 
-        "height": 66, 
+        "height": 234, 
         "rate": 137, 
-        "start_y": 211, 
+        "start_y": 245, 
         "id": 18
     }, 
     {
@@ -3278,9 +3278,9 @@
             "'' She also sang in New York nightclubs like the Latin Quarter and Cafe Society Downtown.", 
             "(A former singer and actress who was a client of Ms. Webb's, Ms. Spillane was once married to the crime novelist Mickey Spillane."
         ], 
-        "height": 84, 
+        "height": 294, 
         "rate": 170, 
-        "start_y": 202, 
+        "start_y": 215, 
         "id": 19
     }
 ]

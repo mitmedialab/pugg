@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": 466, 
+        "max_height": 380, 
         "id": "meta-data", 
-        "midline": 428, 
+        "midline": 385, 
         "word": "Leadership", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 1.1036, 
+        "s_f": 0.9061254077564336, 
         "words_included": "leader, administrator, executive, chair, director, president, chairwoman, chairman", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,427L40,626S40,636,50,636L70,636S80,636,80,638S80,640,90,640L110,640S120,640,120,638S120,637,130,637L150,637S160,637,160,627L160,616S160,606,170,606L190,606S200,606,200,616L200,656S200,666,210,666L230,666S240,666,240,656L240,631S240,621,250,621L270,621S280,621,280,611L280,602S280,592,290,592L310,592S320,592,320,602L320,632S320,642,330,642L350,642S360,642,360,632L360,590S360,580,370,580L390,580S400,580,400,571S400,562,410,562L430,562S440,562,440,572L440,579S440,589,450,589L470,589S480,589,480,579L480,563S480,553,490,553L510,553S520,553,520,543L520,540S520,530,530,530L550,530S560,530,560,534S560,539,570,539L590,539S600,539,600,534S600,529,610,529L630,529S640,529,640,530S640,531,650,531L670,531S680,531,680,540S680,549,690,549L710,549S720,549,720,539L720,537S720,527,730,527L750,527S760,527,760,530S760,534,770,534L790,534S800,534,800,535S800,536,810,536L830,536S840,536,840,526L840,428L840,427", 
-            "M40,428L40,230S40,220,50,220L70,220S80,220,80,218S80,216,90,216L110,216S120,216,120,218S120,219,130,219L150,219S160,219,160,229L160,240S160,250,170,250L190,250S200,250,200,240L200,200S200,190,210,190L230,190S240,190,240,200L240,225S240,235,250,235L270,235S280,235,280,245L280,254S280,264,290,264L310,264S320,264,320,254L320,224S320,214,330,214L350,214S360,214,360,224L360,266S360,276,370,276L390,276S400,276,400,285S400,294,410,294L430,294S440,294,440,284L440,277S440,267,450,267L470,267S480,267,480,277L480,293S480,303,490,303L510,303S520,303,520,313L520,316S520,326,530,326L550,326S560,326,560,322S560,317,570,317L590,317S600,317,600,322S600,327,610,327L630,327S640,327,640,326S640,325,650,325L670,325S680,325,680,316S680,307,690,307L710,307S720,307,720,317L720,319S720,329,730,329L750,329S760,329,760,326S760,322,770,322L790,322S800,322,800,321S800,320,810,320L830,320S840,320,840,330L840,428"
+            "M40,384L40,546S40,556,50,556L70,556S80,556,80,557S80,559,90,559L110,559S120,559,120,558S120,557,130,557L150,557S160,557,160,547L160,541S160,531,170,531L190,531S200,531,200,541L200,570S200,580,210,580L230,580S240,580,240,570L240,553S240,543,250,543L270,543S280,543,280,533L280,529S280,519,290,519L310,519S320,519,320,529L320,551S320,561,330,561L350,561S360,561,360,551L360,520S360,510,370,510L390,510S400,510,400,502S400,495,410,495L430,495S440,495,440,505L440,507S440,517,450,517L470,517S480,517,480,507L480,498S480,488,490,488L510,488S520,488,520,478S520,469,530,469L550,469S560,469,560,472S560,476,570,476L590,476S600,476,600,472S600,468,610,468L630,468S640,468,640,469S640,470,650,470L670,470S680,470,680,477S680,484,690,484L710,484S720,484,720,475S720,466,730,466L750,466S760,466,760,469S760,472,770,472L790,472S800,472,800,473S800,474,810,474L830,474S840,474,840,464L840,385L840,384", 
+            "M40,385L40,224S40,214,50,214L70,214S80,214,80,213S80,211,90,211L110,211S120,211,120,212S120,213,130,213L150,213S160,213,160,223L160,229S160,239,170,239L190,239S200,239,200,229L200,200S200,190,210,190L230,190S240,190,240,200L240,217S240,227,250,227L270,227S280,227,280,237L280,241S280,251,290,251L310,251S320,251,320,241L320,219S320,209,330,209L350,209S360,209,360,219L360,250S360,260,370,260L390,260S400,260,400,268S400,275,410,275L430,275S440,275,440,265L440,263S440,253,450,253L470,253S480,253,480,263L480,272S480,282,490,282L510,282S520,282,520,292S520,301,530,301L550,301S560,301,560,298S560,294,570,294L590,294S600,294,600,298S600,302,610,302L630,302S640,302,640,301S640,300,650,300L670,300S680,300,680,293S680,286,690,286L710,286S720,286,720,295S720,304,730,304L750,304S760,304,760,301S760,298,770,298L790,298S800,298,800,297S800,296,810,296L830,296S840,296,840,306L840,385"
         ], 
         "y_spacing": 190
     }, 
@@ -282,9 +282,9 @@
             "After earning an additional bachelor's degree and an additional master's degree at Oxford University in England, she returned to Manhattanville as a history professor, later becoming the school's president.", 
             "Jane C. Murray, director of communications and development for the Alan Guttmacher Institute, died of cancer of the pancreas and liver Monday at her home in Manhattan."
         ], 
-        "height": 406, 
+        "height": 332, 
         "rate": 378, 
-        "start_y": 225, 
+        "start_y": 219, 
         "id": 0
     }, 
     {
@@ -564,9 +564,9 @@
             "Dr. Vane was chairman of the psychology department at Hofstra, where she spent 26 years developing a doctoral program.", 
             "Ms. Odover eventually became publisher of Jove, and in 1983 she was named president and publisher of Pinnacle Books, a mass-market publisher."
         ], 
-        "height": 414, 
+        "height": 338, 
         "rate": 385, 
-        "start_y": 221, 
+        "start_y": 216, 
         "id": 1
     }, 
     {
@@ -889,9 +889,9 @@
             "Constance K. Kaiser, an executive, philanthropist and former publisher of telephone directories for Westchester and Connecticut communities, died of cancer on Wednesday at her home in New Rochelle, N.Y. She was 56 years old.", 
             "She was active in business and philanthropic circles, served as president of the Advertising Club of Westchester in 1984 and was a member of the board of Sales and Marketing Executives of Westchester."
         ], 
-        "height": 408, 
+        "height": 334, 
         "rate": 380, 
-        "start_y": 224, 
+        "start_y": 218, 
         "id": 2
     }, 
     {
@@ -1265,9 +1265,9 @@
             "Mrs. Bettman was a director of the Cincinnati Scholarship Foundation, the Cincinnati Council on World Affairs, and Working in Neighborhoods, a group that helps needy families.", 
             " Amanda Bryan Kane, former chairwoman of the trustees of Smith College, died on Tuesday at a nursing home in Charlottesville, Va. She was 86 years old and lived in Charlottesville and Wickford, R.I. She died of congestive heart failure, said her daughter Hope Childs of Washington."
         ], 
-        "height": 346, 
+        "height": 282, 
         "rate": 323, 
-        "start_y": 255, 
+        "start_y": 244, 
         "id": 3
     }, 
     {
@@ -1684,7 +1684,7 @@
             "In the 1940's she painted portraits of several members of the Truman Administration and their families, which led to commissions for portraits of the President, his wife and daughter.", 
             "Miss Kempton's husband, A. M. McNamara, a lawyer and business executive, died several years ago.       "
         ], 
-        "height": 466, 
+        "height": 380, 
         "rate": 431, 
         "start_y": 195, 
         "id": 4
@@ -2078,9 +2078,9 @@
             "She died after a long illness, said the Massachusetts General Hospital, where she had been director of both the Nursing Service and School of Nursing from 1946 to 1966.", 
             "Miss Sleeper was a past president of the National League of Nursing Education and the National League for Nursing."
         ], 
-        "height": 376, 
+        "height": 306, 
         "rate": 350, 
-        "start_y": 240, 
+        "start_y": 232, 
         "id": 5
     }, 
     {
@@ -2381,9 +2381,9 @@
             "So I went to William Schuman, who was president of Lincoln Center at the time, and I said: 'You're a tall man.", 
             "When the hall was in the planning stages, Miss Tully encouraged the creation of its resident ensemble, the Chamber Music Society of Lincoln Center, and was the chairwoman of its board for many years."
         ], 
-        "height": 318, 
+        "height": 258, 
         "rate": 297, 
-        "start_y": 269, 
+        "start_y": 256, 
         "id": 6
     }, 
     {
@@ -2769,9 +2769,9 @@
             "She later carried out special projects for the commissioner and served as director of community relations.", 
             "President Lyndon B. Johnson named her to the National Advisory Council on Extension and Continuing Education, and she served on the Department of Defense Advisory Committee on Women in the Armed Forces."
         ], 
-        "height": 418, 
+        "height": 342, 
         "rate": 388, 
-        "start_y": 219, 
+        "start_y": 214, 
         "id": 7
     }, 
     {
@@ -3080,9 +3080,9 @@
             " Marlene Lopez, who was a director of state psychiatric hospitals in New Jersey and New York for 15 years, died last Sunday at the Dana-Farber Cancer Institute in Boston.", 
             "In 1992, Judith Kaye, Chief Judge of New York State, appointed Ms. Hermanson the first executive director of the Judges and Lawyers Breast Cancer Alert."
         ], 
-        "height": 294, 
+        "height": 240, 
         "rate": 276, 
-        "start_y": 281, 
+        "start_y": 265, 
         "id": 8
     }, 
     {
@@ -3442,9 +3442,9 @@
             "During much of the last 35 years, she lived in the United States, splitting her time in recent years between an apartment in Manhattan and a house in Sag Harbor, L.I., that once belonged to President Chester A. Arthur.", 
             "She attended Converse College in Spartanburg, S.C., and in 1944, married Arthur A. Houghton Jr., the chairman of Steuben Glass."
         ], 
-        "height": 258, 
+        "height": 210, 
         "rate": 243, 
-        "start_y": 299, 
+        "start_y": 280, 
         "id": 9
     }, 
     {
@@ -3830,9 +3830,9 @@
             "The cause was complications of lung cancer, said Dr. Kenneth R. Barasch, national president of the Fight for Sight, an organization through which she raised money.", 
             "Ms. Weisenfeld was chief organizer and executive director over 50 years, often working 12-hour days."
         ], 
-        "height": 312, 
+        "height": 254, 
         "rate": 292, 
-        "start_y": 272, 
+        "start_y": 258, 
         "id": 10
     }, 
     {
@@ -4176,9 +4176,9 @@
             "As a student leader she met Mr. Murrow, who was president of the National Student Federation of America.", 
             "Mr. Murrow became a CBS vice president and television broadcaster and then the United States Information Agency's director from 1961 to 1964."
         ], 
-        "height": 240, 
+        "height": 196, 
         "rate": 227, 
-        "start_y": 308, 
+        "start_y": 287, 
         "id": 11
     }, 
     {
@@ -4429,9 +4429,9 @@
             "She was the foundation's treasurer and one of its founders, along with her husband and Donald M. Wilson, a former vice president of Time Inc. Mr. Greenfield, a former foreign correspondent for Time magazine and former assistant secretary of state, is now a consulting member of the editorial board at The New York Times, where he has also been foreign editor and later an assistant managing editor.", 
             "'' Linda Ligon, president of Interweave Press, which specializes in traditional textile crafts, said Mrs. Zimmermann ''brought intelligence and validity to a craft that had been trivialized as women's work."
         ], 
-        "height": 194, 
+        "height": 158, 
         "rate": 186, 
-        "start_y": 331, 
+        "start_y": 306, 
         "id": 12
     }, 
     {
@@ -4701,9 +4701,9 @@
             "She is survived by a sister, Helen Wilkins Claytor of Grand Rapids, Mich., a former national president of the Y.W.C.A.       ", 
             "Ms. Kauffman worked the phone relentlessly from her apartment in High Bridge, the Bronx, often sitting in a rocking chair for 12 hours."
         ], 
-        "height": 212, 
+        "height": 172, 
         "rate": 201, 
-        "start_y": 322, 
+        "start_y": 299, 
         "id": 13
     }, 
     {
@@ -4961,9 +4961,9 @@
             "In 1939 she married Richard W. Johnston, who was also a war correspondent and who eventually became the executive editor of Sports Illustrated.", 
             "''A Megan Boyd fly is a $1,000 fly,'' said Gary Tanner, director of the American Museum of Fly Fishing in Manchester, Vt. Rosina Megan Boyd, the youngest of three children, is believed to have been born in England on Jan. 29, 1915."
         ], 
-        "height": 192, 
+        "height": 156, 
         "rate": 184, 
-        "start_y": 332, 
+        "start_y": 307, 
         "id": 14
     }, 
     {
@@ -5220,9 +5220,9 @@
             "Mr. Valenti, now the president of the Motion Picture Association of America, said ''The Exorcist'' was filmed there.", 
             "Ms. van Hoek performed in many works by Meredith Monk, the composer and director."
         ], 
-        "height": 196, 
+        "height": 160, 
         "rate": 188, 
-        "start_y": 330, 
+        "start_y": 305, 
         "id": 15
     }, 
     {
@@ -5455,9 +5455,9 @@
             "and the director of its Center for Research in Language, was known for her very public stance in the debate on nature versus nurture, that is, how much of human behavior is genetic and how much is learned from the environment.", 
             "and in 1989 became the director of the Project in Cognitive and Neural Development at the Center for Research in Language."
         ], 
-        "height": 232, 
+        "height": 188, 
         "rate": 220, 
-        "start_y": 312, 
+        "start_y": 291, 
         "id": 16
     }, 
     {
@@ -5656,9 +5656,9 @@
             "Her death was announced by the chairman of the PaceWildenstein gallery, Arne Glimcher, her friend and longtime dealer.", 
             "Ms. Martin was awarded a National Medal of Arts by President Clinton in 1998 and recently accepted a lifetime achievement award from the Women's Caucus for Art."
         ], 
-        "height": 188, 
+        "height": 152, 
         "rate": 180, 
-        "start_y": 334, 
+        "start_y": 309, 
         "id": 17
     }, 
     {
@@ -5843,9 +5843,9 @@
             "Later in her career she studied the emerging importance of trained nurses in developing countries and, in 1993, was elected president of the International Council of Nurses.", 
             "She continued to write on certification and helped edit a popular anthology, ''On Nursing: A Literary Celebration'' (1993), which ''framed the art of healing, the pain of suffering, and was received as a gift to the profession,'' said Barbara A. Blakeney, the current president of the American Nurses Association."
         ], 
-        "height": 202, 
+        "height": 164, 
         "rate": 192, 
-        "start_y": 327, 
+        "start_y": 303, 
         "id": 18
     }, 
     {
@@ -6121,9 +6121,9 @@
             "Until her death, Ms. Webb was president and chief executive of the Ruth Webb Talent Agency, which she founded in 1962 and presided over from her unusually appointed bedroom.", 
             ") Ms. Harding was offered a Woody Allen movie but turned it down, saying she abhorred the director's morals."
         ], 
-        "height": 206, 
+        "height": 168, 
         "rate": 197, 
-        "start_y": 325, 
+        "start_y": 301, 
         "id": 19
     }
 ]

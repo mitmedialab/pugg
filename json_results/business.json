@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": 50, 
+        "max_height": 332, 
         "id": "meta-data", 
-        "midline": 220, 
+        "midline": 361, 
         "word": "Business", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 0.4186, 
+        "s_f": 2.388915432393693, 
         "words_included": "business, company", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,219L40,232S40,242,50,242L70,242S80,242,80,242S80,242,90,242L110,242S120,242,120,241S120,240,130,240L150,240S160,240,160,241S160,242,170,242L190,242S200,242,200,243S200,245,210,245L230,245S240,245,240,245S240,245,250,245L270,245S280,245,280,244S280,244,290,244L310,244S320,244,320,241S320,238,330,238L350,238S360,238,360,240S360,242,370,242L390,242S400,242,400,241S400,240,410,240L430,240S440,240,440,242S440,245,450,245L470,245S480,245,480,244S480,244,490,244L510,244S520,244,520,243S520,243,530,243L550,243S560,243,560,241S560,240,570,240L590,240S600,240,600,245S600,250,610,250L630,250S640,250,640,246S640,242,650,242L670,242S680,242,680,237S680,232,690,232L710,232S720,232,720,235S720,239,730,239L750,239S760,239,760,237S760,236,770,236L790,236S800,236,800,239S800,243,810,243L830,243S840,243,840,233L840,220L840,219", 
-            "M40,220L40,208S40,198,50,198L70,198S80,198,80,198S80,198,90,198L110,198S120,198,120,199S120,200,130,200L150,200S160,200,160,199S160,198,170,198L190,198S200,198,200,197S200,195,210,195L230,195S240,195,240,195S240,195,250,195L270,195S280,195,280,196S280,196,290,196L310,196S320,196,320,199S320,202,330,202L350,202S360,202,360,200S360,198,370,198L390,198S400,198,400,199S400,200,410,200L430,200S440,200,440,198S440,195,450,195L470,195S480,195,480,196S480,196,490,196L510,196S520,196,520,197S520,197,530,197L550,197S560,197,560,199S560,200,570,200L590,200S600,200,600,195S600,190,610,190L630,190S640,190,640,194S640,198,650,198L670,198S680,198,680,203S680,208,690,208L710,208S720,208,720,205S720,201,730,201L750,201S760,201,760,203S760,204,770,204L790,204S800,204,800,201S800,197,810,197L830,197S840,197,840,207L840,220"
+            "M40,360L40,475S40,485,50,485L70,485S80,485,80,487S80,490,90,490L110,490S120,490,120,484S120,478,130,478L150,478S160,478,160,481S160,485,170,485L190,485S200,485,200,495L200,498S200,508,210,508L230,508S240,508,240,505S240,503,250,503L270,503S280,503,280,502S280,501,290,501L310,501S320,501,320,491L320,476S320,466,330,466L350,466S360,466,360,476L360,476S360,486,370,486L390,486S400,486,400,480S400,475,410,475L430,475S440,475,440,485L440,494S440,504,450,504L470,504S480,504,480,501S480,498,490,498L510,498S520,498,520,497S520,496,530,496L550,496S560,496,560,486L560,485S560,475,570,475L590,475S600,475,600,485L600,522S600,532,610,532L630,532S640,532,640,522L640,497S640,487,650,487L670,487S680,487,680,477L680,440S680,430,690,430L710,430S720,430,720,440L720,461S720,471,730,471L750,471S760,471,760,462S760,453,770,453L790,453S800,453,800,463L800,483S800,493,810,493L830,493S840,493,840,483L840,361L840,360", 
+            "M40,361L40,247S40,237,50,237L70,237S80,237,80,235S80,232,90,232L110,232S120,232,120,238S120,244,130,244L150,244S160,244,160,241S160,237,170,237L190,237S200,237,200,227L200,224S200,214,210,214L230,214S240,214,240,217S240,219,250,219L270,219S280,219,280,220S280,221,290,221L310,221S320,221,320,231L320,246S320,256,330,256L350,256S360,256,360,246L360,246S360,236,370,236L390,236S400,236,400,242S400,247,410,247L430,247S440,247,440,237L440,228S440,218,450,218L470,218S480,218,480,221S480,224,490,224L510,224S520,224,520,225S520,226,530,226L550,226S560,226,560,236L560,237S560,247,570,247L590,247S600,247,600,237L600,200S600,190,610,190L630,190S640,190,640,200L640,225S640,235,650,235L670,235S680,235,680,245L680,282S680,292,690,292L710,292S720,292,720,282L720,261S720,251,730,251L750,251S760,251,760,260S760,269,770,269L790,269S800,269,800,259L800,239S800,229,810,229L830,229S840,229,840,239L840,361"
         ], 
         "y_spacing": 190
     }, 
@@ -107,9 +107,9 @@
             "She married Mr. Thomas, who headed the Far East division of the British American Tobacco Company, in 1922.", 
             "She began her own real estate business in 1982."
         ], 
-        "height": 34, 
+        "height": 238, 
         "rate": 104, 
-        "start_y": 203, 
+        "start_y": 242, 
         "id": 0
     }, 
     {
@@ -198,9 +198,9 @@
             "In 1939, she went into business as an interior designer.", 
             "Her other films include ''Desire Under the Elms,'' ''How to Succeed in Business Without Really Trying'' and ''Hearts of the West."
         ], 
-        "height": 34, 
+        "height": 248, 
         "rate": 108, 
-        "start_y": 203, 
+        "start_y": 237, 
         "id": 1
     }, 
     {
@@ -311,9 +311,9 @@
             "The company was sold in 1986 to Transwestern Publishing, a division of U.S. West, a California-based utility.", 
             "She was active in business and philanthropic circles, served as president of the Advertising Club of Westchester in 1984 and was a member of the board of Sales and Marketing Executives of Westchester."
         ], 
-        "height": 30, 
+        "height": 224, 
         "rate": 98, 
-        "start_y": 205, 
+        "start_y": 249, 
         "id": 2
     }, 
     {
@@ -458,9 +458,9 @@
             "At her death, she was managing editor emeritus of the company, which publishes nonfiction and reference books.", 
             "But the awful thing about the whole bloody era was that whether you answered or didn't, cooperated or not, you were dead in the business."
         ], 
-        "height": 34, 
+        "height": 238, 
         "rate": 104, 
-        "start_y": 203, 
+        "start_y": 242, 
         "id": 3
     }, 
     {
@@ -587,9 +587,9 @@
             "Mr. Nederlander died in 1967, and she continued to work for the business.", 
             "Miss Kempton's husband, A. M. McNamara, a lawyer and business executive, died several years ago.       "
         ], 
-        "height": 40, 
+        "height": 284, 
         "rate": 123, 
-        "start_y": 200, 
+        "start_y": 219, 
         "id": 4
     }, 
     {
@@ -742,9 +742,9 @@
             "She became a partner in the early 1970's and continued to design the line until the company closed in 1975.", 
             "In addition to her husband, her sister, who is now Margaret Maxwell of Vancouver, and her sons Kelly and Casey, Mrs. St. Aubin is survived by a brother, Lou; two other sisters, Pearl McInnis and Kay Morrison; three other sons, Ricky, the former head football coach at the University of California at Santa Barbara; Rocky, a telephone company employee, and Kelly's twin brother, Kerry, a Richard Hofstadter fellow in history at Columbia University, plus three grandchildren.       "
         ], 
-        "height": 40, 
+        "height": 274, 
         "rate": 119, 
-        "start_y": 200, 
+        "start_y": 224, 
         "id": 5
     }, 
     {
@@ -879,9 +879,9 @@
             "She gave generously to the Martha Graham Dance Company and Eliot Feld's ballet troupe, and she was a board member of numerous other arts and educational institutions.", 
             "When Mr. Tully became general counsel to the Metropolitan Life Insurance Company in 1908, the family moved to New York City, where Miss Tully attended Mrs. J. D. Randall MacIvor's School."
         ], 
-        "height": 38, 
+        "height": 270, 
         "rate": 117, 
-        "start_y": 201, 
+        "start_y": 226, 
         "id": 6
     }, 
     {
@@ -983,9 +983,9 @@
             "With the director John Houseman she guided the development of the Acting Company, a theater group of drama graduates that her husband established when he was the president of the Juilliard School.", 
             "Their company, Julianelli Shoes, became known in the 1960's for developing \"the naked look,\" a light, airy style in footwear."
         ], 
-        "height": 26, 
+        "height": 200, 
         "rate": 88, 
-        "start_y": 207, 
+        "start_y": 261, 
         "id": 7
     }, 
     {
@@ -1126,9 +1126,9 @@
             "Miss Bird was born in Portland, Ore., and was educated at the Cornish School of Fine Arts in Seattle, where she studied with Graham, who invited her to join her company in New York.", 
             "She also taught there from 1951 to 1963, establishing a program for children and children's dance teachers that became the Merry-Go-Rounders, a highly successful company that presented dance for children."
         ], 
-        "height": 34, 
+        "height": 240, 
         "rate": 105, 
-        "start_y": 203, 
+        "start_y": 241, 
         "id": 8
     }, 
     {
@@ -1280,9 +1280,9 @@
             "Ms. Williamson performed with Alvin Ailey's first company in 1958, dancing in the premiere of \"Blues Suite,\" which started Ailey's choreographic career in  New York.", 
             "She prompted a national debate in 1989 with an article in the Harvard Business Review that asserted it cost companies more to employ women than men."
         ], 
-        "height": 30, 
+        "height": 218, 
         "rate": 96, 
-        "start_y": 205, 
+        "start_y": 252, 
         "id": 9
     }, 
     {
@@ -1466,9 +1466,9 @@
             "Her parents soon joined her and also found work with the company, but remained homesick for the country.", 
             "In 1935, she appeared with the American Ballet, Balanchine's first New York company."
         ], 
-        "height": 40, 
+        "height": 276, 
         "rate": 120, 
-        "start_y": 200, 
+        "start_y": 223, 
         "id": 10
     }, 
     {
@@ -1662,9 +1662,9 @@
             "After she left the business, she still mixed up lipstick for herself, a red shade with a blue cast, and once offered the following beauty advice: ''Women should use makeup to accentuate their most attractive feature.", 
             "Mrs. Baker and Mr. Holzhauer were divorced in 1940, and seven years later she married Jacob Baker, a business executive, and they moved into the Chelsea Hotel."
         ], 
-        "height": 38, 
+        "height": 264, 
         "rate": 115, 
-        "start_y": 201, 
+        "start_y": 229, 
         "id": 11
     }, 
     {
@@ -1827,9 +1827,9 @@
             "She combined her newsletter with a mail-order business for knitting supplies, books and video productions under the name Schoolhouse Press.", 
             "The result was a sculptural quality, said her daughter Meg Swansen, who is also a noted knitter and will carry on her mother's business."
         ], 
-        "height": 36, 
+        "height": 260, 
         "rate": 113, 
-        "start_y": 202, 
+        "start_y": 231, 
         "id": 12
     }, 
     {
@@ -1974,9 +1974,9 @@
             "In the immediate post-war years, models became the elegant emblems of a newly booming haute couture fashion business, perhaps epitomized by Christian Dior's romantic New Look of 1947.", 
             "She also developed a side business of arranging tickets for corporations, then asking them for cash donationsto her organization or for products that she could give to box-office personnel as gifts.She also built up relationships with Broadway ticket sellers by giving them movie tickets and popcorn coupons and discussing their personal problems with them in the soft, soothing voice that was her most effective tool."
         ], 
-        "height": 30, 
+        "height": 218, 
         "rate": 96, 
-        "start_y": 205, 
+        "start_y": 252, 
         "id": 13
     }, 
     {
@@ -2178,7 +2178,7 @@
             "But it gave computing a way to handle and visually describe business data, making it easier to program business problems on computers.", 
             "In the late 1930's, she was an original member of the American Abstract Artists organization and worked for the federal Works Progress Administration, assisting Fernand L\u00e9ger on his mural for the French Line passenger ship company."
         ], 
-        "height": 50, 
+        "height": 332, 
         "rate": 143, 
         "start_y": 195, 
         "id": 14
@@ -2331,9 +2331,9 @@
             "''I think I was destined for the museum field,'' Ms. Enseki said, recalling that her father built ''this eyeball in the garage, for some drug company.", 
             "In 1963, Mr. Wells took over the Washington bureau of the Storer Broadcasting Company, and Mrs. Wells was assigned to report on the White House."
         ], 
-        "height": 34, 
+        "height": 242, 
         "rate": 106, 
-        "start_y": 203, 
+        "start_y": 240, 
         "id": 15
     }, 
     {
@@ -2407,9 +2407,9 @@
             "'' Ms. Lange was born in November 1933 in Connecticut to show business parents -- her father was a composer and arranger, and her mother was an actress.", 
             "Last year, her store was sold to the May Department Store Company."
         ], 
-        "height": 14, 
+        "height": 128, 
         "rate": 58, 
-        "start_y": 213, 
+        "start_y": 297, 
         "id": 16
     }, 
     {
@@ -2529,9 +2529,9 @@
             "''A Chorus Line'' was in effect her swan song at the company.", 
             "She died after a brief hospitalization, said John Percival, a British freelance dance critic.Born in South Africa in 1908, Ms. Lloyd arrived in London as a dance student and in 1927 became associated with Ballet Rambert, a pioneering British ballet company."
         ], 
-        "height": 28, 
+        "height": 210, 
         "rate": 92, 
-        "start_y": 206, 
+        "start_y": 256, 
         "id": 17
     }, 
     {
@@ -2615,9 +2615,9 @@
             "She grew up in Greenwich, Conn., and in Hong Kong, where her father was an executive with the Exxon Chemical Company.", 
             "She edited other work, especially travel books for young people, before writing her first book, ''One Little Drum'' (Follet Publishing Company, 1958)."
         ], 
-        "height": 22, 
+        "height": 174, 
         "rate": 77, 
-        "start_y": 209, 
+        "start_y": 274, 
         "id": 18
     }, 
     {
@@ -2785,9 +2785,9 @@
             "It also included friends and business associates of the famous, among them Kato Kaelin (O. J. Simpson), Gennifer Flowers (Bill Clinton) and Divine Brown (Hugh Grant).", 
             "For many years, Ms. Webb ran her business from her home in the Hollywood Hills."
         ], 
-        "height": 36, 
+        "height": 254, 
         "rate": 111, 
-        "start_y": 202, 
+        "start_y": 234, 
         "id": 19
     }
 ]

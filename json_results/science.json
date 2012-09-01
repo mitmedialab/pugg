@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": 8, 
+        "max_height": 352, 
         "id": "meta-data", 
-        "midline": 199, 
+        "midline": 371, 
         "word": "Science", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 0.22619999999999998, 
+        "s_f": 4.420866489832007, 
         "words_included": "science, scientist, research", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,198S40,204,50,204L70,204S80,204,80,204S80,205,90,205L110,205S120,205,120,205S120,205,130,205L150,205S160,205,160,205S160,205,170,205L190,205S200,205,200,206S200,207,210,207L230,207S240,207,240,206S240,205,250,205L270,205S280,205,280,205S280,206,290,206L310,206S320,206,320,206S320,206,330,206L350,206S360,206,360,206S360,206,370,206L390,206S400,206,400,206S400,206,410,206L430,206S440,206,440,207S440,208,450,208L470,208S480,208,480,206S480,205,490,205L510,205S520,205,520,205S520,205,530,205L550,205S560,205,560,204S560,204,570,204L590,204S600,204,600,204S600,204,610,204L630,204S640,204,640,203S640,203,650,203L670,203S680,203,680,204S680,206,690,206L710,206S720,206,720,204S720,202,730,202L750,202S760,202,760,204S760,206,770,206L790,206S800,206,800,205S800,204,810,204L830,204S840,204,840,204L840,198", 
-            "M40,199S40,194,50,194L70,194S80,194,80,194S80,193,90,193L110,193S120,193,120,193S120,193,130,193L150,193S160,193,160,193S160,193,170,193L190,193S200,193,200,192S200,191,210,191L230,191S240,191,240,192S240,193,250,193L270,193S280,193,280,193S280,192,290,192L310,192S320,192,320,192S320,192,330,192L350,192S360,192,360,192S360,192,370,192L390,192S400,192,400,192S400,192,410,192L430,192S440,192,440,191S440,190,450,190L470,190S480,190,480,192S480,193,490,193L510,193S520,193,520,193S520,193,530,193L550,193S560,193,560,194S560,194,570,194L590,194S600,194,600,194S600,194,610,194L630,194S640,194,640,195S640,195,650,195L670,195S680,195,680,194S680,192,690,192L710,192S720,192,720,194S720,196,730,196L750,196S760,196,760,194S760,192,770,192L790,192S800,192,800,193S800,194,810,194L830,194S840,194,840,194"
+            "M40,370L40,456S40,466,50,466L70,466S80,466,80,476L80,485S80,495,90,495L110,495S120,495,120,491S120,488,130,488L150,488S160,488,160,491S160,495,170,495L190,495S200,495,200,505L200,515S200,525,210,525L230,525S240,525,240,515L240,511S240,501,250,501L270,501S280,501,280,510S280,519,290,519L310,519S320,519,320,520S320,521,330,521L350,521S360,521,360,515S360,510,370,510L390,510S400,510,400,510S400,510,410,510L430,510S440,510,440,520L440,542S440,552,450,552L470,552S480,552,480,542L480,505S480,495,490,495L510,495S520,495,520,496S520,497,530,497L550,497S560,497,560,487L560,480S560,470,570,470L590,470S600,470,600,474S600,479,610,479L630,479S640,479,640,470S640,461,650,461L670,461S680,461,680,471L680,509S680,519,690,519L710,519S720,519,720,509L720,443S720,433,730,433L750,433S760,433,760,443L760,502S760,512,770,512L790,512S800,512,800,502L800,478S800,468,810,468L830,468S840,468,840,458L840,371L840,370", 
+            "M40,371L40,286S40,276,50,276L70,276S80,276,80,266L80,257S80,247,90,247L110,247S120,247,120,251S120,254,130,254L150,254S160,254,160,251S160,247,170,247L190,247S200,247,200,237L200,227S200,217,210,217L230,217S240,217,240,227L240,231S240,241,250,241L270,241S280,241,280,232S280,223,290,223L310,223S320,223,320,222S320,221,330,221L350,221S360,221,360,227S360,232,370,232L390,232S400,232,400,232S400,232,410,232L430,232S440,232,440,222L440,200S440,190,450,190L470,190S480,190,480,200L480,237S480,247,490,247L510,247S520,247,520,246S520,245,530,245L550,245S560,245,560,255L560,262S560,272,570,272L590,272S600,272,600,268S600,263,610,263L630,263S640,263,640,272S640,281,650,281L670,281S680,281,680,271L680,233S680,223,690,223L710,223S720,223,720,233L720,299S720,309,730,309L750,309S760,309,760,299L760,240S760,230,770,230L790,230S800,230,800,240L800,264S800,274,810,274L830,274S840,274,840,284L840,371"
         ], 
         "y_spacing": 190
     }, 
@@ -57,9 +57,9 @@
             "After her incapacitation, the National Multiple Sclerosis Society, in tandem with an organization called the Jacqueline du Pre Research Fund, presented several benefit concerts at Carnegie Hall.", 
             "It conducts social research, policy analysis and public education in family planning, reproductive health and population matters."
         ], 
-        "height": 0, 
+        "height": 180, 
         "rate": 43, 
-        "start_y": 199, 
+        "start_y": 281, 
         "id": 0
     }, 
     {
@@ -108,9 +108,9 @@
             "She was a National Science Foundation fellow.", 
             "Before teaching at John Jay College, Miss Schreiber taught for many years at the New School for Social Research and at Adelphi College."
         ], 
-        "height": 2, 
+        "height": 238, 
         "rate": 56, 
-        "start_y": 198, 
+        "start_y": 252, 
         "id": 1
     }, 
     {
@@ -164,9 +164,9 @@
             "Dorothy E. Rowe, former senior vice president of the American Research and Development Corporation, died Thursday at Massachusetts General Hospital in Boston.", 
             "Over the years she was a director of several companies financed by American Research, including the Digital Equipment Corporation, of which she was the first treasurer and a director."
         ], 
-        "height": 2, 
+        "height": 224, 
         "rate": 53, 
-        "start_y": 198, 
+        "start_y": 259, 
         "id": 2
     }, 
     {
@@ -242,9 +242,9 @@
             "She was born in Danzig, then a free city on the Baltic and now Gdansk, Poland, and received a bachelor's degree from New York University and a master's degree in library science from Columbia.", 
             " Simone Cousteau, who accompanied her husband, Jacques-Yves Cousteau, on hundreds of voyages aboard the research vessel Calypso, died on Sunday."
         ], 
-        "height": 2, 
+        "height": 238, 
         "rate": 56, 
-        "start_y": 198, 
+        "start_y": 252, 
         "id": 3
     }, 
     {
@@ -328,9 +328,9 @@
             "After completing her documentation of New York, Miss Abbott turned to scientific photography and invention, and in 1958 she joined the physical science study committee of Education Services Inc., in Cambridge, Mass., to take photographs for a new high-school physics text.", 
             "She established the photography program at the New School for Social Research, and published several other books."
         ], 
-        "height": 6, 
+        "height": 298, 
         "rate": 70, 
-        "start_y": 196, 
+        "start_y": 222, 
         "id": 4
     }, 
     {
@@ -411,9 +411,9 @@
             "Before joining the Hunter faculty, she taught at New York University and Columbia, where she was research director of the school's Industrial Social Welfare Center.", 
             "She did much of her research on the topic with her former husband, Ivo K. Feierabend."
         ], 
-        "height": 2, 
+        "height": 250, 
         "rate": 59, 
-        "start_y": 198, 
+        "start_y": 246, 
         "id": 5
     }, 
     {
@@ -492,9 +492,9 @@
             "The headquarters of the association, whose name is Mayan for \"house of the jaguar,\" contained her home, a library and a museum about the vast jungle, which became a focal point for environmental and anthropological research into the Mayan culture.", 
             "\" Later, after much personal research in Europe, she was deeply involved in selecting the Theodore Kuhn Company to build the hall's organ, which experts said cost well over $250,000."
         ], 
-        "height": 4, 
+        "height": 286, 
         "rate": 67, 
-        "start_y": 197, 
+        "start_y": 228, 
         "id": 6
     }, 
     {
@@ -573,9 +573,9 @@
             "After she and her husband first described the family's fight with the virus in a magazine story in 1989, Mrs. Glaser became a public crusader for more Government involvement in AIDS research and prevention.", 
             "\" Among Professor Oppenheim's other books was \"The Other World: Spiritualism and Psychical Research in England, 1850-1914\" (Cambridge, 1985), which the journal Victorian Studies called \"a major contribution to the history of ideas."
         ], 
-        "height": 4, 
+        "height": 290, 
         "rate": 68, 
-        "start_y": 197, 
+        "start_y": 226, 
         "id": 7
     }, 
     {
@@ -664,9 +664,9 @@
             "\" Miss Rogers was a Christian Scientist who never smoked or drank alcohol, except for an occasional glass of wine at supper.", 
             "Miss Bird played an important part in the founding and development of the American Dance Guild and the Congress on Research in Dance."
         ], 
-        "height": 4, 
+        "height": 268, 
         "rate": 63, 
-        "start_y": 197, 
+        "start_y": 237, 
         "id": 8
     }, 
     {
@@ -768,9 +768,9 @@
             "She was married in 1946 to Irving L. Schwartz, a scientist, educator and physician.", 
             "\" Her research helped scientists find ways to treat the disease, he said."
         ], 
-        "height": 4, 
+        "height": 268, 
         "rate": 63, 
-        "start_y": 197, 
+        "start_y": 237, 
         "id": 9
     }, 
     {
@@ -891,7 +891,7 @@
             "The group sponsors grants and postdoctoral and student fellowships, as well as backing basic research proposed by vision specialists early in their careers.", 
             "Her initiative won the attention of Congress in 1949, when she coordinated testimony on eye research before the House."
         ], 
-        "height": 8, 
+        "height": 352, 
         "rate": 82, 
         "start_y": 195, 
         "id": 10
@@ -991,9 +991,9 @@
             "Dr. Abel taught at the University of Illinois and at Sarah Lawrence College and later became the director of research at the Manhattan Trade School for Girls.", 
             "In 1940, she joined Letchworth Village psychiatric center in Rockland County, N.Y.,  as a research psychologist."
         ], 
-        "height": 2, 
+        "height": 238, 
         "rate": 56, 
-        "start_y": 198, 
+        "start_y": 252, 
         "id": 11
     }, 
     {
@@ -1076,9 +1076,9 @@
             "But Dr. Chall said her research showed that knowledge of the alphabet and familiarity with the sounds that make up words were crucial.", 
             "She expressed her view in ''Learning to Read: The Great Debate'' (Harcourt Brace, 1967), recognized as a definitive analysis of reading research."
         ], 
-        "height": 2, 
+        "height": 242, 
         "rate": 57, 
-        "start_y": 198, 
+        "start_y": 250, 
         "id": 12
     }, 
     {
@@ -1147,9 +1147,9 @@
             "The 1997 festival included Chico Science, Mundo Livre, Lenine e Suzano, Cascabulho, Banda de Pifanos and Zelia Duncan at Celebrate Brooklyn and Central Park Summerstage.", 
             "She received a bachelor's degree in mathematics from Hunter College, a master's degree in speech from the University of Michigan and a master's degree in police science from the City University of New York."
         ], 
-        "height": 0, 
+        "height": 188, 
         "rate": 45, 
-        "start_y": 199, 
+        "start_y": 277, 
         "id": 13
     }, 
     {
@@ -1228,9 +1228,9 @@
             "Her main area of concentration was 19th- and early-20th century American furniture, but she arrived there after studying American 19th-century painting and architecture and, at the Met, conducting extensive research on John LaFarge's stained glass and the American Aesthetic Movement.", 
             "She also oversaw research, helped select the objects and contributed to the catalogs for ''In Pursuit of Beauty: Americans and the Aesthetic Movement'' (1987) and ''American Paradise: The World of the Hudson River School'' (1988)."
         ], 
-        "height": 0, 
+        "height": 206, 
         "rate": 49, 
-        "start_y": 199, 
+        "start_y": 268, 
         "id": 14
     }, 
     {
@@ -1300,9 +1300,9 @@
             "''It is hard to realize today that government-subsidized research in the 1940's, when Florence Mahoney started her efforts, actually was controversial,'' said Judith Robinson, author of ''Noble Conspirator: Florence S. Mahoney and the Rise of the National Institutes of Health'' (The Francis Press, 2001).", 
             "With charm and persistence, Mrs. Mahoney and Mrs. Lasker pressed powerful politicians to support research on health issues."
         ], 
-        "height": -2, 
+        "height": 170, 
         "rate": 41, 
-        "start_y": 200, 
+        "start_y": 286, 
         "id": 15
     }, 
     {
@@ -1385,9 +1385,9 @@
             "and the director of its Center for Research in Language, was known for her very public stance in the debate on nature versus nurture, that is, how much of human behavior is genetic and how much is learned from the environment.", 
             "and in 1989 became the director of the Project in Cognitive and Neural Development at the Center for Research in Language."
         ], 
-        "height": 4, 
+        "height": 286, 
         "rate": 67, 
-        "start_y": 197, 
+        "start_y": 228, 
         "id": 16
     }, 
     {
@@ -1428,9 +1428,9 @@
             "'' Some of her books were Junior Literary Guild Selections and several of her natural-science titles received Outstanding Science Books for Children awards.", 
             "She wrote serious studies of popular art forms, like cinema and science fiction, that earlier critics disdained."
         ], 
-        "height": -4, 
+        "height": 114, 
         "rate": 28, 
-        "start_y": 201, 
+        "start_y": 314, 
         "id": 17
     }, 
     {
@@ -1499,9 +1499,9 @@
             "Scholars sent her their research results, commentaries and papers to edit.", 
             "She also received a master's degree in library science in 1958 from the Carnegie Institute of Technology while working as a volunteer children's librarian at the Carnegie Library of Pittsburgh."
         ], 
-        "height": 4, 
+        "height": 272, 
         "rate": 64, 
-        "start_y": 197, 
+        "start_y": 235, 
         "id": 18
     }, 
     {
@@ -1574,9 +1574,9 @@
             "Fifteen years her senior, he was a veteran of the wartime Office of Strategic Services, and he soon became the head of the American Political Science Association.", 
             "The next year, she earned a doctorate in political science at Columbia University."
         ], 
-        "height": 0, 
+        "height": 184, 
         "rate": 44, 
-        "start_y": 199, 
+        "start_y": 279, 
         "id": 19
     }
 ]

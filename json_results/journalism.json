@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": -6, 
+        "max_height": 392, 
         "id": "meta-data", 
-        "midline": 192, 
+        "midline": 391, 
         "word": "Journalism", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 0.0968, 
+        "s_f": 10.330578512396695, 
         "words_included": "reporter, journalist, columnist", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,191S40,193,50,193L70,193S80,193,80,193S80,193,90,193L110,193S120,193,120,193S120,193,130,193L150,193S160,193,160,193S160,193,170,193L190,193S200,193,200,193S200,193,210,193L230,193S240,193,240,192S240,192,250,192L270,192S280,192,280,192S280,193,290,193L310,193S320,193,320,192S320,192,330,192L350,192S360,192,360,192S360,193,370,193L390,193S400,193,400,193S400,193,410,193L430,193S440,193,440,193S440,193,450,193L470,193S480,193,480,193S480,193,490,193L510,193S520,193,520,193S520,193,530,193L550,193S560,193,560,193S560,193,570,193L590,193S600,193,600,193S600,193,610,193L630,193S640,193,640,193S640,193,650,193L670,193S680,193,680,193S680,193,690,193L710,193S720,193,720,193S720,193,730,193L750,193S760,193,760,193S760,194,770,194L790,194S800,194,800,193S800,193,810,193L830,193S840,193,840,197L840,191", 
-            "M40,192S40,191,50,191L70,191S80,191,80,191S80,191,90,191L110,191S120,191,120,191S120,191,130,191L150,191S160,191,160,191S160,191,170,191L190,191S200,191,200,191S200,191,210,191L230,191S240,191,240,192S240,192,250,192L270,192S280,192,280,192S280,191,290,191L310,191S320,191,320,192S320,192,330,192L350,192S360,192,360,192S360,191,370,191L390,191S400,191,400,191S400,191,410,191L430,191S440,191,440,191S440,191,450,191L470,191S480,191,480,191S480,191,490,191L510,191S520,191,520,191S520,191,530,191L550,191S560,191,560,191S560,191,570,191L590,191S600,191,600,191S600,191,610,191L630,191S640,191,640,191S640,191,650,191L670,191S680,191,680,191S680,191,690,191L710,191S720,191,720,191S720,191,730,191L750,191S760,191,760,191S760,190,770,190L790,190S800,190,800,191S800,191,810,191L830,191S840,191,840,187"
+            "M40,390L40,536S40,546,50,546L70,546S80,546,80,536L80,499S80,489,90,489L110,489S120,489,120,499L120,525S120,535,130,535L150,535S160,535,160,525L160,494S160,484,170,484L190,484S200,484,200,494L200,505S200,515,210,515L230,515S240,515,240,505L240,478S240,468,250,468L270,468S280,468,280,478L280,546S280,556,290,556L310,556S320,556,320,546L320,478S320,468,330,468L350,468S360,468,360,478L360,536S360,546,370,546L390,546S400,546,400,536L400,483S400,473,410,473L430,473S440,473,440,483L440,510S440,520,450,520L470,520S480,520,480,510L480,509S480,499,490,499L510,499S520,499,520,509L520,525S520,535,530,535L550,535S560,535,560,525L560,525S560,515,570,515L590,515S600,515,600,505L600,504S600,494,610,494L630,494S640,494,640,504L640,551S640,561,650,561L670,561S680,561,680,551L680,509S680,499,690,499L710,499S720,499,720,509L720,510S720,520,730,520L750,520S760,520,760,530L760,582S760,592,770,592L790,592S800,592,800,582L800,509S800,499,810,499L830,499S840,499,840,489L840,391L840,390", 
+            "M40,391L40,246S40,236,50,236L70,236S80,236,80,246L80,283S80,293,90,293L110,293S120,293,120,283L120,257S120,247,130,247L150,247S160,247,160,257L160,288S160,298,170,298L190,298S200,298,200,288L200,277S200,267,210,267L230,267S240,267,240,277L240,304S240,314,250,314L270,314S280,314,280,304L280,236S280,226,290,226L310,226S320,226,320,236L320,304S320,314,330,314L350,314S360,314,360,304L360,246S360,236,370,236L390,236S400,236,400,246L400,299S400,309,410,309L430,309S440,309,440,299L440,272S440,262,450,262L470,262S480,262,480,272L480,273S480,283,490,283L510,283S520,283,520,273L520,257S520,247,530,247L550,247S560,247,560,257L560,257S560,267,570,267L590,267S600,267,600,277L600,278S600,288,610,288L630,288S640,288,640,278L640,231S640,221,650,221L670,221S680,221,680,231L680,273S680,283,690,283L710,283S720,283,720,273L720,272S720,262,730,262L750,262S760,262,760,252L760,200S760,190,770,190L790,190S800,190,800,200L800,273S800,283,810,283L830,283S840,283,840,293L840,391"
         ], 
         "y_spacing": 190
     }, 
@@ -43,9 +43,9 @@
             "Dorothy Ducas Herzog, a former reporter for The New York Evening Post and The New York Herald Tribune, died Wednesday at the Westchester County Medical Center in Valhalla, N.Y. Mrs. Herzog, who suffered a stroke in July, was 82 and lived in South Salem, N.Y. Dorothy Ducas Herzog, a former reporter for The New York Evening Post and The New York Herald Tribune, died Wednesday at the Westchester County Medical Center in Valhalla, N.Y. Mrs. Herzog, who suffered a stroke in July, was 82 and lived in South Salem, N.Y. After graduating from Columbia University in 1926, Mrs. Herzog, who used the name Dorothy Ducas professionally, became the first woman to win a Pulitzer Traveling Scholarship and was a reporter for a year for The London Daily Express.", 
             "Surviving are her husband, Dr. Bogdon Raditsa, a former Yugoslav diplomat and journalist; a son, Dr. Leo, of Annapolis, Md."
         ], 
-        "height": -8, 
+        "height": 300, 
         "rate": 30, 
-        "start_y": 196, 
+        "start_y": 241, 
         "id": 0
     }, 
     {
@@ -67,9 +67,9 @@
             "After working as an assistant editor at Vogue (''I pinch-hit as a model''), she joined The New York Times as a reporter.", 
             "Other Graham books included ''The Garden of Allah,'' ''Confessions of a Gossip Columnist'' and the steamy autobiographical novel ''A State of Heat'' (1972)."
         ], 
-        "height": -8, 
+        "height": 186, 
         "rate": 19, 
-        "start_y": 196, 
+        "start_y": 298, 
         "id": 1
     }, 
     {
@@ -101,9 +101,9 @@
             "She published a journal, Far East Reporter, from 1953 until this year and lectured for many years on China and other Asian countries.", 
             "Miss Gibbons, who was a journalist before she turned to books, wrote more than 30 novels and volumes of short stories and poems, but none rivaled her most celebrated story, which parodied an earthy, regional school of writing popular at the turn of the century."
         ], 
-        "height": -8, 
+        "height": 278, 
         "rate": 28, 
-        "start_y": 196, 
+        "start_y": 252, 
         "id": 2
     }, 
     {
@@ -134,9 +134,9 @@
             "She left in 1944 to marry Dr. Gabel, then an army dentist, and in the war years was a reporter at Fort Hood, Tex., before returning to New York.", 
             "Five Years in Colorado In 1968, The Herald hired her as a general assignment reporter, and, soon afterward, she was writing a column and receiving awards for her feature writing."
         ], 
-        "height": -8, 
+        "height": 176, 
         "rate": 18, 
-        "start_y": 196, 
+        "start_y": 303, 
         "id": 3
     }, 
     {
@@ -170,9 +170,9 @@
             " Ethel Halsey Blum, a painter, water colorist and former journalist, died on Wednesday at her home in Lakeville, Conn. She was 90 years old.", 
             "She was a graduate of Wellesley College and had worked as a reporter in New Orleans, in France for The Paris Herald and in New York for The Associated Press."
         ], 
-        "height": -8, 
+        "height": 238, 
         "rate": 24, 
-        "start_y": 196, 
+        "start_y": 272, 
         "id": 4
     }, 
     {
@@ -199,9 +199,9 @@
             "She began her career as a reporter and society editor of The Long Island Star-Journal, a daily newspaper in Long Island City, Queens, that is defunct.", 
             "\"The only way we're going to get them in for treatment is to feed them,\" she told a reporter at the time."
         ], 
-        "height": -10, 
+        "height": 144, 
         "rate": 15, 
-        "start_y": 197, 
+        "start_y": 319, 
         "id": 5
     }, 
     {
@@ -243,9 +243,9 @@
             "In addition to being a journalist, photographer and anthropologist, she was also a horticulturist.", 
             "Her father, Batya Bat, was a journalist and writer who used the pen name Stanislav Budin."
         ], 
-        "height": -8, 
+        "height": 320, 
         "rate": 32, 
-        "start_y": 196, 
+        "start_y": 231, 
         "id": 6
     }, 
     {
@@ -268,9 +268,9 @@
             " Jerry Allen, an author and former journalist, died on Monday at her home in Norwalk, Conn. She was 83.", 
             "A journalist whose career began as the country's production was shifting into new technologies and goods after World War II, she wrote about consumers' needs as well as manufacturers' responsibilities."
         ], 
-        "height": -10, 
+        "height": 144, 
         "rate": 15, 
-        "start_y": 197, 
+        "start_y": 319, 
         "id": 7
     }, 
     {
@@ -314,9 +314,9 @@
             "\"I've always been fat, but I'm limber,\" she once told a newspaper reporter.", 
             "\"I call it northern Appalachia,\" she told a reporter in 1984."
         ], 
-        "height": -8, 
+        "height": 300, 
         "rate": 30, 
-        "start_y": 196, 
+        "start_y": 241, 
         "id": 8
     }, 
     {
@@ -348,9 +348,9 @@
             "And as a reporter  at The New York Tribune and an assistant to the critic Heywood Broun, she wrote  book and theater reviews from 1919 to 1922 under the byline Rebecca Drucker and  the initials \"R. D.\" During the same years, she became a charter member of the Lucy Stone League,  a group founded by Mr. Broun's wife, Ruth Hale, that encouraged married women to keep their names.", 
             "Like other women of her class, she skipped college; she moved to London and worked for Claud Cockburn, the influential left-wing journalist."
         ], 
-        "height": -8, 
+        "height": 154, 
         "rate": 16, 
-        "start_y": 196, 
+        "start_y": 314, 
         "id": 9
     }, 
     {
@@ -393,9 +393,9 @@
             "Ruth Seinfel was born in Brooklyn, graduated from Smith College in 1925 and went to work as a reporter in New York.", 
             "Besides her son Iver, of Lawrenceville, N.J., who is a reporter for The New York Times, Mrs. Peterson is survived by two other sons, Eric N.,  of Alexandria, Va., and Lars E., of Washington; a daughter, Karen K. Wilken of Fort Collins, Colo., and 12 grandchildren.       "
         ], 
-        "height": -8, 
+        "height": 248, 
         "rate": 25, 
-        "start_y": 196, 
+        "start_y": 267, 
         "id": 10
     }, 
     {
@@ -436,9 +436,9 @@
             "Asked once by a reporter how she had decided to concentrate on tax law, she said: ''I think at one point Professor Surrey asked me, 'What is creditable tax?", 
             "'' As a daughter of Walter R. Benjamin, a onetime New York Sun reporter who founded what is now the nation's oldest autograph dealership in Manhattan in 1887, Miss Benjamin, a native of Yonkers who graduated from Barnard, did not so much inherit her expertise as absorb it by osmosis during a 13-year apprenticeship at her father's elbow."
         ], 
-        "height": -8, 
+        "height": 206, 
         "rate": 21, 
-        "start_y": 196, 
+        "start_y": 288, 
         "id": 11
     }, 
     {
@@ -483,9 +483,9 @@
             "Joe Nickell, a columnist for Skeptical Inquirer, the magazine of the Committee for the Scientific Investigation of Claims of the Paranormal, said in an interview that psychic detectives use a trick called ''retrofitting,'' which involves tossing out several clues, like a number or a mention of water, that are interpreted to fit the facts after they become known.", 
             "She was born in New York and graduated from Vassar College in 1937, after which she worked as a reporter and wrote dialogue for MGM films."
         ], 
-        "height": -8, 
+        "height": 278, 
         "rate": 28, 
-        "start_y": 196, 
+        "start_y": 252, 
         "id": 12
     }, 
     {
@@ -526,9 +526,9 @@
             "At the time of her hiring, The Chicago Defender, a black-owned paper, called Ms. Cooke the first black woman to get a job as a reporter on a mainstream white-owned paper.", 
             "The family talked to her while the community barred The Compass's white reporter, Ms. Cooke told Kay Mills in an interview for a 1988 book, ''A Place in the News: From the Women's Pages to the Front Page."
         ], 
-        "height": -8, 
+        "height": 238, 
         "rate": 24, 
-        "start_y": 196, 
+        "start_y": 272, 
         "id": 13
     }, 
     {
@@ -566,9 +566,9 @@
             " Laurie Johnston, a World War II correspondent, an author and a reporter for The New York Times who was cited for the humanity and wit of her writing, died at her home in Honolulu on Friday.", 
             "'' Ms. Johnston worked as a columnist, reporter and editor for The Times, covering neighborhoods, education and the courts, among other subjects."
         ], 
-        "height": -8, 
+        "height": 196, 
         "rate": 20, 
-        "start_y": 196, 
+        "start_y": 293, 
         "id": 14
     }, 
     {
@@ -618,9 +618,9 @@
             "Carole Kismaric was born on April 28, 1942, in Orange, N.J. As a student at Penn State University she majored in psychology, but after graduation in 1964 she pursued a career as a newspaper reporter.", 
             " Florence Segal Lowe, a retired public relations executive and journalist who managed communications for the National Endowment for the Arts from 1970 to 1986, died on Thursday in Washington."
         ], 
-        "height": -8, 
+        "height": 330, 
         "rate": 33, 
-        "start_y": 196, 
+        "start_y": 226, 
         "id": 15
     }, 
     {
@@ -653,9 +653,9 @@
             "A native of Pittsburgh, Mrs. Kheel was a journalist and government information specialist and later became prominent in civic affairs.", 
             "Instead she began studying musicology and literature and became a music journalist."
         ], 
-        "height": -8, 
+        "height": 206, 
         "rate": 21, 
-        "start_y": 196, 
+        "start_y": 288, 
         "id": 16
     }, 
     {
@@ -693,9 +693,9 @@
             "It is difficult to be called by a reporter or the Library of Congress when one is cooking a complicated recipe.", 
             "After an early marriage that ended in divorce, Ms. Shahn went to work as a newspaper journalist."
         ], 
-        "height": -8, 
+        "height": 248, 
         "rate": 25, 
-        "start_y": 196, 
+        "start_y": 267, 
         "id": 17
     }, 
     {
@@ -743,7 +743,7 @@
             "Ms. Hays began her career as a reporter for The News and Observer in Raleigh, N.C., before joining The Times as a news clerk.", 
             "She was later a reporter on the paper's metropolitan news staff."
         ], 
-        "height": -6, 
+        "height": 392, 
         "rate": 39, 
         "start_y": 195, 
         "id": 18
@@ -783,9 +783,9 @@
             "They met at a February 1980 dinner party given by George F. Will, the syndicated columnist.", 
             "In the late 1950's, Ms. Gibbs married Frank Gervasi, a journalist; he died in 1990."
         ], 
-        "height": -8, 
+        "height": 206, 
         "rate": 21, 
-        "start_y": 196, 
+        "start_y": 288, 
         "id": 19
     }
 ]

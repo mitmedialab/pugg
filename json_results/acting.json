@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": 10, 
+        "max_height": 394, 
         "id": "meta-data", 
-        "midline": 200, 
+        "midline": 392, 
         "word": "Acting", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 0.228, 
+        "s_f": 4.385964912280702, 
         "words_included": "actress, actor, thespian", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,199S40,208,50,208L70,208S80,208,80,207S80,207,90,207L110,207S120,207,120,207S120,208,130,208L150,208S160,208,160,209S160,210,170,210L190,210S200,210,200,210S200,210,210,210L230,210S240,210,240,208S240,206,250,206L270,206S280,206,280,208S280,210,290,210L310,210S320,210,320,208S320,206,330,206L350,206S360,206,360,206S360,207,370,207L390,207S400,207,400,206S400,206,410,206L430,206S440,206,440,204S440,202,450,202L470,202S480,202,480,203S480,204,490,204L510,204S520,204,520,204S520,204,530,204L550,204S560,204,560,204S560,205,570,205L590,205S600,205,600,205S600,206,610,206L630,206S640,206,640,205S640,205,650,205L670,205S680,205,680,205S680,206,690,206L710,206S720,206,720,206S720,206,730,206L750,206S760,206,760,205S760,205,770,205L790,205S800,205,800,205S800,205,810,205L830,205S840,205,840,205L840,199", 
-            "M40,200S40,192,50,192L70,192S80,192,80,193S80,193,90,193L110,193S120,193,120,193S120,192,130,192L150,192S160,192,160,191S160,190,170,190L190,190S200,190,200,190S200,190,210,190L230,190S240,190,240,192S240,194,250,194L270,194S280,194,280,192S280,190,290,190L310,190S320,190,320,192S320,194,330,194L350,194S360,194,360,194S360,193,370,193L390,193S400,193,400,194S400,194,410,194L430,194S440,194,440,196S440,198,450,198L470,198S480,198,480,197S480,196,490,196L510,196S520,196,520,196S520,196,530,196L550,196S560,196,560,196S560,195,570,195L590,195S600,195,600,195S600,194,610,194L630,194S640,194,640,195S640,195,650,195L670,195S680,195,680,195S680,194,690,194L710,194S720,194,720,194S720,194,730,194L750,194S760,194,760,195S760,195,770,195L790,195S800,195,800,195S800,195,810,195L830,195S840,195,840,195"
+            "M40,391L40,531S40,541,50,541L70,541S80,541,80,538S80,536,90,536L110,536S120,536,120,539S120,543,130,543L150,543S160,543,160,553L160,581S160,591,170,591L190,591S200,591,200,592S200,594,210,594L230,594S240,594,240,584L240,531S240,521,250,521L270,521S280,521,280,531L280,575S280,585,290,585L310,585S320,585,320,575L320,529S320,519,330,519L350,519S360,519,360,521S360,523,370,523L390,523S400,523,400,515S400,508,410,508L430,508S440,508,440,498L440,452S440,442,450,442L470,442S480,442,480,452L480,456S480,466,490,466L510,466S520,466,520,467S520,469,530,469L550,469S560,469,560,479L560,483S560,493,570,493L590,493S600,493,600,503L600,505S600,515,610,515L630,515S640,515,640,505L640,498S640,488,650,488L670,488S680,488,680,498L680,498S680,508,690,508L710,508S720,508,720,509S720,510,730,510L750,510S760,510,760,503S760,497,770,497L790,497S800,497,800,491S800,486,810,486L830,486S840,486,840,476L840,392L840,391", 
+            "M40,392L40,253S40,243,50,243L70,243S80,243,80,246S80,248,90,248L110,248S120,248,120,245S120,241,130,241L150,241S160,241,160,231L160,203S160,193,170,193L190,193S200,193,200,192S200,190,210,190L230,190S240,190,240,200L240,253S240,263,250,263L270,263S280,263,280,253L280,209S280,199,290,199L310,199S320,199,320,209L320,255S320,265,330,265L350,265S360,265,360,263S360,261,370,261L390,261S400,261,400,269S400,276,410,276L430,276S440,276,440,286L440,332S440,342,450,342L470,342S480,342,480,332L480,328S480,318,490,318L510,318S520,318,520,317S520,315,530,315L550,315S560,315,560,305L560,301S560,291,570,291L590,291S600,291,600,281L600,279S600,269,610,269L630,269S640,269,640,279L640,286S640,296,650,296L670,296S680,296,680,286L680,286S680,276,690,276L710,276S720,276,720,275S720,274,730,274L750,274S760,274,760,281S760,287,770,287L790,287S800,287,800,293S800,298,810,298L830,298S840,298,840,308L840,392"
         ], 
         "y_spacing": 190
     }, 
@@ -72,9 +72,9 @@
             "The actress, whose real name was Marie-Madeleine Bernadette O'Carroll, was born on Feb. 26, 1906, in West Bromwich, an industrial community five miles northwest of Birmingham, England.", 
             "Philip Astley, the actor Sterling Hayden, Henri Lavorel and Andrew Heiskell, an executive of Time Inc., ended in divorce.       "
         ], 
-        "height": 6, 
+        "height": 288, 
         "rate": 68, 
-        "start_y": 197, 
+        "start_y": 248, 
         "id": 0
     }, 
     {
@@ -129,9 +129,9 @@
             "Dorothy Jordan, a movie actress who began a short and successful career in talking pictures in 1929, died of congestive heart failure on Wednesday in Cedars-Sinai Medical Center in Los Angeles.", 
             "She was 82 years old and lived in Coronado, Calif. Dorothy Jordan, a movie actress who began a short and successful career in talking pictures in 1929, died of congestive heart failure on Wednesday in Cedars-Sinai Medical Center in Los Angeles."
         ], 
-        "height": 4, 
+        "height": 278, 
         "rate": 66, 
-        "start_y": 198, 
+        "start_y": 253, 
         "id": 1
     }, 
     {
@@ -205,9 +205,9 @@
             "'' The actress was born in Chicago, where she attended high school and dancing and acting classes.", 
             "Her husband, Donald Briggs, an actor, died in 1986."
         ], 
-        "height": 6, 
+        "height": 292, 
         "rate": 69, 
-        "start_y": 197, 
+        "start_y": 246, 
         "id": 2
     }, 
     {
@@ -326,9 +326,9 @@
             "The stately, spirited character actress won a 1945 Academy Award as the mother of Elizabeth Taylor in \"National Velvet.", 
             "The actress voluntarily resigned from the board of the Screen Actors Guild in 1951 because she believed her silence on Capitol Hill had barred her from making further films."
         ], 
-        "height": 10, 
+        "height": 388, 
         "rate": 91, 
-        "start_y": 195, 
+        "start_y": 198, 
         "id": 3
     }, 
     {
@@ -434,7 +434,7 @@
             "\" But by 1946, when she made \"Leave Her to Heaven,\" the actress in Miss Tierney that had been noticed years before by other critics emerged.", 
             "She was born in New York City, the daughter of Alice Leal Pollock, an actress and playwright, and was educated at the Gardner and Finch Schools."
         ], 
-        "height": 10, 
+        "height": 394, 
         "rate": 92, 
         "start_y": 195, 
         "id": 4
@@ -518,9 +518,9 @@
             "\" (1950), she did a reprise of her role in \"Pal Joey\" in 1952, for which she was named best actress in a musical by the New York Drama Critics.", 
             "\" Her first marriage, to Robert D. Ames, an actor, ended in divorce."
         ], 
-        "height": 2, 
+        "height": 248, 
         "rate": 59, 
-        "start_y": 199, 
+        "start_y": 268, 
         "id": 5
     }, 
     {
@@ -625,9 +625,9 @@
             " Janet Margolin, an actress with a string of roles in the 1960's and 70's, including parts in two Woody Allen movies, died on Friday at her home in Los Angeles.", 
             "The actress Katharine Hepburn is her second cousin."
         ], 
-        "height": 10, 
+        "height": 376, 
         "rate": 88, 
-        "start_y": 195, 
+        "start_y": 204, 
         "id": 6
     }, 
     {
@@ -701,9 +701,9 @@
             "For 10 years she was actress in residence at the College of St. Teresa in Winona, Minn. She played the mother in revivals of \"The Glass Menagerie,\" and in 1980, still petite with a cameo face, she returned to the New York theater to do the role off Broadway, opposite Ms. Angelin as the daughter.", 
             "Mrs. Glaser, the wife of Paul Michael Glaser, a director and actor who starred in the \"Starsky and Hutch\" television series, was one of several public figures to bring AIDS to the forefront of the 1992 Presidential campaign."
         ], 
-        "height": 2, 
+        "height": 244, 
         "rate": 58, 
-        "start_y": 199, 
+        "start_y": 270, 
         "id": 7
     }, 
     {
@@ -782,9 +782,9 @@
             "The actress was married five times: to Edward Culpepper, a dancer and actor known in vaudeville as Jack Pepper (1928 to 1931); the actor Lew Ayres (1934 to 1940); Jack Briggs, another actor (1943 to 1949); Jacques Bergerac, a French actor and businessman (1953 to 1957), and William Marshall, a director and producer (1961-1967).", 
             " Isabel Leighton Bunker, whose long career as an actress and writer embraced theater, journalism and television, died on Saturday at her home in Manhattan."
         ], 
-        "height": 4, 
+        "height": 252, 
         "rate": 60, 
-        "start_y": 198, 
+        "start_y": 266, 
         "id": 8
     }, 
     {
@@ -869,9 +869,9 @@
             " Kay Strozzi, an actress who appeared on Broadway in the 1920's and 30's and who also performed on radio and television, died on Thursday at the Bayberry Nursing Home in New Rochelle, N.Y. She was 96.", 
             " Rita Lynn, an actress in radio and television who also helped develop the use of theatrical performances as therapy for psychiatric patients, died on Jan. 21  at her home in Santa Monica, Calif. She was 74."
         ], 
-        "height": 2, 
+        "height": 222, 
         "rate": 53, 
-        "start_y": 199, 
+        "start_y": 281, 
         "id": 9
     }, 
     {
@@ -912,9 +912,9 @@
             "'' For her role in ''Brigadoon,'' she won many awards, including the Donaldson Award for best debut performance by an actress in a musical.", 
             " Tamara Geva, a Russian-born dancer and actress who was the first wife of the choreographer George Balanchine, died on Tuesday at her home in Manhattan."
         ], 
-        "height": -6, 
+        "height": 90, 
         "rate": 23, 
-        "start_y": 203, 
+        "start_y": 347, 
         "id": 10
     }, 
     {
@@ -978,9 +978,9 @@
             "Image Award for outstanding actress in a daytime drama series for her acting in that program.", 
             "She was born in Boston, Mass., grew up in Montclair, N.J., and graduated from West Essex High School in North Caldwell, N.J. She received her basic training in acting from her mother, Phynjuar Thomas, a stage actress who remained her personal coach for the rest of her career."
         ], 
-        "height": -2, 
+        "height": 138, 
         "rate": 34, 
-        "start_y": 201, 
+        "start_y": 323, 
         "id": 11
     }, 
     {
@@ -1037,9 +1037,9 @@
             "She won a Tony Award for best actress in 1993 with her role as a ditsy matron in the Broadway production of ''The Sisters Rosensweig.", 
             " Anne Francine, an actress who worked in film, theater and television and who was also a prominent cabaret performer for six decades, died on Friday at the Lawrence and Memorial Hospital in London, Conn. She was 82 and lived in Old Lyme, Conn. Born into Main Line Philadelphia society, Miss Francine came of age during the 1930's, when New York's numerous intimate night spots offered opportunities for beginners."
         ], 
-        "height": -2, 
+        "height": 144, 
         "rate": 35, 
-        "start_y": 201, 
+        "start_y": 320, 
         "id": 12
     }, 
     {
@@ -1112,9 +1112,9 @@
             " Libertad Lamarque Bouza, a singer and actress whose career ranged from the gritty days of early tango recordings in Argentina to the contemporary daily soap operas produced for mass audiences in the Spanish-speaking world, died on Dec. 12 in Mexico City.", 
             "'' She was said to have quarreled with a young actress named Eva Duarte."
         ], 
-        "height": 0, 
+        "height": 192, 
         "rate": 46, 
-        "start_y": 200, 
+        "start_y": 296, 
         "id": 13
     }, 
     {
@@ -1207,9 +1207,9 @@
             "''I'm not a heavyweight actor,'' she said in a 1981 interview.", 
             "At 10, she sent the actress Jane Wyman sketches for a wardrobe, and received a handwritten reply."
         ], 
-        "height": 2, 
+        "height": 236, 
         "rate": 56, 
-        "start_y": 199, 
+        "start_y": 274, 
         "id": 14
     }, 
     {
@@ -1280,9 +1280,9 @@
             " Vinnette Carroll, the trailblazing actress, director and playwright who was the first African-American woman to direct a production on Broadway, died Tuesday at her home in Fort Lauderhill, Fla. She was 80.", 
             "As an actress, Ms. Carroll won an Emmy (''Beyond the Blues,'' in 1964), an Obie (''Moon on a Rainbow Shawl,'' in 1962) and was nominated for three Tony awards."
         ], 
-        "height": 0, 
+        "height": 182, 
         "rate": 44, 
-        "start_y": 200, 
+        "start_y": 301, 
         "id": 15
     }, 
     {
@@ -1354,9 +1354,9 @@
             "Correction:  December 5, 2003, Friday  An obituary yesterday erroneously reported the death of Katharine Sergava, a dancer and actress who portrayed the dream-ballet version of Laurey, the heroine, in the original production of ''Oklahoma!", 
             "She is survived by three sons, William Winant, a musician, of Oakland, Calif.; Scott Winant, a television producer and director, of Santa Monica, Calif.; and Bruce Winant, an actor, of West Milford, N.J.; and four grandchildren."
         ], 
-        "height": 2, 
+        "height": 222, 
         "rate": 53, 
-        "start_y": 199, 
+        "start_y": 281, 
         "id": 16
     }, 
     {
@@ -1427,9 +1427,9 @@
             "By the time the blacklist's power faded, Ms. Chaney was entrenched as a stage actress.", 
             " Henny Backus, the widow of the comic actor Jim Backus and an actress and author of wit and verve, died on Dec. 9 in Los Angeles, her longtime home."
         ], 
-        "height": 2, 
+        "height": 226, 
         "rate": 54, 
-        "start_y": 199, 
+        "start_y": 279, 
         "id": 17
     }, 
     {
@@ -1486,9 +1486,9 @@
             "The death was announced by her companion, Sylvia Short, a stage and film actress, who is her only immediate survivor.", 
             "'' She adapted Sylvia Plath's ''Bell Jar'' for a 1979 movie with Julie Harris, and wrote several stage plays, including ''After You've Gone,'' which was initially presented by the Actor's Repertory Theater in 1982."
         ], 
-        "height": 0, 
+        "height": 200, 
         "rate": 48, 
-        "start_y": 200, 
+        "start_y": 292, 
         "id": 18
     }, 
     {
@@ -1561,9 +1561,9 @@
             "A former stage actress and nightclub singer, Ms. Webb was said in later years to resemble a cross between Zsa Zsa Gabor and Auntie Mame, and she lived both parts to the hilt.", 
             "(A former singer and actress who was a client of Ms. Webb's, Ms. Spillane was once married to the crime novelist Mickey Spillane."
         ], 
-        "height": 0, 
+        "height": 178, 
         "rate": 43, 
-        "start_y": 200, 
+        "start_y": 303, 
         "id": 19
     }
 ]

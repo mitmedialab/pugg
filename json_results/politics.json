@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": 4, 
+        "max_height": 430, 
         "id": "meta-data", 
-        "midline": 197, 
+        "midline": 410, 
         "word": "Politics", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 0.18419999999999997, 
+        "s_f": 5.428881650380022, 
         "words_included": "congress, congresswoman, politics, political", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,196S40,202,50,202L70,202S80,202,80,201S80,200,90,200L110,200S120,200,120,199S120,199,130,199L150,199S160,199,160,199S160,200,170,200L190,200S200,200,200,200S200,201,210,201L230,201S240,201,240,200S240,200,250,200L270,200S280,200,280,199S280,199,290,199L310,199S320,199,320,200S320,201,330,201L350,201S360,201,360,201S360,201,370,201L390,201S400,201,400,200S400,200,410,200L430,200S440,200,440,201S440,203,450,203L470,203S480,203,480,202S480,201,490,201L510,201S520,201,520,201S520,201,530,201L550,201S560,201,560,200S560,200,570,200L590,200S600,200,600,199S600,199,610,199L630,199S640,199,640,200S640,201,650,201L670,201S680,201,680,201S680,202,690,202L710,202S720,202,720,201S720,200,730,200L750,200S760,200,760,202S760,204,770,204L790,204S800,204,800,203S800,203,810,203L830,203S840,203,840,202L840,196", 
-            "M40,197S40,192,50,192L70,192S80,192,80,193S80,194,90,194L110,194S120,194,120,195S120,195,130,195L150,195S160,195,160,195S160,194,170,194L190,194S200,194,200,194S200,193,210,193L230,193S240,193,240,194S240,194,250,194L270,194S280,194,280,195S280,195,290,195L310,195S320,195,320,194S320,193,330,193L350,193S360,193,360,193S360,193,370,193L390,193S400,193,400,194S400,194,410,194L430,194S440,194,440,193S440,191,450,191L470,191S480,191,480,192S480,193,490,193L510,193S520,193,520,193S520,193,530,193L550,193S560,193,560,194S560,194,570,194L590,194S600,194,600,195S600,195,610,195L630,195S640,195,640,194S640,193,650,193L670,193S680,193,680,193S680,192,690,192L710,192S720,192,720,193S720,194,730,194L750,194S760,194,760,192S760,190,770,190L790,190S800,190,800,191S800,191,810,191L830,191S840,191,840,192"
+            "M40,409L40,544S40,554,50,554L70,554S80,554,80,544L80,515S80,505,90,505L110,505S120,505,120,495S120,486,130,486L150,486S160,486,160,496L160,500S160,510,170,510L190,510S200,510,200,520L200,533S200,543,210,543L230,543S240,543,240,533L240,509S240,499,250,499L270,499S280,499,280,492S280,486,290,486L310,486S320,486,320,496L320,525S320,535,330,535L350,535S360,535,360,539S360,543,370,543L390,543S400,543,400,533L400,528S400,518,410,518L430,518S440,518,440,528L440,592S440,602,450,602L470,602S480,602,480,592L480,553S480,543,490,543L510,543S520,543,520,539S520,535,530,535L550,535S560,535,560,526S560,518,570,518L590,518S600,518,600,508L600,496S600,486,610,486L630,486S640,486,640,496L640,519S640,529,650,529L670,529S680,529,680,539L680,554S680,564,690,564L710,564S720,564,720,554L720,528S720,518,730,518L750,518S760,518,760,528L760,620S760,630,770,630L790,630S800,630,800,620L800,602S800,592,810,592L830,592S840,592,840,582L840,410L840,409", 
+            "M40,410L40,276S40,266,50,266L70,266S80,266,80,276L80,305S80,315,90,315L110,315S120,315,120,325S120,334,130,334L150,334S160,334,160,324L160,320S160,310,170,310L190,310S200,310,200,300L200,287S200,277,210,277L230,277S240,277,240,287L240,311S240,321,250,321L270,321S280,321,280,328S280,334,290,334L310,334S320,334,320,324L320,295S320,285,330,285L350,285S360,285,360,281S360,277,370,277L390,277S400,277,400,287L400,292S400,302,410,302L430,302S440,302,440,292L440,228S440,218,450,218L470,218S480,218,480,228L480,267S480,277,490,277L510,277S520,277,520,281S520,285,530,285L550,285S560,285,560,294S560,302,570,302L590,302S600,302,600,312L600,324S600,334,610,334L630,334S640,334,640,324L640,301S640,291,650,291L670,291S680,291,680,281L680,266S680,256,690,256L710,256S720,256,720,266L720,292S720,302,730,302L750,302S760,302,760,292L760,200S760,190,770,190L790,190S800,190,800,200L800,218S800,228,810,228L830,228S840,228,840,238L840,410"
         ], 
         "y_spacing": 190
     }, 
@@ -63,9 +63,9 @@
             "'' In Congress she frequently spoke out on foreign policy as well as for racial equality in the armed forces and war production.", 
             "Active in politics, Dr. Weithorn also served as a Democratic committee member for 20 years in Manhasset."
         ], 
-        "height": 0, 
+        "height": 278, 
         "rate": 53, 
-        "start_y": 197, 
+        "start_y": 271, 
         "id": 0
     }, 
     {
@@ -96,9 +96,9 @@
             "Adele Scott Saul, the first woman in Philadelphia to run for Congress, died Dec. 6 at her former home in Rose Valley, Pa. She was 101 years old and lived in Key West, Fla. Adele Scott Saul, the first woman in Philadelphia to run for Congress, died Dec. 6 at her former home in Rose Valley, Pa. She was 101 years old and lived in Key West, Fla. Mrs.Saul, a graduate of Smith College, was active for years in Democractic politics.", 
             "She ran unsuccessfully for Congress in 1940."
         ], 
-        "height": -4, 
+        "height": 180, 
         "rate": 35, 
-        "start_y": 199, 
+        "start_y": 320, 
         "id": 1
     }, 
     {
@@ -133,9 +133,9 @@
             "Maria C. Sanchez, a Connecticut State Representative who built a political base from a small convenience store in Hartford, died on Saturday at her home there.", 
             "In the early 1950's political critics and members of Congress charged that she was a Communist Party member."
         ], 
-        "height": -6, 
+        "height": 142, 
         "rate": 28, 
-        "start_y": 200, 
+        "start_y": 339, 
         "id": 2
     }, 
     {
@@ -195,9 +195,9 @@
             "That career began after Mrs. Gabel, already active as a reform Democrat, attended a dinner party in 1948 given by Rabbi Stephen S. Wise, the founder of the American Jewish Congress; discussion at the party centered on the formation of a group that would champion the cause of blacks discriminated against in housing.", 
             " Ruth Catherine Lawson, a professor of political science at Mount Holyoke College for 34 years, died Friday at Linda Manor Extended Care Facility in Leeds, Mass."
         ], 
-        "height": -4, 
+        "height": 190, 
         "rate": 37, 
-        "start_y": 199, 
+        "start_y": 315, 
         "id": 3
     }, 
     {
@@ -251,9 +251,9 @@
             " Roberta Strauss Feuerlicht, an author of 18 books of history and biography who frequently espoused liberal social and political causes, died yesterday of congestive heart failure, her husband said.", 
             "In 1940, she married Peter Vredenburgh 3d, a wealthy Alabama lumberman and prominent Democrat, and quickly became enmeshed in politics."
         ], 
-        "height": -2, 
+        "height": 256, 
         "rate": 49, 
-        "start_y": 198, 
+        "start_y": 282, 
         "id": 4
     }, 
     {
@@ -299,9 +299,9 @@
             "It was colored by years of living in different parts of Europe -- she moved to Brittany in 1923, then lived in Paris and elsewhere -- and by social and political concerns.", 
             "Professor Lorwin specialized in the psychological analysis of political violence."
         ], 
-        "height": -4, 
+        "height": 168, 
         "rate": 33, 
-        "start_y": 199, 
+        "start_y": 326, 
         "id": 5
     }, 
     {
@@ -339,9 +339,9 @@
             "She worked as a translator and taught political economics at Charles University in Prague.", 
             "She devoted her efforts to defending human rights and the political opposition, and she was expelled from the party in 1970."
         ], 
-        "height": -6, 
+        "height": 142, 
         "rate": 28, 
-        "start_y": 200, 
+        "start_y": 339, 
         "id": 6
     }, 
     {
@@ -398,9 +398,9 @@
             "He died in 1951, and in 1968 she married William Walsh, a political consultant, who died in 1983.", 
             "She also testified before Congress."
         ], 
-        "height": -2, 
+        "height": 240, 
         "rate": 46, 
-        "start_y": 198, 
+        "start_y": 290, 
         "id": 7
     }, 
     {
@@ -465,9 +465,9 @@
             "Eventually, testimony by Mrs. Twyne and others before Congress led to the Horse Protection Act of 1970, a Federal law that bars abusive training techniques.", 
             "Miss Bird played an important part in the founding and development of the American Dance Guild and the Congress on Research in Dance."
         ], 
-        "height": -2, 
+        "height": 256, 
         "rate": 49, 
-        "start_y": 198, 
+        "start_y": 282, 
         "id": 8
     }, 
     {
@@ -535,9 +535,9 @@
             "\"She was most concerned that the Constitution not be distorted for political reasons.", 
             "Even amid the political turmoil of 1974, when Congresswoman Jordan contended  that the Watergate conspirings had put the nation \"on the edge of repression and tyranny,\" the outspoken Texan still led with her optimism."
         ], 
-        "height": -4, 
+        "height": 206, 
         "rate": 40, 
-        "start_y": 199, 
+        "start_y": 307, 
         "id": 9
     }, 
     {
@@ -647,9 +647,9 @@
             "Her initiative won the attention of Congress in 1949, when she coordinated testimony on eye research before the House.", 
             "The hearings led Congress to recognize eye disease as a factor when it created the National Institute of Neurological Disease and Blindness."
         ], 
-        "height": 2, 
+        "height": 374, 
         "rate": 71, 
-        "start_y": 196, 
+        "start_y": 223, 
         "id": 10
     }, 
     {
@@ -734,9 +734,9 @@
             "A native of Havana, where her father was a prominent doctor, she attended a convent school in Key West, Fla., then moved to New York with her mother during a period of political instability in Cuba in the 1920's.", 
             "'' Her death, which prompted a wave of tributes from French political and cultural figures, came less than one week after that of Jean Marais, the handsome, swashbuckling French actor who played opposite Ms. Feuillere in Jean Cocteau's 1947 film ''L'Aigle a Deux Tetes."
         ], 
-        "height": -2, 
+        "height": 256, 
         "rate": 49, 
-        "start_y": 198, 
+        "start_y": 282, 
         "id": 11
     }, 
     {
@@ -807,9 +807,9 @@
             "She later enrolled as a graduate student in political science at the University of California at Berkeley, but an internship in the State Legislature in Sacramento persuaded her to switch to law school, because lawyers seemed to have the most influence on public policy.", 
             "That led to public hearings by the state Commission on Judicial Performance, which portrayed the court as riven by personal conflicts and political infighting."
         ], 
-        "height": -2, 
+        "height": 240, 
         "rate": 46, 
-        "start_y": 198, 
+        "start_y": 290, 
         "id": 12
     }, 
     {
@@ -874,9 +874,9 @@
             "But by the end of the decade she had transformed herself and her poetry, a change that reflected the new political dynamics that were sweeping across all the Bronzevilles of America.", 
             "Much of the talk was devoted to ways of merging black art with the political concept of black power."
         ], 
-        "height": -4, 
+        "height": 206, 
         "rate": 40, 
-        "start_y": 199, 
+        "start_y": 307, 
         "id": 13
     }, 
     {
@@ -925,9 +925,9 @@
             " LAST week, as the fiercely partisan legislators of the virtually bankrupt Nassau County turned blue in the face during an all-night fight over their 2002 budget, the inner schoolmarm, dormant since she left teaching for politics, emerged in the presiding officer, Judith A. Jacobs.", 
             "Because of John Hubley's political activism, they were blacklisted."
         ], 
-        "height": -6, 
+        "height": 142, 
         "rate": 28, 
-        "start_y": 200, 
+        "start_y": 339, 
         "id": 14
     }, 
     {
@@ -998,9 +998,9 @@
             "Marvin Breckinridge's exploits were documented in a touring exhibit the Library of Congress put together a few years ago, ''Women Come to the Front: Journalists, Photographers and Broadcasters During World War II.", 
             "Born Anne-Marie Huth Jackson to titled English parents in Savoie, France, she graduated from Oxford University in 1930 and received a master's degree from the London School of Economics and Political Science in 1932."
         ], 
-        "height": -2, 
+        "height": 228, 
         "rate": 44, 
-        "start_y": 198, 
+        "start_y": 296, 
         "id": 15
     }, 
     {
@@ -1072,9 +1072,9 @@
             "She was interested in politics and traveled to Miami in 1972 for the Democratic National Convention.", 
             "She remained a strong presence in New York City politics throughout her life, even after term limit laws forced her from office."
         ], 
-        "height": 0, 
+        "height": 298, 
         "rate": 57, 
-        "start_y": 197, 
+        "start_y": 261, 
         "id": 16
     }, 
     {
@@ -1131,9 +1131,9 @@
             "It is difficult to be called by a reporter or the Library of Congress when one is cooking a complicated recipe.", 
             "Mr. Lardner was one of the Hollywood 10, jailed in 1950 for contempt of Congress for refusing to answer whether they were Communists."
         ], 
-        "height": -4, 
+        "height": 206, 
         "rate": 40, 
-        "start_y": 199, 
+        "start_y": 307, 
         "id": 17
     }, 
     {
@@ -1211,7 +1211,7 @@
             "Though a product of a traditional, affluent family from the Antioquia province of Colombia, Ms. Arango produced work that pushed the bounds of decorum, vividly touching on delicate and troubling subjects like Colombia's political violence, poverty and brutality.", 
             "In another, a boxcar is filled with bodies, a reminder of the relentless political violence that has marked Colombia for decades."
         ], 
-        "height": 4, 
+        "height": 430, 
         "rate": 81, 
         "start_y": 195, 
         "id": 18
@@ -1321,9 +1321,9 @@
             "Fifteen years her senior, he was a veteran of the wartime Office of Strategic Services, and he soon became the head of the American Political Science Association.", 
             "The next year, she earned a doctorate in political science at Columbia University."
         ], 
-        "height": 2, 
+        "height": 354, 
         "rate": 67, 
-        "start_y": 196, 
+        "start_y": 233, 
         "id": 19
     }
 ]

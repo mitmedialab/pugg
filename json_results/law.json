@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": -2, 
+        "max_height": 398, 
         "id": "meta-data", 
-        "midline": 194, 
+        "midline": 394, 
         "word": "Law", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 0.1492, 
+        "s_f": 6.702412868632709, 
         "words_included": "lawyer, attorney, defender, judge", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,193S40,197,50,197L70,197S80,197,80,197S80,197,90,197L110,197S120,197,120,197S120,197,130,197L150,197S160,197,160,197S160,197,170,197L190,197S200,197,200,197S200,197,210,197L230,197S240,197,240,196S240,196,250,196L270,196S280,196,280,196S280,197,290,197L310,197S320,197,320,197S320,197,330,197L350,197S360,197,360,196S360,196,370,196L390,196S400,196,400,196S400,196,410,196L430,196S440,196,440,197S440,198,450,198L470,198S480,198,480,197S480,196,490,196L510,196S520,196,520,196S520,197,530,197L550,197S560,197,560,197S560,197,570,197L590,197S600,197,600,196S600,195,610,195L630,195S640,195,640,195S640,195,650,195L670,195S680,195,680,195S680,196,690,196L710,196S720,196,720,195S720,195,730,195L750,195S760,195,760,196S760,197,770,197L790,197S800,197,800,196S800,196,810,196L830,196S840,196,840,199L840,193", 
-            "M40,194S40,191,50,191L70,191S80,191,80,191S80,191,90,191L110,191S120,191,120,191S120,191,130,191L150,191S160,191,160,191S160,191,170,191L190,191S200,191,200,191S200,191,210,191L230,191S240,191,240,192S240,192,250,192L270,192S280,192,280,192S280,191,290,191L310,191S320,191,320,191S320,191,330,191L350,191S360,191,360,192S360,192,370,192L390,192S400,192,400,192S400,192,410,192L430,192S440,192,440,191S440,190,450,190L470,190S480,190,480,191S480,192,490,192L510,192S520,192,520,192S520,191,530,191L550,191S560,191,560,191S560,191,570,191L590,191S600,191,600,192S600,193,610,193L630,193S640,193,640,193S640,193,650,193L670,193S680,193,680,193S680,192,690,192L710,192S720,192,720,193S720,193,730,193L750,193S760,193,760,192S760,191,770,191L790,191S800,191,800,192S800,192,810,192L830,192S840,192,840,189"
+            "M40,393L40,531S40,541,50,541L70,541S80,541,80,534S80,528,90,528L110,528S120,528,120,538L120,548S120,558,130,558L150,558S160,558,160,556S160,555,170,555L190,555S200,555,200,555S200,555,210,555L230,555S240,555,240,545L240,511S240,501,250,501L270,501S280,501,280,511L280,514S280,524,290,524L310,524S320,524,320,534L320,545S320,555,330,555L350,555S360,555,360,545L360,498S360,488,370,488L390,488S400,488,400,498L400,504S400,514,410,514L430,514S440,514,440,524L440,588S440,598,450,598L470,598S480,598,480,588L480,524S480,514,490,514L510,514S520,514,520,516S520,518,530,518L550,518S560,518,560,528L560,531S560,541,570,541L590,541S600,541,600,531L600,471S600,461,610,461L630,461S640,461,640,454S640,447,650,447L670,447S680,447,680,457L680,478S680,488,690,488L710,488S720,488,720,478L720,457S720,447,730,447L750,447S760,447,760,457L760,535S760,545,770,545L790,545S800,545,800,535L800,508S800,498,810,498L830,498S840,498,840,488L840,394L840,393", 
+            "M40,394L40,257S40,247,50,247L70,247S80,247,80,254S80,260,90,260L110,260S120,260,120,250L120,240S120,230,130,230L150,230S160,230,160,232S160,233,170,233L190,233S200,233,200,233S200,233,210,233L230,233S240,233,240,243L240,277S240,287,250,287L270,287S280,287,280,277L280,274S280,264,290,264L310,264S320,264,320,254L320,243S320,233,330,233L350,233S360,233,360,243L360,290S360,300,370,300L390,300S400,300,400,290L400,284S400,274,410,274L430,274S440,274,440,264L440,200S440,190,450,190L470,190S480,190,480,200L480,264S480,274,490,274L510,274S520,274,520,272S520,270,530,270L550,270S560,270,560,260L560,257S560,247,570,247L590,247S600,247,600,257L600,317S600,327,610,327L630,327S640,327,640,334S640,341,650,341L670,341S680,341,680,331L680,310S680,300,690,300L710,300S720,300,720,310L720,331S720,341,730,341L750,341S760,341,760,331L760,253S760,243,770,243L790,243S800,243,800,253L800,280S800,290,810,290L830,290S840,290,840,300L840,394"
         ], 
         "y_spacing": 190
     }, 
@@ -56,9 +56,9 @@
             "Victoria Kent, the first woman to become a lawyer in Spain and the founder and former editor of Iberica, a magazine that opposed Communism in Spain and the Government of Franco, died of a heart attack Friday at Lenox Hill Hospital in Manhattan.", 
             "Miss Monroe married Harold M. Weinberg, a New York lawyer, in 1961, and was widowed in 1977."
         ], 
-        "height": -4, 
+        "height": 284, 
         "rate": 44, 
-        "start_y": 196, 
+        "start_y": 252, 
         "id": 0
     }, 
     {
@@ -99,9 +99,9 @@
             "After practicing law in Mineola, L.I., for 20 years, she was elected a judge of the Nassau County District Court, where she served from 1953 to 1970, when she retired.", 
             "District Attorney,'' ''Our Gal Sunday'' and ''The Romance of Helen Trent."
         ], 
-        "height": -4, 
+        "height": 258, 
         "rate": 40, 
-        "start_y": 196, 
+        "start_y": 265, 
         "id": 1
     }, 
     {
@@ -152,9 +152,9 @@
             "Beatrice Rosenberg, a lawyer who held high positions in the Federal Government and argued more than 30 cases before the Supreme Court, died of a heart attack Wednesday at Holy Cross Hospital in Silver Spring, Md.", 
             "In 1970 she was the first woman to receive the Tom C. Clark Award for outstanding government service by a lawyer."
         ], 
-        "height": -4, 
+        "height": 318, 
         "rate": 49, 
-        "start_y": 196, 
+        "start_y": 235, 
         "id": 2
     }, 
     {
@@ -222,9 +222,9 @@
             "Her husband, James Randall Creel, a retired judge of the New York City Criminal Court, died in July.       ", 
             "Her marriage to Judge Gilbert Bettman of Cincinnati ended in divorce."
         ], 
-        "height": -4, 
+        "height": 312, 
         "rate": 48, 
-        "start_y": 196, 
+        "start_y": 238, 
         "id": 3
     }, 
     {
@@ -286,9 +286,9 @@
             "As an attorney, she specialized in family law before being named to the Family Court.", 
             "Miss Kempton's husband, A. M. McNamara, a lawyer and business executive, died several years ago.       "
         ], 
-        "height": -4, 
+        "height": 312, 
         "rate": 48, 
-        "start_y": 196, 
+        "start_y": 238, 
         "id": 4
     }, 
     {
@@ -334,9 +334,9 @@
             "In the late 1930's she returned to legal work as a volunteer lawyer for various agencies: the New Jersey Board of Mediation, the Army's Legal Department, the Governor's Commission for Refugees after the Soviet invasion of Hungary in 1956 and the Governor's Landlord-Tenant Committee in the 1960's.", 
             "In 1968 she became a full-time volunteer lawyer at the Essex-Newark Legal Services in Orange."
         ], 
-        "height": -6, 
+        "height": 204, 
         "rate": 32, 
-        "start_y": 197, 
+        "start_y": 292, 
         "id": 5
     }, 
     {
@@ -386,9 +386,9 @@
             "Her lawyer, James McGarry, said the cause was the flu.", 
             "Her father, William J. Tully, was a lawyer and a two-term New York State senator."
         ], 
-        "height": -4, 
+        "height": 250, 
         "rate": 39, 
-        "start_y": 196, 
+        "start_y": 269, 
         "id": 6
     }, 
     {
@@ -449,9 +449,9 @@
             "A newspaper article about her prompted a Mexican-American inmate and jailhouse lawyer named Fred Arispe Cruz to call her for assistance in appealing his robbery conviction.", 
             " Kathleen P. Mahon, a lawyer who represented Federal law-enforcement officers, died yesterday at her home in Syosset, L.I."
         ], 
-        "height": -4, 
+        "height": 312, 
         "rate": 48, 
-        "start_y": 196, 
+        "start_y": 238, 
         "id": 7
     }, 
     {
@@ -493,9 +493,9 @@
             "In 1964, when she attended the Carolina Walking Horse Celebration in Raleigh, N.C., with a veterinarian, a lawyer and two police officers to look for evidence of mistreatment, she was threatened by spectators and forced to flee.", 
             "In 1992, Judith Kaye, Chief Judge of New York State, appointed Ms. Hermanson the first executive director of the Judges and Lawyers Breast Cancer Alert."
         ], 
-        "height": -6, 
+        "height": 178, 
         "rate": 28, 
-        "start_y": 197, 
+        "start_y": 305, 
         "id": 8
     }, 
     {
@@ -558,9 +558,9 @@
             "It revolved  mostly around the Duchess's powerful lawyer, Suzanne Blum, portrayed in the book as obsessed with her client to the point of erotic fantasy.", 
             "After the war she came to the United States with her husband, Alexander Rudzinski, an international lawyer who was a member of the Polish delegation to  the fledgling United Nations."
         ], 
-        "height": -6, 
+        "height": 230, 
         "rate": 36, 
-        "start_y": 197, 
+        "start_y": 279, 
         "id": 9
     }, 
     {
@@ -650,7 +650,7 @@
             "'' He said she pays attention to what a lawyer says and ''she gets very upset when you repeat it.", 
             "'' The judge, in an interview, acknowledged that her style can be quite direct."
         ], 
-        "height": -2, 
+        "height": 398, 
         "rate": 61, 
         "start_y": 195, 
         "id": 10
@@ -718,9 +718,9 @@
             "After attending Barnard College for one year, she married Mr. Cahn, a lawyer and later a constitutional law professor at New York University, who died in 1964.", 
             "It was a sideline, as an English tutor, that changed her life twice over, leading her both to Martin Elianoff, a lawyer who became her husband, and to Armand Hammer, the American businessman who helped the couple immigrate to the Philippines in 1930."
         ], 
-        "height": -6, 
+        "height": 230, 
         "rate": 36, 
-        "start_y": 197, 
+        "start_y": 279, 
         "id": 11
     }, 
     {
@@ -777,9 +777,9 @@
             "After working as a public defender and teaching a seminar in criminal defense at Stanford University's law school, Ms. Bird became a volunteer in Mr. Brown's 1974 campaign for governor, serving as his frequent chauffeur on his trips to her area and later as a trusted adviser on his transition team.", 
             "But on the morning of election day, The Los Angeles Times published an article, citing anonymous sources, suggesting that the Supreme Court had deliberately delayed issuing a split decision overturning a law mandating prison sentences for those convicted of using a gun in certain crimes, so as not to hurt Judge Bird's chances at the polls."
         ], 
-        "height": -4, 
+        "height": 238, 
         "rate": 37, 
-        "start_y": 196, 
+        "start_y": 275, 
         "id": 12
     }, 
     {
@@ -843,9 +843,9 @@
             "At the time of her hiring, The Chicago Defender, a black-owned paper, called Ms. Cooke the first black woman to get a job as a reporter on a mainstream white-owned paper.", 
             "Philip November, a lawyer who now does the organization's legal work, as his father also did, said some who attend Ms. Kauffman's memorial service on Monday at 6 p.m. at Riverside Memorial Chapel in Manhattan ''are going to be astonished Pat was blind."
         ], 
-        "height": -4, 
+        "height": 284, 
         "rate": 44, 
-        "start_y": 196, 
+        "start_y": 252, 
         "id": 13
     }, 
     {
@@ -880,9 +880,9 @@
             "'' According to Kathryn Kleiman, a lawyer who is working on a documentary film on the women in the Eniac program and their contribution to the field, Mrs. Holberton consistently worked on trying to make computers easier to program.", 
             "''I don't look at myself as Judge Judy, but I'll tell you the truth, I've learned to stop the nonsensible rhetoric when it gets really destructive."
         ], 
-        "height": -8, 
+        "height": 124, 
         "rate": 20, 
-        "start_y": 198, 
+        "start_y": 332, 
         "id": 14
     }, 
     {
@@ -913,9 +913,9 @@
             "The cause was kidney disease, said her lawyer, Perry F. Goldlust of Wilmington, Del.", 
             "Her husband, Rowland Watts, a civil liberties lawyer, died in 1995."
         ], 
-        "height": -8, 
+        "height": 96, 
         "rate": 16, 
-        "start_y": 198, 
+        "start_y": 346, 
         "id": 15
     }, 
     {
@@ -952,9 +952,9 @@
             "Ignoring advice to move to neutral Ireland, they stayed as he pursued his career as a lawyer and civil servant and their family grew.", 
             "Her husband is Theodore W. Kheel, the labor mediator and lawyer."
         ], 
-        "height": -6, 
+        "height": 178, 
         "rate": 28, 
-        "start_y": 197, 
+        "start_y": 305, 
         "id": 16
     }, 
     {
@@ -980,9 +980,9 @@
             "Dr. Myron L. Weisfeldt, chairman of the department of medicine at Johns Hopkins University, said that Dr. Ferrer was ''a leader in electrocardiography at a time when it was the only test we had to judge the heart.", 
             "District Attorney."
         ], 
-        "height": -8, 
+        "height": 96, 
         "rate": 16, 
-        "start_y": 198, 
+        "start_y": 346, 
         "id": 17
     }, 
     {
@@ -1032,9 +1032,9 @@
             "She died of cancer, said Alan C. Rothfeld, her lawyer and longtime friend.", 
             "The cause was complications from Alzheimer's disease, said Leslie Steinau, her lawyer and a longtime friend."
         ], 
-        "height": -4, 
+        "height": 292, 
         "rate": 45, 
-        "start_y": 196, 
+        "start_y": 248, 
         "id": 18
     }, 
     {
@@ -1089,9 +1089,9 @@
             "Although she said she was possibly the slowest judge in American Kennel Club history during her first few years, by 1973 she had worked her way to Westminster to judge the toy group.", 
             "''I have to get through to you that I adore to judge,'' she was quoted as saying in The Wall Street Journal earlier this year."
         ], 
-        "height": -6, 
+        "height": 198, 
         "rate": 31, 
-        "start_y": 197, 
+        "start_y": 295, 
         "id": 19
     }
 ]

@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": 2, 
+        "max_height": 482, 
         "id": "meta-data", 
-        "midline": 196, 
+        "midline": 436, 
         "word": "Fashion", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 0.15819999999999998, 
+        "s_f": 6.321112515802782, 
         "words_included": "fashion, designer", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,195S40,200,50,200L70,200S80,200,80,200S80,200,90,200L110,200S120,200,120,201S120,202,130,202L150,202S160,202,160,201S160,200,170,200L190,200S200,200,200,200S200,200,210,200L230,200S240,200,240,199S240,199,250,199L270,199S280,199,280,198S280,198,290,198L310,198S320,198,320,199S320,200,330,200L350,200S360,200,360,199S360,199,370,199L390,199S400,199,400,198S400,197,410,197L430,197S440,197,440,197S440,197,450,197L470,197S480,197,480,197S480,197,490,197L510,197S520,197,520,197S520,198,530,198L550,198S560,198,560,198S560,199,570,199L590,199S600,199,600,198S600,198,610,198L630,198S640,198,640,198S640,199,650,199L670,199S680,199,680,199S680,200,690,200L710,200S720,200,720,199S720,198,730,198L750,198S760,198,760,198S760,198,770,198L790,198S800,198,800,198S800,198,810,198L830,198S840,198,840,201L840,195", 
-            "M40,196S40,192,50,192L70,192S80,192,80,192S80,192,90,192L110,192S120,192,120,191S120,190,130,190L150,190S160,190,160,191S160,192,170,192L190,192S200,192,200,192S200,192,210,192L230,192S240,192,240,193S240,193,250,193L270,193S280,193,280,194S280,194,290,194L310,194S320,194,320,193S320,192,330,192L350,192S360,192,360,193S360,193,370,193L390,193S400,193,400,194S400,195,410,195L430,195S440,195,440,195S440,195,450,195L470,195S480,195,480,195S480,195,490,195L510,195S520,195,520,195S520,194,530,194L550,194S560,194,560,194S560,193,570,193L590,193S600,193,600,194S600,194,610,194L630,194S640,194,640,194S640,193,650,193L670,193S680,193,680,193S680,192,690,192L710,192S720,192,720,193S720,194,730,194L750,194S760,194,760,194S760,194,770,194L790,194S800,194,800,194S800,194,810,194L830,194S840,194,840,191"
+            "M40,435L40,577S40,587,50,587L70,587S80,587,80,593S80,600,90,600L110,600S120,600,120,610L120,672S120,682,130,682L150,682S160,682,160,672L160,610S160,600,170,600L190,600S200,600,200,593S200,587,210,587L230,587S240,587,240,577L240,572S240,562,250,562L270,562S280,562,280,552L280,531S280,521,290,521L310,521S320,521,320,531L320,584S320,594,330,594L350,594S360,594,360,584L360,582S360,572,370,572L390,572S400,572,400,562L400,512S400,502,410,502L430,502S440,502,440,499S440,496,450,496L470,496S480,496,480,499S480,502,490,502L510,502S520,502,520,512L520,530S520,540,530,540L550,540S560,540,560,550L560,562S560,572,570,572L590,572S600,572,600,562L600,531S600,521,610,521L630,521S640,521,640,531L640,574S640,584,650,584L670,584S680,584,680,590S680,597,690,597L710,597S720,597,720,587L720,537S720,527,730,527L750,527S760,527,760,535S760,543,770,543L790,543S800,543,800,533S800,524,810,524L830,524S840,524,840,514L840,436L840,435", 
+            "M40,436L40,295S40,285,50,285L70,285S80,285,80,279S80,272,90,272L110,272S120,272,120,262L120,200S120,190,130,190L150,190S160,190,160,200L160,262S160,272,170,272L190,272S200,272,200,279S200,285,210,285L230,285S240,285,240,295L240,300S240,310,250,310L270,310S280,310,280,320L280,341S280,351,290,351L310,351S320,351,320,341L320,288S320,278,330,278L350,278S360,278,360,288L360,290S360,300,370,300L390,300S400,300,400,310L400,360S400,370,410,370L430,370S440,370,440,373S440,376,450,376L470,376S480,376,480,373S480,370,490,370L510,370S520,370,520,360L520,342S520,332,530,332L550,332S560,332,560,322L560,310S560,300,570,300L590,300S600,300,600,310L600,341S600,351,610,351L630,351S640,351,640,341L640,298S640,288,650,288L670,288S680,288,680,282S680,275,690,275L710,275S720,275,720,285L720,335S720,345,730,345L750,345S760,345,760,337S760,329,770,329L790,329S800,329,800,339S800,348,810,348L830,348S840,348,840,358L840,436"
         ], 
         "y_spacing": 190
     }, 
@@ -58,9 +58,9 @@
             "She was 50 years old and lived in Manhattan and Norfolk, Conn. Virginia Hendrick Saladino, an interior designer, died of cancer yesterday in Manhattan.", 
             "Collaborated With Husband Her most recent project was the restoration of the Homestead Inn, in Greenwich, Conn., that she undertook with her husband, John F. Saladino, a New York-based architectural designer."
         ], 
-        "height": -2, 
+        "height": 292, 
         "rate": 48, 
-        "start_y": 197, 
+        "start_y": 290, 
         "id": 0
     }, 
     {
@@ -103,9 +103,9 @@
             "''She was a great inspiration when I was a student in the 50's,'' said Mario Buatta, an interior designer in Manhattan.", 
             "In 1939, she went into business as an interior designer."
         ], 
-        "height": -2, 
+        "height": 318, 
         "rate": 52, 
-        "start_y": 197, 
+        "start_y": 277, 
         "id": 1
     }, 
     {
@@ -175,7 +175,7 @@
             "Mrs. Tishman, a graduate of the Cornell University College of Architecture, was a professional fashion photographers' representative in recent years and co-owner of Fabian Rothenberg, an advertising placement service for art directors and copy writers.", 
             "Earlier she had worked in the fashion and art departments of Good Housekeeping magazine and the fashion department of Capezio Inc., and she was art editor of the Magazine Management Company, publishers of periodicals."
         ], 
-        "height": 2, 
+        "height": 482, 
         "rate": 78, 
         "start_y": 195, 
         "id": 2
@@ -242,9 +242,9 @@
             "When the time came, in characteristic fashion, she improvised.", 
             "Ms. Rinzler pursued a dual career as a specialist in publishing law and as a writer who dealt in lighthearted fashion with childhood and adolescence."
         ], 
-        "height": -2, 
+        "height": 318, 
         "rate": 52, 
-        "start_y": 197, 
+        "start_y": 277, 
         "id": 3
     }, 
     {
@@ -305,9 +305,9 @@
             " Mary McDonough Phillips, an editor who helped train a generation of fashion journalists, died last Friday at Memorial Sloan-Kettering Cancer Center after a long illness.", 
             "Her friends included major fashion figures such as the designers Ben Zuckerman, Archie Davidow and Norman Norell."
         ], 
-        "height": -2, 
+        "height": 292, 
         "rate": 48, 
-        "start_y": 197, 
+        "start_y": 290, 
         "id": 4
     }, 
     {
@@ -355,9 +355,9 @@
             " Marie McCarthy, who for many years designed the Larry Aldrich fashion collection, died on Tuesday at the Windermere Nursing Home in Virginia Beach, Va., at the age of 86.", 
             "In New York in 1939, she became the designer for Larry Aldrich, a Seventh Avenue manufacturer known for simple, tasteful women's clothing."
         ], 
-        "height": -4, 
+        "height": 242, 
         "rate": 40, 
-        "start_y": 198, 
+        "start_y": 315, 
         "id": 5
     }, 
     {
@@ -394,9 +394,9 @@
             " Dolli Tingle Brackett, an artist and designer of Christmas stamps for the Postal Service, died on Dec. 11 in Norwalk Hospital, Norwalk, Conn. She was 82.", 
             "Mrs. Brackett, who studied at the Chicago Academy of Fire Arts, was also a painter who exhibited nationally, as well as a designer of books and rugs."
         ], 
-        "height": -6, 
+        "height": 160, 
         "rate": 27, 
-        "start_y": 199, 
+        "start_y": 356, 
         "id": 6
     }, 
     {
@@ -456,9 +456,9 @@
             "Mrs. Julianelli, whose career spanned 40 years, won the Coty American Fashion Critics Award in 1950 with her husband and partner, Charles Julianelli, for artistry and craftsmanship in shoe styles.", 
             "In an article in The New York Times in 1964, Angela Taylor, a fashion writer, wrote that Mrs. Julianelli \"ignored the rule that bare shoes come out only in spring and summer,\" designing several sandals for the fall, including \"one that is virtually nothing but toe."
         ], 
-        "height": -2, 
+        "height": 306, 
         "rate": 50, 
-        "start_y": 197, 
+        "start_y": 283, 
         "id": 7
     }, 
     {
@@ -514,9 +514,9 @@
             " Holly Harp, the California designer who went from a Sunset Boulevard sensation to a darling of Fifth Avenue salons, died on Monday at Cedars Sinai Hospital in Los Angeles.", 
             "But Mr. Buchman said on Friday in reporting her death that Mrs. Harp once described herself as a \"counterculturalist,\" an apt description for a woman who began her career translating the clothes of the flower children into fashion for counterculture heroines."
         ], 
-        "height": -4, 
+        "height": 262, 
         "rate": 43, 
-        "start_y": 198, 
+        "start_y": 305, 
         "id": 8
     }, 
     {
@@ -552,9 +552,9 @@
             " Leonor Fini, an Argentine-born artist and theater designer who was as well known for her eccentric lifestyle as she was for her erotic and fantastic paintings, died on Jan. 18 in a Paris hospital.", 
             "She was the designer for George Balanchine's ballet \"The Crystal Palace\" at the Paris Opera in 1945 and she worked at the Comedie Francaise, for Jean-Louis Barrault's theater company, and at La Scala opera house in Milan."
         ], 
-        "height": -8, 
+        "height": 122, 
         "rate": 21, 
-        "start_y": 200, 
+        "start_y": 375, 
         "id": 9
     }, 
     {
@@ -590,9 +590,9 @@
             "''In a world of whining and complaining, she has wonderful, old-fashioned standards, which have not been deconstructed for modern times,'' the designer Mark Hampton was quoted as saying.", 
             "She went on to work as a writer and graphic designer."
         ], 
-        "height": -8, 
+        "height": 110, 
         "rate": 19, 
-        "start_y": 200, 
+        "start_y": 381, 
         "id": 10
     }, 
     {
@@ -633,9 +633,9 @@
             "Her third career was in fashion education.", 
             "In 1978, she became an adjunct professor at the Fashion Institute of Technology in Manhattan in a program preparing young people for careers in cosmetics."
         ], 
-        "height": -8, 
+        "height": 122, 
         "rate": 21, 
-        "start_y": 200, 
+        "start_y": 375, 
         "id": 11
     }, 
     {
@@ -682,9 +682,9 @@
             "But she was eager to work with Mr. Prouve, the designer and manufacturer who collaborated with her and produced several of her designs from 1951 to 1953.", 
             "Georgia Hofmann was born Georgia Ellis on a farm near Montgomery, Ala. She became a fashion model in New York and had a minor part in a musical production staged by Florenz Ziegfeld."
         ], 
-        "height": -6, 
+        "height": 198, 
         "rate": 33, 
-        "start_y": 199, 
+        "start_y": 337, 
         "id": 12
     }, 
     {
@@ -746,9 +746,9 @@
             "Mrs. Stark honed her sense of fashion in the college shop at Lord & Taylor and as a fashion photographer for the B. Altman department store in New York.", 
             "In the 1950's and early 1960's, she edited fashion pages at Charm, Glamour and Look magazines."
         ], 
-        "height": -4, 
+        "height": 262, 
         "rate": 43, 
-        "start_y": 198, 
+        "start_y": 305, 
         "id": 13
     }, 
     {
@@ -794,9 +794,9 @@
             "Correction:  November 14, 2001, Wednesday  A picture credit was omitted yesterday for a portrait with the obituary of Carrie Donovan, fashion editor and later spokeswoman for the Old Navy stores.", 
             "L\u00e9ger introduced her to Herbert Matter, the Swiss graphic designer and photographer, whom she married in 1939."
         ], 
-        "height": -6, 
+        "height": 160, 
         "rate": 27, 
-        "start_y": 199, 
+        "start_y": 356, 
         "id": 14
     }, 
     {
@@ -848,9 +848,9 @@
             " Maria Bjornson, a designer of sets and costumes for opera, theater and ballet, died at her home in London on Dec. 13.", 
             "Actually, she is a second-generation exhibit designer: her father, Richard, created industrial exhibits for trade shows, building them in his garage in Glen Rock, N.J., where the family had moved."
         ], 
-        "height": -4, 
+        "height": 286, 
         "rate": 47, 
-        "start_y": 198, 
+        "start_y": 293, 
         "id": 15
     }, 
     {
@@ -909,9 +909,9 @@
             "''She brought to her posing as a model concentration and tenderness, rare in the fashion medium today,'' said Mr. Penn, who used Mrs. Russell for his photograph ''Girl Drinking,'' which appeared in Vogue in 1949.", 
             "Dahl-Wolfe often requested Mrs. Russell, according to Irving Solero, the photographer of the museum of the Fashion Institute of Technology, which houses Dahl-Wolfe's color archive."
         ], 
-        "height": -2, 
+        "height": 312, 
         "rate": 51, 
-        "start_y": 197, 
+        "start_y": 280, 
         "id": 16
     }, 
     {
@@ -948,9 +948,9 @@
             "By the early 1950's, with leading magazines and advertising agencies for clients, she could afford a secretary, private school for Li-lan and designer clothes.", 
             " Lynn Manulis, a retailer of luxury fashion who dressed a generation of the world's most socially prominent women in classic style while attiring their daughters in the work of bold young designers whose reputations she helped make, died on Sunday in Lantana, Fla. She was 85."
         ], 
-        "height": -6, 
+        "height": 172, 
         "rate": 29, 
-        "start_y": 199, 
+        "start_y": 350, 
         "id": 17
     }, 
     {
@@ -988,9 +988,9 @@
             "She attended Johns Hopkins University, ran a nursery school with her sister and worked as a fashion model.", 
             "Many of her productions were close collaborations with Helen Morrison, a photographer, filmmaker and lighting designer who meticulously documented Ms. Shearer's career."
         ], 
-        "height": -6, 
+        "height": 204, 
         "rate": 34, 
-        "start_y": 199, 
+        "start_y": 334, 
         "id": 18
     }, 
     {
@@ -1039,9 +1039,9 @@
             "A graphic designer and typographer, her father was known for designing the font Bernhard, which is still in use.", 
             "In the early 1940s Ms. Bernhard became involved with an artist and designer, Eveline Phimister, and for the next 10 years they lived together in New York, then in Carmel, Calif.; Los Angeles; and San Francisco, which became Ms. Bernhard's permanent home in 1953."
         ], 
-        "height": -6, 
+        "height": 166, 
         "rate": 28, 
-        "start_y": 199, 
+        "start_y": 353, 
         "id": 19
     }
 ]

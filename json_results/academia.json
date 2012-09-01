@@ -2,18 +2,18 @@
     {
         "div_width": 30, 
         "c_h": 10, 
-        "max_height": 14, 
+        "max_height": 364, 
         "id": "meta-data", 
-        "midline": 202, 
+        "midline": 377, 
         "word": "Academia", 
         "caption": "", 
         "start_x": 50, 
-        "s_f": 0.2592, 
+        "s_f": 3.858024691358025, 
         "words_included": "professor, faculty, lecturer", 
         "div_spacing": 10, 
         "raphlines": [
-            "M40,201S40,212,50,212L70,212S80,212,80,212S80,212,90,212L110,212S120,212,120,211S120,211,130,211L150,211S160,211,160,212S160,213,170,213L190,213S200,213,200,213S200,214,210,214L230,214S240,214,240,214S240,214,250,214L270,214S280,214,280,214S280,214,290,214L310,214S320,214,320,213S320,213,330,213L350,213S360,213,360,212S360,212,370,212L390,212S400,212,400,210S400,209,410,209L430,209S440,209,440,208S440,208,450,208L470,208S480,208,480,209S480,211,490,211L510,211S520,211,520,209S520,208,530,208L550,208S560,208,560,207S560,207,570,207L590,207S600,207,600,207S600,208,610,208L630,208S640,208,640,207S640,206,650,206L670,206S680,206,680,207S680,208,690,208L710,208S720,208,720,207S720,207,730,207L750,207S760,207,760,206S760,206,770,206L790,206S800,206,800,207S800,208,810,208L830,208S840,208,840,207L840,201", 
-            "M40,202S40,192,50,192L70,192S80,192,80,192S80,192,90,192L110,192S120,192,120,193S120,193,130,193L150,193S160,193,160,192S160,191,170,191L190,191S200,191,200,191S200,190,210,190L230,190S240,190,240,190S240,190,250,190L270,190S280,190,280,190S280,190,290,190L310,190S320,190,320,191S320,191,330,191L350,191S360,191,360,192S360,192,370,192L390,192S400,192,400,194S400,195,410,195L430,195S440,195,440,196S440,196,450,196L470,196S480,196,480,195S480,193,490,193L510,193S520,193,520,195S520,196,530,196L550,196S560,196,560,197S560,197,570,197L590,197S600,197,600,197S600,196,610,196L630,196S640,196,640,197S640,198,650,198L670,198S680,198,680,197S680,196,690,196L710,196S720,196,720,197S720,197,730,197L750,197S760,197,760,198S760,198,770,198L790,198S800,198,800,197S800,196,810,196L830,196S840,196,840,197"
+            "M40,376L40,515S40,525,50,525L70,525S80,525,80,525S80,525,90,525L110,525S120,525,120,522S120,519,130,519L150,519S160,519,160,529L160,531S160,541,170,541L190,541S200,541,200,551L200,552S200,562,210,562L230,562S240,562,240,562S240,562,250,562L270,562S280,562,280,563S280,564,290,564L310,564S320,564,320,556S320,548,330,548L350,548S360,548,360,538L360,535S360,525,370,525L390,525S400,525,400,515L400,501S400,491,410,491L430,491S440,491,440,481L440,475S440,465,450,465L470,465S480,465,480,475L480,511S480,521,490,521L510,521S520,521,520,511L520,483S520,473,530,473L550,473S560,473,560,463L560,458S560,448,570,448L590,448S600,448,600,458L600,461S600,471,610,471L630,471S640,471,640,461L640,450S640,440,650,440L670,440S680,440,680,450L680,463S680,473,690,473L710,473S720,473,720,467S720,462,730,462L750,462S760,462,760,453S760,444,770,444L790,444S800,444,800,454L800,463S800,473,810,473L830,473S840,473,840,463L840,377L840,376", 
+            "M40,377L40,239S40,229,50,229L70,229S80,229,80,229S80,229,90,229L110,229S120,229,120,232S120,235,130,235L150,235S160,235,160,225L160,223S160,213,170,213L190,213S200,213,200,203L200,202S200,192,210,192L230,192S240,192,240,192S240,192,250,192L270,192S280,192,280,191S280,190,290,190L310,190S320,190,320,198S320,206,330,206L350,206S360,206,360,216L360,219S360,229,370,229L390,229S400,229,400,239L400,253S400,263,410,263L430,263S440,263,440,273L440,279S440,289,450,289L470,289S480,289,480,279L480,243S480,233,490,233L510,233S520,233,520,243L520,271S520,281,530,281L550,281S560,281,560,291L560,296S560,306,570,306L590,306S600,306,600,296L600,293S600,283,610,283L630,283S640,283,640,293L640,304S640,314,650,314L670,314S680,314,680,304L680,291S680,281,690,281L710,281S720,281,720,287S720,292,730,292L750,292S760,292,760,301S760,310,770,310L790,310S800,310,800,300L800,291S800,281,810,281L830,281S840,281,840,291L840,377"
         ], 
         "y_spacing": 190
     }, 
@@ -79,9 +79,9 @@
             "She also became a member of the faculty of the educational psychology program at the City University of New York Graduate Center.", 
             "After earning an additional bachelor's degree and an additional master's degree at Oxford University in England, she returned to Manhattanville as a history professor, later becoming the school's president."
         ], 
-        "height": 10, 
+        "height": 286, 
         "rate": 77, 
-        "start_y": 197, 
+        "start_y": 234, 
         "id": 0
     }, 
     {
@@ -146,9 +146,9 @@
             "She was assistant professor at the General Theological Seminary in Manhattan.", 
             "Dr. Julia R. Vane, a clinical psychologist and a professor at Hofstra University, died Thursday at Mercy Hospital in Rockville Centre, L.I., after a long illness."
         ], 
-        "height": 10, 
+        "height": 286, 
         "rate": 77, 
-        "start_y": 197, 
+        "start_y": 234, 
         "id": 1
     }, 
     {
@@ -223,9 +223,9 @@
             "Dr. White taught at Harvard Medical School and was an assistant professor of medicine at Tufts.", 
             "Dr. Martha Winburn England, a retired English professor at Queens College and a writer and translator, died on Monday at the Parkway Nursing Center in Little Rock, Ark., where she lived."
         ], 
-        "height": 8, 
+        "height": 274, 
         "rate": 74, 
-        "start_y": 198, 
+        "start_y": 240, 
         "id": 2
     }, 
     {
@@ -328,9 +328,9 @@
             "Besides her daughter Nancy, of Chevy Chase, Md., Professor Ronsheim is survived by two other daughters, Jane Ring of Evanston, Ill., and Carol Martin of Cos Cob, Conn., and four grandchildren.       ", 
             "In the 1960's and 70's, she was on the faculty of the Manhattan School of Music and the Mannes College of Music."
         ], 
-        "height": 12, 
+        "height": 318, 
         "rate": 85, 
-        "start_y": 196, 
+        "start_y": 218, 
         "id": 3
     }, 
     {
@@ -439,9 +439,9 @@
             " Eleanor Tufts, a professor of art history at Southern Methodist University in Dallas, died on Dec. 2 at Presbyterian Hospital in Dallas.", 
             "She had her own radio program on WQXR, made recordings for the RCA Victor label and was on the faculty of Columbia University."
         ], 
-        "height": 14, 
+        "height": 360, 
         "rate": 96, 
-        "start_y": 195, 
+        "start_y": 197, 
         "id": 4
     }, 
     {
@@ -560,9 +560,9 @@
             "Professor Lorwin was a member of the Del Mar City Council from 1980 to 1984 and was Mayor from 1983 to 1984.", 
             "In addition to her daughter, Professor Lorwin is survived by her husband of 18 years, Alain Virnot; two sons, Tom, of Paris, and Steve, of Plainsboro, N.J; a brother, Boris, of Manhattan, and three grandchildren.       "
         ], 
-        "height": 14, 
+        "height": 360, 
         "rate": 96, 
-        "start_y": 195, 
+        "start_y": 197, 
         "id": 5
     }, 
     {
@@ -672,7 +672,7 @@
             "She moved to Vermont in 1987, and the next year she married Mr. Perrin, a writer and professor of environmental studies at Dartmouth College.", 
             "For almost 30 years Dr. Ingalls was associated with a variety of medical and scientific groups, including the Columbia School of Public Health, where she was an adjunct associate professor from 1958 to 1964, and the Albany Medical School, where she taught bacteriology from 1936 to 1943."
         ], 
-        "height": 14, 
+        "height": 364, 
         "rate": 97, 
         "start_y": 195, 
         "id": 6
@@ -774,9 +774,9 @@
             "Professor Oppenheim was born in Manhattan and graduated from the Brearley School there and, in 1970, from Bryn Mawr College, where she was summa cum laude.", 
             "In addition to her mother, who lives in Manhattan, she is survived by her husband, John Salmon, a retired Bryn Mawr history professor; a daughter by a previous marriage, Ashley Minihan of Villanova, and a sister, Barbara Berresford of Manhattan.       "
         ], 
-        "height": 12, 
+        "height": 332, 
         "rate": 89, 
-        "start_y": 196, 
+        "start_y": 211, 
         "id": 7
     }, 
     {
@@ -875,9 +875,9 @@
             "Dr. Fitchen is survived by her husband, Douglas B. Fitchen, a Cornell professor; a son, John H., of La Jolla, Calif.; and two daughters, Katherine F. Nisbet of Bozeman, Mont., and Sylvia Fitchen of Tucson, Ariz.       ", 
             "In 1935, she was a member of the first dance faculty at the 92d Street Y, a center for modern dance in New York City."
         ], 
-        "height": 10, 
+        "height": 286, 
         "rate": 77, 
-        "start_y": 197, 
+        "start_y": 234, 
         "id": 8
     }, 
     {
@@ -974,9 +974,9 @@
             "\"It is a common way for cells to feed,\" said Dr. Trager, now an emeritus professor of parasitology at Rockefeller.", 
             "Dr. Rudzinska became an emeritus professor in 1975, but was still active in the lab."
         ], 
-        "height": 4, 
+        "height": 218, 
         "rate": 59, 
-        "start_y": 200, 
+        "start_y": 268, 
         "id": 9
     }, 
     {
@@ -1048,9 +1048,9 @@
             "She joined the Hunter faculty as an instructor after her graduation in 1929 and advanced to full professor in 1951.", 
             "She retired as a professor emerita in 1988 but continued to do research."
         ], 
-        "height": 2, 
+        "height": 166, 
         "rate": 46, 
-        "start_y": 201, 
+        "start_y": 294, 
         "id": 10
     }, 
     {
@@ -1175,9 +1175,9 @@
             "Dr. Abel was a leader in cross-cultural psychological research, which became her main focus after retiring from a career largely in family therapy in New York, said Dr. Samuel Roll, a professor of psychology at the University of New Mexico.", 
             "Also in 1971, she became a clinical professor of psychiatry at the University of New Mexico, and at the university's Child Guidance Center she became chief of family therapy service."
         ], 
-        "height": 8, 
+        "height": 278, 
         "rate": 75, 
-        "start_y": 198, 
+        "start_y": 238, 
         "id": 11
     }, 
     {
@@ -1254,9 +1254,9 @@
             "Bode was born on July 14, 1943, in Penn Yan, N.Y., the daughter of the late Carl Bode, a professor of English and American Studies at the University of Maryland, and the former Charlotte Watkins Smith.", 
             "She earned both a master's degree (1947) and a Ph.D. (1952) from Ohio State University, and taught at Ohio State, Teachers College of Columbia University and City College before joining the Harvard faculty."
         ], 
-        "height": 2, 
+        "height": 182, 
         "rate": 50, 
-        "start_y": 201, 
+        "start_y": 286, 
         "id": 12
     }, 
     {
@@ -1313,9 +1313,9 @@
             "As a lecturer and designer at the Brooklyn Botanic Garden for more than 50 years, Mrs. Ireys considered the garden her true home and did her most important community project for it.", 
             "The Gwendolyn Brooks Chair in Black Literature and Creative Writing was established at Chicago State University in 1990, and there is a Gwendolyn Brooks Center for African-American Literature at Western Illinois University and a Gwendolyn Brooks Junior High School just south of Chicago in Harvey, Ill. She was selected by the National Endowment of the Humanities as its Jefferson Lecturer in 1994, ''the absolute award crown of my career,'' she said."
         ], 
-        "height": 0, 
+        "height": 132, 
         "rate": 37, 
-        "start_y": 202, 
+        "start_y": 311, 
         "id": 13
     }, 
     {
@@ -1390,9 +1390,9 @@
             "In 1999 she joined the faculty at Yale, where her husband, Howard Bloch, teaches in the French department.", 
             "''Betty Holberton was a real software pioneer,'' said Donald E. Knuth, a professor emeritus at Stanford University and author of the three-volume ''The Art of Computer Programming,'' the profession's defining treatise."
         ], 
-        "height": 2, 
+        "height": 178, 
         "rate": 49, 
-        "start_y": 201, 
+        "start_y": 288, 
         "id": 14
     }, 
     {
@@ -1448,9 +1448,9 @@
             "That year she started her academic career as an assistant professor of history at Dalhousie University in Halifax, Nova Scotia.", 
             "At her death Dr. Hareven was the Unidel professor of family studies and history, with a joint appointment in urban affairs and public policy."
         ], 
-        "height": -2, 
+        "height": 116, 
         "rate": 33, 
-        "start_y": 203, 
+        "start_y": 319, 
         "id": 15
     }, 
     {
@@ -1512,9 +1512,9 @@
             "Dr. Bates, a professor of cognitive science at U.C.S.D.", 
             "In putting forth her ideas, Dr. Bates criticized the theories of the linguist Noam Chomsky of the Massachusetts Institute of Technology and his colleague Dr. Steven Pinker, the psychology professor, now at Harvard."
         ], 
-        "height": 2, 
+        "height": 182, 
         "rate": 50, 
-        "start_y": 201, 
+        "start_y": 286, 
         "id": 16
     }, 
     {
@@ -1568,9 +1568,9 @@
             "''She found in camp an aesthetic that was very different from what the straight world had acknowledged up to that point, and she managed to make camp 'straight' in a way,'' Arthur C. Danto, the Johnsonian professor emeritus of philosophy at Columbia and the art critic for The Nation, said yesterday in a telephone interview.", 
             "In 1943 she married Jarvis A. Thurston, whom she met in a writing class and who became a professor of English; he survives her."
         ], 
-        "height": 0, 
+        "height": 160, 
         "rate": 44, 
-        "start_y": 202, 
+        "start_y": 297, 
         "id": 17
     }, 
     {
@@ -1610,9 +1610,9 @@
             "Dr. Crouwel became professor of Aegean archaeology at the University of Amsterdam.", 
             "She later was a story specialist for the Pittsburgh Public Schools and joined the faculty of the University of Pittsburgh School of Information Sciences, from which she retired as a professor emerita in 1978."
         ], 
-        "height": -2, 
+        "height": 124, 
         "rate": 35, 
-        "start_y": 203, 
+        "start_y": 315, 
         "id": 18
     }, 
     {
@@ -1696,9 +1696,9 @@
             "In 1967, before completing her doctoral dissertation, she was appointed associate professor at Georgetown University.", 
             "Georgetown made her a full professor in 1973 and gave her the endowed Leavey Chair five years later."
         ], 
-        "height": 2, 
+        "height": 182, 
         "rate": 50, 
-        "start_y": 201, 
+        "start_y": 286, 
         "id": 19
     }
 ]
