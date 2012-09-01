@@ -244,7 +244,7 @@ class WordCounter: # Looks for single words in article fulltexts
         sorted_words = [item[0] for item in sorted_tuples]
 
         # Generate the jsons.
-        topbar_datafile = open(self.baby_dir + '/topbar.json', 'w')
+        topbar_datafile = open(self.baby_dir + '/topbar3.json', 'w')
         content = [{'word': word, 'size': header_font_sizes[word]} for word in sorted_words]
         topbar_datafile.write(json.dumps(content, indent=4))
         topbar_datafile.close()
@@ -256,21 +256,39 @@ class WordCounter: # Looks for single words in article fulltexts
 
 if __name__ == "__main__":
     #__init__(self, words, papa_dir, baby_dir y_topspace, c_h, div_width, div_spacing, s_f, start_x):
-    word_counter = WordCounter({"leadership": ["leader", "administrator", "executive", "chair", "director", "president", "chairwoman", "chairman"], \
-"acting": ["actress", "actor", "thespian"], \
-"academia": ["professor", "faculty", "lecturer"], \
-"assistant": ["assistant", "secretary", "aide"], \
-"teaching": ["teacher", "schoolteacher"], \
-"law": ["lawyer", "attorney", "defender", "judge"], \
-"science": ["science", "scientist", "research"], \
-"fashion": ["fashion", "designer"], \
-"music": ["musician", "composer", "pianist", "opera", "orchestra", "singer", "sing", "sang", "performed"], \
-"visual art" : ["artist", "painter", "photographer", "painted", "sculptor", "curator", "architect", "illustrator"], \
-"writing" : ["editor", "publisher", "writer", "author", "novelist"], \
-"journalism": ["reporter", "journalist", "columnist"], \
-"politics": ["congress", "congresswoman", "politics", "political"], \
-"business": ["business", "company"], \
-"dance": ["dancer", "dance", "ballet"], \
-"medicine": ["doctor", "dr", "surgeon"], \
-"military": ["military", "army", "navy"]}, "obits_fem", "json_results", 190, 10, 30, 10, 3, 40)
+    word_counter = WordCounter({"community": ["community"],\
+"served": ["served"],\
+"health": ["health"],\
+"republican": ["republican"],\
+"elected": ["elected"],\
+"social": ["social"],\
+"taught": ["taught"],\
+"national": ["national"],\
+"democratic": ["democratic", "democrat"],\
+"major": ["major"],\
+"won": ["won"],\
+"great": ["great"],\
+"established": ["established"],\
+"world": ["world"],\
+"million": ["million"],\
+"success": ["success"],\
+"wrote": ["wrote"],\
+"style": ["style"],\
+"love": ["love"],\
+"sold": ["sold", "sell", "selling"],\
+"book": ["book"],\
+"black": ["black", "african-american"],\
+"gave": ["gave", "give", "giving"],\
+"rights": ["rights"],\
+"found": ["found"],\
+"people": ["people"],\
+"power": ["power"],\
+"experience": ["experience"],\
+"decided": ["decided"],\
+"left": ["left"],\
+"movement": ["movement"],\
+"team": ["team"],\
+"thought": ["thought"],\
+"wanted": ["wanted"]}, "obits_fem", "json_results", 190, 10, 30, 10, 3, 40)
     word_counter.generate_jsons()
+
