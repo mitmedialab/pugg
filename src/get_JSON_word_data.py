@@ -289,6 +289,6 @@ if __name__ == "__main__":
 "movement": ["movement"],\
 "team": ["team"],\
 "thought": ["thought"],\
-"wanted": ["wanted"]}, "obits_fem", "json_results", 190, 10, 30, 10, 3, 40)
+"wanted": ["wanted"]}, "obits_fem", "json_results", 165, 10, 30, 10, 3, 40)
     word_counter.generate_jsons()
 
