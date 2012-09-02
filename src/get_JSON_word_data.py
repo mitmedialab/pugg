@@ -334,7 +334,7 @@ class WordCounter: # Looks for single words in article fulltexts
         sorted_words = [item[0] for item in sorted_tuples]
 
         # Generate the jsons.
-        topbar_datafile = open(self.baby_dir + '/topbar2.json', 'w')
+        topbar_datafile = open(self.baby_dir + '/topbar3.json', 'w')
         content = [{'word': word, 'size': header_font_sizes[word]} for word in sorted_words]
         topbar_datafile.write(json.dumps(content, indent=4))
         topbar_datafile.close()
@@ -346,19 +346,39 @@ class WordCounter: # Looks for single words in article fulltexts
 
 if __name__ == "__main__":
     #__init__(self, words, mama_dir, papa_dir, baby_dir, y_topspace, c_h, div_width, div_spacing, start_x):
-    word_counter = WordCounter({"grandchildren": ["grandchildren", "grandchild", "granddaughter", "grandson"] ,\
-"brother": ["brother", "brothers"] ,\
-"sister": ["sister", "sisters"] ,\
-"daughter": ["daughter", "daughters"] ,\
-"husband": ["husband"] ,\
-"son": ["son", "sons"] ,\
-"family": ["family"] ,\
-"wife": ["wife"] ,\
-"children": ["children"] ,\
-"friend": ["friend"] ,\
-"divorce": ["divorce", "divorced", "divorcing"] ,\
-"marriage": ["married", "marry", "marriage"] ,\
-"mother": ["mother"] ,\
-"father": ["father"]}, "obits_fem", "obits_mal", "json_results", 165, 10, 30, 10, 40)
+    word_counter = WordCounter({"community": ["community"],\
+"served": ["served"],\
+"health": ["health"],\
+"republican": ["republican"],\
+"elected": ["elected"],\
+"social": ["social"],\
+"taught": ["taught"],\
+"national": ["national"],\
+"democrat": ["democratic", "democrat"],\
+"major": ["major"],\
+"won": ["won"],\
+"great": ["great"],\
+"established": ["established"],\
+"world": ["world"],\
+"million": ["million"],\
+"success": ["success"],\
+"wrote": ["wrote"],\
+"style": ["style"],\
+"love": ["love"],\
+"sold": ["sold", "sell", "selling"],\
+"book": ["book"],\
+"black": ["black", "african-american"],\
+"gave": ["gave", "give", "giving"],\
+"rights": ["rights"],\
+"found": ["found"],\
+"people": ["people"],\
+"power": ["power"],\
+"experience": ["experience"],\
+"decided": ["decided"],\
+"left": ["left"],\
+"movement": ["movement"],\
+"team": ["team"],\
+"thought": ["thought"],\
+"wanted": ["wanted"]}, "obits_fem", "obits_mal", "json_results", 165, 10, 30, 10, 40)
     word_counter.generate_jsons()
 

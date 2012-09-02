@@ -1,10 +1,14 @@
 [
     {
-        "word": "family", 
+        "word": "husband", 
         "size": 14
     }, 
     {
-        "word": "son", 
+        "word": "divorce", 
+        "size": 10
+    }, 
+    {
+        "word": "marriage", 
         "size": 14
     }, 
     {
@@ -12,7 +16,27 @@
         "size": 14
     }, 
     {
-        "word": "sister", 
+        "word": "grandchildren", 
+        "size": 14
+    }, 
+    {
+        "word": "son", 
+        "size": 14
+    }, 
+    {
+        "word": "friend", 
+        "size": 10
+    }, 
+    {
+        "word": "brother", 
+        "size": 14
+    }, 
+    {
+        "word": "father", 
+        "size": 12
+    }, 
+    {
+        "word": "family", 
         "size": 14
     }, 
     {
@@ -20,39 +44,15 @@
         "size": 14
     }, 
     {
-        "word": "grandchildren", 
+        "word": "mother", 
+        "size": 12
+    }, 
+    {
+        "word": "sister", 
         "size": 14
     }, 
     {
         "word": "wife", 
-        "size": 12
-    }, 
-    {
-        "word": "divorce", 
-        "size": 12
-    }, 
-    {
-        "word": "brother", 
-        "size": 14
-    }, 
-    {
-        "word": "husband", 
-        "size": 14
-    }, 
-    {
-        "word": "friend", 
-        "size": 12
-    }, 
-    {
-        "word": "father", 
-        "size": 12
-    }, 
-    {
-        "word": "marriage", 
-        "size": 14
-    }, 
-    {
-        "word": "mother", 
         "size": 14
     }
 ]
