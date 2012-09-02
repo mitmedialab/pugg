@@ -5,13 +5,18 @@ require 'open-uri'
 require 'pp'
 require 'json'
 require 'iconv'
+require './utilities/guardian/couch.rb'
 
-index_data = JSON.load(File.open(ARGV[0]))
+puts ARGV[0]
+index_data = JSON.load(File.open(ARGV[0]).read)
 error_counter = 0
 counter = 300000
+database = "telegraph"
+url_key = "url"
 
 ic = Iconv.new('UTF-8//IGNORE', 'UTF-8')
 
+server = Couch::Server.new("localhost", "5984")
 
 index_data.each do |date, articles|
   articles.each_index do |index|
@@ -22,11 +27,33 @@ index_data.each do |date, articles|
     if(File.exists? "data/telegraph/articles/#{filename}.html")
       index_data[date][index]["fulltext"] = filename
       error_counter = 0
-      print "e"
+    else
+      print "x"
+      next
+    end
+    
+    begin
+      result = JSON.load(server.get("/#{database}/_design/query/_view/url?key=\"#{URI::encode(index_data[date][index]["url"])}\"").response.body)
+    rescue Exception => e
+      puts e
+      next
+    end
+    if(result["rows"].size == 0)
+      print "X"
       next
     end
 
-    
+    article = result["rows"][0]["value"]
+    next if article.has_key? "fulltext"
+
+    article["fulltext"] = filename
+    server.put("/#{database}/#{article["_id"]}", article.to_json)
+    print "."
+
+    ## COMPLETE SHORT-CIRCUIT THE FETCHING FOR NOW
+    next 
+    ## RE-ENABLE IF NEEDED LATER
+   
     basepath = ""
     basepath ="http://telegraph.co.uk" if(!articles[index]["url"].match(/http/))
     url = basepath + articles[index]["url"]
@@ -71,6 +98,6 @@ index_data.each do |date, articles|
     sleep(1.0/8.0)
   end
 end
-File.open(ARGV[1], "wb"){|f|
-  f.write index_data.to_json
-}
+#File.open(ARGV[1], "wb"){|f|
+#  f.write index_data.to_json
+#}
