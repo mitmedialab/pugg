@@ -4,14 +4,10 @@ require 'open-uri'
 require 'pp'
 require 'json'
 require './utilities/guardian/couch.rb'
-<<<<<<< HEAD
-require 'uri-handler'
-=======
->>>>>>> 475d63241309e7a435fbf3ce99b60d76d2aa500a
 
 error_counter = 0
 
-baseurls = {"telegraph"=>"http://telegraph.co.uk", "dailymail"=>"http://dailymail.co.uk", "guardian"=>""}
+baseurls = {"telegraph"=>"http://www.telegraph.co.uk", "dailymail"=>"http://www.dailymail.co.uk", "guardian"=>""}
 url_key = {"telegraph"=>"url", "dailymail"=>"url", "guardian"=> "webUrl"}
 xml_query_key = {"telegraph"=>"", "dailymail"=>"a.author"}
 server = Couch::Server.new("localhost", "5984")
@@ -110,7 +106,6 @@ def Author.write_authors yearweek, date
 end
 
 index_data = JSON.load(server.get("/#{database}/_design/dates/_view/dates?limit=1").response.body)
-<<<<<<< HEAD
 if(database =="guardian")
   prevdate = Date.parse(index_data["rows"][0]["value"]["webPublicationDate"])
 elsif database =="dailymail"
@@ -122,12 +117,8 @@ prevdate_week = prevdate.year.to_s + prevdate.cweek.to_s
 startkey = index_data["rows"][0]["key"].gsub("_","%5F")
 startid = index_data["rows"][0]["value"]["_id"]
 
-=======
 prevdate = Date.parse(index_data["rows"][0]["value"]["webPublicationDate"])
 prevdate_week = prevdate.year.to_s + prevdate.cweek.to_s
-
-startkey = index_data["rows"][0]["key"]
->>>>>>> 475d63241309e7a435fbf3ce99b60d76d2aa500a
 
 more_articles = true
 rows_per_page = 200
@@ -135,12 +126,8 @@ rows_per_page = 200
 #this while loop processes every article, in a paged manner
 while more_articles
   row_id = 0 
-<<<<<<< HEAD
   index_data = JSON.load(server.get("/#{database}/_design/dates/_view/dates?startkey=\"#{startkey}\"&startid=#{startid}&limit=#{rows_per_page + 1}").response.body)
  # puts "/#{database}/_design/dates/_view/dates?startkey=#{startkey}&limit=#{rows_per_page + 1}"
-=======
-  index_data = JSON.load(server.get("/#{database}/_design/dates/_view/dates?startkey=#{startkey}&limit=#{rows_per_page + 1}").response.body)
->>>>>>> 475d63241309e7a435fbf3ce99b60d76d2aa500a
   print "|"
   index_data["rows"].each do |row|
     row_id += 1
@@ -148,11 +135,7 @@ while more_articles
     #for pagination: if it's the last row, use that as
     # the startkey for the next page, and continue without processing
     #TODO: Fix something in this bit of code
-<<<<<<< HEAD
     if index_data["rows"].size <= 1
-=======
-    if index_data["rows"].size == 1
->>>>>>> 475d63241309e7a435fbf3ce99b60d76d2aa500a
       Author.write_authors prevdate_week
       puts "END OF SCRIPT"
       more_articles = false 
@@ -160,7 +143,6 @@ while more_articles
       #end state: this is the final item in the entire dataset,
       #so save it and conclude
     elsif row_id >= index_data["rows"].size() -1
-<<<<<<< HEAD
       startkey = row["key"].gsub("_","%5F")
       startid = row["value"]["_id"]
       puts "END OF INDEX #{startid} >= #{index_data["rows"].size}"
@@ -176,20 +158,10 @@ while more_articles
     #puts "#{article['pubdate']}: #{article['title']}"
     curdate_week = curdate.year.to_s + curdate.cweek.to_s
     ##ADDED CLAUSE FOR WEEKEND
-    if(curdate.wday == 0 or curdate.wday == 7)
-      print "."
-      next
-    end
-=======
-      puts "END OF INDEX"
-      startkey = row["key"]
-      break
-    end
-    article = row["value"]
-
-    curdate = Date.parse(article["webPublicationDate"])
-    curdate_week = curdate.year.to_s + curdate.cweek.to_s
->>>>>>> 475d63241309e7a435fbf3ce99b60d76d2aa500a
+    #if(curdate.wday == 0 or curdate.wday == 7)
+    #  print "."
+    #  next
+    #end
     if(curdate_week!=prevdate_week)
       puts prevdate_week
       Author.write_authors prevdate_week, curdate
@@ -205,4 +177,3 @@ while more_articles
   end
 
 end
-

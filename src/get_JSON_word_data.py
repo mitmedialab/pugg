@@ -93,10 +93,12 @@ def stringer(heights, width, spacing, c_h, start_x, start_y):
     return [rt, rb]
 
 class WordCounter: # Looks for single words in article fulltexts
-    def __init__(self, words, papa_dir, baby_dir, y_topspace, c_h, div_width, div_spacing, s_f, start_x):
+    def __init__(self, words, mama_dir, papa_dir, baby_dir, y_topspace, c_h, div_width, div_spacing, start_x):
     # words is dictionary of lower-case words mapped to lists of
     #   words to be searched for.
-    # papa_dir is string of directory where the txt files to be searched are
+    # papa_dir is string of directory where the male txt files to be searched are
+    #   (sorted into sub-directory by year: each named "1987" through "2006")
+    # mama_dir is string of directory where the female txt files to be searched are
     #   (sorted into sub-directory by year: each named "1987" through "2006")
     #   in which female obituaries are named by index: 0.txt, 1.txt, so on.
     # baby_dir is the directory to write results to.
@@ -107,6 +109,7 @@ class WordCounter: # Looks for single words in article fulltexts
     # div_spacing is the space between the sentence-holding divs.
     # start_x is the x-location, in pixels, where the raphael lines should start.
         self.papa_dir = papa_dir
+        self.mama_dir = mama_dir
         self.words = words
         self.baby_dir = baby_dir
         self.y_topspace = y_topspace
@@ -126,9 +129,29 @@ class WordCounter: # Looks for single words in article fulltexts
                                           2001: 232, 2002: 223, \
                                           2003: 193, 2004: 187, \
                                           2005: 156, 2006: 193}
+        self.yearly_male_obit_totals = {1987: 1760, \
+                                        1988: 2099,\
+                                        1989: 2417,\
+                                        1990: 2778,\
+                                        1991: 2367,\
+                                        1992: 1749,\
+                                        1993: 1812,\
+                                        1994: 1578,\
+                                        1995: 1684,\
+                                        1996: 1513,\
+                                        1997: 1363,\
+                                        1998: 1270,\
+                                        1999: 1282,\
+                                        2000: 1230,\
+                                        2001: 1071,\
+                                        2002: 1048,\
+                                        2003: 915,\
+                                        2004: 801,\
+                                        2005: 862,\
+                                        2006: 850}
 
         # This dictionary will be used when calculating word use/total words
-        self.yearly_allword_totals = {1987: 93494, 1988: 98204, \
+        self.yearly_female_allword_totals = {1987: 93494, 1988: 98204, \
                                           1989: 119915, 1990: 149492, \
                                           1991: 119066, 1992: 136511, \
                                           1993: 120013, 1994: 116375, \
@@ -137,49 +160,99 @@ class WordCounter: # Looks for single words in article fulltexts
                                           1999: 143830, 2000: 148206, \
                                           2001: 156630, 2002: 157607, \
                                           2003: 126611, 2004: 123912, \
-                                          2005: 105244, 2006: 158888} 
+                                          2005: 105244, 2006: 158888}
+
+        self.yearly_male_allword_totals = {1987: 621291, 1988: 670803, \
+                                           1989: 780828, 1990: 910894, \
+                                           1991: 761684, 1992: 690958, \
+                                           1993: 711415, 1994: 644288, \
+                                           1995: 787010, 1996: 813467, \
+                                           1997: 845824, 1998: 876837, \
+                                           1999: 868109, 2000: 850447, \
+                                           2001: 741087, 2002: 750033, \
+                                           2003: 634259, 2004: 592110, \
+                                           2005: 678075, 2006: 685394}
 
 
     def generate_jsons(self):
 
+        # For font size of links in top bar
         header_font_sizes = {word: 0 for word in self.words}
 
-        heights_dict = {word:[] for word in self.words}
+        # For heights of divs
+        heights_dict_fem = {word:[] for word in self.words}
+        heights_dict_mal = {word:[] for word in self.words}
 
-        rates_dict = {word:[] for word in self.words}
+        # For use rates per 100,000 words
+        rates_dict_fem = {word:[] for word in self.words}
+        rates_dict_mal = {word:[] for word in self.words}
 
         # Dictionary to input into a json
         content_dict = {word:[{'id': 'meta-data', \
                                'raphlines': [], \
                                'caption': '', \
                                'words_included': self.words[word][0], \
-                               'max_height': 0, \
+                               'midline': 0, \
                                'c_h': self.c_h, \
                                'div_width': self.div_width, \
                                'div_spacing': self.div_spacing, \
                                'word': word.capitalize(), \
                                'y_spacing': self.y_topspace, \
-                               'midline' : 0, \
                                'start_x': self.start_x + self.div_spacing, \
-                               's_f': 0}] for word in self.words}
+                               's_f': 0, \
+                               'max_height_fem' : 0, \
+                               'max_height_mal' : 0}] for word in self.words}
 
         # Data for each year
         for word in self.words:
             for i in range(20):
                 content_dict[word].append(\
                     {'id': i, \
-                     'sentences': [], \
-                     'height': 0,
-                     'rate': 0,
+                     'sentences_fem': [], \
+                     'sentences_mal': [], \
+                     'heigh_fem': 0, \
+                     'heigh_mal': 0, \
+                     'rate_fem': 0, \
+                     'rate_mal': 0, \
                      'sentence_index': 0, \
                      'start_y': 0})
             for i in range(1, len(self.words[word])):
                 content_dict[word][0]['words_included'] +=  ', '+self.words[word][i]
 
-        # Counting up word uses and storing sentences containing those words
+        # Counting up female word uses and storing sentences containing those words
         for year in range(1987, 2007):
             word_count = {word: 0 for word in self.words}
             for article_index in range(self.yearly_female_obit_totals[year]):
+                current_file = open(self.mama_dir+'/'+str(year)+'/'+str(article_index)+'.txt', 'r')
+                fulltext = current_file.read()
+                fulltext_cleaned = re.sub('        ', '', re.sub('\n', ' ', fulltext))
+                tok_sent = [sentence for sentence in sent_tokenize(fulltext_cleaned)]
+                tok_sent_clone = tok_sent[:]
+                # Clean out duplicates
+                for i in range(1, len(tok_sent)):
+                    if tok_sent_clone[i] == tok_sent_clone[i-1]:
+                        tok_sent.remove(tok_sent_clone[i])
+                # Find word matches
+                for sentence in tok_sent:
+                    for word in word_tokenize(sentence):
+                        word = word.lower()
+                        for key in self.words:
+                            if word in self.words[key]:
+                                word_count[key] += 1
+                                if sentence not in content_dict[key][year - 1986]['sentences_fem']:
+                                    content_dict[key][year - 1986]['sentences_fem'].append(sentence)
+
+            # Calculate and store word-use-rates
+            for word in self.words:
+                use_rate = \
+                    (word_count[word]/float(self.yearly_female_allword_totals[year]))*100000
+                content_dict[word][year-1986]['rate_fem'] = int(round(use_rate))
+                rates_dict_fem[word].append(use_rate)
+
+        # Counting up male word uses and storing sentences containing those words
+        for year in range(1987, 2007):
+            word_count = {word: 0 for word in self.words}
+            for article_index in range(self.yearly_male_obit_totals[year]):
                 current_file = open(self.papa_dir+'/'+str(year)+'/'+str(article_index)+'.txt', 'r')
                 fulltext = current_file.read()
                 fulltext_cleaned = re.sub('        ', '', re.sub('\n', ' ', fulltext))
@@ -196,55 +269,72 @@ class WordCounter: # Looks for single words in article fulltexts
                         for key in self.words:
                             if word in self.words[key]:
                                 word_count[key] += 1
-                                if sentence not in content_dict[key][year - 1986]['sentences']:
-                                    content_dict[key][year - 1986]['sentences'].append(sentence)
+                                if sentence not in content_dict[key][year - 1986]['sentences_mal']:
+                                    content_dict[key][year - 1986]['sentences_mal'].append(sentence)
 
-            # Calculate and store word-use-rates and related data
+            # Calculate and store word-use-rates
             for word in self.words:
                 use_rate = \
-                    (word_count[word]/float(self.yearly_allword_totals[year]))*100000
-                content_dict[word][year-1986]['rate'] = int(round(use_rate))
-                rates_dict[word].append(use_rate)
+                    (word_count[word]/float(self.yearly_male_allword_totals[year]))*100000
+                content_dict[word][year-1986]['rate_mal'] = int(round(use_rate))
+                rates_dict_mal[word].append(use_rate)
 
         # Generate font sizes and raphael lines for each word.
         for word in self.words:
-            # Calculate stretch factor for sentence div height around 250px
-            avg_rate = sum([content_dict[word][i]['rate'] for i in range(1, 21)])/20.0
-            stretch_factor = 250.0/avg_rate
+            # Calculate stretch factor for max sentence div height of 400px
+            max_rate_fem = max(rates_dict_fem[word])
+            max_rate_mal = max(rates_dict_mal[word])
+            max_rate = max_rate_fem + max_rate_mal
+            stretch_factor = 400.0/max_rate
             content_dict[word][0]['s_f'] = stretch_factor
             
             # Store heights of divs based on stretch factor
             for i in range(1, 21):
-                height = int(round((content_dict[word][i]['rate']*stretch_factor)))-self.c_h
-                height -= height%2
-                content_dict[word][i]['height'] = height
-                heights_dict[word].append(height)
+                # Female div heights
+                height_fem = int(round((content_dict[word][i]['rate_fem']*stretch_factor)))-self.c_h
+                height_fem -= height_fem%2 # For raphael line generator to not tend towards too short
+                content_dict[word][i]['height_fem'] = height_fem
+                heights_dict_fem[word].append(height_fem)
+                # Male div heights
+                height_mal = int(round((content_dict[word][i]['rate_mal']*stretch_factor)))-self.c_h
+                height_mal -= height_mal%2 # For raphael line generator to not tend towards too short
+                content_dict[word][i]['height_mal'] = height_mal
+                heights_dict_mal[word].append(height_mal)
                 
             # Double-count first sentence in 1987 so that active div won't hide first sentence when fired.
-            content_dict[word][1]['sentences'] = [content_dict[word][1]['sentences'][0]] + content_dict[word][1]['sentences']
-            avg_rate = int(round(sum(rates_dict[word]) / 20.0))
+            content_dict[word][1]['sentences_fem'] = [content_dict[word][1]['sentences_fem'][0]] + content_dict[word][1]['sentences_fem']
+            content_dict[word][1]['sentences_mal'] = [content_dict[word][1]['sentences_mal'][0]] + content_dict[word][1]['sentences_mal']
+            avg_rate = int(round((sum(rates_dict_fem[word]) + sum(rates_dict_mal[word]))/ 40.0))
             font_size = 10 + min(avg_rate/30, 2)*2
             header_font_sizes[word] = font_size
-            max_height = max(heights_dict[word])
-            content_dict[word][0]['max_height'] = max_height
-            midline = self.y_topspace + max_height/2 + self.c_h/2
+            max_height_fem = max(heights_dict_fem[word])
+            content_dict[word][0]["max_height_fem"] = max_height_fem
+            content_dict[word][0]["max_height_mal"] = max(heights_dict_mal[word])
+            midline = self.y_topspace + max_height_fem + self.c_h
             content_dict[word][0]['midline'] = midline
             for id in range(1, 21):
-                content_dict[word][id]['start_y'] = midline - content_dict[word][id]['height']/2
-            content_dict[word][0]['raphlines'] = stringer(heights_dict[word], self.div_width, \
-                                                self.div_spacing, self.c_h, self.start_x, midline)
+                content_dict[word][id]['start_y'] = midline - content_dict[word][id]['height_fem'] - self.c_h/2
+            raphlist_mal = [height*2 + self.c_h for height in heights_dict_mal[word]]
+            raph_mal = stringer(raphlist_mal, self.div_width, \
+                                                self.div_spacing, self.c_h, self.start_x, midline)[0]
+            raphlist_fem = [height*2 + self.c_h for height in heights_dict_fem[word]]
+            raph_fem = stringer(raphlist_fem, self.div_width, \
+                                                self.div_spacing, self.c_h, self.start_x, midline)[0]
+            content_dict[word][0]['raphlines'] = [raph_mal, raph_fem]
 
-        # Create sorted list of words based on increasing use rate
+        # Create sorted list of words based on change_ratio_fem/change_ratio_mal
         ratio_tuples = []
         for word in self.words:
-            change_ratio = sum([content_dict[word][i]['rate'] for i in range(12, 21)])/\
-                               sum([content_dict[word][i]['rate'] for i in range(1,11)])
-            ratio_tuples.append((word, change_ratio))
+            change_ratio_fem = sum([content_dict[word][i]['rate_fem'] for i in range(12, 21)])/\
+                               float(sum([content_dict[word][i]['rate_fem'] for i in range(1,11)]))
+            change_ratio_mal = sum([content_dict[word][i]['rate_mal'] for i in range(12, 21)])/\
+                               float(sum([content_dict[word][i]['rate_mal'] for i in range(1,11)]))
+            ratio_tuples.append((word, change_ratio_fem/change_ratio_mal))
         sorted_tuples = sorted(ratio_tuples, key=itemgetter(1))
         sorted_words = [item[0] for item in sorted_tuples]
 
         # Generate the jsons.
-        topbar_datafile = open(self.baby_dir + '/topbar3.json', 'w')
+        topbar_datafile = open(self.baby_dir + '/topbar1.json', 'w')
         content = [{'word': word, 'size': header_font_sizes[word]} for word in sorted_words]
         topbar_datafile.write(json.dumps(content, indent=4))
         topbar_datafile.close()
@@ -255,40 +345,23 @@ class WordCounter: # Looks for single words in article fulltexts
             word_datafile.close()
 
 if __name__ == "__main__":
-    #__init__(self, words, papa_dir, baby_dir y_topspace, c_h, div_width, div_spacing, s_f, start_x):
-    word_counter = WordCounter({"community": ["community"],\
-"served": ["served"],\
-"health": ["health"],\
-"republican": ["republican"],\
-"elected": ["elected"],\
-"social": ["social"],\
-"taught": ["taught"],\
-"national": ["national"],\
-"democratic": ["democratic", "democrat"],\
-"major": ["major"],\
-"won": ["won"],\
-"great": ["great"],\
-"established": ["established"],\
-"world": ["world"],\
-"million": ["million"],\
-"success": ["success"],\
-"wrote": ["wrote"],\
-"style": ["style"],\
-"love": ["love"],\
-"sold": ["sold", "sell", "selling"],\
-"book": ["book"],\
-"black": ["black", "african-american"],\
-"gave": ["gave", "give", "giving"],\
-"rights": ["rights"],\
-"found": ["found"],\
-"people": ["people"],\
-"power": ["power"],\
-"experience": ["experience"],\
-"decided": ["decided"],\
-"left": ["left"],\
-"movement": ["movement"],\
-"team": ["team"],\
-"thought": ["thought"],\
-"wanted": ["wanted"]}, "obits_fem", "json_results", 165, 10, 30, 10, 3, 40)
+    #__init__(self, words, mama_dir, papa_dir, baby_dir, y_topspace, c_h, div_width, div_spacing, start_x):
+    word_counter = WordCounter({"leadership": ["leader", "administrator", "executive", "chair", "director", "president", "chairwoman", "chairman"], \
+"acting": ["actress", "actor", "thespian"], \
+"academia": ["professor", "faculty", "lecturer"], \
+"assistant": ["assistant", "secretary", "aide"], \
+"teaching": ["teacher", "schoolteacher"], \
+"law": ["lawyer", "attorney", "defender", "judge"], \
+"science": ["science", "scientist", "research"], \
+"fashion": ["fashion"], \
+"music": ["musician", "composer", "pianist", "opera", "orchestra", "singer"], \
+"visual arts" : ["artist", "painter", "photographer", "painted", "sculptor", "curator", "architect", "illustrator"], \
+"writing" : ["editor", "publisher", "writer", "author", "novelist"], \
+"journalism": ["reporter", "journalist", "columnist"], \
+"politics": ["congress", "congresswoman", "congressman", "politics", "political"], \
+"business": ["business", "company"], \
+"dance": ["dancer", "dance", "ballet"], \
+"medicine": ["doctor", "dr", "surgeon"], \
+"military": ["military", "army", "navy"]}, "obits_fem", "obits_mal", "json_results", 165, 10, 30, 10, 40)
     word_counter.generate_jsons()
 

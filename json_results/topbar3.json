@@ -1,34 +1,22 @@
 [
     {
-        "word": "major", 
-        "size": 10
-    }, 
-    {
-        "word": "national", 
-        "size": 14
-    }, 
-    {
-        "word": "community", 
-        "size": 10
-    }, 
-    {
-        "word": "elected", 
-        "size": 10
-    }, 
-    {
-        "word": "taught", 
+        "word": "social", 
         "size": 12
-    }, 
-    {
-        "word": "world", 
-        "size": 14
     }, 
     {
         "word": "republican", 
         "size": 10
     }, 
     {
-        "word": "established", 
+        "word": "community", 
+        "size": 10
+    }, 
+    {
+        "word": "health", 
+        "size": 12
+    }, 
+    {
+        "word": "style", 
         "size": 10
     }, 
     {
@@ -36,59 +24,43 @@
         "size": 10
     }, 
     {
-        "word": "won", 
-        "size": 12
-    }, 
-    {
-        "word": "health", 
-        "size": 12
-    }, 
-    {
-        "word": "social", 
-        "size": 12
-    }, 
-    {
-        "word": "served", 
-        "size": 12
-    }, 
-    {
         "word": "democratic", 
         "size": 10
     }, 
     {
-        "word": "team", 
-        "size": 10
-    }, 
-    {
         "word": "love", 
-        "size": 12
-    }, 
-    {
-        "word": "power", 
         "size": 10
     }, 
     {
-        "word": "found", 
+        "word": "won", 
         "size": 12
     }, 
     {
-        "word": "million", 
+        "word": "served", 
+        "size": 14
+    }, 
+    {
+        "word": "elected", 
         "size": 10
     }, 
     {
-        "word": "style", 
-        "size": 10
-    }, 
-    {
-        "word": "gave", 
-        "size": 12
+        "word": "national", 
+        "size": 14
     }, 
     {
         "word": "decided", 
         "size": 10
     }, 
     {
-        "word": "left", 
+        "word": "taught", 
+        "size": 12
+    }, 
+    {
+        "word": "major", 
+        "size": 12
+    }, 
+    {
+        "word": "people", 
         "size": 12
     }, 
     {
@@ -96,16 +68,16 @@
         "size": 10
     }, 
     {
-        "word": "rights", 
+        "word": "wanted", 
         "size": 10
     }, 
     {
-        "word": "people", 
+        "word": "gave", 
         "size": 12
     }, 
     {
-        "word": "movement", 
-        "size": 10
+        "word": "wrote", 
+        "size": 14
     }, 
     {
         "word": "experience", 
@@ -116,23 +88,51 @@
         "size": 14
     }, 
     {
-        "word": "sold", 
+        "word": "million", 
         "size": 10
     }, 
     {
-        "word": "wrote", 
+        "word": "found", 
+        "size": 12
+    }, 
+    {
+        "word": "world", 
         "size": 14
+    }, 
+    {
+        "word": "thought", 
+        "size": 10
+    }, 
+    {
+        "word": "established", 
+        "size": 10
+    }, 
+    {
+        "word": "rights", 
+        "size": 10
+    }, 
+    {
+        "word": "sold", 
+        "size": 10
     }, 
     {
         "word": "black", 
         "size": 12
     }, 
     {
-        "word": "wanted", 
+        "word": "team", 
         "size": 10
     }, 
     {
-        "word": "thought", 
+        "word": "left", 
+        "size": 12
+    }, 
+    {
+        "word": "power", 
+        "size": 10
+    }, 
+    {
+        "word": "movement", 
         "size": 10
     }
 ]
