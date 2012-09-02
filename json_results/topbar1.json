@@ -1,30 +1,30 @@
 [
     {
-        "word": "fashion", 
+        "word": "acting", 
         "size": 12
-    }, 
-    {
-        "word": "business", 
-        "size": 14
-    }, 
-    {
-        "word": "assistant", 
-        "size": 12
-    }, 
-    {
-        "word": "visual art", 
-        "size": 14
     }, 
     {
         "word": "academia", 
         "size": 14
     }, 
     {
-        "word": "acting", 
+        "word": "visual arts", 
         "size": 12
     }, 
     {
-        "word": "leadership", 
+        "word": "fashion", 
+        "size": 10
+    }, 
+    {
+        "word": "science", 
+        "size": 14
+    }, 
+    {
+        "word": "teaching", 
+        "size": 10
+    }, 
+    {
+        "word": "writing", 
         "size": 14
     }, 
     {
@@ -32,32 +32,24 @@
         "size": 14
     }, 
     {
-        "word": "writing", 
-        "size": 14
+        "word": "assistant", 
+        "size": 12
     }, 
     {
-        "word": "science", 
-        "size": 12
+        "word": "leadership", 
+        "size": 14
     }, 
     {
         "word": "medicine", 
         "size": 10
     }, 
     {
-        "word": "teaching", 
-        "size": 12
+        "word": "journalism", 
+        "size": 10
     }, 
     {
         "word": "law", 
         "size": 12
-    }, 
-    {
-        "word": "dance", 
-        "size": 14
-    }, 
-    {
-        "word": "journalism", 
-        "size": 10
     }, 
     {
         "word": "politics", 
@@ -65,6 +57,14 @@
     }, 
     {
         "word": "military", 
-        "size": 10
+        "size": 12
+    }, 
+    {
+        "word": "business", 
+        "size": 14
+    }, 
+    {
+        "word": "dance", 
+        "size": 14
     }
 ]

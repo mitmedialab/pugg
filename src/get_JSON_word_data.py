@@ -319,7 +319,7 @@ class WordCounter: # Looks for single words in article fulltexts
                                                 self.div_spacing, self.c_h, self.start_x, midline)[0]
             raphlist_fem = [height*2 + self.c_h for height in heights_dict_fem[word]]
             raph_fem = stringer(raphlist_fem, self.div_width, \
-                                                self.div_spacing, self.c_h, self.start_x, midline)[0]
+                                                self.div_spacing, self.c_h, self.start_x, midline)[1]
             content_dict[word][0]['raphlines'] = [raph_mal, raph_fem]
 
         # Create sorted list of words based on change_ratio_fem/change_ratio_mal
@@ -334,7 +334,7 @@ class WordCounter: # Looks for single words in article fulltexts
         sorted_words = [item[0] for item in sorted_tuples]
 
         # Generate the jsons.
-        topbar_datafile = open(self.baby_dir + '/topbar1.json', 'w')
+        topbar_datafile = open(self.baby_dir + '/topbar2.json', 'w')
         content = [{'word': word, 'size': header_font_sizes[word]} for word in sorted_words]
         topbar_datafile.write(json.dumps(content, indent=4))
         topbar_datafile.close()
@@ -346,22 +346,19 @@ class WordCounter: # Looks for single words in article fulltexts
 
 if __name__ == "__main__":
     #__init__(self, words, mama_dir, papa_dir, baby_dir, y_topspace, c_h, div_width, div_spacing, start_x):
-    word_counter = WordCounter({"leadership": ["leader", "administrator", "executive", "chair", "director", "president", "chairwoman", "chairman"], \
-"acting": ["actress", "actor", "thespian"], \
-"academia": ["professor", "faculty", "lecturer"], \
-"assistant": ["assistant", "secretary", "aide"], \
-"teaching": ["teacher", "schoolteacher"], \
-"law": ["lawyer", "attorney", "defender", "judge"], \
-"science": ["science", "scientist", "research"], \
-"fashion": ["fashion"], \
-"music": ["musician", "composer", "pianist", "opera", "orchestra", "singer"], \
-"visual arts" : ["artist", "painter", "photographer", "painted", "sculptor", "curator", "architect", "illustrator"], \
-"writing" : ["editor", "publisher", "writer", "author", "novelist"], \
-"journalism": ["reporter", "journalist", "columnist"], \
-"politics": ["congress", "congresswoman", "congressman", "politics", "political"], \
-"business": ["business", "company"], \
-"dance": ["dancer", "dance", "ballet"], \
-"medicine": ["doctor", "dr", "surgeon"], \
-"military": ["military", "army", "navy"]}, "obits_fem", "obits_mal", "json_results", 165, 10, 30, 10, 40)
+    word_counter = WordCounter({"grandchildren": ["grandchildren", "grandchild", "granddaughter", "grandson"] ,\
+"brother": ["brother", "brothers"] ,\
+"sister": ["sister", "sisters"] ,\
+"daughter": ["daughter", "daughters"] ,\
+"husband": ["husband"] ,\
+"son": ["son", "sons"] ,\
+"family": ["family"] ,\
+"wife": ["wife"] ,\
+"children": ["children"] ,\
+"friend": ["friend"] ,\
+"divorce": ["divorce", "divorced", "divorcing"] ,\
+"marriage": ["married", "marry", "marriage"] ,\
+"mother": ["mother"] ,\
+"father": ["father"]}, "obits_fem", "obits_mal", "json_results", 165, 10, 30, 10, 40)
     word_counter.generate_jsons()
 
