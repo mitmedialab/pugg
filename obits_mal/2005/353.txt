@@ -1,0 +1,16 @@
+
+        Leonid Khachiyan, a Russian-born mathematician who helped to advance the field of linear programming, which is used by computer scientists to schedule complex rosters of airline flights and to solve problems in finance and industry, died on April 29 at his home in South Brunswick, N.J. He was 52.
+        The cause was a heart attack, his family said.
+        Computer scientists and mathematicians say his work helped revolutionize his field.
+        Dr. Khachiyan (pronounced KA-tchee-an), who began his career at the Russian Academy of Sciences in Moscow, had been a professor of computer science at Rutgers since 1992.
+        In 1979, while a researcher at the academy, Dr. Khachiyan published a paper in a Russian mathematics journal that helped to demonstrate that certain problems in linear programming could be solved practically and in a reasonable amount of computing time.
+        Computer scientists had previously relied on a method using the simplex algorithm to review and order vast stores of information.
+        In his paper ''A Polynomial Algorithm in Linear Programming,'' Dr. Khachiyan proposed using an ellipsoid algorithm in approaching theoretical problems believed to be too demanding for the simplex method, and ''turned the field on its head,'' said Dr. Michael D. Grigoriadis, a professor of computer science at Rutgers.
+        ''The work required a new kind of thinking, and became a way to devise other algorithms, intended to solve even more complex problems.'' Dr. Grigoriadis continued.
+        Dr. Khachiyan's algorithm received widespread acclaim for its ingenuity. It was subsequently refined and improved by other mathematicians and computer scientists, and has applications in finance, engineering and industry, where it is employed to calculate transportation routes and cost-effective ways of allocating resources.
+        In later work, Dr. Khachiyan studied cyclic games, which have applications in artificial intelligence, matrix games and polytopes, which are regions of space defined by hyperplanes.
+        Leonid Henry Khachiyan was born in St. Petersburg. He received his master's degree from the Moscow Institute of Physics and Technology before earning two doctorates from the Computer Center of the Russian Academy of Sciences, in 1978 and 1984.
+        He taught at the Moscow Institute for a decade before moving to Rutgers as a visiting professor in 1990. He also taught briefly at Cornell.
+        He was awarded the Fulkerson Prize in 1983 by the American Mathematical Society and Mathematical Programming Society. He became an American citizen in 2000.
+        Dr. Khachiyan is survived by his wife, the former Olga Reynberg; two daughters, Anna and Nina, also of South Brunswick; and, in Moscow, his father, Genrikh; his mother, Zhanna; and two brothers, Boris and Eugene.
+      

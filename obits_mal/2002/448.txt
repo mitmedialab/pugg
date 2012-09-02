@@ -1,0 +1,14 @@
+
+        Nathan Mantel, who in the 1950's developed statistical techniques still widely used in epidemiology and cancer research, died on May 25 at his home in Potomac, Md. He was 83.
+        The cause was a heart attack, said his granddaughter Lauren Hale.
+        Mr. Mantel was best known for the Mantel-Haenszel Method, which established a way to correlate a hazard and the risk of disease. Developed at the National Cancer Institute with William Haenszel, an epidemiologist who died in 1998, the procedure became widely accepted.
+        Their paper describing the procedure, published in 1959, was among the 200 most cited papers in the scientific literature from 1945 to 1994, according to The Journal of the American Statistical Association.
+        ''His method has proven to have very wide applications and is among the most well-known and often-used statistical techniques in all of epidemiology,'' said Dr. James Ware of the Harvard School of Public Health. ''It is an accomplishment that has had enormous impact on the practice of statistics in medicine.''
+        Mr. Mantel was known for his work on improving studies that focus on the time between the beginning of a treatment and a subsequent event, known as survival analysis. He developed a simple, reliable method that is the most commonly used today for comparing survival rates.
+        ''The Mantel test for survival data, a method for comparing two survival distributions, set the course of an entirely new body of methodology,'' Dr. Ware said.
+        Mr. Mantel also devised methods to measure the safety of varying doses of drugs and to assess exposure to radiation in humans.
+        Nathan Mantel was born on Feb. 16, 1919, on the Lower East Side of Manhattan. He graduated from City College in 1939 and, in 1959, after he was already established as a noted scientist, earned a master's degree from American University in Washington.
+        After serving in the Army from 1942 to 1946, he was recruited to work with the Statistical Control Office in Dayton, Ohio. In 1947 he was hired by the National Cancer Institute as the third member of a new statistical team.
+        Mr. Mantel published more than 380 scientific papers and served as a research professor at George Washington University and later at American.
+        He is survived by his wife, Helen Frey Mantel, of Potomac; two sons, David, of Gaithersburg, Md., and Eli, of Palo Alto, Calif.; a daughter, Amy Hale, of Dumfries, Va.; a stepdaughter, Julie Philips, of Rockville, Md.; a sister, Anne Smith, of New York; and six grandchildren.
+      

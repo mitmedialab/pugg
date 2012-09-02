@@ -1,0 +1,24 @@
+
+        Dr. Per Bak, an intellectually pugnacious physicist who sought to understand how complexity arises in the world, died on Oct. 16 in Copenhagen. He was 54.
+        The cause was complications of a stem-cell transplant, given as treatment for a serious blood disorder, friends and family members said.
+        A large, physically imposing man, Dr. Bak delighted in prodding colleagues to confront what to him was the deepest mystery of all: how a universe made from simple fundamental particles produces such intricate order.
+        ''It's a fantastic question,'' he said in a recent radio interview. ''How can we start with quarks and gluons and get humans and astrophysics and earthquakes?''
+        The answer, he believed, lies in a concept called self-organized criticality. He frequently illustrated the idea with the image of a sand pile, like one that forms at the bottom of an hourglass.
+        As grains of sand trickle onto the cone-shaped hill, the structure grows larger and larger until it reaches a point -- a state of criticality -- where it can grow no more. Each additional grain sets off a landslide, paring the pile back down.
+        What fascinated Dr. Bak was that it is impossible to predict whether a particular grain will cause a tiny, barely perceptible shudder or a catastrophic avalanche.
+        The probability can be described by what mathematicians call a power law: there are many small disturbances and relatively few giant ones. But each individual event comes as a surprise.
+        Dr. Bak proposed that other complex phenomena, from real earthquakes and mass extinctions to stock market fluctuations and traffic jams, follow the same pattern -- a possibility that Al Gore found so captivating that he mentioned it in the conclusion of his book ''Earth in the Balance.''
+        Faced with many skeptics, Dr. Bak pursued the implications of his theory at a number of institutions, including the Brookhaven National Laboratory in Upton, N.Y., the Santa Fe Institute in New Mexico, the Niels Bohr Institute in Copenhagen and the Imperial College in London, where he became a professor in 2000.
+        He took his ideas to a general readership in 1996 with his ambitiously titled book ''How Nature Works.''
+        ''He was the most American of Danes,'' said Dr. Predrag Cvitanovic, a professor of physics at the Georgia Institute of Technology in Atlanta. ''Danes eschew confrontation, but he was arrogant and loved to fight with his colleagues in academia. We all have stories of how we first met him, usually remembered by some outrageous statement or insult.''
+        Per Bak was born in Bronderslev, Denmark. After studying at the Technical University of Denmark, he received a doctorate in 1974 and went to work at the Brookhaven lab.
+        At a time when studying elementary particles was the glamour job of physics, Dr. Bak theorized instead about condensed matter -- how hordes of particles interact to produce phenomena like magnetism or crystallization. He specialized in phase transitions, like those occurring when an insulator suddenly becomes a conductor of electricity or when water freezes into ice.
+        That led him to the more general question of how order emerges from disorder and how, in turn, the most enduring structures can unexpectedly collapse.
+        In 1987 he and two postdoctoral researchers, Dr. Chao Tang and Dr. Kurt Wiesenfeld, presented their ideas on self-organized criticality in a much-cited paper in Physical Review Letters.
+        Dr. Tang said his mentor's irreverent style was already evident. ''He certainly was one of the most original people in science,'' Dr. Tang said, ''and also one of the very few who truly doesn't care what other people think about what he is doing. He was sort of on his own.''
+        Over the next few years, ''Bak's sand pile,'' as many called it, became a leading contender for those seeking a grand theory that might explain the nature of complex systems.
+        Other scientists though, criticized him for taking the idea too far, engaging in what one colleague called an ''impressionistic'' physics that glossed over crucial distinctions. The title of a typical Bak lecture was ''Forest Fires, Measles and the Structure of the Universe.''
+        But in a field that is still seeking its bearings, self-organized criticality has secured an influential foothold.
+        In May 2001, Dr. Bak learned that he had myelodysplastic syndrome, sometimes called smoldering leukemia. It was the second of his personal tragedies. His first wife, Elizabeth, died in 1985.
+        Dr. Bak is survived by his second wife, Dr. Maya Paczuski, a physicist at the Imperial College; their son, Daniel; three children from his earlier marriage, Jakob, Tine and Thomas; his parents; and a brother in Copenhagen.
+      

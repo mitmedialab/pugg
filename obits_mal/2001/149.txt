@@ -1,0 +1,19 @@
+
+        Dr. Herbert E. Robbins, who developed several widely used statistical techniques and wrote a popular book that inspired many students to enter the mathematics profession, died Monday at Princeton Medical Center in Princeton, N.J. He was 86.
+        The cause was esophageal cancer, his family said.
+        Among the general public, Dr. Robbins is best known for the book ''What Is Mathematics?'' which he wrote with the mathematician Richard Courant. Published in 1941, the book was praised by Albert Einstein. It surveyed a wide range of advanced mathematics in a manner understandable to nonmathematicians.
+        In the field of statistics, Dr. Robbins developed techniques for improving predictions by drawing on additional related data. One example is predicting the number of accidents by drivers who have not been involved in an accident in the past year.
+        ''You don't want to predict they're going to have no accidents next year,'' said Dr. Bruce Levin, a professor of biostatistics at Columbia University, where Dr. Robbins was a professor of mathematical statistics for many years. ''Clearly that's too low.''
+        Dr. Robbins showed that with certain assumptions, a good prediction would be the number of drivers involved in exactly one accident in the past year.
+        The techniques, known as empirical Bayes methods, have now found wide use, including analyzing data from the census and from clinical trials in which a completely random sample is not possible.
+        ''He really developed it out of nowhere, out of scratch,'' said Dr. Ioannis Karatzas, a professor of mathematics and statistics at Columbia.
+        Another of his major contributions was stochastic approximation, which refined a technique by Sir Isaac Newton for finding solutions to an equation. Dr. Robbins's refinement is able to calculate solutions even when data is tainted by random errors. That technique also has practical applications, such as determining the optimal dose of a medicine.
+        Despite his accomplishments, Dr. Robbins described his research efforts as filled with false starts.
+        In the book ''Mathematical People: Profiles and Interviews,'' Dr. Robbins told the interviewer: ''Most of the time I'm just sitting there, in an almost detached manner, thinking, 'Well, here's another day's wastebasket full of paper. Nothing's come through. Maybe another day. Maybe I should stay up tonight and try some more.' ''
+        Even when making a discovery, ''I feel like someone who has climbed a little mountain the wrong way,'' he said.
+        Herbert E. Robbins was born Jan. 12, 1915, in New Castle, Pa. He received his undergraduate degree from Harvard in 1935 and obtained a Ph.D. in mathematics there three years later.
+        He first taught at New York University, then at the University of North Carolina before he joined Columbia University as a professor of mathematical statistics in 1953.
+        He was a member of the National Academy of Sciences and the American Academy of Arts and Sciences and was past president of the Institute for Mathematical Statistics.
+        After retiring from Columbia in 1985, Dr. Robbins became a professor of mathematical statistics at Rutgers. He retired from Rutgers in 1997.
+        His first marriage, to Mary Dimock, ended in divorce in 1955. He is survived by his wife, Carol; a sister, Francie Shumsky of Atlantic City; two daughters from his first marriage, Susannah Robbins of Cambridge, Mass., and Marcia Robbins of Seattle; three children from his second marriage, Mark and Emily Robbins, both of New York City, and Dr. David Robbins of Philadelphia; and two grandchildren.
+      

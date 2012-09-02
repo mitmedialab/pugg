@@ -1,0 +1,12 @@
+
+        Gerard Salton, a professor of computer science at Cornell University and a leading authority on information retrieval systems, died on Aug. 28 at Tompkins Community Hospital in Ithaca, N.Y. He was 68 and lived in Ithaca.
+        The cause was cancer, the university said.
+        Professor Salton joined Cornell in 1965, and that year he was one of the founders of the university's computer science department. In the 1960's, he developed the Smart information retrieval system, which is the basis for many retrieval systems in use today.
+        Writing in a professional journal in 1991, Professor Salton stated the simple premise that underlay his work in information retrieval: "It is easy to store large masses of information, but storage in itself is of no value unless systems are designed that make selected items available to interested users."
+        Under Smart and similarly conceived systems, the person seeking data is better able to select material based on the frequency with which items of information occur in electronic storage.
+        While selecting in that way might seem not only simple but eminently sensible, it is not to be taken for granted, as less-advanced information retrieval systems demonstrate.
+        Under a less-advanced system, someone seeking information on, say, the research done by Prof. John Dalton of Upstate University on Prohibition-era bootleggers may find himself contemplating how the Upstate quarterback Eddie Dalton scored a touchdown on a bootleg play to beat Downstate.
+        Professor Salton was so identified with Smart that some of his colleagues joked that the acronym stood for Salton's Magical Retriever of Text instead of System for the Manipulation and Retrieval of Texts.
+        Gerard Salton was born in Nuremberg and fled Germany with his family during World War II. He came to the United States in 1947 and became an American citizen in 1952. He graduated from Brooklyn College with a degree in mathematics in 1950 and received a master's degree from Brooklyn in 1952. He received his doctorate in 1958 from Harvard, where he was an instructor and assistant professor before joining the Cornell faculty.
+        Surviving are his wife of 45 years, Mary; a son, Peter, of Derry, N.H.; a daughter, Mariann Thompson of Cornish, N.H.; a brother, Jean Sahlmann of Paris, and three grandchildren.
+      
