@@ -19,15 +19,427 @@
         "y_spacing": 165
     }, 
     {
-        "height_mal": 208, 
-        "rate_fem": 18, 
-        "rate_mal": 23, 
-        "heigh_fem": 0, 
-        "id": 0, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
-            "Matthew J. Rinaldo Sr., father of United States Representative Matthew J. Rinaldo Jr., Republican of New Jersey, died of a heart attack Wednesday at Overlook Hospital in Summit, N.J.", 
+        "sentences": [
+            "Marion E. Martin, founder of the National Federation of Republican Women's Clubs, died Thursday at her home here.", 
+            "Marion E. Martin, founder of the National Federation of Republican Women's Clubs, died Thursday at her home here.", 
+            "Miss Martin also was assistant chairman of the Republican National Committee.", 
+            "From 1936 to 1946, she was assistant chairman of the Republican National Committee in Washington and head of its women's division.", 
+            "In that capacity, she founded what is now the National Federation of Republican Women.", 
+            "Mildred Smith Huser, a Brooklyn lawyer who was a delegate to the 1920 Republican state convention, died Monday at the New Rochelle Medical Center.", 
+            "She was 94 years old and lived in Scarsdale, N.Y. Mildred Smith Huser, a Brooklyn lawyer who was a delegate to the 1920 Republican state convention, died Monday at the New Rochelle Medical Center.", 
+            "Senator Mark O. Hatfield, a Republican who was a friend of Mrs. Green for 40 years, said yesterday: ''She was probably the most powerful woman ever to serve in the Congress.", 
+            "In 1928, Mrs. Ziesing helped start the Women's National Republican Club.", 
+            "Virginia L. Blood, a former Republican state legislator in Connecticut, died of a stroke Thursday at Stamford (Conn.) Hospital.", 
+            "She was 78 years old and lived in Darien, Conn. Virginia L. Blood, a former Republican state legislator in Connecticut, died of a stroke Thursday at Stamford (Conn.) Hospital.", 
+            "After the overthrow of the Spanish monarchy in 1931, the leaders of the Spanish Republican Government placed her in charge of reforming the country's prison system.", 
+            "After the overthrow of the Spanish monarchy in 1931, the leaders of the Republican Government placed her in charge of making changes in the country's prison system.", 
+            "But she won fame on her own as magazine writer and editor, author of ''The Women'' and other hit plays, controversial Republican member of the House of Representatives from Connecticut, and, finally, in the Eisenhower Administration, a hardworking and often praised Ambassador to Italy.", 
+            "Criticism of Roosevelt Despite her friendships with early New Dealers, she was by now a Republican and made speeches critical of the Roosevelt Administration's handling of the war effort.", 
+            "In 1964 she announced that she was running for the Senate in New York State as a Conservative Party candidate and supporter of Senator Barry Goldwater, whose nomination for President she had seconded at the Republican convention.", 
+            "An early marriage, ended in divorce and she married William L. Butcher, a prominent Republican industrialist, in 1968."
+        ], 
+        "height": 160, 
+        "rate": 18, 
+        "start_y": 350, 
+        "id": "fem0"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In Spanish Morocco She married Francisco Franco, then an up-and-coming army lieutenant colonel, on Oct. 22, 1923, and the couple left soon after for Spanish Morocco, where Franco was responsible for much of the conduct of the Riff Wars and where he built the military power base that served his successful uprising against the Republican Government.", 
+            "Two days later, she was re-elected with 80 percent of the vote over a little-known Republican, Kevin R. Igoe.", 
+            "Thirty-two Republican and Democratic candidates, including Mrs. Spellman's husband, Reuben, entered a special primary on April 7, 1981, to select the nominees to run for election in Maryland's Fifth District.", 
+            "Mr. Spellman was defeated for the Democratic nomination by Steny H. Hoyer, who went on to defeat the Republican candidate, Mayor Audrey Scott of Bowie, Md., in a special election on May 19, 1981.", 
+            "Rosalind M. Schwenk, a longtime power in Republican politics in Suffolk County, died Monday in Southampton Hospital on Long Island after suffering a stroke Sunday.", 
+            "Mrs. Schwenk was vice-chairwoman of the Suffolk Republican Committee from 1949 to 1967 and a member of the party's state committee from 1958 to 1970.", 
+            "She is survived by her son, Edwin, of Southampton, a former chairman of the Suffolk Republican Committee; two daughters, Audrey Aldridge and Beverly Flanagan, both of Delray Beach, Fla.; 8 grandchildren, and 10 great-grandchildren.       ", 
+            "Mrs. Bunche was a native of Montgomery, Ala., where her father had been a Republican national committeeman and an advocate of civil rights."
+        ], 
+        "height": 76, 
+        "rate": 9, 
+        "start_y": 350, 
+        "id": "fem1"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Josephine S. Margetts, a former three-term Republican Assemblywoman from Morris County, N.J., died Friday at her home in Harding Township.", 
+            "She held numerous positions in the Republican Party for almost 40 years.", 
+            "She had also served on the board of governors of the Women's National Republican Clubs.", 
+            "Marion Pierce Mack, vice chairwoman of the Westchester County Republican Committee for 33 years, died yesterday at a nursing home in Rockport, Mass.", 
+            "Mrs. Mack was a delegate to six national Republican conventions and the first woman elected to the State Republican Committee from the Third Assembly District.", 
+            "Active in Republican politics in the Bronx, she ran unsuccessfully for the New York Assembly in 1982 and 1984.", 
+            "'' Glamour and Politics Until then, she had been, by her account, a socialite and a nominal Republican, interested chiefly in the glamour of the international set.", 
+            "The couple diverged on politics, and they publicized their disagreements in a series of columns during the 1948 Presidential campaign, he supporting the Progressive Party candidate, Henry A. Wallace, and she the Republican, Thomas E. Dewey.", 
+            "She was 67 years old and lived in Flourtown, Pa. Mrs. Linker, the first Republican woman to serve as a Montgomery County Commissioner, had been the county's register of wills, clerk of the Orphans Court and director of the county's Consumer Affairs Department.", 
+            "'' when Finance Minister Jose Calvo Sotelo, the monarchist leader, attacked the republican Government.", 
+            "Communists Grow in Power As the civil war proceeded, the Communist Party, though comparatively small, became more and more powerful in the republican camp, and La Pasionaria was the most influential Spanish Communist.", 
+            "Together with Mr. Negrin and other republican leaders she flew to France and then proceeded to Moscow, where she had sent her two surviving children, Ruben and Amaya, in 1934 for schooling."
+        ], 
+        "height": 114, 
+        "rate": 13, 
+        "start_y": 350, 
+        "id": "fem2"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Marie Vale, a Republican fund raiser and a former government aide, died of leukemia on Tuesday at the New York University Medical Center.", 
+            "She had been a fund raiser for the National Republican Party and for New York State Republicans.", 
+            "Miss Washington, a lifelong member of the Republican Party and of many civic organizations, was due to leave this week to begin her ambassadorship to the West African nation of Gambia, succeeding Herbert E. Horowitz.", 
+            "She was elected to Community School Board 2 in Manhattan and was on the State Republican Committee.", 
+            "She disagreed with Mr. Sulzberger by siding with the Republican forces in the Spanish Civil War against the Franco forces, by favoring statehood for Israel to provide a home for displaced European Jews and by preferring Adlai E. Stevenson instead of Gen. Dwight D. Eisenhower for President.", 
+            "Mrs. Quigley, a Republican, served on the Borough Council in 1985.", 
+            "Mrs. Hance, a Republican, was elected in November 1975 and served four two-year terms before retiring in 1983.", 
+            "She also was a trustee of the United Conference of Mayors, a director of the National League of Cities and a former president of the National Conference of Republican Mayors.", 
+            "Marguerite Stitt Church, an Illinois Republican who was a member of the House of Representatives from 1950 to 1962, died in her sleep on Saturday at her home in Evanston, Ill. She was 97 years old.", 
+            "In 1959, as the ranking Republican member of a subcommittee on Foreign Economic Policy, she traveled more than 40,000 miles in 17 countries.", 
+            "She also headed the Republican Town Committee from 1980 to 1983 and was a former president of the Darien Library.", 
+            "Janet Hill Gordon, a lawyer and former Republican State Senator from Chenango County, died on Monday at the Upstate Medical Center in Syracuse.", 
+            "She was 75 years old and lived in Norwich, N.Y. Janet Hill Gordon, a lawyer and former Republican State Senator from Chenango County, died on Monday at the Upstate Medical Center in Syracuse.", 
+            "An active Republican, she was named an alternate delegate to the 1957-58 United Nations General Assembly by President Dwight D. Eisenhower.", 
+            "She was a Republican Presidential elector in 1960."
+        ], 
+        "height": 94, 
+        "rate": 11, 
+        "start_y": 350, 
+        "id": "fem3"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            " Eleanor Schley Todd, a former Republican National Committeewoman, died on Monday at her home in Oldwick, N.J. She was 79 years old.", 
+            "In 1956, Mrs. Todd was elected vice chairman of the Republican National Committee.", 
+            "From 1956 to 1966, she was a Republican National Committeewoman from New Jersey.", 
+            "From 1946 to 1952, she was president of the New Jersey Federation of Republican Women.", 
+            "She attended every Republican national convention as a delegate, alternate or convention manager from 1940 to 1976, and was a member of the board of governors of the Women's National Republican Club.", 
+            "Mrs. Todd's husband, Webster Bray Todd, a former state Republican state chairman in New Jersey, died in 1989.", 
+            "Rejected Republican Roots Mrs. Louchheim was born in Manhattan in 1903.", 
+            "The daughter of a Manhattan stockbroker, she grew up in Republican surroundings; when she moved to Washington in Roosevelt's first term she was a prime example of what people called \"a traitor to one's class.", 
+            "She was a delegate to the 1932 Republican National Convention, and in the 1930's served on the executive board of the American Jewish Congress.", 
+            "In the 1960's she worked for the Stanford Research Institute, the American Enterprise Institute and the House Republican Conference.", 
+            "In 1976, Miss Waldron became research director at the Senate Republican Policy Committee and in 1980 was named senior policy analyst for the Reagan campaign.", 
+            "In 1984 she was appointed director of research for the 1984 Republican platform.", 
+            "The President turned the story to his advantage by expressing mock indignation that his Republican adversaries would attack \"even my little dog Fala.", 
+            "In 1939, she married Desmond FitzGerald, a lawyer and conservative Republican.", 
+            "She also served as assistant dean of women at the university before beginning a new career in 1940 as the principal aide to Senator Pat McCarran, Republican of Nevada, in Washington.", 
+            "She was 79 years old and lived in Haddonfield, N.J. Mr. Cahill, a Republican who had served in the House of Representatives, was Governor for four years, starting in January 1970."
+        ], 
+        "height": 122, 
+        "rate": 14, 
+        "start_y": 350, 
+        "id": "fem4"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            " Marion Margery Scranton Isaacs, who was long active in Pennsylvania civic affairs and Republican politics, died on Thursday at the Scranton family home in Hobe Sound, Fla. She was 83 years old and lived in Dalton, Pa.", 
+            "She was also a former member of the Pennsylvania Republican State Committee.", 
+            " Emily Sears Lodge Clark, the widow of Henry Cabot Lodge, the Senator and 1960 Republican Vice-Presidential nominee, died on Saturday at her home in Beverly, Mass.", 
+            " Emily Sears Lodge Clark, the widow of Henry Cabot Lodge, the Senator and Republican Vice-Presidential nominee in 1960, died Saturday in her house in Beverly, Mass.", 
+            "Concurring in her husband's break with President Roosevelt, Mrs. Douglas supported the Republican candidate in 1940, Wendell L. Willkie.", 
+            "She encouraged others who made their cases public, including Elizabeth Glaser, the wife of a television actor, who addressed the Democratic National Convention, and Mary Fisher, a former aide to President Gerald R. Ford who will speak to the Republican convention.", 
+            " Marian A. Granowitz, a former vice chairwoman of the Republican State and Westchester County Committees, died on Thursday at Westchester Square Medical Center in the Bronx.", 
+            "Moving steadily up the ladder of leadership in the Westchester organization in the 1970's and 1980's, she served as its vice chairwoman, then regional vice chairwoman to coordinate Republican activities in five counties.", 
+            " Millicent H. Fenwick, a retired Republican Congresswoman renowned for her political independence and championing of liberal causes, died yesterday at her home in Bernardsville, N.J. She was 82 years old.", 
+            "\"Millicent Fenwick was the Katharine Hepburn of politics,\" said Charles Millard, a former aide and now a Republican New York City Councilman.", 
+            "Active in the Republican Party, Mrs. Koskoff served as a state legislator from 1953 to 1958."
+        ], 
+        "height": 66, 
+        "rate": 8, 
+        "start_y": 350, 
+        "id": "fem5"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            " Joan Sperry Rader, who was active for two decades in the Republican Party in Connecticut, died on Friday at her home in Greenwich, Conn. She was 58.", 
+            "She was elected in 1989 to a two-year term as the vice chairwoman of the Republican State Central Committee of Connecticut, becoming its highest-ranking female officer.", 
+            "Ms. Tolstoy was active in American politics as a Republican but also supported Gov.", 
+            "Despite the early traumas and Mrs. Nixon's wish that her husband retire from politics, she was enthusiastic enough on the eve of his nomination as the Republican Presidential candidate in 1968 to say, \"This really is the American dream, where people from humble circumstances can, through sheer hard work, go up the ladder.", 
+            "Dr. Billy Graham presiding and eulogies by Senator Bob Dole, Republican of Kansas, and others.", 
+            "Judge Simon, who was still active as a lawyer at her death, served in state posts under appointments from both Republican and Democratic governors and was the first woman nominated by a major party for citywide office in New York City.", 
+            "The next year she ran for City Council President as a Republican.", 
+            "Although she lost to Abe Stark by about two-to-one, she still ran some 100,000 votes ahead of her ticket and received the biggest total for a citywide Republican candidate.", 
+            "Nelson A. Rockefeller, a Republican, inducted her as New York's Secretary of State, the second woman to hold that post."
+        ], 
+        "height": 56, 
+        "rate": 7, 
+        "start_y": 350, 
+        "id": "fem6"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            " Betty Heitman, a Republican Party official who prodded two Presidents to appoint more women to high Government posts, died on Monday at her home in Baton Rouge, La.", 
+            "Mrs. Heitman was co-chairwoman of the Republican National Committee during the Reagan years.", 
+            "A conservative Republican, she was Ronald Reagan's choice for the committee post in 1980, when he ran for President.", 
+            "She had previously been president of the National Federation of Republican Women.", 
+            "A graduate of Texas Women's University, she became active in Louisiana Republican politics and was a delegate to the Republican National Conventions in 1968 and 1976.", 
+            "She went on to do the ads in 1952 at the Republican and Democratic national conventions.", 
+            "In 1952, 1956 and 1960, Miss Furness did the Westinghouse commercials during the Republican and Democratic National Conventions and developed a strong interest in politics.", 
+            "In 1942 Dr. Judd, a Republican, was elected to Congress from Minnesota and rose to prominence as a crusader against Japanese military expansionism and Chinese Communism; he retired from Congress in the 1960's.", 
+            " Josephine Moy Hong, active in Chinese-American affairs and Republican Party politics, died on Sunday in Flushing Hospital.", 
+            "She turned to Republican Party politics in the 1960's and was vice president of the New York State Republican Heritage Groups Council.", 
+            "She was inducted as a Life Member of the Republican Party in 1979.", 
+            "She was married to Clayborne George, a lawyer in Cleveland and a prominent Republican there.", 
+            "She left Spain largely because her husband, Timoteo Perez Rubio, had been active on the Republican side, and her sympathies were also with the Republic.", 
+            " Jessie Sumner, an Illinois Republican who was the first woman elected to a county judgeship in her state and a conservative member of Congress from 1939 to 1947, died on Wednesday in Iroquois Memorial Hospital in Watseka, Ill. She was 96 and lived in nearby Milford.", 
+            "An effective fund-raiser for the Republican Party, Mrs. Hilson lent her name to a series of citizens' committees to elect or re-elect Republican candidates to state and national office.", 
+            "To Fairfield County, Mrs. Walsh was a matriarch of Republican politics and a doyenne of society.", 
+            "She was vice chairman of the Republican Town Committee and a member of the party's State Central and Finance Committees.", 
+            "The book, which was called \"a handbook on how the connected make waves in America\" in a review in The New York Times, also detailed how she was able to mobilize legislators like Senators Orrin G. Hatch, Republican of Utah, and Howard M. Metzenbaum, Democrat of Ohio, who sponsored a benefit in Washington for Mrs. Glaser's fledgling foundation."
+        ], 
+        "height": 170, 
+        "rate": 19, 
+        "start_y": 350, 
+        "id": "fem7"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            " Margaret Chase Smith, a flinty, independent Maine Republican who made history as the first woman to win election to both houses of Congress and the first whose name was advanced for the Presidency at a national convention, died yesterday at at her home in Skowhegan, Me.", 
+            "In time, she became the ranking Republican on the Armed Services and Aeronautical and Space Sciences Committees, and served as well on the Appropriations Committee.", 
+            "Never anything but a Republican, Mrs. Smith was hardly the dyed-in-the-wool variety.", 
+            "In the 1950's, Mrs. Smith alienated McCarthy by joining with six other Republican senators in making a \"declaration of conscience\" in which she took the measure of McCarthy's sensationalist, inquisitorial methods in trying to suppress Communism.", 
+            "\"I don't want to see the Republican Party ride to political victory on the four horseman of calumny -- fear, ignorance, bigotry and smear,\" Mrs. Smith said.", 
+            "She was a strong supporter of civil rights and, again irritating some Republican colleagues, an early advocate of Government-financed medical care for the elderly.", 
+            "Mr. Smith, who was prominent in local Republican circles, ran for office and in 1937 was elected Representative from Maine's Second Congressional District.", 
+            "In 1948 Mrs. Smith entered the Republican senatorial primary and received more votes than her three male opponents combined.", 
+            "She drew more than a dozen votes at the Republican National Convention, which was controlled by the conservative forces backing Barry Goldwater.", 
+            " Roberta Church, an official in the Eisenhower and Nixon Administrations who was the first black woman to be elected to the Tennessee Republican State Executive Committee, died on Saturday at Baptist Memorial Hospital East in Memphis.", 
+            "Miss Church was the last survivor of a family of black Tennesseans who were prominent in business and Republican politics when few Southern blacks were active in either business or the party.", 
+            "He died in 1952 while campaigning for a seat on the Republican State Executive Committee.", 
+            "Thomas E. Dewey of New York, a Republican, when he ran for President in 1948, and Dwight D. Eisenhower in his successful Presidential campaign in 1952.", 
+            "Her husband, J. Kenneth Bradley, the Republican state chairman for Connecticut for many years, died in 1969.", 
+            "When Dwight D. Eisenhower became President in 1953 he selected another woman to succeed her, Ivy Baker Priest, a Utah Republican.", 
+            " Frances Grant Bennett, wife of the late Senator Wallace F. Bennett and mother of Senator Robert F. Bennett, Republican of Utah, died on Friday in Salt Lake City.", 
+            "A former Republican campaign worker who had translated her political skills into a job peddling songs for a local songwriters, Mrs. Greenberg, who had been  married to an accountant, had already become a familiar figure on Tin Pan Alley, hobnobbing with music-industry hopefuls at the old Turf restaurant on Broadway at 51st Street."
+        ], 
+        "height": 114, 
+        "rate": 13, 
+        "start_y": 350, 
+        "id": "fem8"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "She was the wife of Peter H. B. Frelinghuysen, a Republican who represented north central New Jersey in the House from 1953 through 1974.", 
+            "She and her husband had five children, including Rodney P. Frelinghuysen, also a Republican Congressman from north central New Jersey, who was elected in  1994.", 
+            "Earlier this month, Representative Don Young, Republican of Alaska, introduced legislation in the House and Senator Ted Stevens, Republican of Alaska, in the Senate to name an eight-million-acre wilderness in the Arctic National Wildlife Refuge after her.", 
+            "Alfred M. Landon of Kansas and the mother of Senator Nancy Landon Kassebaum, Republican of Kansas, died on Sunday at her home in Topeka.", 
+            "Mr. Landon, the Republican candidate for President in 1936, died in 1987 at the age of 100 after 57 years of marriage.", 
+            "James B. Utt, then a Republican  Congressman from California, a state known for its Pharaonic funerals and ornate cemeteries, denounced Miss Mitford as \"pro-Communist, anti-American.", 
+            "She won a tight race in a party primary to run for the United States Senate in 1964 but then lost the election by 50,000 votes to the Republican incumbent,  Senator Hugh Scott.", 
+            "Active in Republican politics, Mrs. Gerard was appointed representative to the United Nations Educational, Scientific and Cultural Organization in 1981 with a mandate from the Reagan Administration to clean up an agency that in its view was badly managed and had become increasingly politicized and anti-Western under its director general, Amadou Mahtar M'Bow of Senegal.", 
+            "''She's the kind of Republican we tried to recruit into management when we first started out,'' Mr. Shriver said in 1982.", 
+            "Mrs. Ruppe had impeccable Republican credentials.", 
+            "Her husband, Philip, was a Republican Congressman from Michigan from 1967 to 1979.", 
+            "President Gerald R. Ford accepted her resignation in 1976 and replaced her with Rosemary L. Ginn, a longtime Republican national committeewoman from Missouri.", 
+            "If there had ever been any doubts that a woman's place is in the House, they must surely have been dispelled in 1954 when the former Coya Gjesdal unseated a six-term Republican and swept into Congress like a whirlwind from northern Minnesota.", 
+            "She managed to win the primary, but lost the general election by 1,390 votes to Odin Langen, a Republican who was 6 feet 4 inches tall and campaigned on the slogan, ''A Big Man for a Man-Sized Job.", 
+            "A formidable woman on or off the air, Miss Kitchell, who had been sent on cross-country speaking tours by NBC to promote radio, became an important fund-raiser for the Republican Party in New York and was named to state commissions by Gov.", 
+            "This year, despite a determined Republican effort, Democrats won an additional seat in the Assembly and will hold 96 of its 150 seats when the new session begins in January."
+        ], 
+        "height": 84, 
+        "rate": 10, 
+        "start_y": 350, 
+        "id": "fem9"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "But it was the election of Ronald Reagan and the big Republican gains in Congress in the 1980 election that galvanized both Harrimans to action.", 
+            "In 1964, she was part of the Harris team that conducted an exit poll for CBS News in the tightly contested California Republican primary between Nelson A. Rockefeller and Barry Goldwater.", 
+            "She took on Tammany Hall and repeatedly ran for the State Legislature in Republican territory.", 
+            "She joined the Democratic Party in part to oppose Republican isolationists in her election district and worked with Hubert H. Humphrey in the successful effort to eliminate a Communist faction within the Minnesota party.", 
+            "Perhaps emboldened by Dr. Hibberd, other Republican officials also began to speak out, saying that Mr. Catterson had improperly pressured them on various issues.", 
+            "Mrs. Lafontant-Mankarious, a Republican, was known as Jewel S. Lafontant when she served in the Nixon and Bush Administrations.", 
+            "In 1960, she seconded the nomination of Mr. Nixon as Republican candidate for President, but he was defeated by John F. Kennedy.", 
+            " Mary Louise Smith, a representative of the Republican Party's moderate wing and the only woman ever to serve as chairman of the Republican National Committee, died on Friday at Iowa Methodist Medical Center in Des Moines.", 
+            "Mrs. Smith was chosen to be chairman of the Republican National Committee by Gerald Ford when he succeeded Richard M. Nixon as President in 1974.", 
+            "In January 1977, the Republican National Committee elected Bill Brock, a conservative former Senator from Tennessee, to succeed Mrs. Smith.", 
+            "She became active and prominent in Republican politics and served on the Republican National Committee from 1964 to 1984.", 
+            "She was also honored by the Log Cabin Society, a gay Republican group, for consoling AIDS patients and their families.", 
+            "But her period of leadership came during a time of Republican victories.", 
+            "And in February 1996, Senator Bob Dole, campaigning in Iowa for the Republican Presidential nomination, declared that Mother Teresa had called to praise him for helping pass a ban against certain types of late-term abortions.", 
+            "Assemblyman Robert Werts, a Republican with whom she served, remembered an event at Gov.", 
+            " Helen Stevenson Meyner, a liberal Democrat who was elected to two terms in Congress by a heavily Republican district in New Jersey, died yesterday after a long illness at the Heartland Health Care Center, a nursing home in Fort Myers, Fla. She was 69.", 
+            "In 1972, Democratic Party leaders asked her to run for Congress from the Meyner family home in Phillipsburg, in the heavily Republican 13th Congressional District in Sussex and Morris Counties.", 
+            "She lost that election to Joseph J. Maraziti, a Republican, but defeated him in 1974, the same year that Representative Millicent Fenwick, a Republican, was elected.", 
+            "In 1978, she was defeated by the Republican candidate, Jim Courter.", 
+            "She was the second wife of Mr. Rockefeller, the first Republican Governor of Arkansas since Reconstruction, who served two terms, from 1967 to 1970."
+        ], 
+        "height": 132, 
+        "rate": 15, 
+        "start_y": 350, 
+        "id": "fem10"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "The appointment, which made her the 16th woman to serve as judge in New York and the first in Onondaga County, was not popular with her husband's Republican allies.", 
+            "At the end of the year, when the Republicans named a man to run in a special election to fill out her husband's term, Mrs. Burnham felt miffed enough to leave the Republican Party but not enough to become an actual Democrat.", 
+            "The 19th Congressional District, which snaked from lower Manhattan  to the West 80's, had four registered Democrats to every Republican and had been represented in Congress for seven terms by Leonard Farbstein, a  solid but rather somnolent liberal.", 
+            "Though she eventually took 55 percent of the vote, she had genuine Republican opposition, unusual in an era when New York's main political action consisted of various Democratic factions knifing one another.", 
+            "The next year, running for the House again, she lost, again by just 1 percent, to a little-known Republican, S. William Green.", 
+            "She won the primary in a burst of the old, ebullient campaigning style, but lost in November to Joseph J. DioGuardi, the Republican incumbent.", 
+            "A devout Quaker and a Republican, she was once labeled by the John Birch Society as an ''aging sexual libertine.", 
+            "She was a Democrat, not a Republican."
+        ], 
+        "height": 38, 
+        "rate": 5, 
+        "start_y": 350, 
+        "id": "fem11"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "After the magazine closed in 1968, she worked briefly for Senator Jacob K. Javits, Republican of New York.", 
+            "After returning to the United States, she organized a march to Washington to speak out on the ''Scottsboro Boys'' -- nine black youths wrongly convicted of raping two white women in Scottsboro, Ala. She later traveled to Spain on behalf of the Republican cause in the Spanish Civil War.", 
+            "She survived repeated efforts to recall her, but was ousted after Governor George Deukmejian, a Republican, led an aggressive campaign against her.", 
+            "'' In last year's election, the unsuccessful Republican candidate for governor, State Attorney General Dan Lungren, sought to tar his Democratic opponent, Lt. Gov.", 
+            "But virtually the entire state political establishment, Democratic as well as Republican, now favors the death penalty, and the pace of executions is widely expected to increase."
+        ], 
+        "height": 18, 
+        "rate": 3, 
+        "start_y": 350, 
+        "id": "fem12"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "''We mourn her passing,'' said Steve Forbes, a Republican presidential contender who has won the endorsement of the newspapers.", 
+            "A conservative Republican, she was vice chairman of the Republican National Committee from 1965 to 1976, and honorary chairman of the 1973 Nixon inaugural committee.       ", 
+            "She was beaten by the Republican incumbent, Clare Boothe Luce.", 
+            "She was married in 1957 to Benjamin A. Gilman, a law partner and fellow Republican, and in 1972 worked in his successful campaign for Congress.", 
+            "''I still go into that booth with the same feeling -- what if I voted Republican?"
+        ], 
+        "height": 28, 
+        "rate": 4, 
+        "start_y": 350, 
+        "id": "fem13"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Her father became a multimillionaire partner in the banking house of J. P. Morgan & Company, who went on to become a Republican Senator from New Jersey.", 
+            "She was twice defeated in Republican primary races in California, for the United States Senate in 1982 and for a Southern California Congressional seat in 1992.", 
+            "'' She noted that people who accused her of exploiting family ties ''forget I was a Republican before the president was.", 
+            "'' In 1987, after the Iran-contra affair, when Ms. Reagan asserted that Lt. Col. Oliver L. North and Vice Adm. John M. Poindexter, President Reagan's national security aides,  should be court-martialed for their actions, Mr. Reagan told Republican leaders, ''I gave up arguing with my daughter long ago.", 
+            "Although she was an ardent Republican, Ms. Reagan angered many members of the party by her refusal to compromise and for stepping on toes.", 
+            "In 1983, she was given the title of special consultant to the Republican National Committee and moved to the family quarters in the White House.", 
+            "Ms. Reagan's most active political years were in the 1980's, when she was a member of the California World Trade Commission, chairwoman of the United States delegation to the United Nations Decade for Women Conference in Kenya, in 1985; co-chairwoman of the Republican National Committee, and chairwoman of the Republican Women's Political Action League.", 
+            "As Ms. Reagan became more influential, she worked to increase Republican fund-raising for women running for office.", 
+            "Her first book, a collection of pieces titled ''Sixties Going on Seventies'' (Rutgers University Press) -- which covered everything from student strikes and yippies to the 1972 Democratic and Republican Conventions  -- led to her employment at The New York Times in 1973 when her book was recommended to Arthur Gelb, then managing editor of the paper, as deserving of a review.", 
+            " Barbara K. Olson, who was killed on Tuesday on the commercial jetliner that was hijacked and flown into the Pentagon, was well known to television viewers across the nation as a combative and confident political commentator representing the conservative Republican point of view.", 
+            "Mrs. Olson was the more outspoken of the two in her televised commentaries, while Mr. Olson presented a more deliberative face in his role as the reigning constitutional litigator for the Republican establishment.", 
+            "As chief counsel for the House Government Reform and Oversight Committee's Republican majority from  1995 to 1996, Mrs. Olson led the investigation into President Bill Clinton and Hillary Rodham Clinton's role in firing longtime employees of the White House travel office.", 
+            "She says that if Democrats had had the stranglehold on Nassau County, she probably would have been a Republican; she's contrarian that way."
+        ], 
+        "height": 76, 
+        "rate": 9, 
+        "start_y": 350, 
+        "id": "fem14"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In October 1979, six weeks after Earl Mountbatten was killed by Irish Republican Army terrorists, she angered many Irish-Americans while on a visit to Chicago, reportedly declaring in the presence of Mayor Jane Byrne that the Irish were ''pigs.", 
+            "In the 1950's she championed civil rights in Virginia and was active in the Republican Party.", 
+            "Later she took Behan's Irish Republican Army play, ''The Hostage,'' to the West End and on to New York."
+        ], 
+        "height": 8, 
+        "rate": 2, 
+        "start_y": 350, 
+        "id": "fem15"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Mr. Blanchard narrowly lost the election to John M. Engler, a Republican.", 
+            "In addition to having a successful broadcasting career, Miss Falkenburg was long active in raising money for the Republican Party and helped her husband when he worked to persuade Dwight D. Eisenhower to run for the presidency in 1952.", 
+            "Miss Falkenburg and Mr. McCrary were friends of John Hay Whitney, who was chairman of the finance committee of the Republican Party.", 
+            "During World War II, Madame Chiang emerged as China's most important ambassador, frequently charming American visitors like Wendell Wilkie, the Republican politician, who came to China in 1942 after losing a presidential campaign against Roosevelt in 1940."
+        ], 
+        "height": 18, 
+        "rate": 3, 
+        "start_y": 350, 
+        "id": "fem16"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "As her illness progressed in recent months, her duties often fell upon the deputy presiding officer elected alongside her, Joseph Caracappa, a Republican from Selden.", 
+            "The Republican caucus designated him last month to succeed her as presiding officer.", 
+            "Kathleen Sebelius of Kansas, and a Republican senator, Kay Bailey Hutchison from Texas.", 
+            " Mary B. Goodhue, a longtime New York State senator who lost her seat in 1992 in a rare Republican primary to a little-known assemblyman by the name of George E. Pataki, died on Wednesday at Northern Westchester Hospital, her son, Francis A. Goodhue III, said.", 
+            "She was 82 and lived in Bedford, N.Y. Mrs. Goodhue had represented northern Westchester and Putnam Counties in the State Legislature for 18 years, first in the Assembly and for seven terms in the Senate, when she was challenged in a Republican primary by Mr. Pataki, a prot\u00e9g\u00e9 of hers who had once worked on her Senate staff as legislative counsel.", 
+            "It was the year women running for political office across the nation had named ''the year of the woman,'' and Mrs. Goodhue, who was 71, was the only woman in the State Senate's Republican majority.", 
+            "THE exhibition will sponsor a few private receptions during the Republican National Convention before opening to the public, but Ms. Mirrer denies that the society's agenda is partisan: ''I don't see this as a place that nurtures one view of history at the expense of another,'' she says."
+        ], 
+        "height": 46, 
+        "rate": 6, 
+        "start_y": 350, 
+        "id": "fem17"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "That edge helped her in her race against James Farmer, a leader of the Freedom Rides in the south in the early 1960's, who ran as an independent on the Republican and Liberal lines, and Ralph Carrano, who ran as the Conservative candidate.", 
+            "That edge helped her in her race against James Farmer, a leader of the freedom rides in the south in the early 1960's, who ran as an independent on the Republican and Liberal lines, and Ralph Carrano, who ran as the Conservative candidate.", 
+            "Ms. Fowler was vice chairwoman of the House Republican Conference and No.5 in the House leadership when she left Congress.", 
+            "She got a seat on the Armed Services Committee and was elected co-chairwoman of the Freshman Republican Task Force on Reform.", 
+            "In 1998, Ms. Fowler was elected vice chairwoman of the House Republican Conference on the vow that she would serve no longer than two years in the Republican leadership.", 
+            "''I'm an evangelical and I am a Republican,'' the statement read.", 
+            "She lost the primary; Newt Gingrich, a Republican, won the general election.", 
+            "But even as she worked hard to build good relations with Sinn Fein, the political arm of the Irish Republican Army, which wants Northern Ireland to become part of the Irish Republic, she alienated unionists, who want it to remain united with Britain and who accused her of being too sympathetic to the republican cause.", 
+            "'' In 1966, President Lyndon B. Johnson appointed her as a judge on the United States District Court for the Southern District of New York at the urging of Senator Robert F. Kennedy of New York, a Democrat, and with the support of Senator Jacob K. Javits, a Republican.", 
+            "work and handily defeated a Republican to become the first black woman elected to the State Senate.", 
+            "In citywide elections nine months later, she was re-elected to a full four-year term with the endorsement of the Democratic, Republican and Liberal Parties.", 
+            "An almost life-long Republican, she became an outspoken critic of President Ronald Reagan and supported the candidacy of Walter F. Mondale and Geraldine A. Ferraro in the 1984 presidential race.", 
+            "She added: ''I have worked for scores of Republican candidates, but I'm not going to toe the party line when I have a president who seeks to send me down the time tunnel as a woman.", 
+            "She attended the 1980 Republican National Convention -- visibly pregnant -- with a button supporting abortion rights pinned conspicuously to her lapel.", 
+            "Ms. Wilson is survived by her husband, a Republican political consultant; a daughter, Casey Rose Wilson, of New York City and Los Angeles; a son, Fletcher Todd Wilson, a student at the University of Pennsylvania; her father, Marion Higdon, of Pensacola, Fla.; and a brother, Bruce D. Higdon, also of Pensacola.", 
+            "A few years ago, her sister-in-law said, she left the Republican Party.       ", 
+            "In her zeal to fight gangsta rap, the fiercely partisan Democrat found herself allied with William J. Bennett, the conservative Republican who held top posts in the presidential administrations of Ronald Reagan and George H. W. Bush."
+        ], 
+        "height": 160, 
+        "rate": 18, 
+        "start_y": 350, 
+        "id": "fem18"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Besides her husband, a well-known Republican from the Upper East Side of Manhattan, Mrs. Goodman is survived by a son, Randy, of Palo Alto, Calif.; two daughters, Claire Cloud of New York City and Leslie Goodman of Los Angeles; a brother, John Furrer of Vero Beach, Fla.; and six grandchildren.       ", 
+            "Besides her husband, a well-known Republican from the Upper East Side of Manhattan, Mrs. Goodman is survived by a son, Randy, of Palo Alto, Calif.; two daughters, Claire Cloud, of New York City and Leslie Goodman, of Los Angeles; a brother, John Furrer, of Vero Beach, Fla.; and six grandchildren.       ", 
+            "Although he was just as conservative as Ms. Dubrow was liberal, Barry Goldwater, the Republican presidential candidate in 1964, was friendly with Ms. Dubrow, once telling Mr. Dubinsky, ''That's a smart little girl lawyer you've got down here.", 
+            "''What most bothers me in this Republican Congress is how they make it seem a crime for anyone to be poor -- like the poor want to be poor,'' she said in a Washingtonian interview.", 
+            "Active in Republican politics, Ms. Walker ran unsuccessfully for the New York State Senate in 1958 and 1964.", 
+            "'' Her defeat in 1994, coming in a year of sweeping Republican success at the polls nationwide, did not dim her celebrity on the national stage.", 
+            "William P. Clements Jr., the first Republican governor of Texas since Reconstruction, decided not to run for re-election, Ms. Richards challenged a former governor, Mark White, in the Democratic primary and won.", 
+            "She went on to defeat the Republican candidate, Clayton Williams, a wealthy rancher, in the general election after a brutal campaign.", 
+            "Two years later, she underestimated her young Republican challenger from West Texas, George W. Bush, going so far as to refer to him as ''some jerk.", 
+            "In 1990, when the incumbent governor, William P. Clements Jr., decided not to run for re-election, she ran against a former Democratic governor, Mark White, and won the primary, then later fought a particularly brutal campaign against Republican candidate Clayton Williams, a wealthy rancher, and won.", 
+            "Two years later, she underestimated her young Republican challenger from West Texas, going so far as to refer to George W. Bush as ''some jerk,'' a commend that drew considerable criticism.", 
+            "Mrs. Chenoweth-Hage was elected in 1994 as part of the Republican takeover of the House and served three terms, from 1995 to 2001, representing Idaho's First Congressional District.", 
+            "The couple divorced in 1975, and Mrs. Chenoweth moved to Boise, becoming active in politics and serving for a time as executive director of the Idaho Republican Party and then as chief of staff to Representative Steven D. Symms.", 
+            "She scored an upset in the 1994 Republican primary over David H. Leroy, a former state attorney general, and went on to defeat the Democratic incumbent.", 
+            "But in 2004, she used the 24-hour guideline as the basis for a suit against the city, charging that it was illegally detaining protesters at the Republican National Convention.", 
+            "She was a star performer at the 1984 Republican national convention, deriding the Democrats as the ''blame America first'' party.", 
+            "She changed her political affiliation after leaving the Reagan administration and thought hard about seeking the Republican nomination for president.", 
+            "She remained among the most highly regarded members of the Republican establishment, and her voice remained one of the strongest echoes of the Reagan era."
+        ], 
+        "height": 94, 
+        "rate": 11, 
+        "start_y": 350, 
+        "id": "fem19"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
             "Matthew J. Rinaldo Sr., father of United States Representative Matthew J. Rinaldo Jr., Republican of New Jersey, died of a heart attack Wednesday at Overlook Hospital in Summit, N.J.", 
             "The elder Mr. Rinaldo, who retired in 1970, worked as a researcher for the Exxon Research and Engineering Company in Bayway, N Matthew J. Rinaldo Sr., father of United States Representative Matthew J. Rinaldo Jr., Republican of New Jersey, died of a heart attack Wednesday at Overlook Hospital in Summit, N.J.", 
             "McDill Boyd, a member of the Republican National Committee since 1965, died Friday of lung cancer.", 
@@ -150,37 +562,14 @@
             "He was also a cousin of Claiborne Pell, a Republican Senator from Rhode Island.", 
             "George Archinal, a former New York State Assemblyman and Queens County Republican leader, died of heart failure Monday at his home in Glendale, Queens."
         ], 
-        "height_fem": 160, 
-        "start_y": 180, 
-        "sentences_fem": [
-            "Marion E. Martin, founder of the National Federation of Republican Women's Clubs, died Thursday at her home here.", 
-            "Marion E. Martin, founder of the National Federation of Republican Women's Clubs, died Thursday at her home here.", 
-            "Miss Martin also was assistant chairman of the Republican National Committee.", 
-            "From 1936 to 1946, she was assistant chairman of the Republican National Committee in Washington and head of its women's division.", 
-            "In that capacity, she founded what is now the National Federation of Republican Women.", 
-            "Mildred Smith Huser, a Brooklyn lawyer who was a delegate to the 1920 Republican state convention, died Monday at the New Rochelle Medical Center.", 
-            "She was 94 years old and lived in Scarsdale, N.Y. Mildred Smith Huser, a Brooklyn lawyer who was a delegate to the 1920 Republican state convention, died Monday at the New Rochelle Medical Center.", 
-            "Senator Mark O. Hatfield, a Republican who was a friend of Mrs. Green for 40 years, said yesterday: ''She was probably the most powerful woman ever to serve in the Congress.", 
-            "In 1928, Mrs. Ziesing helped start the Women's National Republican Club.", 
-            "Virginia L. Blood, a former Republican state legislator in Connecticut, died of a stroke Thursday at Stamford (Conn.) Hospital.", 
-            "She was 78 years old and lived in Darien, Conn. Virginia L. Blood, a former Republican state legislator in Connecticut, died of a stroke Thursday at Stamford (Conn.) Hospital.", 
-            "After the overthrow of the Spanish monarchy in 1931, the leaders of the Spanish Republican Government placed her in charge of reforming the country's prison system.", 
-            "After the overthrow of the Spanish monarchy in 1931, the leaders of the Republican Government placed her in charge of making changes in the country's prison system.", 
-            "But she won fame on her own as magazine writer and editor, author of ''The Women'' and other hit plays, controversial Republican member of the House of Representatives from Connecticut, and, finally, in the Eisenhower Administration, a hardworking and often praised Ambassador to Italy.", 
-            "Criticism of Roosevelt Despite her friendships with early New Dealers, she was by now a Republican and made speeches critical of the Roosevelt Administration's handling of the war effort.", 
-            "In 1964 she announced that she was running for the Senate in New York State as a Conservative Party candidate and supporter of Senator Barry Goldwater, whose nomination for President she had seconded at the Republican convention.", 
-            "An early marriage, ended in divorce and she married William L. Butcher, a prominent Republican industrialist, in 1968."
-        ]
+        "height": 208, 
+        "rate": 23, 
+        "start_y": 0, 
+        "id": "mal0"
     }, 
     {
-        "height_mal": 152, 
-        "rate_fem": 9, 
-        "rate_mal": 17, 
-        "heigh_fem": 0, 
-        "id": 1, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "Thomas A. Pappas, a prominent Republican who was Ambassador to Greece during the Eisenhower Administration, died at his home here after a long illness.", 
             "At the 1968 Republican national convention in Miami, Mr. Pappas played a role in the selection of Mr. Agnew as Mr. Nixon's running mate.", 
             "He also served on a number of regional, state and national Republican committees.", 
@@ -286,28 +675,14 @@
             "Mr. Symington first won election to the Senate in 1952, defeating a candidate backed by President Truman in the Democratic primary and then easily beating the Republican nominee.", 
             "The Republican candidate was John C. Danforth, the Missouri State Attorney General, who is now a Senator."
         ], 
-        "height_fem": 76, 
-        "start_y": 264, 
-        "sentences_fem": [
-            "In Spanish Morocco She married Francisco Franco, then an up-and-coming army lieutenant colonel, on Oct. 22, 1923, and the couple left soon after for Spanish Morocco, where Franco was responsible for much of the conduct of the Riff Wars and where he built the military power base that served his successful uprising against the Republican Government.", 
-            "Two days later, she was re-elected with 80 percent of the vote over a little-known Republican, Kevin R. Igoe.", 
-            "Thirty-two Republican and Democratic candidates, including Mrs. Spellman's husband, Reuben, entered a special primary on April 7, 1981, to select the nominees to run for election in Maryland's Fifth District.", 
-            "Mr. Spellman was defeated for the Democratic nomination by Steny H. Hoyer, who went on to defeat the Republican candidate, Mayor Audrey Scott of Bowie, Md., in a special election on May 19, 1981.", 
-            "Rosalind M. Schwenk, a longtime power in Republican politics in Suffolk County, died Monday in Southampton Hospital on Long Island after suffering a stroke Sunday.", 
-            "Mrs. Schwenk was vice-chairwoman of the Suffolk Republican Committee from 1949 to 1967 and a member of the party's state committee from 1958 to 1970.", 
-            "She is survived by her son, Edwin, of Southampton, a former chairman of the Suffolk Republican Committee; two daughters, Audrey Aldridge and Beverly Flanagan, both of Delray Beach, Fla.; 8 grandchildren, and 10 great-grandchildren.       ", 
-            "Mrs. Bunche was a native of Montgomery, Ala., where her father had been a Republican national committeeman and an advocate of civil rights."
-        ]
+        "height": 152, 
+        "rate": 17, 
+        "start_y": 0, 
+        "id": "mal1"
     }, 
     {
-        "height_mal": 122, 
-        "rate_fem": 13, 
-        "rate_mal": 14, 
-        "heigh_fem": 0, 
-        "id": 2, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "Mr. Humphrey, a Democrat, in turn appointed Mr. Mintener, a Republican, chairman of the Mayor's Law Enforcement Committee.", 
             "But in 1952, when Mr. Stassen had counted heavily on Mr. Mintener in the Minnesota Republican primary, Mr. Mintener began a campaign in Minnesota for General Eisenhower.", 
             "In the Senate, Mr. Allott, a Republican, served on the Appropriations and Interior Committees.", 
@@ -396,32 +771,14 @@
             "In his career he conducted more than 700 polls, many of them for Republican office-seekers, including former Presidents Dwight D. Eisenhower and Richard M. Nixon and former Gov.", 
             "In the 1950's, as a member of the Assembly, Mr. Steingut and a Republican colleague, Earl Brydges, sponsored legislation that provided for a variety of special services for children and adults in New York State."
         ], 
-        "height_fem": 114, 
-        "start_y": 226, 
-        "sentences_fem": [
-            "Josephine S. Margetts, a former three-term Republican Assemblywoman from Morris County, N.J., died Friday at her home in Harding Township.", 
-            "She held numerous positions in the Republican Party for almost 40 years.", 
-            "She had also served on the board of governors of the Women's National Republican Clubs.", 
-            "Marion Pierce Mack, vice chairwoman of the Westchester County Republican Committee for 33 years, died yesterday at a nursing home in Rockport, Mass.", 
-            "Mrs. Mack was a delegate to six national Republican conventions and the first woman elected to the State Republican Committee from the Third Assembly District.", 
-            "Active in Republican politics in the Bronx, she ran unsuccessfully for the New York Assembly in 1982 and 1984.", 
-            "'' Glamour and Politics Until then, she had been, by her account, a socialite and a nominal Republican, interested chiefly in the glamour of the international set.", 
-            "The couple diverged on politics, and they publicized their disagreements in a series of columns during the 1948 Presidential campaign, he supporting the Progressive Party candidate, Henry A. Wallace, and she the Republican, Thomas E. Dewey.", 
-            "She was 67 years old and lived in Flourtown, Pa. Mrs. Linker, the first Republican woman to serve as a Montgomery County Commissioner, had been the county's register of wills, clerk of the Orphans Court and director of the county's Consumer Affairs Department.", 
-            "'' when Finance Minister Jose Calvo Sotelo, the monarchist leader, attacked the republican Government.", 
-            "Communists Grow in Power As the civil war proceeded, the Communist Party, though comparatively small, became more and more powerful in the republican camp, and La Pasionaria was the most influential Spanish Communist.", 
-            "Together with Mr. Negrin and other republican leaders she flew to France and then proceeded to Moscow, where she had sent her two surviving children, Ruben and Amaya, in 1934 for schooling."
-        ]
+        "height": 122, 
+        "rate": 14, 
+        "start_y": 0, 
+        "id": "mal2"
     }, 
     {
-        "height_mal": 132, 
-        "rate_fem": 11, 
-        "rate_mal": 15, 
-        "heigh_fem": 0, 
-        "id": 3, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "But in 1968, when he ran for a third Senate term, a number of party leaders in western Pennsylvania whom he had characterized as ''sleazy'' five years earlier did little work in his campaign, and he was defeated by Richard S. Schweiker, a Republican who later served as Secretary of Health and Human Services in the first Reagan Administration.", 
             "With Richardson Dilworth and Walter Phillips, he headed a reform movement that sought to oust an entrenched Republican machine.", 
             "A Republican, his appointment as Assistant Secretary of the Navy was rejected by the Eisenhower Administration in 1957 because he had contributed $50 to the campaign of Senator Joseph S. Clark, a Democrat, who was a close friend.", 
@@ -534,35 +891,14 @@
             "By 1970, Mr. Hayes announced his own candidacy for the Republican nomination for Governor, and Mr. Davis turned to the Legislature with proposals he hoped would give him a strong platform.", 
             "With his program in place, he easily defeated Mr. Hayes in the Republican primary and turned back a Democratic challenge in November."
         ], 
-        "height_fem": 94, 
-        "start_y": 246, 
-        "sentences_fem": [
-            "Marie Vale, a Republican fund raiser and a former government aide, died of leukemia on Tuesday at the New York University Medical Center.", 
-            "She had been a fund raiser for the National Republican Party and for New York State Republicans.", 
-            "Miss Washington, a lifelong member of the Republican Party and of many civic organizations, was due to leave this week to begin her ambassadorship to the West African nation of Gambia, succeeding Herbert E. Horowitz.", 
-            "She was elected to Community School Board 2 in Manhattan and was on the State Republican Committee.", 
-            "She disagreed with Mr. Sulzberger by siding with the Republican forces in the Spanish Civil War against the Franco forces, by favoring statehood for Israel to provide a home for displaced European Jews and by preferring Adlai E. Stevenson instead of Gen. Dwight D. Eisenhower for President.", 
-            "Mrs. Quigley, a Republican, served on the Borough Council in 1985.", 
-            "Mrs. Hance, a Republican, was elected in November 1975 and served four two-year terms before retiring in 1983.", 
-            "She also was a trustee of the United Conference of Mayors, a director of the National League of Cities and a former president of the National Conference of Republican Mayors.", 
-            "Marguerite Stitt Church, an Illinois Republican who was a member of the House of Representatives from 1950 to 1962, died in her sleep on Saturday at her home in Evanston, Ill. She was 97 years old.", 
-            "In 1959, as the ranking Republican member of a subcommittee on Foreign Economic Policy, she traveled more than 40,000 miles in 17 countries.", 
-            "She also headed the Republican Town Committee from 1980 to 1983 and was a former president of the Darien Library.", 
-            "Janet Hill Gordon, a lawyer and former Republican State Senator from Chenango County, died on Monday at the Upstate Medical Center in Syracuse.", 
-            "She was 75 years old and lived in Norwich, N.Y. Janet Hill Gordon, a lawyer and former Republican State Senator from Chenango County, died on Monday at the Upstate Medical Center in Syracuse.", 
-            "An active Republican, she was named an alternate delegate to the 1957-58 United Nations General Assembly by President Dwight D. Eisenhower.", 
-            "She was a Republican Presidential elector in 1960."
-        ]
+        "height": 132, 
+        "rate": 15, 
+        "start_y": 0, 
+        "id": "mal3"
     }, 
     {
-        "height_mal": 170, 
-        "rate_fem": 14, 
-        "rate_mal": 19, 
-        "heigh_fem": 0, 
-        "id": 4, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             " R. Burdell Bixby, a lawyer, former chairman of the New York State Thruway Authority and a prominent figure in the state Republican Party, died on Wednesday at the Columbia-Greene Medical Center in Hudson, N.Y.", 
             "From 1959 to 1961 he was treasurer of the New York State Republican Committee.", 
             "Active in Campaigns His participation in Republican politics dated to the 1930's when he began working for candidates for elective office.", 
@@ -693,36 +1029,14 @@
             "A longtime Republican and a champion of judicial restraint, he was elected to the Court of Appeals in 1967, was elected its chief judge in 1973 and retired in 1978.", 
             "In 1950 Governor Dewey, a Republican, appointed him a judge of the State Supreme Court and said he possessed \"the finest legal mind in the state."
         ], 
-        "height_fem": 122, 
-        "start_y": 218, 
-        "sentences_fem": [
-            " Eleanor Schley Todd, a former Republican National Committeewoman, died on Monday at her home in Oldwick, N.J. She was 79 years old.", 
-            "In 1956, Mrs. Todd was elected vice chairman of the Republican National Committee.", 
-            "From 1956 to 1966, she was a Republican National Committeewoman from New Jersey.", 
-            "From 1946 to 1952, she was president of the New Jersey Federation of Republican Women.", 
-            "She attended every Republican national convention as a delegate, alternate or convention manager from 1940 to 1976, and was a member of the board of governors of the Women's National Republican Club.", 
-            "Mrs. Todd's husband, Webster Bray Todd, a former state Republican state chairman in New Jersey, died in 1989.", 
-            "Rejected Republican Roots Mrs. Louchheim was born in Manhattan in 1903.", 
-            "The daughter of a Manhattan stockbroker, she grew up in Republican surroundings; when she moved to Washington in Roosevelt's first term she was a prime example of what people called \"a traitor to one's class.", 
-            "She was a delegate to the 1932 Republican National Convention, and in the 1930's served on the executive board of the American Jewish Congress.", 
-            "In the 1960's she worked for the Stanford Research Institute, the American Enterprise Institute and the House Republican Conference.", 
-            "In 1976, Miss Waldron became research director at the Senate Republican Policy Committee and in 1980 was named senior policy analyst for the Reagan campaign.", 
-            "In 1984 she was appointed director of research for the 1984 Republican platform.", 
-            "The President turned the story to his advantage by expressing mock indignation that his Republican adversaries would attack \"even my little dog Fala.", 
-            "In 1939, she married Desmond FitzGerald, a lawyer and conservative Republican.", 
-            "She also served as assistant dean of women at the university before beginning a new career in 1940 as the principal aide to Senator Pat McCarran, Republican of Nevada, in Washington.", 
-            "She was 79 years old and lived in Haddonfield, N.J. Mr. Cahill, a Republican who had served in the House of Representatives, was Governor for four years, starting in January 1970."
-        ]
+        "height": 170, 
+        "rate": 19, 
+        "start_y": 0, 
+        "id": "mal4"
     }, 
     {
-        "height_mal": 132, 
-        "rate_fem": 8, 
-        "rate_mal": 15, 
-        "heigh_fem": 0, 
-        "id": 5, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             " David Bernstein, a leader in civic, business and Republican circles in Oyster Bay, L.I., and the father-in-law of the State Senate majority leader, Ralph J. Marino, died on Friday at his home in Oyster Bay.", 
             "An active Republican, Mr. Parker served as the director of the Agency for International Development in the Nixon and Ford Administrations and as a member of the President's Public Advisory Commission on Trade Policy from 1968 to 1969.", 
             "And as a criminal trial judge in 1979 he sentenced Philip Fitzpatrick, the former Republican chairman of Staten Island, to jail for his conviction of lying to a grand jury.", 
@@ -822,31 +1136,14 @@
             "Mr. Peterson was elected to a term as a Republican member of the State Senate in the late 1940's.", 
             "But in the election that fall, write-in votes gave Mr. Arnall 6 percent of the total and kept Mr. Maddox and his Republican challenger, Howard H. Callaway, from getting a majority."
         ], 
-        "height_fem": 66, 
-        "start_y": 274, 
-        "sentences_fem": [
-            " Marion Margery Scranton Isaacs, who was long active in Pennsylvania civic affairs and Republican politics, died on Thursday at the Scranton family home in Hobe Sound, Fla. She was 83 years old and lived in Dalton, Pa.", 
-            "She was also a former member of the Pennsylvania Republican State Committee.", 
-            " Emily Sears Lodge Clark, the widow of Henry Cabot Lodge, the Senator and 1960 Republican Vice-Presidential nominee, died on Saturday at her home in Beverly, Mass.", 
-            " Emily Sears Lodge Clark, the widow of Henry Cabot Lodge, the Senator and Republican Vice-Presidential nominee in 1960, died Saturday in her house in Beverly, Mass.", 
-            "Concurring in her husband's break with President Roosevelt, Mrs. Douglas supported the Republican candidate in 1940, Wendell L. Willkie.", 
-            "She encouraged others who made their cases public, including Elizabeth Glaser, the wife of a television actor, who addressed the Democratic National Convention, and Mary Fisher, a former aide to President Gerald R. Ford who will speak to the Republican convention.", 
-            " Marian A. Granowitz, a former vice chairwoman of the Republican State and Westchester County Committees, died on Thursday at Westchester Square Medical Center in the Bronx.", 
-            "Moving steadily up the ladder of leadership in the Westchester organization in the 1970's and 1980's, she served as its vice chairwoman, then regional vice chairwoman to coordinate Republican activities in five counties.", 
-            " Millicent H. Fenwick, a retired Republican Congresswoman renowned for her political independence and championing of liberal causes, died yesterday at her home in Bernardsville, N.J. She was 82 years old.", 
-            "\"Millicent Fenwick was the Katharine Hepburn of politics,\" said Charles Millard, a former aide and now a Republican New York City Councilman.", 
-            "Active in the Republican Party, Mrs. Koskoff served as a state legislator from 1953 to 1958."
-        ]
+        "height": 132, 
+        "rate": 15, 
+        "start_y": 0, 
+        "id": "mal5"
     }, 
     {
-        "height_mal": 104, 
-        "rate_fem": 7, 
-        "rate_mal": 12, 
-        "heigh_fem": 0, 
-        "id": 6, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "A Republican, he was elected to a full two-year term in Washington in 1958 but was defeated in 1960.", 
             "A civil-rights Republican in the Lincoln tradition, Judge Brown once said that \"the Constitution would not tolerate any discrimination based on color or race.", 
             "Active in politics, he became the Republican chairman of Harris County, which includes Houston.", 
@@ -926,29 +1223,14 @@
             "James Rhodes in the Republican primary and Mr. Metzenbaum in the general election.", 
             "Mr. Nelson served on the Republican side in the Spanish Civil War in 1937 and in later years became prominent in activities of American veterans of the war."
         ], 
-        "height_fem": 56, 
-        "start_y": 284, 
-        "sentences_fem": [
-            " Joan Sperry Rader, who was active for two decades in the Republican Party in Connecticut, died on Friday at her home in Greenwich, Conn. She was 58.", 
-            "She was elected in 1989 to a two-year term as the vice chairwoman of the Republican State Central Committee of Connecticut, becoming its highest-ranking female officer.", 
-            "Ms. Tolstoy was active in American politics as a Republican but also supported Gov.", 
-            "Despite the early traumas and Mrs. Nixon's wish that her husband retire from politics, she was enthusiastic enough on the eve of his nomination as the Republican Presidential candidate in 1968 to say, \"This really is the American dream, where people from humble circumstances can, through sheer hard work, go up the ladder.", 
-            "Dr. Billy Graham presiding and eulogies by Senator Bob Dole, Republican of Kansas, and others.", 
-            "Judge Simon, who was still active as a lawyer at her death, served in state posts under appointments from both Republican and Democratic governors and was the first woman nominated by a major party for citywide office in New York City.", 
-            "The next year she ran for City Council President as a Republican.", 
-            "Although she lost to Abe Stark by about two-to-one, she still ran some 100,000 votes ahead of her ticket and received the biggest total for a citywide Republican candidate.", 
-            "Nelson A. Rockefeller, a Republican, inducted her as New York's Secretary of State, the second woman to hold that post."
-        ]
+        "height": 104, 
+        "rate": 12, 
+        "start_y": 0, 
+        "id": "mal6"
     }, 
     {
-        "height_mal": 132, 
-        "rate_fem": 19, 
-        "rate_mal": 15, 
-        "heigh_fem": 0, 
-        "id": 7, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "\"He always believed that political friendships throughout the centuries have tended to follow the trade lanes,\" said Charles H. Percy, a former Republican Senator from Illinois, who was a longtime friend of Mr. Watson's.", 
             "An Active Republican He was active in Republican Party matters in New Jersey and New York, including Nelson A. Rockefeller's campaigns for governor.", 
             "In politics, Mr. Scheftel ran in 1942 as a Republican candidate for Congress in the old 14th Congressional District in Manhattan, and was an announced Liberal Party candidate for mayor in 1961.", 
@@ -1048,38 +1330,14 @@
             "Mr. Powell was an Assistant United States Attorney in Brooklyn and associate counsel to the Republican Assembly Speaker, Joseph F. Carlino, from 1962 to 1964.", 
             "A year later Mr. Anderson was denied election to a third term as Lieutenant Governor, a casualty of a Republican landslide paced by Ronald Reagan's victory in the race for governor."
         ], 
-        "height_fem": 170, 
-        "start_y": 170, 
-        "sentences_fem": [
-            " Betty Heitman, a Republican Party official who prodded two Presidents to appoint more women to high Government posts, died on Monday at her home in Baton Rouge, La.", 
-            "Mrs. Heitman was co-chairwoman of the Republican National Committee during the Reagan years.", 
-            "A conservative Republican, she was Ronald Reagan's choice for the committee post in 1980, when he ran for President.", 
-            "She had previously been president of the National Federation of Republican Women.", 
-            "A graduate of Texas Women's University, she became active in Louisiana Republican politics and was a delegate to the Republican National Conventions in 1968 and 1976.", 
-            "She went on to do the ads in 1952 at the Republican and Democratic national conventions.", 
-            "In 1952, 1956 and 1960, Miss Furness did the Westinghouse commercials during the Republican and Democratic National Conventions and developed a strong interest in politics.", 
-            "In 1942 Dr. Judd, a Republican, was elected to Congress from Minnesota and rose to prominence as a crusader against Japanese military expansionism and Chinese Communism; he retired from Congress in the 1960's.", 
-            " Josephine Moy Hong, active in Chinese-American affairs and Republican Party politics, died on Sunday in Flushing Hospital.", 
-            "She turned to Republican Party politics in the 1960's and was vice president of the New York State Republican Heritage Groups Council.", 
-            "She was inducted as a Life Member of the Republican Party in 1979.", 
-            "She was married to Clayborne George, a lawyer in Cleveland and a prominent Republican there.", 
-            "She left Spain largely because her husband, Timoteo Perez Rubio, had been active on the Republican side, and her sympathies were also with the Republic.", 
-            " Jessie Sumner, an Illinois Republican who was the first woman elected to a county judgeship in her state and a conservative member of Congress from 1939 to 1947, died on Wednesday in Iroquois Memorial Hospital in Watseka, Ill. She was 96 and lived in nearby Milford.", 
-            "An effective fund-raiser for the Republican Party, Mrs. Hilson lent her name to a series of citizens' committees to elect or re-elect Republican candidates to state and national office.", 
-            "To Fairfield County, Mrs. Walsh was a matriarch of Republican politics and a doyenne of society.", 
-            "She was vice chairman of the Republican Town Committee and a member of the party's State Central and Finance Committees.", 
-            "The book, which was called \"a handbook on how the connected make waves in America\" in a review in The New York Times, also detailed how she was able to mobilize legislators like Senators Orrin G. Hatch, Republican of Utah, and Howard M. Metzenbaum, Democrat of Ohio, who sponsored a benefit in Washington for Mrs. Glaser's fledgling foundation."
-        ]
+        "height": 132, 
+        "rate": 15, 
+        "start_y": 0, 
+        "id": "mal7"
     }, 
     {
-        "height_mal": 114, 
-        "rate_fem": 13, 
-        "rate_mal": 13, 
-        "heigh_fem": 0, 
-        "id": 8, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "Originally a Republican, Mr. Duke had switched and become an active worker for Democratic causes in the late 1940's.", 
             "Harold E. Stassen, a moderate Republican.", 
             "A Republican, he served from 1952 to 1954, and failed in a bid for re-election.", 
@@ -1174,37 +1432,14 @@
             " Former Representative August E. Johansen, a Michigan Republican who was among the most conservative voices in his 10 years in Congress, died on Sunday in a nursing home in Orlando, Fla.", 
             "From 1934 to 1944 he was an industrial relations manager for the Kellogg Company in Battle Creek, later working at Michigan newspapers and as an administrative assistant to Representative Paul W. Shafer, Republican of Michigan."
         ], 
-        "height_fem": 114, 
-        "start_y": 226, 
-        "sentences_fem": [
-            " Margaret Chase Smith, a flinty, independent Maine Republican who made history as the first woman to win election to both houses of Congress and the first whose name was advanced for the Presidency at a national convention, died yesterday at at her home in Skowhegan, Me.", 
-            "In time, she became the ranking Republican on the Armed Services and Aeronautical and Space Sciences Committees, and served as well on the Appropriations Committee.", 
-            "Never anything but a Republican, Mrs. Smith was hardly the dyed-in-the-wool variety.", 
-            "In the 1950's, Mrs. Smith alienated McCarthy by joining with six other Republican senators in making a \"declaration of conscience\" in which she took the measure of McCarthy's sensationalist, inquisitorial methods in trying to suppress Communism.", 
-            "\"I don't want to see the Republican Party ride to political victory on the four horseman of calumny -- fear, ignorance, bigotry and smear,\" Mrs. Smith said.", 
-            "She was a strong supporter of civil rights and, again irritating some Republican colleagues, an early advocate of Government-financed medical care for the elderly.", 
-            "Mr. Smith, who was prominent in local Republican circles, ran for office and in 1937 was elected Representative from Maine's Second Congressional District.", 
-            "In 1948 Mrs. Smith entered the Republican senatorial primary and received more votes than her three male opponents combined.", 
-            "She drew more than a dozen votes at the Republican National Convention, which was controlled by the conservative forces backing Barry Goldwater.", 
-            " Roberta Church, an official in the Eisenhower and Nixon Administrations who was the first black woman to be elected to the Tennessee Republican State Executive Committee, died on Saturday at Baptist Memorial Hospital East in Memphis.", 
-            "Miss Church was the last survivor of a family of black Tennesseans who were prominent in business and Republican politics when few Southern blacks were active in either business or the party.", 
-            "He died in 1952 while campaigning for a seat on the Republican State Executive Committee.", 
-            "Thomas E. Dewey of New York, a Republican, when he ran for President in 1948, and Dwight D. Eisenhower in his successful Presidential campaign in 1952.", 
-            "Her husband, J. Kenneth Bradley, the Republican state chairman for Connecticut for many years, died in 1969.", 
-            "When Dwight D. Eisenhower became President in 1953 he selected another woman to succeed her, Ivy Baker Priest, a Utah Republican.", 
-            " Frances Grant Bennett, wife of the late Senator Wallace F. Bennett and mother of Senator Robert F. Bennett, Republican of Utah, died on Friday in Salt Lake City.", 
-            "A former Republican campaign worker who had translated her political skills into a job peddling songs for a local songwriters, Mrs. Greenberg, who had been  married to an accountant, had already become a familiar figure on Tin Pan Alley, hobnobbing with music-industry hopefuls at the old Turf restaurant on Broadway at 51st Street."
-        ]
+        "height": 114, 
+        "rate": 13, 
+        "start_y": 0, 
+        "id": "mal8"
     }, 
     {
-        "height_mal": 160, 
-        "rate_fem": 10, 
-        "rate_mal": 18, 
-        "heigh_fem": 0, 
-        "id": 9, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "Although Mr. Petersen was a Republican, he was special assistant to President John F. Kennedy for international trade policy in 1961 and 1962 and Assistant Secretary of War from 1945 to 1947 under President Harry S. Truman.", 
             "He was also  prominent early in the campaign for the nomination of Dwight D. Eisenhower as the Republican Presidential candidate in 1952.", 
             "In the last ye'r alone, they have resurfaced as a metaphor for the squabbling over the Federal budget, sniping among Republican Presidential candidates and the repartee between the movie critics Gene Siskel and Roger Ebert.", 
@@ -1343,36 +1578,14 @@
             "A special committee of the United States Senate heard testimony that money originating from Mr. Keck had found its way through a middleman to Nebraska's State Republican Committee.", 
             "''Being the senior Republican from a Democratic city in a Republican Legislature is a totally rewarding experience,'' he once said in an interview."
         ], 
-        "height_fem": 84, 
-        "start_y": 256, 
-        "sentences_fem": [
-            "She was the wife of Peter H. B. Frelinghuysen, a Republican who represented north central New Jersey in the House from 1953 through 1974.", 
-            "She and her husband had five children, including Rodney P. Frelinghuysen, also a Republican Congressman from north central New Jersey, who was elected in  1994.", 
-            "Earlier this month, Representative Don Young, Republican of Alaska, introduced legislation in the House and Senator Ted Stevens, Republican of Alaska, in the Senate to name an eight-million-acre wilderness in the Arctic National Wildlife Refuge after her.", 
-            "Alfred M. Landon of Kansas and the mother of Senator Nancy Landon Kassebaum, Republican of Kansas, died on Sunday at her home in Topeka.", 
-            "Mr. Landon, the Republican candidate for President in 1936, died in 1987 at the age of 100 after 57 years of marriage.", 
-            "James B. Utt, then a Republican  Congressman from California, a state known for its Pharaonic funerals and ornate cemeteries, denounced Miss Mitford as \"pro-Communist, anti-American.", 
-            "She won a tight race in a party primary to run for the United States Senate in 1964 but then lost the election by 50,000 votes to the Republican incumbent,  Senator Hugh Scott.", 
-            "Active in Republican politics, Mrs. Gerard was appointed representative to the United Nations Educational, Scientific and Cultural Organization in 1981 with a mandate from the Reagan Administration to clean up an agency that in its view was badly managed and had become increasingly politicized and anti-Western under its director general, Amadou Mahtar M'Bow of Senegal.", 
-            "''She's the kind of Republican we tried to recruit into management when we first started out,'' Mr. Shriver said in 1982.", 
-            "Mrs. Ruppe had impeccable Republican credentials.", 
-            "Her husband, Philip, was a Republican Congressman from Michigan from 1967 to 1979.", 
-            "President Gerald R. Ford accepted her resignation in 1976 and replaced her with Rosemary L. Ginn, a longtime Republican national committeewoman from Missouri.", 
-            "If there had ever been any doubts that a woman's place is in the House, they must surely have been dispelled in 1954 when the former Coya Gjesdal unseated a six-term Republican and swept into Congress like a whirlwind from northern Minnesota.", 
-            "She managed to win the primary, but lost the general election by 1,390 votes to Odin Langen, a Republican who was 6 feet 4 inches tall and campaigned on the slogan, ''A Big Man for a Man-Sized Job.", 
-            "A formidable woman on or off the air, Miss Kitchell, who had been sent on cross-country speaking tours by NBC to promote radio, became an important fund-raiser for the Republican Party in New York and was named to state commissions by Gov.", 
-            "This year, despite a determined Republican effort, Democrats won an additional seat in the Assembly and will hold 96 of its 150 seats when the new session begins in January."
-        ]
+        "height": 160, 
+        "rate": 18, 
+        "start_y": 0, 
+        "id": "mal9"
     }, 
     {
-        "height_mal": 114, 
-        "rate_fem": 15, 
-        "rate_mal": 13, 
-        "heigh_fem": 0, 
-        "id": 10, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "Among other things, researchers using Nelson data have established that high tax rates, year-end stock rallies and Republican control of White House all stimulate charitable contributions, as do Government cutbacks in social-service financing -- although never enough to make up for the shortfall.", 
             " Seymour Halpern, a Queens Republican who served 14 years in the State Senate and 14 more in Congress, becoming a ranking member of the House Banking Committee before his retirement in 1973, died early yesterday at Southampton Hospital on Long Island.", 
             "One reason for his special care was that Mr. Halpern never forgot that in New York City he was something of a political anomaly, a Republican at a time when Democrats were so firmly entrenched that by the end of his political career he was the lone Republican in the city's House delegation.", 
@@ -1479,40 +1692,14 @@
             "Mr. Ferguson, a strong advocate of arbitration in labor disputes, was known for his outspoken defense of a local newspaper against attacks by Senator Joseph R. McCarthy, Republican of Wisconsin, in 1952.", 
             "He supported Senator Barry Goldwater, Republican of Arizona, during that year's Presidential campaign."
         ], 
-        "height_fem": 132, 
-        "start_y": 208, 
-        "sentences_fem": [
-            "But it was the election of Ronald Reagan and the big Republican gains in Congress in the 1980 election that galvanized both Harrimans to action.", 
-            "In 1964, she was part of the Harris team that conducted an exit poll for CBS News in the tightly contested California Republican primary between Nelson A. Rockefeller and Barry Goldwater.", 
-            "She took on Tammany Hall and repeatedly ran for the State Legislature in Republican territory.", 
-            "She joined the Democratic Party in part to oppose Republican isolationists in her election district and worked with Hubert H. Humphrey in the successful effort to eliminate a Communist faction within the Minnesota party.", 
-            "Perhaps emboldened by Dr. Hibberd, other Republican officials also began to speak out, saying that Mr. Catterson had improperly pressured them on various issues.", 
-            "Mrs. Lafontant-Mankarious, a Republican, was known as Jewel S. Lafontant when she served in the Nixon and Bush Administrations.", 
-            "In 1960, she seconded the nomination of Mr. Nixon as Republican candidate for President, but he was defeated by John F. Kennedy.", 
-            " Mary Louise Smith, a representative of the Republican Party's moderate wing and the only woman ever to serve as chairman of the Republican National Committee, died on Friday at Iowa Methodist Medical Center in Des Moines.", 
-            "Mrs. Smith was chosen to be chairman of the Republican National Committee by Gerald Ford when he succeeded Richard M. Nixon as President in 1974.", 
-            "In January 1977, the Republican National Committee elected Bill Brock, a conservative former Senator from Tennessee, to succeed Mrs. Smith.", 
-            "She became active and prominent in Republican politics and served on the Republican National Committee from 1964 to 1984.", 
-            "She was also honored by the Log Cabin Society, a gay Republican group, for consoling AIDS patients and their families.", 
-            "But her period of leadership came during a time of Republican victories.", 
-            "And in February 1996, Senator Bob Dole, campaigning in Iowa for the Republican Presidential nomination, declared that Mother Teresa had called to praise him for helping pass a ban against certain types of late-term abortions.", 
-            "Assemblyman Robert Werts, a Republican with whom she served, remembered an event at Gov.", 
-            " Helen Stevenson Meyner, a liberal Democrat who was elected to two terms in Congress by a heavily Republican district in New Jersey, died yesterday after a long illness at the Heartland Health Care Center, a nursing home in Fort Myers, Fla. She was 69.", 
-            "In 1972, Democratic Party leaders asked her to run for Congress from the Meyner family home in Phillipsburg, in the heavily Republican 13th Congressional District in Sussex and Morris Counties.", 
-            "She lost that election to Joseph J. Maraziti, a Republican, but defeated him in 1974, the same year that Representative Millicent Fenwick, a Republican, was elected.", 
-            "In 1978, she was defeated by the Republican candidate, Jim Courter.", 
-            "She was the second wife of Mr. Rockefeller, the first Republican Governor of Arkansas since Reconstruction, who served two terms, from 1967 to 1970."
-        ]
+        "height": 114, 
+        "rate": 13, 
+        "start_y": 0, 
+        "id": "mal10"
     }, 
     {
-        "height_mal": 122, 
-        "rate_fem": 5, 
-        "rate_mal": 14, 
-        "heigh_fem": 0, 
-        "id": 11, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "He was elected largely with the support of labor unions and minorities, though he managed to draw the votes of many Republican middle-class homeowners.", 
             "Mr. Mayers was nominated by the Republican Party as a fresh face in the 1963 Stamford mayoral election,  which he won on a pledge to reverse downtown blight.", 
             " Representative Sonny Bono, whose unexpected career in Republican politics followed an equally unexpected -- and successful -- career as a singer and television star with his former wife Cher, was killed on Monday afternoon when he crashed into a tree while skiing in South Lake Tahoe, Calif.", 
@@ -1630,28 +1817,14 @@
             "William F. Weld, a Republican.", 
             "A republican, he chastised the Queen for going to the races because he said it encouraged betting, Prince Philip for playing polo on Sundays and the other members of the royal family for hunting deer and foxes."
         ], 
-        "height_fem": 38, 
-        "start_y": 302, 
-        "sentences_fem": [
-            "The appointment, which made her the 16th woman to serve as judge in New York and the first in Onondaga County, was not popular with her husband's Republican allies.", 
-            "At the end of the year, when the Republicans named a man to run in a special election to fill out her husband's term, Mrs. Burnham felt miffed enough to leave the Republican Party but not enough to become an actual Democrat.", 
-            "The 19th Congressional District, which snaked from lower Manhattan  to the West 80's, had four registered Democrats to every Republican and had been represented in Congress for seven terms by Leonard Farbstein, a  solid but rather somnolent liberal.", 
-            "Though she eventually took 55 percent of the vote, she had genuine Republican opposition, unusual in an era when New York's main political action consisted of various Democratic factions knifing one another.", 
-            "The next year, running for the House again, she lost, again by just 1 percent, to a little-known Republican, S. William Green.", 
-            "She won the primary in a burst of the old, ebullient campaigning style, but lost in November to Joseph J. DioGuardi, the Republican incumbent.", 
-            "A devout Quaker and a Republican, she was once labeled by the John Birch Society as an ''aging sexual libertine.", 
-            "She was a Democrat, not a Republican."
-        ]
+        "height": 122, 
+        "rate": 14, 
+        "start_y": 0, 
+        "id": "mal11"
     }, 
     {
-        "height_mal": 94, 
-        "rate_fem": 3, 
-        "rate_mal": 11, 
-        "heigh_fem": 0, 
-        "id": 12, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "In 1964, Dr. Paolucci was persuaded to run as the Conservative candidate for Senate against Senator Kenneth B. Keating, a Republican, and Robert F. Kennedy, who won the seat for the Democrats.", 
             "He was described, in an editorial written for today's issue of The Tribune, as ''a moderate Republican who had no use for the far right of his party or the far left of the Democratic Party.", 
             "In the early 1950's, he strongly criticized what he called the smear tactics of McCarthy, a Wisconsin Republican.", 
@@ -1747,25 +1920,14 @@
             "During one hearing in which he sparred with Senator William E. Jenner, the Indiana Republican who led the Internal Security Committee, Mr. Perlo said he did not want to discuss his reasons for invoking his constitutional privilege.", 
             "In 1996, he said that other polltakers had overstated President Clinton's strength in the presidential election and unfairly labeled the Republican candidate, Bob Dole, as destined to lose."
         ], 
-        "height_fem": 18, 
-        "start_y": 322, 
-        "sentences_fem": [
-            "After the magazine closed in 1968, she worked briefly for Senator Jacob K. Javits, Republican of New York.", 
-            "After returning to the United States, she organized a march to Washington to speak out on the ''Scottsboro Boys'' -- nine black youths wrongly convicted of raping two white women in Scottsboro, Ala. She later traveled to Spain on behalf of the Republican cause in the Spanish Civil War.", 
-            "She survived repeated efforts to recall her, but was ousted after Governor George Deukmejian, a Republican, led an aggressive campaign against her.", 
-            "'' In last year's election, the unsuccessful Republican candidate for governor, State Attorney General Dan Lungren, sought to tar his Democratic opponent, Lt. Gov.", 
-            "But virtually the entire state political establishment, Democratic as well as Republican, now favors the death penalty, and the pace of executions is widely expected to increase."
-        ]
+        "height": 94, 
+        "rate": 11, 
+        "start_y": 0, 
+        "id": "mal12"
     }, 
     {
-        "height_mal": 104, 
-        "rate_fem": 4, 
-        "rate_mal": 12, 
-        "heigh_fem": 0, 
-        "id": 13, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "When he publicly declared that he thought Edwin Meese III, a fellow Republican, unfit to become attorney general, it carried great weight.", 
             "Mr. Richardson began his own public career as an aide to Senator Leverett Saltonstall, a venerable Republican.", 
             "In 1984 he ran unsuccessfully for the Republican nomination for the Senate from Massachusetts.", 
@@ -1862,25 +2024,14 @@
             "As a young black man living in Alabama in the early 1950's, Dr. Rice was denied the right to vote, his daughter said in her speech at the Republican National Convention in August.", 
             "So in 1952 he joined the Republican Party, because it offered to register him for the forthcoming elections, she said."
         ], 
-        "height_fem": 28, 
-        "start_y": 312, 
-        "sentences_fem": [
-            "''We mourn her passing,'' said Steve Forbes, a Republican presidential contender who has won the endorsement of the newspapers.", 
-            "A conservative Republican, she was vice chairman of the Republican National Committee from 1965 to 1976, and honorary chairman of the 1973 Nixon inaugural committee.       ", 
-            "She was beaten by the Republican incumbent, Clare Boothe Luce.", 
-            "She was married in 1957 to Benjamin A. Gilman, a law partner and fellow Republican, and in 1972 worked in his successful campaign for Congress.", 
-            "''I still go into that booth with the same feeling -- what if I voted Republican?"
-        ]
+        "height": 104, 
+        "rate": 12, 
+        "start_y": 0, 
+        "id": "mal13"
     }, 
     {
-        "height_mal": 84, 
-        "rate_fem": 9, 
-        "rate_mal": 10, 
-        "heigh_fem": 0, 
-        "id": 14, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             " William P. Rogers, a suave and well-connected Republican lawyer who was secretary of state under President Richard M. Nixon and attorney general in the Eisenhower administration, died on Tuesday in Bethesda, Md.", 
             "At the Republican National Convention in 1952, Mr. Rogers did his part to secure the nomination for Dwight D. Eisenhower by helping to persuade the credentials committee that Eisenhower delegates from Louisiana, Texas, Georgia and Florida, rather than those loyal to Senator Robert A. Taft of Ohio, should be seated.", 
             "He was defeated for re-election in 1980 by a Republican, Bobbi Fiedler, losing by 752 votes.", 
@@ -1957,33 +2108,14 @@
             "'' In 1956, he was defeated by only 4,400 votes in his re-election bid despite a Republican margin in the district for Eisenhower of 78,668 votes.", 
             "'' Mr. MacArthur's group tried to garner Green Party votes by contacting independents; supporters of John McCain, the senator and presidential candidate who lost the Republican nomination to George W. Bush; and ''disgruntled Democrats."
         ], 
-        "height_fem": 76, 
-        "start_y": 264, 
-        "sentences_fem": [
-            "Her father became a multimillionaire partner in the banking house of J. P. Morgan & Company, who went on to become a Republican Senator from New Jersey.", 
-            "She was twice defeated in Republican primary races in California, for the United States Senate in 1982 and for a Southern California Congressional seat in 1992.", 
-            "'' She noted that people who accused her of exploiting family ties ''forget I was a Republican before the president was.", 
-            "'' In 1987, after the Iran-contra affair, when Ms. Reagan asserted that Lt. Col. Oliver L. North and Vice Adm. John M. Poindexter, President Reagan's national security aides,  should be court-martialed for their actions, Mr. Reagan told Republican leaders, ''I gave up arguing with my daughter long ago.", 
-            "Although she was an ardent Republican, Ms. Reagan angered many members of the party by her refusal to compromise and for stepping on toes.", 
-            "In 1983, she was given the title of special consultant to the Republican National Committee and moved to the family quarters in the White House.", 
-            "Ms. Reagan's most active political years were in the 1980's, when she was a member of the California World Trade Commission, chairwoman of the United States delegation to the United Nations Decade for Women Conference in Kenya, in 1985; co-chairwoman of the Republican National Committee, and chairwoman of the Republican Women's Political Action League.", 
-            "As Ms. Reagan became more influential, she worked to increase Republican fund-raising for women running for office.", 
-            "Her first book, a collection of pieces titled ''Sixties Going on Seventies'' (Rutgers University Press) -- which covered everything from student strikes and yippies to the 1972 Democratic and Republican Conventions  -- led to her employment at The New York Times in 1973 when her book was recommended to Arthur Gelb, then managing editor of the paper, as deserving of a review.", 
-            " Barbara K. Olson, who was killed on Tuesday on the commercial jetliner that was hijacked and flown into the Pentagon, was well known to television viewers across the nation as a combative and confident political commentator representing the conservative Republican point of view.", 
-            "Mrs. Olson was the more outspoken of the two in her televised commentaries, while Mr. Olson presented a more deliberative face in his role as the reigning constitutional litigator for the Republican establishment.", 
-            "As chief counsel for the House Government Reform and Oversight Committee's Republican majority from  1995 to 1996, Mrs. Olson led the investigation into President Bill Clinton and Hillary Rodham Clinton's role in firing longtime employees of the White House travel office.", 
-            "She says that if Democrats had had the stranglehold on Nassau County, she probably would have been a Republican; she's contrarian that way."
-        ]
+        "height": 84, 
+        "rate": 10, 
+        "start_y": 0, 
+        "id": "mal14"
     }, 
     {
-        "height_mal": 122, 
-        "rate_fem": 2, 
-        "rate_mal": 14, 
-        "heigh_fem": 0, 
-        "id": 15, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "He was defeated for re-election by Warren P. Knowles, a Republican.", 
             "When the furniture was finally arranged, however, South Vietnam, encouraged to expect a Republican victory in the election and a better deal from Richard M. Nixon, refused to negotiate.", 
             "While there, he waded into politics, losing a race for surrogate of Nassau County, a Republican stronghold, in 1959.", 
@@ -2080,23 +2212,14 @@
             " Edward Burling Jr., a retired senior partner of one of the largest law firms in Washington and an active Republican in his party's moderate wing, died on Nov. 19 at his home in Washington.", 
             "In 1964, Mr. Burling, who had been a strong supporter of President Dwight D. Eisenhower, was chairman of a group of Republicans who did not support the presidential candidacy of Barry Goldwater but worked to raise money for other Republican candidates."
         ], 
-        "height_fem": 8, 
-        "start_y": 332, 
-        "sentences_fem": [
-            "In October 1979, six weeks after Earl Mountbatten was killed by Irish Republican Army terrorists, she angered many Irish-Americans while on a visit to Chicago, reportedly declaring in the presence of Mayor Jane Byrne that the Irish were ''pigs.", 
-            "In the 1950's she championed civil rights in Virginia and was active in the Republican Party.", 
-            "Later she took Behan's Irish Republican Army play, ''The Hostage,'' to the West End and on to New York."
-        ]
+        "height": 122, 
+        "rate": 14, 
+        "start_y": 0, 
+        "id": "mal15"
     }, 
     {
-        "height_mal": 152, 
-        "rate_fem": 3, 
-        "rate_mal": 17, 
-        "heigh_fem": 0, 
-        "id": 16, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "After Labor returned to power in 1974, Mr. Jenkins went back to the Home Office, where he enacted a strict Prevention of Terrorism Act to counter a surge of violence by the Irish Republican Army.", 
             "He was elected to the South Dakota Legislature as a Republican in 1948.", 
             "Mr. Dillon was a lifelong Republican who had long been active in party affairs when he was picked for the Treasury post by President Kennedy in an attempt to give an incoming administration a bipartisan cast.", 
@@ -2192,24 +2315,14 @@
             "Mr. Roth was also the co-sponsor of a proposal for steep tax cuts, known as Kemp-Roth, with Representative Jack F. Kemp, Republican of New York.", 
             "He worked at first for an advertising agency and eventually for Time magazine, then a highly stylized and unabashedly conservative Republican organ."
         ], 
-        "height_fem": 18, 
-        "start_y": 322, 
-        "sentences_fem": [
-            "Mr. Blanchard narrowly lost the election to John M. Engler, a Republican.", 
-            "In addition to having a successful broadcasting career, Miss Falkenburg was long active in raising money for the Republican Party and helped her husband when he worked to persuade Dwight D. Eisenhower to run for the presidency in 1952.", 
-            "Miss Falkenburg and Mr. McCrary were friends of John Hay Whitney, who was chairman of the finance committee of the Republican Party.", 
-            "During World War II, Madame Chiang emerged as China's most important ambassador, frequently charming American visitors like Wendell Wilkie, the Republican politician, who came to China in 1942 after losing a presidential campaign against Roosevelt in 1940."
-        ]
+        "height": 152, 
+        "rate": 17, 
+        "start_y": 0, 
+        "id": "mal16"
     }, 
     {
-        "height_mal": 104, 
-        "rate_fem": 6, 
-        "rate_mal": 12, 
-        "heigh_fem": 0, 
-        "id": 17, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "He worked at first for an advertising agency and eventually for Time magazine, then a highly stylized and unabashedly conservative Republican organ.", 
             "Mr. Duryea, a Republican, was first elected to the State Assembly in 1960, and became the Assembly minority leader in 1966.", 
             "But the charges were later dropped, and Mr. Duryea received a unusual degree of support among his colleages, with both Republican and Democratic legislators rising to his defense.", 
@@ -2277,27 +2390,14 @@
             "'' Rockefeller failed to stop the conservative Barry Goldwater from snaring the Republican presidential nomination in 1964, and in 1968 he wanted to stop Richard M. Nixon from getting the party's nomination.", 
             "Bailey, Deardourff had taken control of Mr. Ford's advertising right after the Republican National Convention in August 1976, when Mr. Ford, who had damaged himself by pardoning President Nixon after Watergate, was trailing Mr. Carter by 20 points in the polls."
         ], 
-        "height_fem": 46, 
-        "start_y": 294, 
-        "sentences_fem": [
-            "As her illness progressed in recent months, her duties often fell upon the deputy presiding officer elected alongside her, Joseph Caracappa, a Republican from Selden.", 
-            "The Republican caucus designated him last month to succeed her as presiding officer.", 
-            "Kathleen Sebelius of Kansas, and a Republican senator, Kay Bailey Hutchison from Texas.", 
-            " Mary B. Goodhue, a longtime New York State senator who lost her seat in 1992 in a rare Republican primary to a little-known assemblyman by the name of George E. Pataki, died on Wednesday at Northern Westchester Hospital, her son, Francis A. Goodhue III, said.", 
-            "She was 82 and lived in Bedford, N.Y. Mrs. Goodhue had represented northern Westchester and Putnam Counties in the State Legislature for 18 years, first in the Assembly and for seven terms in the Senate, when she was challenged in a Republican primary by Mr. Pataki, a prot\u00e9g\u00e9 of hers who had once worked on her Senate staff as legislative counsel.", 
-            "It was the year women running for political office across the nation had named ''the year of the woman,'' and Mrs. Goodhue, who was 71, was the only woman in the State Senate's Republican majority.", 
-            "THE exhibition will sponsor a few private receptions during the Republican National Convention before opening to the public, but Ms. Mirrer denies that the society's agenda is partisan: ''I don't see this as a place that nurtures one view of history at the expense of another,'' she says."
-        ]
+        "height": 104, 
+        "rate": 12, 
+        "start_y": 0, 
+        "id": "mal17"
     }, 
     {
-        "height_mal": 114, 
-        "rate_fem": 18, 
-        "rate_mal": 13, 
-        "heigh_fem": 0, 
-        "id": 18, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "(He was the Democratic-Liberal candidate for attorney general in 1962 but was beaten by the incumbent Republican, Louis J.", 
             "Mr. Kreutzer, who called himself an independent Republican -- ''nine-tenths independent and one-tenth Republican'' -- was also an adviser to elected officials, including Mayors Fiorello H. La Guardia, Robert F. Wagner and Abraham D. Beame.", 
             "Asked whether his inquiries were partisan, Mr. Kreutzer said: ''When a fellow engages in any kind of government activity, there is no Republican way or Democratic way of doing a job.", 
@@ -2371,37 +2471,14 @@
             "Another was his linking of the settlement of an antitrust suit against ITT by the Justice Department to a $400,000 pledge to underwrite the 1972 Republican convention.", 
             "The whistle-stop that Mr. Dawson organized and commanded was a 22,000-mile cross-country stumping on the rails in which Truman, widely expected to be defeated by the Republican challenger, Gov."
         ], 
-        "height_fem": 160, 
-        "start_y": 180, 
-        "sentences_fem": [
-            "That edge helped her in her race against James Farmer, a leader of the Freedom Rides in the south in the early 1960's, who ran as an independent on the Republican and Liberal lines, and Ralph Carrano, who ran as the Conservative candidate.", 
-            "That edge helped her in her race against James Farmer, a leader of the freedom rides in the south in the early 1960's, who ran as an independent on the Republican and Liberal lines, and Ralph Carrano, who ran as the Conservative candidate.", 
-            "Ms. Fowler was vice chairwoman of the House Republican Conference and No.5 in the House leadership when she left Congress.", 
-            "She got a seat on the Armed Services Committee and was elected co-chairwoman of the Freshman Republican Task Force on Reform.", 
-            "In 1998, Ms. Fowler was elected vice chairwoman of the House Republican Conference on the vow that she would serve no longer than two years in the Republican leadership.", 
-            "''I'm an evangelical and I am a Republican,'' the statement read.", 
-            "She lost the primary; Newt Gingrich, a Republican, won the general election.", 
-            "But even as she worked hard to build good relations with Sinn Fein, the political arm of the Irish Republican Army, which wants Northern Ireland to become part of the Irish Republic, she alienated unionists, who want it to remain united with Britain and who accused her of being too sympathetic to the republican cause.", 
-            "'' In 1966, President Lyndon B. Johnson appointed her as a judge on the United States District Court for the Southern District of New York at the urging of Senator Robert F. Kennedy of New York, a Democrat, and with the support of Senator Jacob K. Javits, a Republican.", 
-            "work and handily defeated a Republican to become the first black woman elected to the State Senate.", 
-            "In citywide elections nine months later, she was re-elected to a full four-year term with the endorsement of the Democratic, Republican and Liberal Parties.", 
-            "An almost life-long Republican, she became an outspoken critic of President Ronald Reagan and supported the candidacy of Walter F. Mondale and Geraldine A. Ferraro in the 1984 presidential race.", 
-            "She added: ''I have worked for scores of Republican candidates, but I'm not going to toe the party line when I have a president who seeks to send me down the time tunnel as a woman.", 
-            "She attended the 1980 Republican National Convention -- visibly pregnant -- with a button supporting abortion rights pinned conspicuously to her lapel.", 
-            "Ms. Wilson is survived by her husband, a Republican political consultant; a daughter, Casey Rose Wilson, of New York City and Los Angeles; a son, Fletcher Todd Wilson, a student at the University of Pennsylvania; her father, Marion Higdon, of Pensacola, Fla.; and a brother, Bruce D. Higdon, also of Pensacola.", 
-            "A few years ago, her sister-in-law said, she left the Republican Party.       ", 
-            "In her zeal to fight gangsta rap, the fiercely partisan Democrat found herself allied with William J. Bennett, the conservative Republican who held top posts in the presidential administrations of Ronald Reagan and George H. W. Bush."
-        ]
+        "height": 114, 
+        "rate": 13, 
+        "start_y": 0, 
+        "id": "mal18"
     }, 
     {
-        "height_mal": 114, 
-        "rate_fem": 11, 
-        "rate_mal": 13, 
-        "heigh_fem": 0, 
-        "id": 19, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "Among the many surgeons he trained was Bill Frist, now the Senate Republican leader, who yesterday called him ''one of the great surgical thinkers.", 
             "In the 1964 presidential election, Mr. Chandler's parents insisted that their newspaper endorse Senator Barry Goldwater, the Republican candidate, and not President Lyndon B. Johnson.", 
             " Caspar W. Weinberger, who held high positions under three Republican presidents and oversaw the biggest and costliest military buildup in peacetime history as Ronald Reagan's secretary of defense, died yesterday in Bangor, Me., after a brief illness.", 
@@ -2490,27 +2567,9 @@
             "Just before the invasion, Mr. Hussein, cigar in hand, appeared on television almost nightly, belittling American forces to small groups of Republican Guard commanders.", 
             "The war plan as described in the 2006 book ''Cobra II: The Inside Story of the Invasion and Occupation of Iraq'' states that while Republican Guard troops were supposed to seal off the approaches to Baghdad, only the Special Republican Guard was permitted inside the capital, again as insurance against a coup."
         ], 
-        "height_fem": 94, 
-        "start_y": 246, 
-        "sentences_fem": [
-            "Besides her husband, a well-known Republican from the Upper East Side of Manhattan, Mrs. Goodman is survived by a son, Randy, of Palo Alto, Calif.; two daughters, Claire Cloud of New York City and Leslie Goodman of Los Angeles; a brother, John Furrer of Vero Beach, Fla.; and six grandchildren.       ", 
-            "Besides her husband, a well-known Republican from the Upper East Side of Manhattan, Mrs. Goodman is survived by a son, Randy, of Palo Alto, Calif.; two daughters, Claire Cloud, of New York City and Leslie Goodman, of Los Angeles; a brother, John Furrer, of Vero Beach, Fla.; and six grandchildren.       ", 
-            "Although he was just as conservative as Ms. Dubrow was liberal, Barry Goldwater, the Republican presidential candidate in 1964, was friendly with Ms. Dubrow, once telling Mr. Dubinsky, ''That's a smart little girl lawyer you've got down here.", 
-            "''What most bothers me in this Republican Congress is how they make it seem a crime for anyone to be poor -- like the poor want to be poor,'' she said in a Washingtonian interview.", 
-            "Active in Republican politics, Ms. Walker ran unsuccessfully for the New York State Senate in 1958 and 1964.", 
-            "'' Her defeat in 1994, coming in a year of sweeping Republican success at the polls nationwide, did not dim her celebrity on the national stage.", 
-            "William P. Clements Jr., the first Republican governor of Texas since Reconstruction, decided not to run for re-election, Ms. Richards challenged a former governor, Mark White, in the Democratic primary and won.", 
-            "She went on to defeat the Republican candidate, Clayton Williams, a wealthy rancher, in the general election after a brutal campaign.", 
-            "Two years later, she underestimated her young Republican challenger from West Texas, George W. Bush, going so far as to refer to him as ''some jerk.", 
-            "In 1990, when the incumbent governor, William P. Clements Jr., decided not to run for re-election, she ran against a former Democratic governor, Mark White, and won the primary, then later fought a particularly brutal campaign against Republican candidate Clayton Williams, a wealthy rancher, and won.", 
-            "Two years later, she underestimated her young Republican challenger from West Texas, going so far as to refer to George W. Bush as ''some jerk,'' a commend that drew considerable criticism.", 
-            "Mrs. Chenoweth-Hage was elected in 1994 as part of the Republican takeover of the House and served three terms, from 1995 to 2001, representing Idaho's First Congressional District.", 
-            "The couple divorced in 1975, and Mrs. Chenoweth moved to Boise, becoming active in politics and serving for a time as executive director of the Idaho Republican Party and then as chief of staff to Representative Steven D. Symms.", 
-            "She scored an upset in the 1994 Republican primary over David H. Leroy, a former state attorney general, and went on to defeat the Democratic incumbent.", 
-            "But in 2004, she used the 24-hour guideline as the basis for a suit against the city, charging that it was illegally detaining protesters at the Republican National Convention.", 
-            "She was a star performer at the 1984 Republican national convention, deriding the Democrats as the ''blame America first'' party.", 
-            "She changed her political affiliation after leaving the Reagan administration and thought hard about seeking the Republican nomination for president.", 
-            "She remained among the most highly regarded members of the Republican establishment, and her voice remained one of the strongest echoes of the Reagan era."
-        ]
+        "height": 114, 
+        "rate": 13, 
+        "start_y": 0, 
+        "id": "mal19"
     }
 ]

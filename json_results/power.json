@@ -19,15 +19,469 @@
         "y_spacing": 165
     }, 
     {
-        "height_mal": 116, 
-        "rate_fem": 15, 
-        "rate_mal": 17, 
-        "heigh_fem": 0, 
-        "id": 0, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
-            "With the rise of Hitler to power, Dr. Nathan fled to the United States, where he joined the faculty of Princeton University in the economics department.", 
+        "sentences": [
+            "On the strength of a classical and rigorous style, Marguerite Yourcenar used a very personal tone to find, thanks to history, the occasion for a strong reflection on morality and power.", 
+            "On the strength of a classical and rigorous style, Marguerite Yourcenar used a very personal tone to find, thanks to history, the occasion for a strong reflection on morality and power.", 
+            "The author Stephen Koch wrote in The Times Book Review in September 1985 that the work ''has riches for anyone interested in history, humanism or the psychology of power.", 
+            "Nora Kaye, a leading American ballerina whose exceptional power as a dramatic dancer made her an international star, died yesterday at her home in Los Angeles after a long illness.", 
+            "Sarah Goddard Power, New York City's deputy assistant secretary of state for human rights and social affairs in 1980 and 1981, died in a fall Tuesday from Burton Tower on the campus of the University of Michigan in Ann Arbor.", 
+            "Mrs. Power, an activist for women's rights and world peace, had been a member of the University of Michigan Board of Regents since 1974.", 
+            "His family gave $3.9 million to build the Power Center for the Performing Arts on the Ann Arbor campus.", 
+            "The university's president, Harold T. Shapiro, said yesterday that Mrs. Power's death was ''a great loss for the university, for the state and for those committed to more progressive social policy.", 
+            "'' From 1966 to 1969, Mrs. Power was executive director of the New York City Commission for the United Nations and Consular Corps in the administration of Mayor John V. Lindsay.", 
+            "Besides her husband, Mrs. Power is survived by a son, Nathan E., at home; her mother, Katharine R. Goddard, of Ann Arbor; a sister, Margery G. Whiteman, of Albany, and two brothers, Russel H. Goddard, of New Haven, and Wendell H. Goddard, of Berkeley, Calif.", 
+            "On any important legislation, such as women's rights or education or dealing with minorities or poor people, she could switch people's votes on the floor through the power of her intellect and her ability to persuade.", 
+            "She was also the editor of ''The Power of Freedom'' (1977).", 
+            "She was born in Denver and graduated from Rollins College in Winter Park, Fla. She contended she never needed speech lessons because she came from ''a long line of preachers and teachers, who taught us early to appreciate the power of words."
+        ], 
+        "height": 102, 
+        "rate": 15, 
+        "start_y": 348, 
+        "id": "fem0"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "'' Her favorite, she said shortly after the end of her career, was a talkie, ''The Power and the Glory,'' which co-starred Spencer Tracy.", 
+            "'' Her favorite, she said shortly after she stopped performing, was a talkie, ''The Power and the Glory,'' which co-starred Spencer Tracy.", 
+            "Known for her dramatic power, Ms. Kaye, who was born in New York City in 1920, was a member of American Ballet Theater from its inception in 1940 until 1951, and again from 1954 to 1959.", 
+            "In Spanish Morocco She married Francisco Franco, then an up-and-coming army lieutenant colonel, on Oct. 22, 1923, and the couple left soon after for Spanish Morocco, where Franco was responsible for much of the conduct of the Riff Wars and where he built the military power base that served his successful uprising against the Republican Government.", 
+            "His family remained in Russia until he could offer them security in the United States, and this separation was particularly painful to Louise, who lost the power of speech for six months by way of unconscious protest.", 
+            "His family remained in the Ukraine until he could offer them security in the United States, and this separation was particularly painful to Louise, who lost the power of speech for six months by way of unconscious protest.", 
+            "Rosalind M. Schwenk, a longtime power in Republican politics in Suffolk County, died Monday in Southampton Hospital on Long Island after suffering a stroke Sunday.", 
+            "Ms. Carter, who was born in Detroit and graduated from the University of Michigan, was a former staff writer for The Reporter magazine and the author of several books, including ''The Road to City Hall: How John V. Lindsay Became Mayor,'' Prentice Hall, 1967, and ''Pickets, Parents and Power,'' Citation Press, 1971."
+        ], 
+        "height": 72, 
+        "rate": 11, 
+        "start_y": 348, 
+        "id": "fem1"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Another book, ''The Power of the Impossible,'' is scheduled for release this year.", 
+            "But the Post survived and prospered, becoming a liberal power in journalism while its powerful competitors collapsed, one by one.", 
+            "But they also said her success was partly attributable to personality traits for which they criticized her and to which she freely confessed: a fondness for gossip and scandal, a fear of becoming poor and a craving for power or, as she called it, influence.", 
+            "''Both women have will power, confidence and a subversive soul sustained by exceptional energy.", 
+            "Communists Grow in Power As the civil war proceeded, the Communist Party, though comparatively small, became more and more powerful in the republican camp, and La Pasionaria was the most influential Spanish Communist.", 
+            "The movie gave Miss Bari, playing a poor dancer who rises to power as a viceroy's consort, her greatest chance by leading a cast of celebrated performers, including Alla Nazimova, Louis Calhern, Blanche Yurka and Akim Tamiroff, but the film was marred by a pompous script and a hurried production schedule."
+        ], 
+        "height": 26, 
+        "rate": 5, 
+        "start_y": 348, 
+        "id": "fem2"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "The beat, on Aug. 23, 1944, was an account by James Reston of secret decisions by four major powers - the United States, the Soviet Union, Britain and China - on the future structure of the United Nations, including the concept of veto power in the Security Council.", 
+            "The Communists defeated the Nationalists and took power in 1949.", 
+            "Like so many great actresses, she may never have possessed a particle of intellectual power, but she had genius before the camera because she was guided by a secret, sublime, infallible instinct to do the right thing in the right way.", 
+            "Dame Eva Turner, a dramatic soprano of extraordinary range and power and later a voice teacher, has died.", 
+            "It told of her four years in Berlin beginning in 1933 when her father, William E. Dodd, was appointed by President Franklin D. Roosevelt as Ambassador to Germany after Adolf Hitler's rise to power.", 
+            "She remained in Iran through the reign of the son of Shah Riza Pahlevi, Shah Mohammed Riza Pahlevi, and left in 1980 after Ayatollah Ruhollah Khomeini came to power.", 
+            "\"She is remembered as one of the greatest women to play the game because of her pioneering style in power tennis."
+        ], 
+        "height": 26, 
+        "rate": 5, 
+        "start_y": 348, 
+        "id": "fem3"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "She moved to other State Department posts through the Administration of President Lyndon B. Johnson and was United States Ambassador to the United Nations Economic, Scientific and Cultural Organization until 1969, when the Republicans took power under President Richard M. Nixon.", 
+            "\" She appeared with Spencer Tracy, Myrna Loy and Clark Gable in \"Test Pilot\" in 1938, with Rosalind Russell and Melvyn Douglas in \"This Thing Called Love\" in 1941 and with Tyrone Power in \"The Eddie Duchin Story\" in 1956.", 
+            "In 1931 she received a doctorate from the University of Frankfurt, where she remained until the Nazis came to power.", 
+            "Grew Up in Poverty Raised in conditions so poor that hunger reportedly left her with lifelong stomach problems, Ms. Jiang grew up to become a beautiful actress, then used her marriage to Mao to reach the apex of power in China and help preside over the brutal persecution and chaos of the Cultural Revolution.", 
+            "She tried to build her own power base and exercised real control over much of Chinese culture, but in the end she owed her authority, and her ability to inspire fear, to her link with Mao.", 
+            "\"What sustains interest in the long run is political power.", 
+            "To many young Chinese, there is not much difference between Ms. Jiang and some of the neo-Maoist hard-liners who remain in power.", 
+            "There is no doubt that the former actress offended other leaders, usually men, with her aggressiveness, and many accused her of using beauty and sex to win power.", 
+            "Apparently because of indignation at the divorce of the second wife and a sense of impropriety that Ms. Jiang was just 24 years old while Mao was 45, party officials reportedly insisted that Mao could marry Ms. Jiang only if she never exercised any political power.", 
+            "Role in Cultural Revolution In the 1960's, as Mao felt his influence waning and as he worried about the Communist Party becoming ossified and corrupted by years in power, he launched the Cultural Revolution.", 
+            "' \" While it might seem strange that the Communist Party leadership could continue to hail Mao during the 1980's while excoriating and imprisoning his widow, the two were not close by the time Ms. Jiang achieved power.", 
+            "Her admirers praised her power to move audiences by making them care for the characters she portrayed."
+        ], 
+        "height": 72, 
+        "rate": 11, 
+        "start_y": 348, 
+        "id": "fem4"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Denied the Ultimate Goal Although Mrs. Yawkey's business adviser and presumptive heir, John Harrington, the president of the JRY Corporation, which holds the Yawkey Red Sox shares, was often mistaken for the real power behind the franchise, those close to the club insisted that Mr. Harrington was merely the prime minister and Mrs. Yawkey was always the queen.", 
+            "The Christian Science Monitor in 1963 said she \"has probably done more than any other woman to contribute to the understanding of the American Indian, his plight, his spiritual power and the impact on him of white civilization.", 
+            "Ms. Kang was not active in political power struggles, but she appeared periodically to greet children or to congratulate the Women's Federation on various achievements.", 
+            "'Nothing Is So Humble' As an artist, Mrs. Dienes had an innately experimental approach to materials and techniques and a lasting faith in the power of the found object.", 
+            "Earlier, Mrs. Hamilton headed the local Urban League for 18 years, starting in 1943, when blacks were largely excluded from power.", 
+            "Why don't you write about the struggle for power and security, and about love, the way others do."
+        ], 
+        "height": 26, 
+        "rate": 5, 
+        "start_y": 348, 
+        "id": "fem5"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "After she came under fire from a number of black officials, Mr. Koch named a deputy with superseding power over her, and she resigned.", 
+            "\" Years later, Mr. Harris reported, \"Her subtlety and power astounded me; I thought she could do anything.", 
+            "Because opera was denied her for most of her career, Miss Anderson's reputation rests on the considerable communicative power that she brought to the recital stage.", 
+            "During World War II, at the Massachusetts Institute of Technology, she helped develop the magnetron into a power source for an aerial navigation system.", 
+            "No country at war today can afford to ignore the tremendous reservoir of woman power.", 
+            "After that success, she became the executive director of the Great Falls Development Corporation and worked to preserve the mills, which were built in the early 1800's and used the water power of the 77-foot-high Great Falls.", 
+            "There she had several solo exhibitions, most recently in 1989, when she presented her oil and acrylic landscapes of towers and power lines superimposed on trees."
+        ], 
+        "height": 34, 
+        "rate": 6, 
+        "start_y": 348, 
+        "id": "fem6"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In 1974, she underscored the finding of an Atomic Energy Commission study of nuclear power plant safety: that the chance of mass destruction from a reactor accident was as unlikely as that of a meteor striking an urban area.", 
+            "\" She also angered environmentalists with her support of nuclear power, unhampered growth and oil supertankers.", 
+            "While Dr. Ray was Governor, the power of her intellect and her skill as a speaker gave her an aura of great competence.", 
+            "The abortion law was revoked when Franco came to power.", 
+            "\" with Tyrone Power (1957), \"Only Two Can Play\" with Peter Sellers (1961), \"The Vine Bridge\" (1965), \"The Witches\" (1990) and \"Hidden Agenda\" (1990).", 
+            "Coming from a politically prominent family, the actress was a passionate anti-Fascist who lost her citizenship and property in 1967 for her aggressive opposition to the junta that held power in Athens for seven years, until 1974.", 
+            "She served in the post until 1989, when her party lost power, and then returned when the party was re-elected in October.", 
+            "A native of Berlin, she received a doctorate at the University of Frankfurt and joined a resistance group shortly after the Nazis came to power in Germany in 1933.", 
+            "\"She sings with power and imagination.", 
+            "Her political power came in large part from the support of the city's poor residents, whom she organized within her Popular Democratic Party.", 
+            "In one speech, she criticized the \"folly of a national policy of discussing manpower in a national emergency as though it were only male power,\" adding that such an attitude put women in the \"category of a national luxury instead of a national asset.", 
+            "In a speech in 1965, Mrs. Roebling said: \"As a woman who for years has competed in the business world, I would be the first to agree that the American woman has almost unbelievable economic power, but American women, like women of all civilized nations, do not use the influence their economic power gives them.", 
+            "\" Mrs. Roebling's own economic power came initially through inheritance, but she increased it vastly once it fell into her hands.", 
+            "No one would ever be able to say, he told her, whether art or medicine had the greater curative power."
+        ], 
+        "height": 86, 
+        "rate": 13, 
+        "start_y": 348, 
+        "id": "fem7"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "She recalled in 1969: \"It was all beauty and it was all power.", 
+            "They kept a car and a pickup truck but permitted no machines on the farm that were not run by human or animal power.", 
+            "In 1951, she took over Kathimerini and Messimvrini, another daily newspaper, as well as the weekly picture magazine Eikones, but closed them all in 1967 when a group of army colonels seized power, instituted censorship and mandated Government-friendly daily reports.", 
+            " Simone Gallimard, a power in the French book-publishing world, died Monday in a clinic in Neuilly, a suburb of Paris.", 
+            "She left Germany shortly after the Hitler regime came to power and completed her medical education in Switzerland.", 
+            "\" Kahn was a power at the Met until a few years before his death in 1934.", 
+            "Selena's father had toured nightclubs across Texas in the 1960's with the original version of Los Dinos but did not achieve wide success until he made young Selena, with her belting vocal power, the lead singer."
+        ], 
+        "height": 34, 
+        "rate": 6, 
+        "start_y": 348, 
+        "id": "fem8"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "TOPS, which stands for Take Off Pounds Sensibly, draws its philosophy from something the 5-foot-2-inch Mrs. Manz, then 40, observed in group sessions intended to prepare women for childbirth: the power of mutual support in helping participants remain within their doctors' guidelines for weight.", 
+            ",\" said Mr. Zanuck, and Tyrone Power got the part in \"LLoyd's of London\" that made him a star.", 
+            "\" Mr. Zanuck said, and Tyrone Power got the part in \"Lloyd's of London\" that made him a star.", 
+            "Unhappiness among female union members with their lack of power within the unions led to the formation in 1974 of the Coalition of Labor Union Women.", 
+            "The idea was to reduce power demand during hot spells and lower the risk of electrical ''brownouts'' and blackouts.", 
+            "The plant used no auxiliary power source but still kept the five-room house in Dover, Mass., cozy through the winter.       ", 
+            "'' She moved on to Hollywood and starred in a down-to-earth role opposite Tyrone Power when he played the canal builder in ''Suez'' (1938).", 
+            "'' In 1939 she married Power.", 
+            "She returned to France for good after a divorce in 1948 from Power, who went on to marry the actress Linda Christian.", 
+            "In 1940 Annabella and Power performed together in the Screen Guild radio production of ''Seventh Heaven,'' and the next year they were onstage together in a summer stock revival of Ferenc Molnar's hit ''Liliom.", 
+            "'' She is survived by a daughter, Anne Werner Power of Boston.       ", 
+            " Guillermina Rico, a lemon peddler who bargained her way to wealth and power as the head of a political machine she forged from the ranks of Mexico City's itinerant vendors, died on Wednesday of a cerebral hemorrhage.", 
+            "Mrs. Rico gained the power to assign the choicest market stalls, for which she charged a quota, and those and other revenues made her wealthy.", 
+            "''She is an actress of individuality and power.", 
+            "In the 1976 interview, she said: ''Historically, the international oil companies often have wielded their vast power selfishly, although their accomplishments have often been beneficial to the world.", 
+            "film studio, settled in Amsterdam after Hitler came to power and was a film distributor when World War II began.", 
+            "She was also the author of \"Going Under\" (1976), a description of the corruption of writers by Soviet power."
+        ], 
+        "height": 64, 
+        "rate": 10, 
+        "start_y": 348, 
+        "id": "fem9"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            " Mary Bancroft, a Boston Brahmin colleen who cut a coquettish swath through 20th-century history, bewitching men of power even as she did brilliant work as an American spy in Switzerland in World War II, died on Jan. 10 at her Fifth Avenue apartment.", 
+            "In his scheme of things she was an extroverted intuitive, one who had experienced such fierce inter-family battles for her affections as a child that power had become her natural element.", 
+            "She had such an instinctive knack for wielding it, he told her, that men seeking or holding power would cherish her advice, as indeed they did.", 
+            "Miss Bancroft was entrusted with translating the manuscript into English (Gisevius wanted it published immediately after the coup), but her real job was to make sure he was not a double agent (she concluded he was not) and then to elicit and pass on the detailed information he supplied about the day-to-day shifts of power and strategy within the German Government.", 
+            "By the time many of them had risen to high positions in the government, Dr. Barbosa, who also maintained friendly relationships with members of other parties, had acquired so much influence that she operated almost as a political boss -- a boss who seemed so blind to her own power that she may not have realized that an off-hand criticism delivered in a private conversation would soon be altering party policy.", 
+            "She was one of the producers of ''45/85,'' a news special about the growth of the United States as a world power since World War II.", 
+            "Sally Bedell Smith, the author of another biography, ''Reflected Glory,'' said in 1996: ''She wanted great wealth and power.", 
+            "Ms. Baker was a mainstay of the Atlantic Records roster of the mid-1950's, applying the fervor of gospel and the bluesy power of Bessie Smith to songs about love and lust like ''Tweedlee Dee.", 
+            "But it was her relationship with Nehru's daughter, Mrs. Gandhi, from the time both were teen-agers that helped her assume a dominant and controversial role in the nation's cultural affairs during the height of Mrs. Gandhi's power in the 1970's and early 80's.", 
+            "''Her main contribution at the institute was to recognize, quickly and early on, the potential and the power of cloning technology,'' he said.", 
+            " Joanie Weston, a strapping power hitter who passed up a promising and respectable future in softball to become the gum-chewing, power-skating, hip-bumping golden girl of Roller Derby, died on May 10 at her home in Hayward, Calif., near San Francisco.", 
+            "Mr. Wittfogel had worked in China in developing his celebrated theory that the construction and control of irrigation canals had concentrated the power of ruling elites and spawned despotism, and Miss Goldfrank joined the staff of his short-lived China project at Columbia and applied his theories in her own continuing writings on Indians.", 
+            "As a Government economist in an era when the New Deal had attracted droves of women to high-level Federal positions, Dr. Keyserling had a lot of company in the corridors of power.", 
+            "In the mid-1930's after the Nazis came to power, her father sent her to Paris, where she became fluent in French.", 
+            "That the competitive history between the two northern Californians was called a rivalry, dubbed the Battle of the Helens by a sometimes frothy news media between the two world wars, was a tribute more to  Jacobs's tenacity and cheerful pluck than to her shot-making power or on-court success against Moody.", 
+            "The match mesmerized 8,000 fans at the Forest Hills Tennis Stadium in Queens on Aug. 26, 1933, pitting the forehand chop, aggressive net play and dogged determination of Jacobs against backcourt precision and waning power of Moody.", 
+            "The German playwright Bertolt Brecht devised the scenario for her ''Circus Scene,'' a depiction of a power struggle between a clown and a lion that can be interpreted as an allegorical attack upon authoritarianism.", 
+            "Miss Goslar, who was not Jewish, despised Hitler and left Germany when the Nazis seized power.", 
+            "She did so with notable success: her recordings as a soprano show her to have a clear timbre and considerable power.", 
+            "With Ms. Meuli, Ms. Carabello also wrote ''The Feminization of Power'' (Fund for the Feminist Majority, 1988).", 
+            "The race in the reconfigured 10th district pitted two party regulars against each other, and Mrs. Kelly, her power base gone, lost to Mr. Celler in the primary.", 
+            "''For me, he was the first writer, the only one who was working politically in the field of language as power.", 
+            "In ''New and Selected Essays'' she wrote, ''One is in despair over the current manifestation of malevolent imbecility and the seemingly invincible power of rapacity, yet finds oneself writing a poem about the trout lilies in the spring woods.", 
+            " Simone Duvalier, who rose from a childhood of poverty and abandonment to become the wife of one Haitian dictator, mother of another and a power in her own right, died of undisclosed causes in a clinic outside Paris on Friday.", 
+            "During the nearly 30 years that her husband, Francois (Papa Doc) Duvalier, and son, Jean-Claude (Baby Doc) Duvalier, dominated the poorest nation in the Western Hemisphere through a combination of brutality, intimidation and guile, Simone Duvalier was often regarded as a power behind the throne.", 
+            "'' She relished the title of First Lady and the power it conferred, and was said by associates to deeply resent having to relinquish that role after Jean-Claude Duvalier married Michele Bennett in a lavish wedding ceremony in 1981.", 
+            "Like her rapacious husband, who systematically looted Haiti's treasury during his years in power, Mrs. Duvalier was reported to be a voodoo adept, and inspired dread among Haiti's poor and illiterate masses.", 
+            "''She had a lot of power, but it wasn't an idyllic marriage,'' said Bernard Diederich, author of a biography of Francois Duvalier.", 
+            "'' During her son's years in power, Simone Duvalier's taste for luxury, exceeded only by that of Michele Bennett, grew even more pronounced, and corruption markedly increased.", 
+            "But when her son was ousted from power in February 1986, Mrs. Duvalier joined him and his wife in exile, first in the French Alps and then in Paris."
+        ], 
+        "height": 138, 
+        "rate": 20, 
+        "start_y": 348, 
+        "id": "fem10"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "'' She covered Russia's war against Finland in 1939, trekked across China with Hemingway in 1940, and became increasingly critical of the United States, which she saw as a ''colonial power,'' eventually settling abroad for good.", 
+            "''They realized the power of the press and have been controlling it ever since,'' she said.", 
+            "'' With the rise of the black power movement and the success of independence movements in Africa and the Caribbean, interest in the Schomburg grew.", 
+            "She also is credited with bringing worldwide attention to the atrocities of Argentina's military regime, which reliquinshed power in 1983.", 
+            "'' Such was her power that when Mr. Martin criticized -- mildly -- her performance in ''Swan Lake'' during the 1959 New York tour, Pravda responded the next day by accusing him and The Times of being ''bent on continuing the cold war.", 
+            "An emotive belter in the tradition of Judy Garland and Barbra Streisand, both of whom were her girlhood idols, Ms. Beechman brought a waifish pathos and a piercing vocal power to her character's signature song, ''Memory.", 
+            "Of her time in the House, Ms. Abzug wrote in a journal that was published in 1972 as ''Bella,'' ''I spend all day figuring out how to beat the machine and knock the crap out of the political power structure.", 
+            "With the Conservatives in power through the 1980's and into the 1990's, Ms. Lestor worked as the opposition's chief spokeswoman on a number of issues, including children and the family, juvenile crime and race relations.", 
+            "Jack Kroll of Newsweek once called her ''a luscious marshmallow sundae of a girl,'' and her ripe figure fit the many period movies like ''Little Old New York'' and ''In Old Chicago'' in which she sang to Don Ameche, Tyrone Power or John Payne from the stage of a saloon.", 
+            "Mr. Ameche lost her to Mr. Power in ''Alexander's Ragtime Band'' and ''In Old Chicago'' but won her affections in ''You Can't Have Everything,'' ''Hollywood Cavalcade,'' ''Lillian Russell'' and ''That Night in Rio.", 
+            "A year later she and Mr. Power were teamed for the last time in ''Rose of Washington Square,'' a fictionalization of the Nicky Arnstein-Fanny Brice story that was later the basis for the Broadway and Hollywood musical ''Funny Girl,'' which starred Barbra Streisand.", 
+            "Ms. Faye had been responsible for Mr. Power's stardom.", 
+            "''A singing actress of both wit and power, she finds bitter humor in the character's distorted sense of self: when she barks her outrageous demands to her lackeys, we see a show business monster who's come a long way from her roots.", 
+            "Galina Brezhnev was never involved in politics but she figured in some major scandals in the last years of Soviet power.", 
+            "She sculptured sound, and it made her concerts some of the most moving experiences in jazz, a mixture of the emotional power of the songs' texts and the sheer joy of her imagination.", 
+            "The book's lack of pretension and its description of ordinary Germans lent it power.", 
+            "She said the singer suffered from aphasia, a condition that severely limits the power to use or understand words, and had grown despondent as the disease progressed.", 
+            "When Fidel Castro seized power in 1959, Miss Parla, by then married to a Batista government official, fled to the United States and settled in Miami.", 
+            "She published two novels in the late 1940's, and in 1950 Doubleday asked her to write a biography of Eva Peron, who with her husband, Juan, was at the peak of power in Argentina.", 
+            "After Juan Peron was thrown out of power, subsequent editions appeared under Ms. Main's real name.", 
+            "It was Mrs. Kissinger -- the practical one in the family -- who decided that they had to leave Germany when Hitler came to power.", 
+            "The lyricism and evocative power she often brought to her books sometimes disguised a toughness that addressed dark themes like poverty, jealousy, violence, sexual vulnerability and prejudice.", 
+            "She was not known for her power as a negotiator but for her perspicacity in reading scripts and in analyzing a play in production."
+        ], 
+        "height": 108, 
+        "rate": 16, 
+        "start_y": 348, 
+        "id": "fem11"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "But the pieces combined a sense of mythic power with a sensitivity to shape that was all their own, achieving a subtlety of expression that belied their monumental scale.", 
+            "The bureau had the power to impose and enforce safety regulations.", 
+            "She first came to the public's attention in 1976, when she argued at a Federal Power Commission hearing in Washington that utility companies should not be allowed to pass along to customers -- many of whom were elderly people with restricted incomes -- the cost of plants that were still under construction and not producing power.", 
+            "Buttressed by absolute power and her considerable fortune, she resisted all calls for modernization of the store's fusty sales practices.", 
+            "In 1990 she spent six months researching and designing more than 300 costumes for the 38-member cast of ''Shogun,'' the muscial based on the James Clavell novel about a shipwrecked 17th-century English navigator who is pivotal in a power struggle among five Japanese overlords.", 
+            "The general, now 83, is charged with ordering torture and other crimes during his years in power, from 1973 to 1990.", 
+            "''Here,'' published in 1995 in France and in 1997 in the United States, just as Mrs. Sarraute's complete works were being reissued in France's legendary Pleiade Series, is as always a novel without plot or characters or perhaps, as suggested by Richard Burgin writing in The Washington Post, ''a poetic essay of ideas'' in which the author pursues ''the power and poverty of words."
+        ], 
+        "height": 34, 
+        "rate": 6, 
+        "start_y": 348, 
+        "id": "fem12"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "''That day I experienced a sense of completeness,'' she told Collier's magazine, ''an extraordinary sensation of power.", 
+            "She was one of several postwar artists who, despite Abstract Expressionism's unanimous success, persisted in the notion that abstraction and representation were not mutually exclusive states, that one could paint from reality in a way that gave form, color and paint a power all their own.", 
+            "Ms. Howard's circle included Tyrone Power, Vivien Leigh, Laurence Olivier, Humphrey Bogart, Lauren Bacall, Jennifer Jones, Merle Oberon, Gary Cooper, Marlene Dietrich, Greta Garbo, Judy Garland and Marilyn Monroe -- impressive company for the daughter of a traveling salesman.", 
+            "Linda Christian can be seen being fitted for her wedding gown to marry Tyrone Power.", 
+            "She opposed nuclear power development on Long Island and a proposed bridge across Long Island Sound from Oyster Bay to Rye.", 
+            "'' To keep her fertile mind active, Ms. Trahey also gave lectures to professional women's organizations and wrote scores of magazine articles, novels, humorous pamphlets, a play and a self-help book called ''Jane Trahey on Women & Power: Who's Got It.", 
+            "'' In addition to ''The Farmer's Daughter,'' in which she played an effervescent Swedish-born maid who runs for Congress, she appeared in nearly 100 films, often in the arms of such matinee idols as Clark Gable, Spencer Tracy, Tyrone Power or Cary Grant.", 
+            "Around 9 a.m., the expectant standing-room ticket buyers would return, and Ms. Quinn began barking commands with a vocal power that many a hefty dramatic soprano would covet.", 
+            "Within months of being driven cross-country by her widowed mother, the owner of a tourist camp outside their hometown, Canton, Ms. Peters was chosen as the female lead in the lavish epic ''Captain from Castille,'' opposite Tyrone Power.", 
+            "She was regarded as a pioneering figure in the world of journalism, especially because she was working at a time when few women held positions of power within the industry.", 
+            "She won an Emmy in 1993 for a young people's anti-smoking program, ''Know the Facts: Keep Your Power,'' and wrote and produced a traveling school program for the American Heart Association.", 
+            "She was regarded as a pioneer in journalism, especially because she worked at a time when few women held positions of power in the industry.", 
+            "Sybil Halpern was born on Oct. 6, 1941, in New York City to Jewish parents who had fled Austria when the Nazis came to power.", 
+            "Mrs. Bandaranaike's final act was to vote in a parliamentary election she hoped would return the family's party to power leading a governing coalition known as the People's Alliance.", 
+            "Mrs. Bandaranaike rose to power in 1960 as a bereaved wife and mother of three, just a year after her husband, Solomon, then prime minister, was assassinated by a Buddhist monk.", 
+            "Much of the talk was devoted to ways of merging the concept of black art with the political concept of black power.", 
+            "Exercising her power as first lady, Eva Duarte Peron effectively prevented any studio in Argentina from hiring Ms. Lamarque.", 
+            "Much of the talk was devoted to ways of merging black art with the political concept of black power."
+        ], 
+        "height": 80, 
+        "rate": 12, 
+        "start_y": 348, 
+        "id": "fem13"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "And, in a letter, she wrote that she was beginning to feel that Hitler was ''a very great man, like an inspired religious leader -- and as such rather fanatical -- but not scheming, not selfish, not greedy for power.", 
+            "She said later that he had been ''used'' by the Nazis but that he had been genuinely ''astonished and impressed by the rapid growth of German air power,'' while also recognizing the danger it posed.", 
+            "And Dr. Metlitzki herself left Eastern Europe just as the Nazis were coming to power and lost members of her family to the Holocaust.", 
+            "For generations, the Lobedu were left unmolested by more powerful neighbors, the Zulu and Swazi, for fear of their queens' power over the rains.", 
+            "'' Meeting the Elite In time, as Mrs. Graham became more comfortable with her ability to exercise power, she took trips to confer with foreign leaders, usually accompanied by one of the reporters and her friend Meg Greenfield, who was editor of the editorial page of The Post and a columnist for Newsweek.", 
+            "'' In her later work, she wrote of an increasing antagonism toward older people for occupying ''a growing number of power positions,'' and she urged fellow social scientists to explore ways to avoid such resentment.", 
+            "In her poem ''The Bull Terrier,'' she wrote: Their legs and backs Should seem to be Merely the motive Power for the low Broad, implacable Jaw.", 
+            "That's in the hands of certain people on the senior staff, who have never really accepted that there is a political power of women and that has to be addressed.", 
+            "The mother is the last to leave the stage, a moment that was tailor-made for Ms. Foster's quiet power.", 
+            "The odd experiences she described -- which included shopping with Liszt (he was interested in the price of bananas) and watching television with Chopin (he was appalled) -- found a resonant audience in the era of the Beatles and flower power.", 
+            "He used antique tools because the house had no electricity to plug in power tools.", 
+            "So she indulged in a momentary power trip, something she says she avoided in two years of playing peacemaker among 18 colleagues.", 
+            "The budget now goes to the Nassau Interim Finance Authority, the state chaperon, which has the power to take over the county's finances if it does not accept the budget."
+        ], 
+        "height": 50, 
+        "rate": 8, 
+        "start_y": 348, 
+        "id": "fem14"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In 1992, Mr. Holden reviewed a Peggy Lee performance in New York for The Times and wrote that ''her will power, musicality and professionalism enable her to project a fair degree of the old magic.", 
+            "''Bertrand Russell has written that a child dreams about power as grown-ups dream sexual wish dreams,'' Mrs. Lindgren said in a 1985 interview.", 
+            "''This is a child who has power.", 
+            "' '' ''She has power, but she never misuses that power,'' Ms. Lindgren said, ''which I think is the most splendid thing, and the most difficult.", 
+            "The Social Democrats, in power for more than 40 years, were defeated, and tax cuts followed, events Mrs. Lindgren was sometimes credited with bringing about.", 
+            " Julia Phillips, the Hollywood producer who turned her rage at the stars and power brokers into the best-selling chronicle ''You'll Never Eat Lunch in This Town Again,'' died Tuesday at her apartment in West Hollywood.", 
+            "'' The breakup of her marriage, drugs and a series of sour relationships with men, along with being elbowed out of the power loop in the making of ''Close Encounters of the Third Kind,'' pushed her over the edge.", 
+            "The Mann family had left Germany after Hitler came to power, moving first to Switzerland and, in 1938, to the United States.", 
+            "Having molded dozens of top-flight soloists, she also became an important power broker in the music business.", 
+            "''It isn't only your high position that matters; it is the fact that the vast majority of people think of you as a person who would speak the kindly word, and, if it fell within your power, would take the cup of hot soup to the needy person.", 
+            "''Women must know that the strongest power in the world is economic power,'' she said.", 
+            "She was, he said, one of the few American actors with the depth and power for that role.", 
+            "The young Marion D\u00f6nhoff studied economics in Frankfurt-on-Main, where Nazi sympathizers called her the red countess because of her defiance once they gained power in 1933.", 
+            "In recent years, she enjoyed the reception she received at memorabilia shows, said Eric Danville, author of ''The Complete Linda Lovelace'' (Power Process Publishing, 2001).", 
+            "She attended drama school in Moscow as a girl, and escaped to Berlin with her mother when the Communists came to power in 1917.", 
+            "As parties rustled silkenly in Jo Copeland's Park Avenue living room -- guests might include Joan Crawford or Tyrone Power -- Lois and her brother were expected to remain in their rooms with their supper trays, blissfully unseen and unheard.", 
+            "But the unions, aroused by her efforts to curb their power, cut short her rise.", 
+            "The election brought Clement Attlee to power and led to the creation of the National Health Service and the nationalization of large swaths of British industry.", 
+            "''The old idea was that history was about kings and popes and wars; people, yes, but only the few who held dazzling power,'' she wrote in her last regular column for The Times at the end of 1990.", 
+            "She said then that she had lost only one confrontation, when a power company strung lines near the field.", 
+            "As the artists' reputations -- and the prices for their work -- rebounded, art critics and intellectuals began to resent Mrs. Olmedo's huge hoard of Riveras and Kahlos and her power over the artists' legacies."
+        ], 
+        "height": 102, 
+        "rate": 15, 
+        "start_y": 348, 
+        "id": "fem15"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In one of her first, ''The Comedy of Power'' (1977), she recounted her experience in government.", 
+            "She was the author of ''Women in New Asia: From Pain to Power,'' published in Britain in 2000 and distributed here by St. Martin's Press.", 
+            "From 1946 to 1950 she worked for the Tennessee Valley Authority, designing power service buildings and visitors' facilities.", 
+            "In Derek Wilson's book ''Rothschild: the Wealth and Power of a Dynasty,'' the baron said his wife was more Rothschild than the Rothschilds.", 
+            "Miss Barbieri, Mr. Bjorling (in the title role) and Mr. Siepi, making his debut as Philip II, appeared in what Olin Downes of The New York Times described as an occasion that revealed afresh ''the melodic opulence and dramatic power of Verdi's genius.", 
+            "News reports suggested she had become intoxicated with her own power.", 
+            "By the time the Khmer Rouge won power in 1975 and undertook the revolution that led to the deaths of 1.7 million people, she was incapacitated by her illness.", 
+            "But in 1960, a year after Fidel Castro took power in Cuba, she was touring Mexico with La Sonora Matancera and decided not to return to Cuba.", 
+            " Elisabeth Welch, an expatriate cabaret singer who mixed elegant phrasing and emotive power to craft extraordinary interpretations of the songs of America's Jazz Age and Britain's musical stage, died on Tuesday at a nursing home outside London.", 
+            " Frances Stevens Reese, a founder and chairwoman emeritus of the environmental group Scenic Hudson and a veteran of the fight to keep a power plant from being built on Storm King Mountain, died last Wednesday in Valhalla, N.Y. She was 85 and lived in Hughsonville, a village in Dutchess County, N.Y. She was fatally injured in a car accident on Wednesday on Route 9 near Cold Spring when her driver lost control of the car and struck a utility pole, according to the Putnam County sheriff's office.", 
+            "Their immediate cause was to forestall a projected dig for the world's largest hydroelectric power plant, which would have forever changed the dramatic face of Storm King Mountain, looming above the Hudson in Orange County.", 
+            "Her little band won legal standing in 1965 to take on the Federal Power Commission and the developer, Consolidated Edison.", 
+            "Ms. Crozier was one of the most visible concert organists of the last half-century and was chosen as one of the players to christen the new organ at Philharmonic Hall -- now called Avery Fisher Hall -- in 1962, along with E. Power Biggs and Virgil Fox.", 
+            ") It was also around this time, one year before Hitler's rise to power, that she first heard the Nazi leader speak at a rally.", 
+            "'' At their first meeting in 1932, though, she said she was most struck by his informality and she quoted him telling her, ''Once we come to power, you must make my films.", 
+            "When the Social Democrats regained power in 1994, she was named environment minister.", 
+            "Other reviews suggested that the documentary's power came from a mother's willingness to reject her daughter and then rationalize it.", 
+            "Yet historians have documented the murderous path that Chiang Kai-shek led in his efforts to win, then keep, and ultimately lose power.", 
+            "Soong Mei-ling's rise to power began when she married Chiang Kai-shek in an opulent ceremony in Shanghai in 1927, bringing together China's star military man with one of the nation's most illustrious families.", 
+            "Although that hope eventually faded, American support for Taiwan remained strong for years, delaying Washington's recognition of Beijing as the capital of China until 1979, three decades after the Communists had seized power.", 
+            "Although that hope eventually faded, American support for Taiwan remained strong for years, delaying Washington's recognition of Beijing as the capital of China until 1979, three decades after the Communists seized power.", 
+            "''Loves power, eats up publicity and flattery, pretty weak on her history.", 
+            "'' Soong Mei-ling's rise to power began when she married Chiang in an opulent ceremony in Shanghai in 1927, bringing together China's star military man with one of the nation's most illustrious families.", 
+            "A Telling Ditty Today, Chinese still remember the three sisters with a telling ditty: ''One loved money, one loved power, one loved China,'' referring respectively to Ai-ling, Mei-ling and Qing-ling.", 
+            "They married in 1934, as Hitler came to power in Berlin.", 
+            "'' That year she joined women who were top executives across the corporate spectrum in the Committee of 200, founded as a power base for women in business.", 
+            "''Call that power, if you want,'' the woman said.", 
+            "'' Born Gisela Peiper in Berlin, she joined the resistance movement after Hitler came to power and eventually fled Germany, arriving in the United States in 1941.", 
+            "''Louise had so much power and because she and Carmel Snow, the editor of Harper's Bazaar, were close, Louise was able to get whom she wanted, and she asked for Mary Jane a lot,'' said Mr. Solero, who estimates that Mrs. Russell modeled for about 30 percent of Dahl-Wolfe's photos."
+        ], 
+        "height": 168, 
+        "rate": 24, 
+        "start_y": 348, 
+        "id": "fem16"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In the early 1990's she had two mild strokes, which affected her mental stamina and power of concentration, but she continued to write.", 
+            "'' To spend time with Miss Buck was to feel the evocative power of a place that has all but vanished from the American landscape, a fragile holdover where it was possible to encounter wooden butter churns, hobnail boots, copper kettles for making sausage and apple butter and hoops for a Conestoga wagon in the rafters.", 
+            "Despite their success, the photographers closed their studio the same year, shortly after Hitler came to power.", 
+            "Mrs. Alsop herself suggested that successful Washington get-togethers involve a chimerical brew of power, showmanship and timing.", 
+            "Throughout her work she contrasted the immense power of technology and corporations with the plight of individuals.", 
+            "By the time the blacklist's power faded, Ms. Chaney was entrenched as a stage actress."
+        ], 
+        "height": 26, 
+        "rate": 5, 
+        "start_y": 348, 
+        "id": "fem17"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Ms. Williams became a columnist in 2000, after more than a decade of writing lengthy profiles on Washington power brokers, including Vice President Al Gore and the Democratic diplomat Clark Clifford.", 
+            "For instance, the villains in her most popular series, ''Witch World,'' comprising about 30 volumes, are the females who think falsely that they have to remain virginal to retain their power.", 
+            "Reviewing her memoir, ''Happy Days,'' in The New York Times Book Review, Delia Ephron called it ''heartbreaking,'' adding: ''There is no physical cruelty in this tale, just the awesome power of withheld love.", 
+            "Her burgeoning concert career was, however, abruptly curtailed by Hitler's rise to power, after which Jewish pianists could no longer play German music, although Arturo Toscanini set up some recitals for her in Italy.", 
+            "''She was, essentially, the power behind the throne,'' he said.", 
+            " Sue Gunter, a pioneering women's college basketball coach who turned Louisiana State University into a national power in a career spanning four decades, died yesterday at her home in Baton Rouge, La.", 
+            "Immensely charismatic, bawdy, unpretentious and funny, she became an integral part of Mr. Blair's rejuvenated Labor Party, helping lead it into power in the 1997 general election.", 
+            "''It was as if she would lull them into an affirmation of their own arrogance, causing them to relax as she appeared to wander aimlessly off into and around left field, until she suddenly threw a curveball with so much skill and power it would knock them off their chair.", 
+            "She put the power of the United Federation of Teachers, the New York local, with 110,000 members at the time, behind the election of David N. Dinkins as mayor in 1989, an effort that helped him garner white votes.", 
+            "Ms. Yard spent so much time pounding unforgiving marble in various corridors of power that she developed permanent nerve damage in her feet, The Washington Post reported in 1987.", 
+            "The women called the quilt ''Black Power.", 
+            "Ms. Hays also wrote ''The Real Thing: Truth and Power at the Coca-Cola Company'' (Random House, 2004)."
+        ], 
+        "height": 72, 
+        "rate": 11, 
+        "start_y": 348, 
+        "id": "fem18"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "As a columnist for The Daily News, and later for The Post, she had few qualms about needling those in power.", 
+            "'' In sheer power, Ms. Nilsson's high notes were sometimes compared to those of the Broadway belter Ethel Merman.", 
+            "She called upon American women ''to unite and form a solid block of women power to fight the three great evils of racism, poverty and war.", 
+            "Ms. Dai was a familiar figure in international dance circles, first as a dancer and choreographer who performed in London in the 1930's and in New York in the 40's, then as the guiding force in China's first state-sponsored national ballet institutions after the Communist government came to power in 1949.", 
+            " Octavia E. Butler, an internationally acclaimed science fiction writer whose evocative, often troubling, novels explore far-reaching issues of race, sex, power and, ultimately, what it means to be human, died on Friday after a fall near her home in Lake Forest Park, Wash. She was 58.", 
+            "But in reality Mrs. Marcos was financing the center to help build her political power base.", 
+            "''If more qualified people are up to the same thing, more power to them.", 
+            "tournament, her team was routed by Tennessee, a perennial national power, 102-54, and finished 20-11.", 
+            "She also counseled disadvantaged young people, and her colleagues noted that she could calm the angriest of them through the sheer power of her presence, making her ordinarily soft voice even softer -- yet always firm -- as the counseling session proceeded.", 
+            " Evelyn Dubrow, organized labor's most prominent lobbyist at the time of its greatest power in her four decades with the nation's largest apparel union, died on Tuesday in Washington.", 
+            "'' Ms. Allyson was always modest about her star power.", 
+            "The family moved to Berlin in 1933, the year Hitler came to power.", 
+            "In July 1964, she announced that she and others from the tiny Mississippi Freedom Democratic Party would challenge the power of the segregationist politicians, like Mr. Stennis, who represented her state.", 
+            "Ms. Juda began studying art history, but the family, which was Jewish, moved to Palestine shortly after Hitler came to power.", 
+            "'' Mr. Ovshinsky's NiMH battery was not the ideal power source for a vehicle, though it gained common use in products like cellphones and digital cameras.", 
+            "A champion of civil rights for minorities, women and gay men and lesbians, Ms. Richards first ran for governor in 1990 calling for a ''New Texas'' that would offer more opportunity and power to those groups.", 
+            "In the early 1960's, she and a handful of other young Democrats founded North Dallas Democratic Women in an effort to give more power to women in the party.", 
+            "'' At the height of his power and celebrity in 1972, she had coaxed him to admit that at times he felt like ''the cowboy who leads the wagon train by riding ahead alone on his horse, the cowboy who rides all alone into the town.", 
+            "'' she asked Ayatollah Khomeini in 1979, not long after he came to power in Iran.", 
+            "The sixth of nine children born to Joseph P. Kennedy and Rose Elizabeth Fitzgerald, Mrs. Lawford, like her siblings, had a well-honed understanding of politics and of the power of appearances.", 
+            "The sixth of nine children born to Joseph Kennedy and Rose Elizabeth Fitzgerald Kennedy, Mrs. Lawford, like her siblings, had a well-honed understanding of politics and of the power of appearances.", 
+            "For years she served as his secretary, and he was named a key deputy to Mao after the Communists took power in 1949.", 
+            "No woman had ever been so close to the center of presidential power without actually residing in the White House.", 
+            "When Mr. Reagan came to office in 1981, 51 of the committee's members won positions of significant power in his administration.", 
+            "Power, Ms. Kirkpatrick said in a 1996 interview, is based not merely on guns or money but on the strength of personal conviction."
+        ], 
+        "height": 108, 
+        "rate": 16, 
+        "start_y": 348, 
+        "id": "fem19"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
             "With the rise of Hitler to power, Dr. Nathan fled to the United States, where he joined the faculty of Princeton University in the economics department.", 
             "Forced to Make Compromises But the power of rural interests in Congress was in a long, historic decline that coincided with his tenure.", 
             "His own political influence, derived from incumbency and his Southern power base, waned with the farm bloc and, even as he held the chairmanship, he was forced to make compromises with urban Democrats.", 
@@ -126,33 +580,14 @@
             "Edgar C. Campbell Sr., a court clerk and former City Council member who was one of the first blacks to wield political power in Philadelphia, died Wednesday.", 
             "Their rise to power was relatively rapid."
         ], 
-        "height_fem": 102, 
-        "start_y": 236, 
-        "sentences_fem": [
-            "On the strength of a classical and rigorous style, Marguerite Yourcenar used a very personal tone to find, thanks to history, the occasion for a strong reflection on morality and power.", 
-            "On the strength of a classical and rigorous style, Marguerite Yourcenar used a very personal tone to find, thanks to history, the occasion for a strong reflection on morality and power.", 
-            "The author Stephen Koch wrote in The Times Book Review in September 1985 that the work ''has riches for anyone interested in history, humanism or the psychology of power.", 
-            "Nora Kaye, a leading American ballerina whose exceptional power as a dramatic dancer made her an international star, died yesterday at her home in Los Angeles after a long illness.", 
-            "Sarah Goddard Power, New York City's deputy assistant secretary of state for human rights and social affairs in 1980 and 1981, died in a fall Tuesday from Burton Tower on the campus of the University of Michigan in Ann Arbor.", 
-            "Mrs. Power, an activist for women's rights and world peace, had been a member of the University of Michigan Board of Regents since 1974.", 
-            "His family gave $3.9 million to build the Power Center for the Performing Arts on the Ann Arbor campus.", 
-            "The university's president, Harold T. Shapiro, said yesterday that Mrs. Power's death was ''a great loss for the university, for the state and for those committed to more progressive social policy.", 
-            "'' From 1966 to 1969, Mrs. Power was executive director of the New York City Commission for the United Nations and Consular Corps in the administration of Mayor John V. Lindsay.", 
-            "Besides her husband, Mrs. Power is survived by a son, Nathan E., at home; her mother, Katharine R. Goddard, of Ann Arbor; a sister, Margery G. Whiteman, of Albany, and two brothers, Russel H. Goddard, of New Haven, and Wendell H. Goddard, of Berkeley, Calif.", 
-            "On any important legislation, such as women's rights or education or dealing with minorities or poor people, she could switch people's votes on the floor through the power of her intellect and her ability to persuade.", 
-            "She was also the editor of ''The Power of Freedom'' (1977).", 
-            "She was born in Denver and graduated from Rollins College in Winter Park, Fla. She contended she never needed speech lessons because she came from ''a long line of preachers and teachers, who taught us early to appreciate the power of words."
-        ]
+        "height": 116, 
+        "rate": 17, 
+        "start_y": 0, 
+        "id": "mal0"
     }, 
     {
-        "height_mal": 162, 
-        "rate_fem": 11, 
-        "rate_mal": 23, 
-        "heigh_fem": 0, 
-        "id": 1, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "'' ''As a socialist scientist, university teacher, Communist and loyal friend of the Soviet Union,'' it said of his service in East Germany, ''he participated for two decades, successfully and creatively, in the development of the power industry.", 
             "It was a play known as KF-79, a hidden-ball trick that depended on deception rather than power.", 
             "At a time when the Rose Bowl was the only major bowl game and Stanford was a perennial power, the Columbia victory was widely acclaimed as an upset.", 
@@ -284,28 +719,14 @@
             "Tribulations of Local 560 Although he became a vice president of the International Brotherhood of Teamsters and a top associate of Mr. Hoffa in the 70's, his longtime base of power was the 13,000-member Local 560, with headquarters in Union City, N.J.", 
             "As Secretary of the newly organized Department of the Air Force in the Truman Administration, he championed the building of American air power."
         ], 
-        "height_fem": 72, 
-        "start_y": 266, 
-        "sentences_fem": [
-            "'' Her favorite, she said shortly after the end of her career, was a talkie, ''The Power and the Glory,'' which co-starred Spencer Tracy.", 
-            "'' Her favorite, she said shortly after she stopped performing, was a talkie, ''The Power and the Glory,'' which co-starred Spencer Tracy.", 
-            "Known for her dramatic power, Ms. Kaye, who was born in New York City in 1920, was a member of American Ballet Theater from its inception in 1940 until 1951, and again from 1954 to 1959.", 
-            "In Spanish Morocco She married Francisco Franco, then an up-and-coming army lieutenant colonel, on Oct. 22, 1923, and the couple left soon after for Spanish Morocco, where Franco was responsible for much of the conduct of the Riff Wars and where he built the military power base that served his successful uprising against the Republican Government.", 
-            "His family remained in Russia until he could offer them security in the United States, and this separation was particularly painful to Louise, who lost the power of speech for six months by way of unconscious protest.", 
-            "His family remained in the Ukraine until he could offer them security in the United States, and this separation was particularly painful to Louise, who lost the power of speech for six months by way of unconscious protest.", 
-            "Rosalind M. Schwenk, a longtime power in Republican politics in Suffolk County, died Monday in Southampton Hospital on Long Island after suffering a stroke Sunday.", 
-            "Ms. Carter, who was born in Detroit and graduated from the University of Michigan, was a former staff writer for The Reporter magazine and the author of several books, including ''The Road to City Hall: How John V. Lindsay Became Mayor,'' Prentice Hall, 1967, and ''Pickets, Parents and Power,'' Citation Press, 1971."
-        ]
+        "height": 162, 
+        "rate": 23, 
+        "start_y": 0, 
+        "id": "mal1"
     }, 
     {
-        "height_mal": 146, 
-        "rate_fem": 5, 
-        "rate_mal": 21, 
-        "heigh_fem": 0, 
-        "id": 2, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "A specialist in military affairs, Mr. Gervasi wrote several nonfiction works, including ''The Myth of Soviet Military Supremacy'' and the two-volume ''Arsenal of Democracy,'' a study of American military power.", 
             "Although he never became head of the Communist Party, the country's top post, Mr. Cyrankiewicz (pronounced tsee-rahn-KEH-vitch) stayed in the top power ranks for almost a quarter of a century.", 
             "Long Island faces a paradox of power, political and electrical, of national consequence.", 
@@ -453,26 +874,14 @@
             "Soon, a power struggle broke out, and Mr. Ahidjo was accused of plotting against the Government.", 
             "Former New York State Assembly Speaker Stanley Steingut, the Brooklyn Democrat who was a longtime power in state politics, died early yesterday at the Tisch-University Hospital."
         ], 
-        "height_fem": 26, 
-        "start_y": 312, 
-        "sentences_fem": [
-            "Another book, ''The Power of the Impossible,'' is scheduled for release this year.", 
-            "But the Post survived and prospered, becoming a liberal power in journalism while its powerful competitors collapsed, one by one.", 
-            "But they also said her success was partly attributable to personality traits for which they criticized her and to which she freely confessed: a fondness for gossip and scandal, a fear of becoming poor and a craving for power or, as she called it, influence.", 
-            "''Both women have will power, confidence and a subversive soul sustained by exceptional energy.", 
-            "Communists Grow in Power As the civil war proceeded, the Communist Party, though comparatively small, became more and more powerful in the republican camp, and La Pasionaria was the most influential Spanish Communist.", 
-            "The movie gave Miss Bari, playing a poor dancer who rises to power as a viceroy's consort, her greatest chance by leading a cast of celebrated performers, including Alla Nazimova, Louis Calhern, Blanche Yurka and Akim Tamiroff, but the film was marred by a pompous script and a hurried production schedule."
-        ]
+        "height": 146, 
+        "rate": 21, 
+        "start_y": 0, 
+        "id": "mal2"
     }, 
     {
-        "height_mal": 116, 
-        "rate_fem": 5, 
-        "rate_mal": 17, 
-        "heigh_fem": 0, 
-        "id": 3, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "Dr. Peter's principle appealed to middle-management bureaucrats whose shaky pretensions to power the book unmasked.", 
             "He fled to England in 1933 when Hitler came to power and taught at the University of London until his retirement in 1957.", 
             "But he proved to be a lackluster campaigner and he was easily defeated by Mr. Rockefeller, a long-entrenched power in state politics.", 
@@ -611,27 +1020,14 @@
             "But Stalin came into power, and, he wrote, it was clear \"that Stalin was not a man with whom you could do business.", 
             "After the nuclear power plant leak in 1986 at Chernobyl, he dispatched an international group of physicians to deliver medicine and medical care."
         ], 
-        "height_fem": 26, 
-        "start_y": 312, 
-        "sentences_fem": [
-            "The beat, on Aug. 23, 1944, was an account by James Reston of secret decisions by four major powers - the United States, the Soviet Union, Britain and China - on the future structure of the United Nations, including the concept of veto power in the Security Council.", 
-            "The Communists defeated the Nationalists and took power in 1949.", 
-            "Like so many great actresses, she may never have possessed a particle of intellectual power, but she had genius before the camera because she was guided by a secret, sublime, infallible instinct to do the right thing in the right way.", 
-            "Dame Eva Turner, a dramatic soprano of extraordinary range and power and later a voice teacher, has died.", 
-            "It told of her four years in Berlin beginning in 1933 when her father, William E. Dodd, was appointed by President Franklin D. Roosevelt as Ambassador to Germany after Adolf Hitler's rise to power.", 
-            "She remained in Iran through the reign of the son of Shah Riza Pahlevi, Shah Mohammed Riza Pahlevi, and left in 1980 after Ayatollah Ruhollah Khomeini came to power.", 
-            "\"She is remembered as one of the greatest women to play the game because of her pioneering style in power tennis."
-        ]
+        "height": 116, 
+        "rate": 17, 
+        "start_y": 0, 
+        "id": "mal3"
     }, 
     {
-        "height_mal": 94, 
-        "rate_fem": 11, 
-        "rate_mal": 14, 
-        "heigh_fem": 0, 
-        "id": 4, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "In the late 1950's, he was a proponent of limiting the power of legislators to raise taxes and urged adoption of laws requiring voter approval of all tax increases by state and local governments beyond a certain level.", 
             "A moderate conservative, he developed a reputation as a man with the power to make or break political candidates.", 
             " Fred Schmidt, a physicist on the Manhattan Project, which developed the atomic bomb, and an expert on energy policy and nuclear power, died of cancer on Jan. 17 in Seattle.", 
@@ -731,32 +1127,14 @@
             "In recent years, he was an ardent foe of nuclear arms and power.", 
             "Among his chief legislative achievements were Federal aid for sewage treatment to reduce water pollution, the St. Lawrence Seaway that opened the Great Lakes to international shipping, the Niagara River power project and money for the interstate highway system."
         ], 
-        "height_fem": 72, 
-        "start_y": 266, 
-        "sentences_fem": [
-            "She moved to other State Department posts through the Administration of President Lyndon B. Johnson and was United States Ambassador to the United Nations Economic, Scientific and Cultural Organization until 1969, when the Republicans took power under President Richard M. Nixon.", 
-            "\" She appeared with Spencer Tracy, Myrna Loy and Clark Gable in \"Test Pilot\" in 1938, with Rosalind Russell and Melvyn Douglas in \"This Thing Called Love\" in 1941 and with Tyrone Power in \"The Eddie Duchin Story\" in 1956.", 
-            "In 1931 she received a doctorate from the University of Frankfurt, where she remained until the Nazis came to power.", 
-            "Grew Up in Poverty Raised in conditions so poor that hunger reportedly left her with lifelong stomach problems, Ms. Jiang grew up to become a beautiful actress, then used her marriage to Mao to reach the apex of power in China and help preside over the brutal persecution and chaos of the Cultural Revolution.", 
-            "She tried to build her own power base and exercised real control over much of Chinese culture, but in the end she owed her authority, and her ability to inspire fear, to her link with Mao.", 
-            "\"What sustains interest in the long run is political power.", 
-            "To many young Chinese, there is not much difference between Ms. Jiang and some of the neo-Maoist hard-liners who remain in power.", 
-            "There is no doubt that the former actress offended other leaders, usually men, with her aggressiveness, and many accused her of using beauty and sex to win power.", 
-            "Apparently because of indignation at the divorce of the second wife and a sense of impropriety that Ms. Jiang was just 24 years old while Mao was 45, party officials reportedly insisted that Mao could marry Ms. Jiang only if she never exercised any political power.", 
-            "Role in Cultural Revolution In the 1960's, as Mao felt his influence waning and as he worried about the Communist Party becoming ossified and corrupted by years in power, he launched the Cultural Revolution.", 
-            "' \" While it might seem strange that the Communist Party leadership could continue to hail Mao during the 1980's while excoriating and imprisoning his widow, the two were not close by the time Ms. Jiang achieved power.", 
-            "Her admirers praised her power to move audiences by making them care for the characters she portrayed."
-        ]
+        "height": 94, 
+        "rate": 14, 
+        "start_y": 0, 
+        "id": "mal4"
     }, 
     {
-        "height_mal": 124, 
-        "rate_fem": 5, 
-        "rate_mal": 18, 
-        "heigh_fem": 0, 
-        "id": 5, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "Another stumbling block was that no one was entirely certain what the Chancellor's power would be over top administrators at the city's four four-year colleges -- City, Hunter, Brooklyn and Queens -- and two-year community colleges in the Bronx, Queens and Staten Island.", 
             "Entered Politics in 1954 Born in New York, Mr. Mackell (his name rhymed with tackle) attended college when not on duty at his first job as a power maintainer in the subways.", 
             "\" \"The Court used to the full its extraordinary power to lay down the fundamental rules of our national life,\" Mr. Lewis wrote.", 
@@ -863,26 +1241,14 @@
             ") He was short and physically unimposing, he generally avoided night life, and his idea of a power lunch was orange juice and cereal in the Rose Room at the Algonquin Hotel.", 
             "Mr. Arnall also advocated setting up a new state pardon and parole board to \"clean up the pardon racket,\" removing the Governor from state boards that gave him \"dictatorial\" power."
         ], 
-        "height_fem": 26, 
-        "start_y": 312, 
-        "sentences_fem": [
-            "Denied the Ultimate Goal Although Mrs. Yawkey's business adviser and presumptive heir, John Harrington, the president of the JRY Corporation, which holds the Yawkey Red Sox shares, was often mistaken for the real power behind the franchise, those close to the club insisted that Mr. Harrington was merely the prime minister and Mrs. Yawkey was always the queen.", 
-            "The Christian Science Monitor in 1963 said she \"has probably done more than any other woman to contribute to the understanding of the American Indian, his plight, his spiritual power and the impact on him of white civilization.", 
-            "Ms. Kang was not active in political power struggles, but she appeared periodically to greet children or to congratulate the Women's Federation on various achievements.", 
-            "'Nothing Is So Humble' As an artist, Mrs. Dienes had an innately experimental approach to materials and techniques and a lasting faith in the power of the found object.", 
-            "Earlier, Mrs. Hamilton headed the local Urban League for 18 years, starting in 1943, when blacks were largely excluded from power.", 
-            "Why don't you write about the struggle for power and security, and about love, the way others do."
-        ]
+        "height": 124, 
+        "rate": 18, 
+        "start_y": 0, 
+        "id": "mal5"
     }, 
     {
-        "height_mal": 168, 
-        "rate_fem": 6, 
-        "rate_mal": 24, 
-        "heigh_fem": 0, 
-        "id": 6, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "But the search for him was halted in 1975 when the Khmer Rouge came to power, and it was not until 1991, when Cambodia was moving toward a peace accord, that an NBC News team was allowed to return to the Cambodian village where Mr. Hangen and his colleagues were last seen, about 30 miles south of Phnom Penh near the Vietnamese border.", 
             "Professor Smith was an authority on the structure of power and political systems.", 
             "When the Nazis came to power in Germany, he fled to Denmark and practiced there until 1941, when he again fled the Nazi advance.", 
@@ -1032,27 +1398,14 @@
             "In the ensuing power struggle, Mr. Takeshita seized control of Mr. Tanaka's faction and then became Prime Minister.", 
             "That was when Mr. Takeshita saw his chance and usurped power from his mentor."
         ], 
-        "height_fem": 34, 
-        "start_y": 304, 
-        "sentences_fem": [
-            "After she came under fire from a number of black officials, Mr. Koch named a deputy with superseding power over her, and she resigned.", 
-            "\" Years later, Mr. Harris reported, \"Her subtlety and power astounded me; I thought she could do anything.", 
-            "Because opera was denied her for most of her career, Miss Anderson's reputation rests on the considerable communicative power that she brought to the recital stage.", 
-            "During World War II, at the Massachusetts Institute of Technology, she helped develop the magnetron into a power source for an aerial navigation system.", 
-            "No country at war today can afford to ignore the tremendous reservoir of woman power.", 
-            "After that success, she became the executive director of the Great Falls Development Corporation and worked to preserve the mills, which were built in the early 1800's and used the water power of the 77-foot-high Great Falls.", 
-            "There she had several solo exhibitions, most recently in 1989, when she presented her oil and acrylic landscapes of towers and power lines superimposed on trees."
-        ]
+        "height": 168, 
+        "rate": 24, 
+        "start_y": 0, 
+        "id": "mal6"
     }, 
     {
-        "height_mal": 162, 
-        "rate_fem": 13, 
-        "rate_mal": 23, 
-        "heigh_fem": 0, 
-        "id": 7, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "\" His bet on the new technology paid off enormously for I.B.M., as businesses recognized the power of the new machines to run large organizations and to track spending and consumer trends.", 
             "Mr. Chung was a political ally and confidant of Gen. Park Chung Hee when General Park seized power in South Korea in a coup in 1961.", 
             "He started his business career in the foreign department of Chase National Bank and eventually became president and chief executive of American and Foreign Power Company in New York.", 
@@ -1181,34 +1534,14 @@
             "Professor Warren I. Cohen, director of the Asian Studies Center at Michigan State University, wrote in his biography, \"Dean Rusk\" (Cooper Square Publishers, 1980), that Mr. Rusk had not grasped the extent to which \"the 'aggression' of a national liberation movement is much more complicated morally and much harder to cope with politically or militarily\" than the aggression of a great power.", 
             "For more than 50 years, Mr. Osborn's sardonic and often savage drawings in books and magazines have arrested readers with their images of bloated power, violence and death."
         ], 
-        "height_fem": 86, 
-        "start_y": 252, 
-        "sentences_fem": [
-            "In 1974, she underscored the finding of an Atomic Energy Commission study of nuclear power plant safety: that the chance of mass destruction from a reactor accident was as unlikely as that of a meteor striking an urban area.", 
-            "\" She also angered environmentalists with her support of nuclear power, unhampered growth and oil supertankers.", 
-            "While Dr. Ray was Governor, the power of her intellect and her skill as a speaker gave her an aura of great competence.", 
-            "The abortion law was revoked when Franco came to power.", 
-            "\" with Tyrone Power (1957), \"Only Two Can Play\" with Peter Sellers (1961), \"The Vine Bridge\" (1965), \"The Witches\" (1990) and \"Hidden Agenda\" (1990).", 
-            "Coming from a politically prominent family, the actress was a passionate anti-Fascist who lost her citizenship and property in 1967 for her aggressive opposition to the junta that held power in Athens for seven years, until 1974.", 
-            "She served in the post until 1989, when her party lost power, and then returned when the party was re-elected in October.", 
-            "A native of Berlin, she received a doctorate at the University of Frankfurt and joined a resistance group shortly after the Nazis came to power in Germany in 1933.", 
-            "\"She sings with power and imagination.", 
-            "Her political power came in large part from the support of the city's poor residents, whom she organized within her Popular Democratic Party.", 
-            "In one speech, she criticized the \"folly of a national policy of discussing manpower in a national emergency as though it were only male power,\" adding that such an attitude put women in the \"category of a national luxury instead of a national asset.", 
-            "In a speech in 1965, Mrs. Roebling said: \"As a woman who for years has competed in the business world, I would be the first to agree that the American woman has almost unbelievable economic power, but American women, like women of all civilized nations, do not use the influence their economic power gives them.", 
-            "\" Mrs. Roebling's own economic power came initially through inheritance, but she increased it vastly once it fell into her hands.", 
-            "No one would ever be able to say, he told her, whether art or medicine had the greater curative power."
-        ]
+        "height": 162, 
+        "rate": 23, 
+        "start_y": 0, 
+        "id": "mal7"
     }, 
     {
-        "height_mal": 124, 
-        "rate_fem": 6, 
-        "rate_mal": 18, 
-        "heigh_fem": 0, 
-        "id": 8, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "The bombs, none of which exploded, had a total of 5,000 times the power of the bomb that had destroyed Hiroshima.", 
             "The courts inherently have the power to see that justice is done.", 
             "He served in the Ministry of Fuel and Power and on the Anglo-American Coal Commission and produced a statistical digest of British mining that was published in 1945 as a book, \"New Deal for Coal.", 
@@ -1342,27 +1675,14 @@
             "\"The New Class\" was the first exposure from within a Communist state of leading Communists as a new elite dedicated to its own privileges and power, and the first denunciation of the system from an unimpeachable source.", 
             "Now that the party has consolidated its power, party membership means that one belongs to a privileged class."
         ], 
-        "height_fem": 34, 
-        "start_y": 304, 
-        "sentences_fem": [
-            "She recalled in 1969: \"It was all beauty and it was all power.", 
-            "They kept a car and a pickup truck but permitted no machines on the farm that were not run by human or animal power.", 
-            "In 1951, she took over Kathimerini and Messimvrini, another daily newspaper, as well as the weekly picture magazine Eikones, but closed them all in 1967 when a group of army colonels seized power, instituted censorship and mandated Government-friendly daily reports.", 
-            " Simone Gallimard, a power in the French book-publishing world, died Monday in a clinic in Neuilly, a suburb of Paris.", 
-            "She left Germany shortly after the Hitler regime came to power and completed her medical education in Switzerland.", 
-            "\" Kahn was a power at the Met until a few years before his death in 1934.", 
-            "Selena's father had toured nightclubs across Texas in the 1960's with the original version of Los Dinos but did not achieve wide success until he made young Selena, with her belting vocal power, the lead singer."
-        ]
+        "height": 124, 
+        "rate": 18, 
+        "start_y": 0, 
+        "id": "mal8"
     }, 
     {
-        "height_mal": 154, 
-        "rate_fem": 10, 
-        "rate_mal": 22, 
-        "heigh_fem": 0, 
-        "id": 9, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "In his last weeks, he had been plotting a political comeback in which he envisioned himself being swept back into power on a wave of popular  support and recrimination for his political enemies, including a son and a son-in-law who led a family coup that ousted him from his last term as Chief Minister, in August 1995.", 
             "Within weeks, members of the Rama Rao family were complaining that Lakshmi Parvati had taken the reins of power, appointing her own loyalists to top positions in the government, shutting Mr. Rama Rao off from his own relatives and plotting to suceed him as chief minister.", 
             "But Sidney Korshak pursued power in the shadows.", 
@@ -1530,37 +1850,14 @@
             "''My legs are skinny, my face has no power or resolve,'' he told the journalist and author Curtis Bill Pepper in 1987, comparing himself with other leading men like Clark Gable, Gary Cooper, Humphrey Bogart or Paul Newman.", 
             "Preaching in 1933, the year Hitler came to power, he made remarks that would stand up better in historical hindsight."
         ], 
-        "height_fem": 64, 
-        "start_y": 274, 
-        "sentences_fem": [
-            "TOPS, which stands for Take Off Pounds Sensibly, draws its philosophy from something the 5-foot-2-inch Mrs. Manz, then 40, observed in group sessions intended to prepare women for childbirth: the power of mutual support in helping participants remain within their doctors' guidelines for weight.", 
-            ",\" said Mr. Zanuck, and Tyrone Power got the part in \"LLoyd's of London\" that made him a star.", 
-            "\" Mr. Zanuck said, and Tyrone Power got the part in \"Lloyd's of London\" that made him a star.", 
-            "Unhappiness among female union members with their lack of power within the unions led to the formation in 1974 of the Coalition of Labor Union Women.", 
-            "The idea was to reduce power demand during hot spells and lower the risk of electrical ''brownouts'' and blackouts.", 
-            "The plant used no auxiliary power source but still kept the five-room house in Dover, Mass., cozy through the winter.       ", 
-            "'' She moved on to Hollywood and starred in a down-to-earth role opposite Tyrone Power when he played the canal builder in ''Suez'' (1938).", 
-            "'' In 1939 she married Power.", 
-            "She returned to France for good after a divorce in 1948 from Power, who went on to marry the actress Linda Christian.", 
-            "In 1940 Annabella and Power performed together in the Screen Guild radio production of ''Seventh Heaven,'' and the next year they were onstage together in a summer stock revival of Ferenc Molnar's hit ''Liliom.", 
-            "'' She is survived by a daughter, Anne Werner Power of Boston.       ", 
-            " Guillermina Rico, a lemon peddler who bargained her way to wealth and power as the head of a political machine she forged from the ranks of Mexico City's itinerant vendors, died on Wednesday of a cerebral hemorrhage.", 
-            "Mrs. Rico gained the power to assign the choicest market stalls, for which she charged a quota, and those and other revenues made her wealthy.", 
-            "''She is an actress of individuality and power.", 
-            "In the 1976 interview, she said: ''Historically, the international oil companies often have wielded their vast power selfishly, although their accomplishments have often been beneficial to the world.", 
-            "film studio, settled in Amsterdam after Hitler came to power and was a film distributor when World War II began.", 
-            "She was also the author of \"Going Under\" (1976), a description of the corruption of writers by Soviet power."
-        ]
+        "height": 154, 
+        "rate": 22, 
+        "start_y": 0, 
+        "id": "mal9"
     }, 
     {
-        "height_mal": 214, 
-        "rate_fem": 20, 
-        "rate_mal": 30, 
-        "heigh_fem": 0, 
-        "id": 10, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "But when Gen. Omar Torrijos came to power in a coup in 1968, he was one of the few figures from the elite to immediately support the new populist Government, and he quickly became a friend and confidant of General Torrijos.", 
             "Neverthless, when the Democratic Revolutionary Party, the party of Torrijos and Noriega, returned to power in Panama in September 1994, the new President, Ernesto Perez Balladares, once again turned to Mr. Lewis.", 
             "Eddie Williams, the president of the Joint Center for Political and Economic Studies, a research organization in Washington, said it was surprising that Mr. Martin was largely unknown to the public at large, given his wide-ranging influence in the White House and his role in the development of black political power in the Democratic Party.", 
@@ -1808,50 +2105,14 @@
             "With Joseph Borkin, he wrote ''Television, A Struggle for Power'' (1938).", 
             "In 1984, a Japanese magazine conducted a survey to determine who its readers thought best epitomized Japanese manhood and its ideals of pride, power and virility."
         ], 
-        "height_fem": 138, 
-        "start_y": 200, 
-        "sentences_fem": [
-            " Mary Bancroft, a Boston Brahmin colleen who cut a coquettish swath through 20th-century history, bewitching men of power even as she did brilliant work as an American spy in Switzerland in World War II, died on Jan. 10 at her Fifth Avenue apartment.", 
-            "In his scheme of things she was an extroverted intuitive, one who had experienced such fierce inter-family battles for her affections as a child that power had become her natural element.", 
-            "She had such an instinctive knack for wielding it, he told her, that men seeking or holding power would cherish her advice, as indeed they did.", 
-            "Miss Bancroft was entrusted with translating the manuscript into English (Gisevius wanted it published immediately after the coup), but her real job was to make sure he was not a double agent (she concluded he was not) and then to elicit and pass on the detailed information he supplied about the day-to-day shifts of power and strategy within the German Government.", 
-            "By the time many of them had risen to high positions in the government, Dr. Barbosa, who also maintained friendly relationships with members of other parties, had acquired so much influence that she operated almost as a political boss -- a boss who seemed so blind to her own power that she may not have realized that an off-hand criticism delivered in a private conversation would soon be altering party policy.", 
-            "She was one of the producers of ''45/85,'' a news special about the growth of the United States as a world power since World War II.", 
-            "Sally Bedell Smith, the author of another biography, ''Reflected Glory,'' said in 1996: ''She wanted great wealth and power.", 
-            "Ms. Baker was a mainstay of the Atlantic Records roster of the mid-1950's, applying the fervor of gospel and the bluesy power of Bessie Smith to songs about love and lust like ''Tweedlee Dee.", 
-            "But it was her relationship with Nehru's daughter, Mrs. Gandhi, from the time both were teen-agers that helped her assume a dominant and controversial role in the nation's cultural affairs during the height of Mrs. Gandhi's power in the 1970's and early 80's.", 
-            "''Her main contribution at the institute was to recognize, quickly and early on, the potential and the power of cloning technology,'' he said.", 
-            " Joanie Weston, a strapping power hitter who passed up a promising and respectable future in softball to become the gum-chewing, power-skating, hip-bumping golden girl of Roller Derby, died on May 10 at her home in Hayward, Calif., near San Francisco.", 
-            "Mr. Wittfogel had worked in China in developing his celebrated theory that the construction and control of irrigation canals had concentrated the power of ruling elites and spawned despotism, and Miss Goldfrank joined the staff of his short-lived China project at Columbia and applied his theories in her own continuing writings on Indians.", 
-            "As a Government economist in an era when the New Deal had attracted droves of women to high-level Federal positions, Dr. Keyserling had a lot of company in the corridors of power.", 
-            "In the mid-1930's after the Nazis came to power, her father sent her to Paris, where she became fluent in French.", 
-            "That the competitive history between the two northern Californians was called a rivalry, dubbed the Battle of the Helens by a sometimes frothy news media between the two world wars, was a tribute more to  Jacobs's tenacity and cheerful pluck than to her shot-making power or on-court success against Moody.", 
-            "The match mesmerized 8,000 fans at the Forest Hills Tennis Stadium in Queens on Aug. 26, 1933, pitting the forehand chop, aggressive net play and dogged determination of Jacobs against backcourt precision and waning power of Moody.", 
-            "The German playwright Bertolt Brecht devised the scenario for her ''Circus Scene,'' a depiction of a power struggle between a clown and a lion that can be interpreted as an allegorical attack upon authoritarianism.", 
-            "Miss Goslar, who was not Jewish, despised Hitler and left Germany when the Nazis seized power.", 
-            "She did so with notable success: her recordings as a soprano show her to have a clear timbre and considerable power.", 
-            "With Ms. Meuli, Ms. Carabello also wrote ''The Feminization of Power'' (Fund for the Feminist Majority, 1988).", 
-            "The race in the reconfigured 10th district pitted two party regulars against each other, and Mrs. Kelly, her power base gone, lost to Mr. Celler in the primary.", 
-            "''For me, he was the first writer, the only one who was working politically in the field of language as power.", 
-            "In ''New and Selected Essays'' she wrote, ''One is in despair over the current manifestation of malevolent imbecility and the seemingly invincible power of rapacity, yet finds oneself writing a poem about the trout lilies in the spring woods.", 
-            " Simone Duvalier, who rose from a childhood of poverty and abandonment to become the wife of one Haitian dictator, mother of another and a power in her own right, died of undisclosed causes in a clinic outside Paris on Friday.", 
-            "During the nearly 30 years that her husband, Francois (Papa Doc) Duvalier, and son, Jean-Claude (Baby Doc) Duvalier, dominated the poorest nation in the Western Hemisphere through a combination of brutality, intimidation and guile, Simone Duvalier was often regarded as a power behind the throne.", 
-            "'' She relished the title of First Lady and the power it conferred, and was said by associates to deeply resent having to relinquish that role after Jean-Claude Duvalier married Michele Bennett in a lavish wedding ceremony in 1981.", 
-            "Like her rapacious husband, who systematically looted Haiti's treasury during his years in power, Mrs. Duvalier was reported to be a voodoo adept, and inspired dread among Haiti's poor and illiterate masses.", 
-            "''She had a lot of power, but it wasn't an idyllic marriage,'' said Bernard Diederich, author of a biography of Francois Duvalier.", 
-            "'' During her son's years in power, Simone Duvalier's taste for luxury, exceeded only by that of Michele Bennett, grew even more pronounced, and corruption markedly increased.", 
-            "But when her son was ousted from power in February 1986, Mrs. Duvalier joined him and his wife in exile, first in the French Alps and then in Paris."
-        ]
+        "height": 214, 
+        "rate": 30, 
+        "start_y": 0, 
+        "id": "mal10"
     }, 
     {
-        "height_mal": 162, 
-        "rate_fem": 16, 
-        "rate_mal": 23, 
-        "heigh_fem": 0, 
-        "id": 11, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "In a weak-mayor system, where the mayor has only one of nine City Council votes, Mr. Wilson was a master mediator who proved quietly persuasive in one-on-one meetings and was able to put together a working majority that enhanced his power.", 
             "But he continued attacking the former President in opposition newspapers until Mr. Marcos fled the country in 1986 after the ''people power'' uprising that brought Corazon C. Aquino to the presidency.", 
             "''I am so pleased that we are all so dedicated to mankind -- unlike show business, where there you have egomaniacs and you have power mongers and you have elitists.", 
@@ -2055,43 +2316,14 @@
             "Under the law the police had the power to round up and detain anyone suspected of involvement in the violence without bringing formal charges.", 
             "Dr. Struger left the university in 1956 for a job at Asea Brown Boveri, a Swiss power company."
         ], 
-        "height_fem": 108, 
-        "start_y": 230, 
-        "sentences_fem": [
-            "'' She covered Russia's war against Finland in 1939, trekked across China with Hemingway in 1940, and became increasingly critical of the United States, which she saw as a ''colonial power,'' eventually settling abroad for good.", 
-            "''They realized the power of the press and have been controlling it ever since,'' she said.", 
-            "'' With the rise of the black power movement and the success of independence movements in Africa and the Caribbean, interest in the Schomburg grew.", 
-            "She also is credited with bringing worldwide attention to the atrocities of Argentina's military regime, which reliquinshed power in 1983.", 
-            "'' Such was her power that when Mr. Martin criticized -- mildly -- her performance in ''Swan Lake'' during the 1959 New York tour, Pravda responded the next day by accusing him and The Times of being ''bent on continuing the cold war.", 
-            "An emotive belter in the tradition of Judy Garland and Barbra Streisand, both of whom were her girlhood idols, Ms. Beechman brought a waifish pathos and a piercing vocal power to her character's signature song, ''Memory.", 
-            "Of her time in the House, Ms. Abzug wrote in a journal that was published in 1972 as ''Bella,'' ''I spend all day figuring out how to beat the machine and knock the crap out of the political power structure.", 
-            "With the Conservatives in power through the 1980's and into the 1990's, Ms. Lestor worked as the opposition's chief spokeswoman on a number of issues, including children and the family, juvenile crime and race relations.", 
-            "Jack Kroll of Newsweek once called her ''a luscious marshmallow sundae of a girl,'' and her ripe figure fit the many period movies like ''Little Old New York'' and ''In Old Chicago'' in which she sang to Don Ameche, Tyrone Power or John Payne from the stage of a saloon.", 
-            "Mr. Ameche lost her to Mr. Power in ''Alexander's Ragtime Band'' and ''In Old Chicago'' but won her affections in ''You Can't Have Everything,'' ''Hollywood Cavalcade,'' ''Lillian Russell'' and ''That Night in Rio.", 
-            "A year later she and Mr. Power were teamed for the last time in ''Rose of Washington Square,'' a fictionalization of the Nicky Arnstein-Fanny Brice story that was later the basis for the Broadway and Hollywood musical ''Funny Girl,'' which starred Barbra Streisand.", 
-            "Ms. Faye had been responsible for Mr. Power's stardom.", 
-            "''A singing actress of both wit and power, she finds bitter humor in the character's distorted sense of self: when she barks her outrageous demands to her lackeys, we see a show business monster who's come a long way from her roots.", 
-            "Galina Brezhnev was never involved in politics but she figured in some major scandals in the last years of Soviet power.", 
-            "She sculptured sound, and it made her concerts some of the most moving experiences in jazz, a mixture of the emotional power of the songs' texts and the sheer joy of her imagination.", 
-            "The book's lack of pretension and its description of ordinary Germans lent it power.", 
-            "She said the singer suffered from aphasia, a condition that severely limits the power to use or understand words, and had grown despondent as the disease progressed.", 
-            "When Fidel Castro seized power in 1959, Miss Parla, by then married to a Batista government official, fled to the United States and settled in Miami.", 
-            "She published two novels in the late 1940's, and in 1950 Doubleday asked her to write a biography of Eva Peron, who with her husband, Juan, was at the peak of power in Argentina.", 
-            "After Juan Peron was thrown out of power, subsequent editions appeared under Ms. Main's real name.", 
-            "It was Mrs. Kissinger -- the practical one in the family -- who decided that they had to leave Germany when Hitler came to power.", 
-            "The lyricism and evocative power she often brought to her books sometimes disguised a toughness that addressed dark themes like poverty, jealousy, violence, sexual vulnerability and prejudice.", 
-            "She was not known for her power as a negotiator but for her perspicacity in reading scripts and in analyzing a play in production."
-        ]
+        "height": 162, 
+        "rate": 23, 
+        "start_y": 0, 
+        "id": "mal11"
     }, 
     {
-        "height_mal": 138, 
-        "rate_fem": 6, 
-        "rate_mal": 20, 
-        "heigh_fem": 0, 
-        "id": 12, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "'' He said that Mr. Mosse had also revealed ''the desperate nature of the search'' by Jews in Germany in the three decades before Hitler came to power in 1933 ''for a means of integration with a society that rejected them, desperate because in some cases it led to their adoption of the ideology and elitism of their most virulent enemies.", 
             "'' He called Mr. Liebermann ''a bluff, commanding man of 65 years who radiates the authority accrued from his years of power on the international opera circuit,'' and he reported that Mr. Liebermann's ''success has been apparent to all those who have heard opera in Paris,'' although much remained to be done.", 
             "When Mr. Kirby became chief executive and chairman of Westinghouse in 1975, it was the 36th-largest corporation and the largest supplier of nuclear power plants in the nation.", 
@@ -2262,27 +2494,14 @@
             " Nunzio Joseph Palladino, a retired nuclear engineer who steered the Nuclear Regulatory Commission through some rough years after the nuclear power accident at Three Mile Island near Harrisburg, Pa., died on Sunday at Centre Community Hospital in College Park, Pa.", 
             "'' The fifth military president since the armed forces seized power in 1964, General Figueiredo was a former intelligence chief handpicked for the top job by General Geisel."
         ], 
-        "height_fem": 34, 
-        "start_y": 304, 
-        "sentences_fem": [
-            "But the pieces combined a sense of mythic power with a sensitivity to shape that was all their own, achieving a subtlety of expression that belied their monumental scale.", 
-            "The bureau had the power to impose and enforce safety regulations.", 
-            "She first came to the public's attention in 1976, when she argued at a Federal Power Commission hearing in Washington that utility companies should not be allowed to pass along to customers -- many of whom were elderly people with restricted incomes -- the cost of plants that were still under construction and not producing power.", 
-            "Buttressed by absolute power and her considerable fortune, she resisted all calls for modernization of the store's fusty sales practices.", 
-            "In 1990 she spent six months researching and designing more than 300 costumes for the 38-member cast of ''Shogun,'' the muscial based on the James Clavell novel about a shipwrecked 17th-century English navigator who is pivotal in a power struggle among five Japanese overlords.", 
-            "The general, now 83, is charged with ordering torture and other crimes during his years in power, from 1973 to 1990.", 
-            "''Here,'' published in 1995 in France and in 1997 in the United States, just as Mrs. Sarraute's complete works were being reissued in France's legendary Pleiade Series, is as always a novel without plot or characters or perhaps, as suggested by Richard Burgin writing in The Washington Post, ''a poetic essay of ideas'' in which the author pursues ''the power and poverty of words."
-        ]
+        "height": 138, 
+        "rate": 20, 
+        "start_y": 0, 
+        "id": "mal12"
     }, 
     {
-        "height_mal": 154, 
-        "rate_fem": 12, 
-        "rate_mal": 22, 
-        "heigh_fem": 0, 
-        "id": 13, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "'' ''Everybody knew -- I knew -- that if it was a winnable case, the solicitor general would have argued it most likely, or people close to that seat of power,'' Judge Greene said.", 
             "''We had no power.", 
             "In 1934, he joined the legal staff of the Tennessee Valley Authority, where he helped in a long and ultimately successful defense of a constitutional challenge to the agency's electric power program.", 
@@ -2465,38 +2684,14 @@
             "A wine of astonishing depth and staying power, some of its earliest vintages, including 1966, the first, are still delicious.", 
             "Mr. Mitchell's power would have expanded long before that."
         ], 
-        "height_fem": 80, 
-        "start_y": 258, 
-        "sentences_fem": [
-            "''That day I experienced a sense of completeness,'' she told Collier's magazine, ''an extraordinary sensation of power.", 
-            "She was one of several postwar artists who, despite Abstract Expressionism's unanimous success, persisted in the notion that abstraction and representation were not mutually exclusive states, that one could paint from reality in a way that gave form, color and paint a power all their own.", 
-            "Ms. Howard's circle included Tyrone Power, Vivien Leigh, Laurence Olivier, Humphrey Bogart, Lauren Bacall, Jennifer Jones, Merle Oberon, Gary Cooper, Marlene Dietrich, Greta Garbo, Judy Garland and Marilyn Monroe -- impressive company for the daughter of a traveling salesman.", 
-            "Linda Christian can be seen being fitted for her wedding gown to marry Tyrone Power.", 
-            "She opposed nuclear power development on Long Island and a proposed bridge across Long Island Sound from Oyster Bay to Rye.", 
-            "'' To keep her fertile mind active, Ms. Trahey also gave lectures to professional women's organizations and wrote scores of magazine articles, novels, humorous pamphlets, a play and a self-help book called ''Jane Trahey on Women & Power: Who's Got It.", 
-            "'' In addition to ''The Farmer's Daughter,'' in which she played an effervescent Swedish-born maid who runs for Congress, she appeared in nearly 100 films, often in the arms of such matinee idols as Clark Gable, Spencer Tracy, Tyrone Power or Cary Grant.", 
-            "Around 9 a.m., the expectant standing-room ticket buyers would return, and Ms. Quinn began barking commands with a vocal power that many a hefty dramatic soprano would covet.", 
-            "Within months of being driven cross-country by her widowed mother, the owner of a tourist camp outside their hometown, Canton, Ms. Peters was chosen as the female lead in the lavish epic ''Captain from Castille,'' opposite Tyrone Power.", 
-            "She was regarded as a pioneering figure in the world of journalism, especially because she was working at a time when few women held positions of power within the industry.", 
-            "She won an Emmy in 1993 for a young people's anti-smoking program, ''Know the Facts: Keep Your Power,'' and wrote and produced a traveling school program for the American Heart Association.", 
-            "She was regarded as a pioneer in journalism, especially because she worked at a time when few women held positions of power in the industry.", 
-            "Sybil Halpern was born on Oct. 6, 1941, in New York City to Jewish parents who had fled Austria when the Nazis came to power.", 
-            "Mrs. Bandaranaike's final act was to vote in a parliamentary election she hoped would return the family's party to power leading a governing coalition known as the People's Alliance.", 
-            "Mrs. Bandaranaike rose to power in 1960 as a bereaved wife and mother of three, just a year after her husband, Solomon, then prime minister, was assassinated by a Buddhist monk.", 
-            "Much of the talk was devoted to ways of merging the concept of black art with the political concept of black power.", 
-            "Exercising her power as first lady, Eva Duarte Peron effectively prevented any studio in Argentina from hiring Ms. Lamarque.", 
-            "Much of the talk was devoted to ways of merging black art with the political concept of black power."
-        ]
+        "height": 154, 
+        "rate": 22, 
+        "start_y": 0, 
+        "id": "mal13"
     }, 
     {
-        "height_mal": 124, 
-        "rate_fem": 8, 
-        "rate_mal": 18, 
-        "heigh_fem": 0, 
-        "id": 14, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "'' That Richard Nixon rose to the height of political power in the first place was due not just to his own perseverance but, in no small measure, to William Rogers.", 
             "It was the eve of what Czechs called the Velvet Revolution, which forced the hard-line Communist government from power in November 1989.", 
             "Charles, the Prince of Wales, a frequent critic of contemporary structures, denounced the theater after it went up in 1976, calling its construction ''a clever way of building a nuclear power station in the middle of London without anyone objecting.", 
@@ -2623,33 +2818,14 @@
             "Created in the wake of Fidel Castro's seizure of power in January 1959, the operation brought the children to the United States in 1961 and 1962.", 
             "The obituary also misidentified the government in power when his short novel ''The Sad Detective'' was published."
         ], 
-        "height_fem": 50, 
-        "start_y": 288, 
-        "sentences_fem": [
-            "And, in a letter, she wrote that she was beginning to feel that Hitler was ''a very great man, like an inspired religious leader -- and as such rather fanatical -- but not scheming, not selfish, not greedy for power.", 
-            "She said later that he had been ''used'' by the Nazis but that he had been genuinely ''astonished and impressed by the rapid growth of German air power,'' while also recognizing the danger it posed.", 
-            "And Dr. Metlitzki herself left Eastern Europe just as the Nazis were coming to power and lost members of her family to the Holocaust.", 
-            "For generations, the Lobedu were left unmolested by more powerful neighbors, the Zulu and Swazi, for fear of their queens' power over the rains.", 
-            "'' Meeting the Elite In time, as Mrs. Graham became more comfortable with her ability to exercise power, she took trips to confer with foreign leaders, usually accompanied by one of the reporters and her friend Meg Greenfield, who was editor of the editorial page of The Post and a columnist for Newsweek.", 
-            "'' In her later work, she wrote of an increasing antagonism toward older people for occupying ''a growing number of power positions,'' and she urged fellow social scientists to explore ways to avoid such resentment.", 
-            "In her poem ''The Bull Terrier,'' she wrote: Their legs and backs Should seem to be Merely the motive Power for the low Broad, implacable Jaw.", 
-            "That's in the hands of certain people on the senior staff, who have never really accepted that there is a political power of women and that has to be addressed.", 
-            "The mother is the last to leave the stage, a moment that was tailor-made for Ms. Foster's quiet power.", 
-            "The odd experiences she described -- which included shopping with Liszt (he was interested in the price of bananas) and watching television with Chopin (he was appalled) -- found a resonant audience in the era of the Beatles and flower power.", 
-            "He used antique tools because the house had no electricity to plug in power tools.", 
-            "So she indulged in a momentary power trip, something she says she avoided in two years of playing peacemaker among 18 colleagues.", 
-            "The budget now goes to the Nassau Interim Finance Authority, the state chaperon, which has the power to take over the county's finances if it does not accept the budget."
-        ]
+        "height": 124, 
+        "rate": 18, 
+        "start_y": 0, 
+        "id": "mal14"
     }, 
     {
-        "height_mal": 146, 
-        "rate_fem": 15, 
-        "rate_mal": 21, 
-        "heigh_fem": 0, 
-        "id": 15, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "The Buckeyes emerged as a basketball power under Taylor, whose teams of the early 1960's featured Jerry Lucas and John Havlicek and three other future pros, Larry Siegfried, Mel Nowell and Joe Roberts.", 
             "'' LaBalbo wanted Fairleigh Dickinson to become a national power and found major teams happy to play his team as an early-season warm-up.", 
             "In 1982, after Leon Davis died, Mr. Foner was forced out as 1199's executive secretary in a power struggle, but he continued running Bread and Roses.", 
@@ -2802,41 +2978,14 @@
             "From the first few weeks to the last few days of his short tenure, from 1970 to 1973, Dr. Scribner's lack of power manifested itself in many ways.", 
             "He acted as financial adviser to corporate clients and represented their interests before regulatory agencies, particularly the Federal Power Commission, now the Federal Energy Regulatory Commission."
         ], 
-        "height_fem": 102, 
-        "start_y": 236, 
-        "sentences_fem": [
-            "In 1992, Mr. Holden reviewed a Peggy Lee performance in New York for The Times and wrote that ''her will power, musicality and professionalism enable her to project a fair degree of the old magic.", 
-            "''Bertrand Russell has written that a child dreams about power as grown-ups dream sexual wish dreams,'' Mrs. Lindgren said in a 1985 interview.", 
-            "''This is a child who has power.", 
-            "' '' ''She has power, but she never misuses that power,'' Ms. Lindgren said, ''which I think is the most splendid thing, and the most difficult.", 
-            "The Social Democrats, in power for more than 40 years, were defeated, and tax cuts followed, events Mrs. Lindgren was sometimes credited with bringing about.", 
-            " Julia Phillips, the Hollywood producer who turned her rage at the stars and power brokers into the best-selling chronicle ''You'll Never Eat Lunch in This Town Again,'' died Tuesday at her apartment in West Hollywood.", 
-            "'' The breakup of her marriage, drugs and a series of sour relationships with men, along with being elbowed out of the power loop in the making of ''Close Encounters of the Third Kind,'' pushed her over the edge.", 
-            "The Mann family had left Germany after Hitler came to power, moving first to Switzerland and, in 1938, to the United States.", 
-            "Having molded dozens of top-flight soloists, she also became an important power broker in the music business.", 
-            "''It isn't only your high position that matters; it is the fact that the vast majority of people think of you as a person who would speak the kindly word, and, if it fell within your power, would take the cup of hot soup to the needy person.", 
-            "''Women must know that the strongest power in the world is economic power,'' she said.", 
-            "She was, he said, one of the few American actors with the depth and power for that role.", 
-            "The young Marion D\u00f6nhoff studied economics in Frankfurt-on-Main, where Nazi sympathizers called her the red countess because of her defiance once they gained power in 1933.", 
-            "In recent years, she enjoyed the reception she received at memorabilia shows, said Eric Danville, author of ''The Complete Linda Lovelace'' (Power Process Publishing, 2001).", 
-            "She attended drama school in Moscow as a girl, and escaped to Berlin with her mother when the Communists came to power in 1917.", 
-            "As parties rustled silkenly in Jo Copeland's Park Avenue living room -- guests might include Joan Crawford or Tyrone Power -- Lois and her brother were expected to remain in their rooms with their supper trays, blissfully unseen and unheard.", 
-            "But the unions, aroused by her efforts to curb their power, cut short her rise.", 
-            "The election brought Clement Attlee to power and led to the creation of the National Health Service and the nationalization of large swaths of British industry.", 
-            "''The old idea was that history was about kings and popes and wars; people, yes, but only the few who held dazzling power,'' she wrote in her last regular column for The Times at the end of 1990.", 
-            "She said then that she had lost only one confrontation, when a power company strung lines near the field.", 
-            "As the artists' reputations -- and the prices for their work -- rebounded, art critics and intellectuals began to resent Mrs. Olmedo's huge hoard of Riveras and Kahlos and her power over the artists' legacies."
-        ]
+        "height": 146, 
+        "rate": 21, 
+        "start_y": 0, 
+        "id": "mal15"
     }, 
     {
-        "height_mal": 176, 
-        "rate_fem": 24, 
-        "rate_mal": 25, 
-        "heigh_fem": 0, 
-        "id": 16, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "Despite this relationship, Mr. Jenkins became minister of aviation when Labor was returned to power in the 1964 election.", 
             "After Labor returned to power in 1974, Mr. Jenkins went back to the Home Office, where he enacted a strict Prevention of Terrorism Act to counter a surge of violence by the Irish Republican Army.", 
             "Despite his claim to be the real author of Mr. Blair's 1997 electoral victory, Lord Jenkins was snubbed at the end of his life by the man he had helped bring to power.", 
@@ -2978,49 +3127,14 @@
             " Sol Leon, a talent broker who matched stars and shows with producers and audiences, becoming a backstage power beginning in the early years of television, died on Dec. 5 in Los Angeles, the William Morris Agency announced.", 
             "His influence spread to the United States in 1958, thanks to his friend E. Power Biggs, the concert organist, whom Mr. Flentrop had guided on a tour of European Baroque organs in 1954."
         ], 
-        "height_fem": 168, 
-        "start_y": 170, 
-        "sentences_fem": [
-            "In one of her first, ''The Comedy of Power'' (1977), she recounted her experience in government.", 
-            "She was the author of ''Women in New Asia: From Pain to Power,'' published in Britain in 2000 and distributed here by St. Martin's Press.", 
-            "From 1946 to 1950 she worked for the Tennessee Valley Authority, designing power service buildings and visitors' facilities.", 
-            "In Derek Wilson's book ''Rothschild: the Wealth and Power of a Dynasty,'' the baron said his wife was more Rothschild than the Rothschilds.", 
-            "Miss Barbieri, Mr. Bjorling (in the title role) and Mr. Siepi, making his debut as Philip II, appeared in what Olin Downes of The New York Times described as an occasion that revealed afresh ''the melodic opulence and dramatic power of Verdi's genius.", 
-            "News reports suggested she had become intoxicated with her own power.", 
-            "By the time the Khmer Rouge won power in 1975 and undertook the revolution that led to the deaths of 1.7 million people, she was incapacitated by her illness.", 
-            "But in 1960, a year after Fidel Castro took power in Cuba, she was touring Mexico with La Sonora Matancera and decided not to return to Cuba.", 
-            " Elisabeth Welch, an expatriate cabaret singer who mixed elegant phrasing and emotive power to craft extraordinary interpretations of the songs of America's Jazz Age and Britain's musical stage, died on Tuesday at a nursing home outside London.", 
-            " Frances Stevens Reese, a founder and chairwoman emeritus of the environmental group Scenic Hudson and a veteran of the fight to keep a power plant from being built on Storm King Mountain, died last Wednesday in Valhalla, N.Y. She was 85 and lived in Hughsonville, a village in Dutchess County, N.Y. She was fatally injured in a car accident on Wednesday on Route 9 near Cold Spring when her driver lost control of the car and struck a utility pole, according to the Putnam County sheriff's office.", 
-            "Their immediate cause was to forestall a projected dig for the world's largest hydroelectric power plant, which would have forever changed the dramatic face of Storm King Mountain, looming above the Hudson in Orange County.", 
-            "Her little band won legal standing in 1965 to take on the Federal Power Commission and the developer, Consolidated Edison.", 
-            "Ms. Crozier was one of the most visible concert organists of the last half-century and was chosen as one of the players to christen the new organ at Philharmonic Hall -- now called Avery Fisher Hall -- in 1962, along with E. Power Biggs and Virgil Fox.", 
-            ") It was also around this time, one year before Hitler's rise to power, that she first heard the Nazi leader speak at a rally.", 
-            "'' At their first meeting in 1932, though, she said she was most struck by his informality and she quoted him telling her, ''Once we come to power, you must make my films.", 
-            "When the Social Democrats regained power in 1994, she was named environment minister.", 
-            "Other reviews suggested that the documentary's power came from a mother's willingness to reject her daughter and then rationalize it.", 
-            "Yet historians have documented the murderous path that Chiang Kai-shek led in his efforts to win, then keep, and ultimately lose power.", 
-            "Soong Mei-ling's rise to power began when she married Chiang Kai-shek in an opulent ceremony in Shanghai in 1927, bringing together China's star military man with one of the nation's most illustrious families.", 
-            "Although that hope eventually faded, American support for Taiwan remained strong for years, delaying Washington's recognition of Beijing as the capital of China until 1979, three decades after the Communists had seized power.", 
-            "Although that hope eventually faded, American support for Taiwan remained strong for years, delaying Washington's recognition of Beijing as the capital of China until 1979, three decades after the Communists seized power.", 
-            "''Loves power, eats up publicity and flattery, pretty weak on her history.", 
-            "'' Soong Mei-ling's rise to power began when she married Chiang in an opulent ceremony in Shanghai in 1927, bringing together China's star military man with one of the nation's most illustrious families.", 
-            "A Telling Ditty Today, Chinese still remember the three sisters with a telling ditty: ''One loved money, one loved power, one loved China,'' referring respectively to Ai-ling, Mei-ling and Qing-ling.", 
-            "They married in 1934, as Hitler came to power in Berlin.", 
-            "'' That year she joined women who were top executives across the corporate spectrum in the Committee of 200, founded as a power base for women in business.", 
-            "''Call that power, if you want,'' the woman said.", 
-            "'' Born Gisela Peiper in Berlin, she joined the resistance movement after Hitler came to power and eventually fled Germany, arriving in the United States in 1941.", 
-            "''Louise had so much power and because she and Carmel Snow, the editor of Harper's Bazaar, were close, Louise was able to get whom she wanted, and she asked for Mary Jane a lot,'' said Mr. Solero, who estimates that Mrs. Russell modeled for about 30 percent of Dahl-Wolfe's photos."
-        ]
+        "height": 176, 
+        "rate": 25, 
+        "start_y": 0, 
+        "id": "mal16"
     }, 
     {
-        "height_mal": 154, 
-        "rate_fem": 5, 
-        "rate_mal": 22, 
-        "heigh_fem": 0, 
-        "id": 17, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "'' Other films produced by Mr. Stark include ''Murder by Death'' (1976), ''The Goodbye Girl'' (1977), ''California Suite'' (1978), ''The Cheap Detective'' (1978), ''The Electric Horseman'' (1979), ''Chapter Two'' (1979) ''Annie'' (1982) and ''Brighton Beach Memoirs'' (1986) In the 1970's, Mr. Stark became a power broker in Hollywood and was generous with business advice.", 
             "In the 1970's Mr. Stark became a power broker in Hollywood and was generous with business advice.", 
             "He was among the faithful who prepared for de Gaulle's popular surge to power in 1958.", 
@@ -3138,26 +3252,14 @@
             "His other books include ''Roots of War'' (1972); ''Global Reach: The Power of the Multinational Corporations'' (1974, with Ronald E. M\u00fcller); and, with his wife, Ann B. Barnet, a pediatric neurologist, ''Youngest Minds: Parenting and Genes in the Development of Intellect and Emotion'' (1998).", 
             "''Playing with 50,000 watts of power, what rock star has an amplifier like that?"
         ], 
-        "height_fem": 26, 
-        "start_y": 312, 
-        "sentences_fem": [
-            "In the early 1990's she had two mild strokes, which affected her mental stamina and power of concentration, but she continued to write.", 
-            "'' To spend time with Miss Buck was to feel the evocative power of a place that has all but vanished from the American landscape, a fragile holdover where it was possible to encounter wooden butter churns, hobnail boots, copper kettles for making sausage and apple butter and hoops for a Conestoga wagon in the rafters.", 
-            "Despite their success, the photographers closed their studio the same year, shortly after Hitler came to power.", 
-            "Mrs. Alsop herself suggested that successful Washington get-togethers involve a chimerical brew of power, showmanship and timing.", 
-            "Throughout her work she contrasted the immense power of technology and corporations with the plight of individuals.", 
-            "By the time the blacklist's power faded, Ms. Chaney was entrenched as a stage actress."
-        ]
+        "height": 154, 
+        "rate": 22, 
+        "start_y": 0, 
+        "id": "mal17"
     }, 
     {
-        "height_mal": 206, 
-        "rate_fem": 11, 
-        "rate_mal": 29, 
-        "heigh_fem": 0, 
-        "id": 18, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "agent who built the Wackenhut Corporation into an international security firm that promoted the use of private guards at prisons, airports and nuclear power plants, died on Dec. 31 at his home in Vero Beach, Fla.", 
             " Zhao Ziyang, the former general secretary of China's Communist Party who was stripped of power for supporting the students during their 1989 pro-democracy Tiananmen Square protests, died in a Beijing hospital on Monday, his family said.", 
             "Mr. Shambaugh, the biographer, said Mr. Zhao was increasingly desperate by 1989 as his power was quickly eroding.", 
@@ -3338,32 +3440,14 @@
             "'' According to prosecutors, Mr. Gigante, while in prison remained the Genovese boss, wielding power until 2003.", 
             "Another success was reducing the weight of a 2,000-pound bomb by half without sacrificing any destructive power in the mid-1990's."
         ], 
-        "height_fem": 72, 
-        "start_y": 266, 
-        "sentences_fem": [
-            "Ms. Williams became a columnist in 2000, after more than a decade of writing lengthy profiles on Washington power brokers, including Vice President Al Gore and the Democratic diplomat Clark Clifford.", 
-            "For instance, the villains in her most popular series, ''Witch World,'' comprising about 30 volumes, are the females who think falsely that they have to remain virginal to retain their power.", 
-            "Reviewing her memoir, ''Happy Days,'' in The New York Times Book Review, Delia Ephron called it ''heartbreaking,'' adding: ''There is no physical cruelty in this tale, just the awesome power of withheld love.", 
-            "Her burgeoning concert career was, however, abruptly curtailed by Hitler's rise to power, after which Jewish pianists could no longer play German music, although Arturo Toscanini set up some recitals for her in Italy.", 
-            "''She was, essentially, the power behind the throne,'' he said.", 
-            " Sue Gunter, a pioneering women's college basketball coach who turned Louisiana State University into a national power in a career spanning four decades, died yesterday at her home in Baton Rouge, La.", 
-            "Immensely charismatic, bawdy, unpretentious and funny, she became an integral part of Mr. Blair's rejuvenated Labor Party, helping lead it into power in the 1997 general election.", 
-            "''It was as if she would lull them into an affirmation of their own arrogance, causing them to relax as she appeared to wander aimlessly off into and around left field, until she suddenly threw a curveball with so much skill and power it would knock them off their chair.", 
-            "She put the power of the United Federation of Teachers, the New York local, with 110,000 members at the time, behind the election of David N. Dinkins as mayor in 1989, an effort that helped him garner white votes.", 
-            "Ms. Yard spent so much time pounding unforgiving marble in various corridors of power that she developed permanent nerve damage in her feet, The Washington Post reported in 1987.", 
-            "The women called the quilt ''Black Power.", 
-            "Ms. Hays also wrote ''The Real Thing: Truth and Power at the Coca-Cola Company'' (Random House, 2004)."
-        ]
+        "height": 206, 
+        "rate": 29, 
+        "start_y": 0, 
+        "id": "mal18"
     }, 
     {
-        "height_mal": 162, 
-        "rate_fem": 16, 
-        "rate_mal": 23, 
-        "heigh_fem": 0, 
-        "id": 19, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "At the height of his power, Mr. Yao was a member of the country's ruling Politburo and was feared for his lethal essays.", 
             "He became a favorite of Madame Jiang, a former Shanghai actress who in the 1960's gained enormous power in the Communist Party, particularly over cultural affairs, as Mao grew increasingly frail.", 
             "A power struggle erupted that shook the foundations of China's leadership and created an era of paranoia and madness in China's biggest cities.", 
@@ -3513,34 +3597,9 @@
             "Born into a Jewish family in Berlin in 1920 as Peter Jost Blach, Mr. Blake fled with his parents to England after the Nazis came to power.", 
             "His parents sent him to school in England after the Nazis came to power; he did not flee Germany with his parents."
         ], 
-        "height_fem": 108, 
-        "start_y": 230, 
-        "sentences_fem": [
-            "As a columnist for The Daily News, and later for The Post, she had few qualms about needling those in power.", 
-            "'' In sheer power, Ms. Nilsson's high notes were sometimes compared to those of the Broadway belter Ethel Merman.", 
-            "She called upon American women ''to unite and form a solid block of women power to fight the three great evils of racism, poverty and war.", 
-            "Ms. Dai was a familiar figure in international dance circles, first as a dancer and choreographer who performed in London in the 1930's and in New York in the 40's, then as the guiding force in China's first state-sponsored national ballet institutions after the Communist government came to power in 1949.", 
-            " Octavia E. Butler, an internationally acclaimed science fiction writer whose evocative, often troubling, novels explore far-reaching issues of race, sex, power and, ultimately, what it means to be human, died on Friday after a fall near her home in Lake Forest Park, Wash. She was 58.", 
-            "But in reality Mrs. Marcos was financing the center to help build her political power base.", 
-            "''If more qualified people are up to the same thing, more power to them.", 
-            "tournament, her team was routed by Tennessee, a perennial national power, 102-54, and finished 20-11.", 
-            "She also counseled disadvantaged young people, and her colleagues noted that she could calm the angriest of them through the sheer power of her presence, making her ordinarily soft voice even softer -- yet always firm -- as the counseling session proceeded.", 
-            " Evelyn Dubrow, organized labor's most prominent lobbyist at the time of its greatest power in her four decades with the nation's largest apparel union, died on Tuesday in Washington.", 
-            "'' Ms. Allyson was always modest about her star power.", 
-            "The family moved to Berlin in 1933, the year Hitler came to power.", 
-            "In July 1964, she announced that she and others from the tiny Mississippi Freedom Democratic Party would challenge the power of the segregationist politicians, like Mr. Stennis, who represented her state.", 
-            "Ms. Juda began studying art history, but the family, which was Jewish, moved to Palestine shortly after Hitler came to power.", 
-            "'' Mr. Ovshinsky's NiMH battery was not the ideal power source for a vehicle, though it gained common use in products like cellphones and digital cameras.", 
-            "A champion of civil rights for minorities, women and gay men and lesbians, Ms. Richards first ran for governor in 1990 calling for a ''New Texas'' that would offer more opportunity and power to those groups.", 
-            "In the early 1960's, she and a handful of other young Democrats founded North Dallas Democratic Women in an effort to give more power to women in the party.", 
-            "'' At the height of his power and celebrity in 1972, she had coaxed him to admit that at times he felt like ''the cowboy who leads the wagon train by riding ahead alone on his horse, the cowboy who rides all alone into the town.", 
-            "'' she asked Ayatollah Khomeini in 1979, not long after he came to power in Iran.", 
-            "The sixth of nine children born to Joseph P. Kennedy and Rose Elizabeth Fitzgerald, Mrs. Lawford, like her siblings, had a well-honed understanding of politics and of the power of appearances.", 
-            "The sixth of nine children born to Joseph Kennedy and Rose Elizabeth Fitzgerald Kennedy, Mrs. Lawford, like her siblings, had a well-honed understanding of politics and of the power of appearances.", 
-            "For years she served as his secretary, and he was named a key deputy to Mao after the Communists took power in 1949.", 
-            "No woman had ever been so close to the center of presidential power without actually residing in the White House.", 
-            "When Mr. Reagan came to office in 1981, 51 of the committee's members won positions of significant power in his administration.", 
-            "Power, Ms. Kirkpatrick said in a 1996 interview, is based not merely on guns or money but on the strength of personal conviction."
-        ]
+        "height": 162, 
+        "rate": 23, 
+        "start_y": 0, 
+        "id": "mal19"
     }
 ]

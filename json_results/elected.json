@@ -19,15 +19,485 @@
         "y_spacing": 165
     }, 
     {
-        "height_mal": 210, 
-        "rate_fem": 12, 
-        "rate_mal": 29, 
-        "heigh_fem": 0, 
-        "id": 0, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
-            "He was elected a trustee at Columbia in 1959 and became a trustee, as well as secretary and treasurer, at the Whitney Museum of American Art in 1961.", 
+        "sentences": [
+            "In 1952, she was elected the Reverend Mother of the Community of the Holy Spirit, an Episcopal religious order for women that she founded that year.", 
+            "In 1952, she was elected the Reverend Mother of the Community of the Holy Spirit, an Episcopal religious order for women that she founded that year.", 
+            "In 1974, Mrs. Clark was elected to the Charleston County School Board.", 
+            "She was elected in 1983 to complete the term of her husband, Phillip, and was re-elected in 1984 and 1986.", 
+            "She was elected in 1983 to complete the term of her husband when he died and was re-elected in 1984 and 1986.", 
+            "Mrs. Freeman was elected to the board of directors in June 1972.", 
+            "'' Mrs. Meiers, a former Democratic member of the North Dakota House, was elected Lieutenant Governor in 1984.", 
+            "She was elected to the House in 1974, following her father, Axel Olson, to the Legislature.", 
+            "Elected to Assembly Mrs. Ryan went into politics after her husband, E. Gerard Ryan, a lawyer, died.", 
+            "Only a handful of women had served in the New York State Assembly when she was elected to the Legislature in 1958.", 
+            "She was recently elected president of the Bedford-Stuyvesant Brooklyn chapter of the Lioness Club.", 
+            "In 1959 she became the first woman to be elected president of the Indiana Democratic Editorial Association, and she was the first woman on the board of directors of the Hoosier State Press Association.       "
+        ], 
+        "height": 80, 
+        "rate": 12, 
+        "start_y": 344, 
+        "id": "fem0"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Studied Fish on Sea Floor Born in New York City, she graduated in 1924 from Connecticut College for Women, where she was twice chosen class president, was elected to Phi Beta Kappa and was selected a member of the All-America girls' hockey team.", 
+            "Camilla Ravera, a founder of the Communist Party in Italy and a champion of women's rights who became the first woman elected to the Italian Senate, died Thursday at her Rome apartment, her family reported.", 
+            "She was reinstated during the 1950's and was elected to the Senate in 1982.", 
+            "Sister Mary Celeste, who held a Ph.D. from St. John's University, was community supervisor of schools in the Brooklyn Diocese in 1962 when the trustees elected her president of what then was Molloy Catholic College for Women.", 
+            "Her first elected position was as a member of the Prince Georges County Board of Commissioners in 1962.", 
+            "She was a fellow of the American Academy of Poets and was elected a member of the National Institute of Arts and Letters in 1951.", 
+            "Mrs. Ram, who was an elected member of the National Executive Council of the Episcopal Church from 1976 to 1982, was a leader among Mexican-Americans in Los Angeles and was one of the founders of the United Neighborhood Organizations, which became a major force in the city.", 
+            "Leonor K. Sullivan, a 12-term Democratic member of the House of Representatives, the only woman ever elected to Congress from Missouri, died today of heart failure.", 
+            "A year later, Mrs. Sullivan was elected to her husband's seat in the House.", 
+            "A former coal miner, he was a elected to Parliament in 1929 and remained a Member of Parliament for 31 years, serving as Minister of Health from 1945 to 1951.", 
+            "After Jennie Lee was elected to Parliament from Staffordshire in 1945, and Mr. Bevan was re-elected to Parliament in the same elections, they became known as ''Britain's first man-and-wife parliamentary team.", 
+            "After practicing law in Mineola, L.I., for 20 years, she was elected a judge of the Nassau County District Court, where she served from 1953 to 1970, when she retired."
+        ], 
+        "height": 96, 
+        "rate": 14, 
+        "start_y": 344, 
+        "id": "fem1"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In 1986 she was elected a charter member of the Settlement Hall of Fame.", 
+            "She and her husband, James, also opened a headquarters for the Association of Colored Women's Clubs, an organization that later elected her national president and president emeritus.", 
+            "Mrs. Mack was a delegate to six national Republican conventions and the first woman elected to the State Republican Committee from the Third Assembly District.", 
+            "Florence McDonald, an outspoken radical who was elected to two public offices in Berkeley, Calif., in the 1970's, died of cancer Thursday at Kaiser Hospital in Oakland, Calif. She was 73 years old and lived in Berkeley.", 
+            "In 1975 she was elected City Auditor and served four years; in 1979 she was elected to the City Council.", 
+            "She was a former member of the board of the Children's Books Council and was elected to the Academy of Women Achievers of the Y.M.C.A.", 
+            "She was first elected to the Metropolitan Opera's board in 1969.", 
+            "In 1955, she was elected a director of the National Association of Wool Manufacturers, the first woman to hold the position.", 
+            "Justice Danzig was first elected to a 14-year term in 1979.", 
+            "She was elected to the Outstanding Women Artists of America and has won several awards, including the American Watercolor Society Medal, the Philadelphia Watercolor Prize and the American Artists Professional League Medal.", 
+            "A Founder of Party She was a member of the first provincial committee of the fledgling Spanish Communist Party in her home province in 1920 and was elected a delegate to the first national Communist congress, which led to the formal founding of the party in 1921.", 
+            "In 1930, elected to the Central Committee of the party, she backed the national leadership in its fight against Trotskyists in Catalonia - a quarrel that was to come into the open again during the civil war.", 
+            "She was elected to the Spanish Parliament as a deputy for Asturias in 1934.", 
+            "Ten years later, she was elected trustee of the Title Guarantee and Trust Company, the first female director of a prominent banking concern.", 
+            "She ran a convenience store in Hartford's North End, a predominantly Puerto Rican neighborhood, and was elected to the Hartford Board of Education in 1973.", 
+            "Mrs. Sanchez, who was known for her work on behalf of Hispanic causes, was elected to the state House of Representatives in 1988."
+        ], 
+        "height": 96, 
+        "rate": 14, 
+        "start_y": 344, 
+        "id": "fem2"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In 1973 she became the first American woman elected to France's 250-member Academie des Sciences d'Outre-Mer.", 
+            "India Edwards, former vice chairwoman of the Democratic National Committee, who worked to advance the role of women in politics, died Sunday at Fircrest Convalescent Hospital in Sebastopol, Calif. She was 94 years old and lived in Greenbrea, Calif. India Edwards, former vice chairwoman of the Democratic National Committee, who worked to advance the role of women in politics, died Sunday at Fircrest Convalescent Hospital in Sebastopol, Calif. She was 94 years old and lived in Greenbrea, Calif. Mrs. Edwards was unanimously elected to the national committee in 1950.", 
+            "She was elected to Community School Board 2 in Manhattan and was on the State Republican Committee.", 
+            "In 1967 she was elected to the board of the National Trust for Historic Preservation, a group established by Congress to preserve historic houses.", 
+            "She became its president in 1934 and held the office until 1950, when she was elected chairman.", 
+            "Offstage Figure at Paper In 1935, after the death of her father, Mrs. Sulzberger became a trustee under his will along with her husband and her cousin Julius Ochs Adler; her husband was elected president and publisher of The Times.", 
+            "A Democrat, she was elected to the House of Delegates in 1958 and to the Maryland Senate in 1962.", 
+            "Mrs. Hance, a Republican, was elected in November 1975 and served four two-year terms before retiring in 1983.", 
+            "She was also the first woman to be elected president of the United Nations Correspondents Association.", 
+            "Last year Dr. Rosen was elected a member of the National Academy of Sciences.", 
+            "Mrs. Bitker, a native New Yorker, graduated in 1921 from Barnard, where she was elected to Phi Beta Kappa.", 
+            "Mrs. Shattuck, a graduate of Smith College, was elected three times to the Board of Selectmen, serving from 1983 to 1989.", 
+            "Justice Heller was elected to the State Supreme Court in the 2nd Judicial Department, which covers Brooklyn and Staten Island, in 1982.", 
+            "Mrs. Gordon began her legislative career in 1946 as an Assemblywoman, one of the youngest ever to be elected to the New York State Assembly.", 
+            "After serving as a member of the Princeton Borough Council, she was elected in 1976 to the Mercer County Board of Freeholders.", 
+            "'' 'Subject to the Fates' After her defeat in the Senate primary, she was elected mayor of Princeton in 1983.", 
+            "At home, she was elected a lawmaker two times and served as Governor of the western state of Maharashtra."
+        ], 
+        "height": 74, 
+        "rate": 11, 
+        "start_y": 344, 
+        "id": "fem3"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In 1956, Mrs. Todd was elected vice chairman of the Republican National Committee.", 
+            "Mrs. Craig, who was a recipient of the Carl Sandburg Literary Arts Award in 1985, was elected president of the Mystery Writers of America last year.", 
+            "In 1965 she was elected president of the Municipal Arts Society and remained a member of its board of directors until her death.", 
+            "She was elected district leader in 1955 and 1957.", 
+            "In 1966, at the age of 75, she was elected to the Borough Council of New Hope and served until 1969.", 
+            "As the first woman elected to the Miami City Commission, Mrs. Wainwright successfully sponsored an anti-billboard ordinance.", 
+            "The daughter of a prominent Baptist minister, she was the wife of Walter Washington, the first elected Mayor of the District of Columbia.", 
+            "In 1955, when she was a teacher at Flushing High School in Queens, she was elected president of the High School Teachers Association, where she sought to improve working condition for city high school teachers.", 
+            "She was elected first vice chairwoman of the Westchester Democratic Committee in 1986.", 
+            " Ruth F. Corcoran, who became the first woman to be elected to a Suffolk County town board when she won a seat as a councilwoman in Huntington, L.I., in 1961, died on Friday at the Hilaire Farms Nursing Home in Huntington.", 
+            "After John F. Kennedy was elected President, he appointed Mrs. Tree to the United Nations job, where she served when Mr. Stevenson was the top United States representative there.", 
+            "She continued as administrative assistant to Mr. McCarran until he died in 1954, then served under his interim successor and under Senator Alan Bible, a Democrat elected as Mr. McCarran's permanent replacement.", 
+            "\" Prof. Sture Allen, one of the 18 members of the academy elected for life and also its permanent secretary, said that he had tried to call Miss Gordimer in Johannesburg on Wednesday night to give her the good news, but nobody at her home knew how to reach her.", 
+            "\" In 1983, Miss Ginzburg was elected to the Italian Parliament as a representative of a left-wing party unaffiliated with the Communists.", 
+            "Justice Kooper was appointed to the Family Court by Mayor John V. Lindsay in 1973, elected to the State Supreme Court two years later and was named by Gov.", 
+            "The American Advertising Federation named her woman of the year in 1951 and in 1989 elected her to its hall of fame.", 
+            "She was elected national committee woman of the Alabama Young Democrats in 1941 and a vice-president of the Young Democratic Clubs of America in 1943.", 
+            "For the last six years, she was an elected member of the Board of Education."
+        ], 
+        "height": 112, 
+        "rate": 16, 
+        "start_y": 344, 
+        "id": "fem4"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "She became a New Rochelle trustee in 1950, retired from the board in 1978 and was elected to emeritus status at the college in 1980.", 
+            "In 1962, she was elected a fellow of the Institute of Electrical and Electronic Engineers.", 
+            "She served 20 years on the Durham City Council after being elected in nonpartisan balloting.", 
+            "In addition to her active role with the Red Sox and her extensive charitable work, Mrs. Yawkey had been a director of the National Baseball Museum and Hall of Fame since 1984, when she became the first, and so far only woman elected to the board.", 
+            "She was elected chairwoman of the Faculty Senate for the entire City University from 1986 to 1990, and in that post sat as an ex-officio member on the university's Board of Trustees.", 
+            "\" She was the first black woman elected to the Georgia Legislature, where she served in the General Assembly from 1966 to 1984.", 
+            "Honored at Wimbledon Mrs. Godfree was a regular visitor to Wimbledon and in 1989 became the first woman to be elected a vice president of the All England Club, where the tournament is played.", 
+            " Irene Silva de Santolalla, a Peruvian educator and author who in 1956 became the first woman in the country to be elected senator, died on Thursday at her home in Lima, the capital.", 
+            "Elected to the Senate in 1956, she served for six years and won praise as the author of a law on family education enacted in Peru in 1957.", 
+            "Born and raised on the Lower East Side of Manhattan, Mrs. Flast graduated from Hunter College, and was elected to the Hunter Hall of Fame in 1975.", 
+            "\" Mrs. Fenwick, whose colorful personality inspired cartoon characters, had a varied career, including stints as a fashion model, an author and editor and decades of public service in local, state and Federal elected and appointed posts.", 
+            "The Congressional primary rival she beat was Thomas H. Kean, later elected Governor.", 
+            "She started the league's popular reference booklet \"They Represent You and Your Community,\" listing elected officials with their addresses and telephone numbers and district maps.", 
+            "She served three terms as vice president of the Community Council of Greater New York and was elected its first president in 1973.", 
+            "She was the first woman elected vice chairman."
+        ], 
+        "height": 74, 
+        "rate": 11, 
+        "start_y": 344, 
+        "id": "fem5"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "She was a 1922 graduate of Vassar College, where she was elected to Phi Beta Kappa.", 
+            "She was elected in 1989 to a two-year term as the vice chairwoman of the Republican State Central Committee of Connecticut, becoming its highest-ranking female officer.", 
+            "The Raytheon Company bought Beech Aircraft in 1980, and she was elected to the parent company's board and executive committee.", 
+            "She was elected a director of the City Opera Company in July.", 
+            "\" Miss de Mille received more than 15 honorary degrees and was elected to the Theater Hall of Fame in 1973."
+        ], 
+        "height": 20, 
+        "rate": 4, 
+        "start_y": 344, 
+        "id": "fem6"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "It was as a Democrat that Dr. Ray was elected in 1976 to one term as the only female Governor her state has had, becoming the nation's second woman to be elected Governor without succeeding her husband.", 
+            "Ella T. Grasso, a Democrat, had been elected Governor of Connecticut two years before.", 
+            "Marched for Civil Rights Mrs. Douglas was elected in 1944 after a campaign against isolationism and went to Washington as Representative-at-Large, representing Illinois as a whole.", 
+            "She was the first woman to be elected president of the Bibliographical Society of America, serving from 1988 to 1992.", 
+            "She immigrated to the United States in 1949, conducted post-graduate research at Harvard University and in 1955 was elected research fellow of the Peabody Musuem at Harvard.", 
+            "The Royal Aura Of the Kennedys After Mr. Kennedy was elected President in 1960, the mystique and aura around Mrs. Kennedy began to grow rapidly, especially after she and her husband made the state visit to France in 1961.", 
+            "Miss Chute was a president of the PEN American Center, and was elected to the American Academy of the National Institute of Arts and Letters.", 
+            "In 1942 Dr. Judd, a Republican, was elected to Congress from Minnesota and rose to prominence as a crusader against Japanese military expansionism and Chinese Communism; he retired from Congress in the 1960's.", 
+            " Jean Fredette Ingrao, one of the first women elected to high office in the A.F.L.-C.I.O., died on Thursday at her home in Falls Church, Va. She was 63.", 
+            "Mrs. Ingrao (pronounced in-GRAY-oh) was elected in 1979 as executive secretary-treasurer of the A.F.L.-C.I.O.", 
+            "Years before, in 1947, Professor Hodgkin was elected a fellow of the Royal Society for her analysis of penicillin.", 
+            "Another Langhorne aunt was Nancy, Viscountess Astor, the first woman elected to the House of Commons.", 
+            " Jessie Sumner, an Illinois Republican who was the first woman elected to a county judgeship in her state and a conservative member of Congress from 1939 to 1947, died on Wednesday in Iroquois Memorial Hospital in Watseka, Ill. She was 96 and lived in nearby Milford.", 
+            "In 1937, she became a judge in Iroquois County before being elected to the House of Representatives in 1938.", 
+            "After being elected to the House, she became nationally known as a foe of President Franklin D. Roosevelt and of his New Deal program and other policies.", 
+            "She was appointed Mayor in 1946 to replace an incumbent who had resigned, and she was elected to office in later years.", 
+            "After Mr. Kennedy was elected President, his wife made Mrs. Parish a consultant in her redecorating of the White House.", 
+            "Sister Mary Margaret was elected to the Provincial Council of the School Sisters of Notre Dame in St. Louis in 1971 and served as the international leader in Rome from 1977 to 1987.", 
+            "She had been executive director of the National Council in New York for 18 years before being elected president.", 
+            "Hunter elected her to its College Hall of Fame in 1983.", 
+            "She was then elected chairman of the combined institutions.", 
+            "She took her husband's seat on the bank's board and, on Jan. 21, 1937, was elected president.", 
+            "In 1991, she was elected an honorary trustee.", 
+            "She was elected secretary of NOW and of its national political action committee in 1991 and served until last year.", 
+            "She became a member in 1938, was elected to the board in 1948 and was made vice president in 1973.", 
+            "In 1959, she was elected the store's vice president, the first woman to hold that position at Ohrbach's."
+        ], 
+        "height": 164, 
+        "rate": 23, 
+        "start_y": 344, 
+        "id": "fem7"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "She was elected president of the cultural, philanthropic and social organization in 1971 while her husband was the Deputy Permanent United States Representative, from 1969 to 1973.", 
+            " Kathryn Haeseler Stone, a former Virginia legislator who challenged school segregation and a reapportionment plan that penalized urban voters, died last Friday at her home in Alexandria, Va. She was 88 and had been a longtime resident of Arlington, Va. Elected to the Virginia Legislature five months before the United States Supreme Court's decision in Brown v. the Board of Education in 1954, she became an early promoter of school desegregation.", 
+            "Mr. Smith, who was prominent in local Republican circles, ran for office and in 1937 was elected Representative from Maine's Second Congressional District.", 
+            "After his death, she was chosen to fill his unexpired term in a special election and was elected in her own right later that year.", 
+            "She was elected a Fellow of the Royal Society of Arts in 1973.", 
+            " Roberta Church, an official in the Eisenhower and Nixon Administrations who was the first black woman to be elected to the Tennessee Republican State Executive Committee, died on Saturday at Baptist Memorial Hospital East in Memphis.", 
+            "Miss Church took over the campaign and was elected in his stead to represent Memphis and surrounding Shelby County.", 
+            "She was elected president of the organization's Pacific-Southwest Region in 1987 and president of the association in 1993.", 
+            "\" \"Governor\" was William P. Hobby, an easy-going newspaperman who was the top elected official in Texas from 1917 to 1921; his most notable action as Governor was to call out the state militia to crush a dock strike.", 
+            "The Macdonalds settled in Malden, Mass., where Mr. Macdonald was elected to Congress in 1954.", 
+            "She obtained her degree in 1936, and four years later was one of the first seven women elected to the Brooklyn Bar Association.", 
+            "She returned home shortly after the junta fell in 1974, reopened her newspapers and was elected to Parliament as a member of the conservative New Democracy party.", 
+            "In 1966, Sister Evelyn was elected to a five-year term as superior of the Sisters of Charity of New York, putting her in charge of 1,200 nuns in 87 schools, colleges, hospitals and child-care centers throughout the archdiocese.", 
+            "Sister Evelyn was also the first woman to be elected president of the Greater New York Hospital Association, a position she filled for a year.", 
+            " Mildred Barry Hughes, who in 1965 was the first woman elected a state senator in New Jersey, died on Jan. 11 at the Cranford (N.J.) Health and Extended Care Center.", 
+            "The cause was a heart attack, said a son, Peter L. Hughes 3d of Annandale, N.J. First elected to the New Jersey Assembly in 1957, she represented Union Township for four terms before running for the Senate in 1965.", 
+            "In that victory, she also was the first Democrat from Union County to be elected to the State Senate in 75 years.", 
+            "Her son Robert was appointed Attorney General, and Edward was elected to fill John's unexpired Senate term.", 
+            "Kathleen Kennedy Townsend, Robert's oldest child, was elected Lieutenant Governor of Maryland in 1994; Patrick Kennedy, one of Edward's sons, was elected to the United States House of Representatives in 1994 after serving as a Rhode Island state legislator.", 
+            "And Mark Shriver, the son of Eunice, was elected in 1994 to the Maryland House of Delegates.", 
+            "She was a past vice chairman of the New Jersey Democratic State Committee and in 1977 became the first woman to be elected president of the National Association of State Chairmen.", 
+            "She was elected head of the New York Newspaper Guild's Times unit in 1980, the first woman in the post.", 
+            "Ms. Cook, who was elected in 1980 to head the guild's Times unit, was not the first woman to do so."
+        ], 
+        "height": 150, 
+        "rate": 21, 
+        "start_y": 344, 
+        "id": "fem8"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Mrs. Rose, who was active in many civic and cultural affairs, was elected to  the International Center of Photography's board of trustees in 1981 and became the board's president in 1989.", 
+            "The author of two instructional tennis books, \"Winning Tennis and How to Play It\" (1946) and \"Tennis for Anyone\" (1966), Danzig was elected to the sport's Hall of Fame in 1963.", 
+            "But she continued to teach, write, edit and experiment for several more years and was elected to the American Academy of Arts and Sciences  in 1992 in recognition of her contributions.", 
+            "She was also one of the first women elected to the board of the Metropolitan Museum of Art.", 
+            " Susie Marshall Sharp, the first woman to be popularly elected to the post of  chief justice of a state supreme court in the United States, died on Friday at her home.", 
+            "\" Miss Sharp was elected Chief Justice in November 1974, replacing William H. Bobbitt, her longtime colleague on the bench.", 
+            "She was the first woman to be elected president of the Association for Psychoanalytic Medicine and the first female member and president of the New York Psychiatric Society.", 
+            "She was also the first woman to be elected an international vice president of the union, in 1970.", 
+            "She was elected to the policy-setting board at the union convention in 1966.", 
+            "She and her husband had five children, including Rodney P. Frelinghuysen, also a Republican Congressman from north central New Jersey, who was elected in  1994.", 
+            "The General Assembly elected her Treasurer in 1987.", 
+            "In 1968, Ms. Clark was elected president of the United States Scenic Artists, Local 829, the first woman to hold that job.", 
+            " Justice Birdie Amsterdam, who achieved several judicial firsts, including being the first woman elected to the New York State Supreme Court, died on Monday at Beth Israel Medical Center in Manhattan.", 
+            "She was the first woman elected to the Municipal Court in New York County in 1940.", 
+            "The State Supreme Court was more than 250 years old before a woman was elected to it, Judge Kaye wrote, and even today women do not enjoy the status of equals in the legal profession.", 
+            "Correction:  July 11, 1996, Thursday An obituary yesterday of Justice Birdie Amsterdam, the first woman elected to New York State Supreme Court, misstated the given name of a surviving sister.", 
+            " Judge Genevieve Blatt, the first woman to be elected to statewide office in Pennsylvania and to serve on the state's appellate court, died on Thursday at a  retirement home in Hampden Township, Pa. She was 83 and a former resident of Harrisburg.", 
+            "In 1954 she  was elected Secretary of Internal Affairs, a statewide office.", 
+            "Within months of her arrival, she began investigating conditions in her children's public school, joined and was elected president of the neighborhood branch of the United Parents Association and led a campaign for smaller schools under greater neighborhood control.", 
+            "In 1974, she became the first female composer to be elected to the American Academy of Arts and Letters.", 
+            "She was elected to the National Academy of Sciences in 1984.", 
+            "She was twice elected to lead the national umbrella Association of Commissions on Women, of which she eventually became president emeritus.", 
+            "There had been women in Congress continuously for more than 30 years, and Mrs. Knutson, although the first from Minnesota, was one of seven elected in 1954.", 
+            " Eileen C. Dugan, a Brooklyn Democrat who was elected to her ninth term in the New York State Assembly only on Tuesday, died yesterday at Beth Israel Medical Center.", 
+            "In 1985, five years after she was first elected to the Assembly, Ms. Dugan became the first female member of the powerful Ways and Means Committee, which writes the budget.", 
+            "She was elected guild unit chairwoman at The Post in 1976, while Dorothy Schiff was publisher.", 
+            "Ms. Jordan, the first black elected to Congress from Texas after Reconstruction, retired from the House in 1979 after three terms to teach political ethics at the university's Lyndon B. Johnson School of Public Affairs, never losing her potent talent for public speaking even from the confines of a wheelchair.", 
+            "In 1966, she was elected as the first black state Senator in Texas, and went on to be the first woman and first black elected to Congress from Texas.", 
+            "But she succeeded when state legislative  districts were finally redrawn and she became the first black of either sex to be elected to the Texas Senate since 1883."
+        ], 
+        "height": 126, 
+        "rate": 18, 
+        "start_y": 344, 
+        "id": "fem9"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In 1956, Parade magazine quoted Mrs. Dixon as forecasting that a Democratic President, elected in 1960, would die in office.", 
+            "In 1975 Dr. Wu became the first woman to be elected president of the American Physical Society, the chief organization of physicists in the United States.", 
+            "Dr. Wu was elected to the National Academy of Sciences, and was elected to the Royal Society of Edinburgh as an honorary fellow.", 
+            "As one of two elected judges of the Surrogate's Court in Manhattan, which Fiorello La Guardia described  as ''the most expensive undertaking establishment in the world,'' Surrogate Lambert heard disputes pertaining to wills and estates, and formalized adoptions.", 
+            "From 1977, when she was elected, to 1990, when she retired at the mandatory age of 70, Surrogate Lambert, feared for her quick temper and ability to keep lawyers working in her court till the early morning hours, drew fire.", 
+            "In 1974, the New York State Trial Lawyers elected her president.", 
+            "As one of two elected judges of the Surrogate's Court in Manhattan, which Fiorello La Guardia described as ''the most expensive undertaking establishment in the world,'' Surrogate Lambert heard disputes pertaining to wills and estates, and formalized adoptions.", 
+            "She began in 1951 as a member of the national board and in 1988 was elected to the Board of Trustees.", 
+            "Dr. Esau (pronounced EE-saw) was also the sixth woman elected to the National Academy of Sciences, in 1957, the academy said.", 
+            "1 in 1936, and was elected to the International Tennis Hall of Fame in 1962.", 
+            "In January 1977, the Republican National Committee elected Bill Brock, a conservative former Senator from Tennessee, to succeed Mrs. Smith.", 
+            "After Mr. Reagan was elected President, he appointed Mrs. Smith to the United States Commission on Civil Rights.", 
+            "Her mother, Nellie Nugent Somerville, was the first woman to be elected to the Mississippi Legislature, and Lucy also served there for four years in the 1930's.", 
+            "In 1982, she was a media adviser to Felipe Gonzalez when he was elected for the first time as Prime Minister, starting nearly 14 years of Socialist Party rule.", 
+            "She was the first woman elected president of the American Association for the Advancement of Science, the largest alliance of scientists in the world.", 
+            "Dr. Rees enjoyed a crowning moment in 1969, when the 120,000-member American Association for the Advancement of Science elected her president.", 
+            "She was a delegate to the Connecticut Constitutional Convention in 1965 and was elected to the General Assembly the following year for the first of four terms.", 
+            " Helen Stevenson Meyner, a liberal Democrat who was elected to two terms in Congress by a heavily Republican district in New Jersey, died yesterday after a long illness at the Heartland Health Care Center, a nursing home in Fort Myers, Fla. She was 69.", 
+            "She lost that election to Joseph J. Maraziti, a Republican, but defeated him in 1974, the same year that Representative Millicent Fenwick, a Republican, was elected.", 
+            "Mrs. Chubb was elected to the board in 1955 and was a trustee at her death."
+        ], 
+        "height": 104, 
+        "rate": 15, 
+        "start_y": 344, 
+        "id": "fem10"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In 1970, she was the first woman to be elected president of the academy and, mindful of the overwhelming preponderance of men in her metier, came up with an arbitration training program for women.", 
+            "She was elected a fellow of the American Physics Society in 1947 and the American Association for the Advancement of Science in 1980, and to membership in the National Academy of Sciences in 1972.", 
+            "The democratically elected Government said the move was essential for national reconciliation.", 
+            "She was elected a State Supreme Court justice in 1971.", 
+            "Disillusioned by what she considered the extremism of her father's party, she joined Labor at the age of 24, won several local elections and was elected to Parliament in 1966.", 
+            "She was on many committees and boards of the American Public Health Association and was elected chairwoman in 1995.", 
+            "Her father, Victor Hugo Stickney, a doctor who made calls on horseback, was one of the first 10 members elected to the National Cowboy Hall of Fame.", 
+            "Ms. Snyder was elected to the Teva board.", 
+            "After Mr. Godin was elected to the province's assembly in 1976, the year the separatist party won control of the provincial government, she appeared regularly at major separatist rallies, leading huge crowds in song and fiery speeches.", 
+            "After her retirement in 1971, she was elected to the museum's board of trustees."
+        ], 
+        "height": 36, 
+        "rate": 6, 
+        "start_y": 344, 
+        "id": "fem11"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "She attended a high school for a year in Wichita, Kan., where some members of her family lived, and went on to receive a bachelor's degree in 1926 from Barnard, where she was elected to Phi Beta Kappa and was taught by the anthropologists Ruth Benedict and Franz Boas.", 
+            "In 1977 she was elected a justice of the State Supreme Court.", 
+            "In 1956, she was elected recording secretary general of the national society, and in 1959, she was elected first vice president general.", 
+            "She was elected president general in 1965, serving one term until 1968, when she was made an honorary president general for life.", 
+            " State Senator Wynona M. Lipman, who in 1971 became the first African-American woman to be elected to the New Jersey Senate, died Sunday at her home in Newark.", 
+            "In 1973, in a right-wing coup backed by the American Government, General Pinochet overthrew the Government of Salvador Allende Gossens, a democratically elected Marxist.", 
+            " Judith Campbell Exner, who asserted in a 1988 interview in People magazine that she had been having an affair with John F. Kennedy when he was elected President, died late Friday at the City of Hope Cancer Center in Duarte, Calif., a suburb of Los Angeles.", 
+            "It quoted assertions she had made over the years that she had had an affair with John F. Kennedy before and after he was elected President.", 
+            "After being elected state N.A.A.C.P.", 
+            "Ms. Iotti, who served as a Partisan during World War II, was first elected to office in 1946, winning a seat in the constitutional assembly."
+        ], 
+        "height": 50, 
+        "rate": 8, 
+        "start_y": 344, 
+        "id": "fem12"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Justice Denman, a former Buffalo city judge and Erie County Court judge, was elected to State Supreme Court in 1976.", 
+            "The pace of life -- eventually as secretary of the Board of Estimate, the panel of top elected officials that then ran city government -- was blistering: Mayor La Guardia resented staff members taking lunch, barely tolerated their vacations and routinely punished unproductive commissioners by making them wait five or six hours for appointments.", 
+            " Hannah Komanoff, the first woman elected to the Board of Supervisors in Nassau County, N.Y., died on Sunday at a hospital in Long Beach, on Long Island.", 
+            "Mrs. Komanoff, a Democrat, was elected to the board from Long Beach, where she lived much of her life, in 1973, and served three terms from 1974 to 1985.", 
+            "Correction:  April 18, 2000, Tuesday  An obituary yesterday about Hannah Komanoff, the first woman elected to the Board of Supervisors in Nassau County, N.Y., misstated the date of her death.", 
+            "The board of the Corporation for Public Broadcasting elected her chairman in 1997 for a two-year term.", 
+            "In 1968, she was the first woman to be elected a national vice president of the committee.", 
+            "In the early 1960's, she became a staff assistant to Abraham A. Ribicoff, the secretary of Health, Education and Welfare, and became his executive assistant when he was elected senator from Connecticut.", 
+            "After holding paid and unpaid posts with Girl Scouts of the U.S.A., whose headquarters are in Manhattan, she was on its board of directors for some years and was elected national president after holding lesser executive posts in the 1960's.", 
+            "In 1976, she became the first black woman to be elected to the 250-member National Institute of Arts and Letters.", 
+            "In 1978, Mrs. Ireys was elected a fellow in the American Society of Landscape Architects.", 
+            "In 1976 she became the first black woman to be elected to the 250-member National Institute of Arts and Letters."
+        ], 
+        "height": 50, 
+        "rate": 8, 
+        "start_y": 344, 
+        "id": "fem13"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "She was elected to the National Academy of Sciences and was the president of the Infectious Diseases Society of America.", 
+            "A Democrat, she was elected in 1962 with bipartisan support to District Court in Nassau County.", 
+            "Six years later, she was elected to Family Court.", 
+            "In 1958 she was elected third president of the Federation of Japanese Women's Organizations, a group opposed to nuclear weapons and committed to promoting peace.", 
+            "In 1969, Ms. Hunter was elected president of the Women's National Press Club.", 
+            "'' She elected to remain in Australia, and, though she did rather little stage work after 1985, was much in demand for concerts and recitals in Australia, Britain and the United States.", 
+            "Its other members elected her as chairwoman for seven successive two-year terms.", 
+            "In 1972, she became the third woman to be elected president of the American Psychological Association.", 
+            "She was elected president of the company, but she felt ''abysmally ignorant'' about how to proceed.", 
+            "''When he was elected president, she had more communication and involvement with her father than she had had for the rest of her life,'' her friend Judy Carter, the daughter-in-law of former President Jimmy Carter, said in 1989.", 
+            "In 1987, Judge Kaiser, who opposed compulsory retirement for judges, reached 70, the state's mandatory retirement age for Family Court judges, and could not finish her elected 10-year term.", 
+            "One of the experiments in greater community control began with an elected local board for the Ocean Hill-Brownsville section of Brooklyn.", 
+            "In 1944 she was elected president of the citywide United Parents Association, helping to boost its strength from 80,000 to 250,000 dues-paying members in her four years in charge."
+        ], 
+        "height": 50, 
+        "rate": 8, 
+        "start_y": 344, 
+        "id": "fem14"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "She went to Agnes Scott College in Atlanta, where she was elected to Phi Beta Kappa.", 
+            "But she made it to the university, where she was elected Queen of the Carnival.", 
+            "Ms. Castle's personal popularity with the party's rank and file was confirmed in 1950 when she was elected to its national executive committee, a post she held until 1979.", 
+            "She served as president of the College Art Association from 1988 to 1990; was elected to the Accademia Nazionale dei Lincei in Rome in 1995 and to the American Philosophical Society in 1999 and, because of her work in culinary history, to the Dames d'Escoffier in 1995.", 
+            "A precocious child, Flora graduated from high school at 15 and entered the University of California at Los Angeles, where she earned a bachelor of arts summa cum laude and was elected to Phi Beta Kappa.", 
+            " Representative Patsy T. Mink, a liberal Democrat from Hawaii who was likely to be elected to a 13th term in November, died Saturday at the Straub Clinic and Hospital in Honolulu.", 
+            "As a senior at Maui High School she was elected student body president, and by the time she graduated from the University of Hawaii in 1948, her interests had shifted from medicine to the humanities.", 
+            "In 1956, Ms. Mink was elected to the Hawaii Territorial Legislature.", 
+            "In 1958, she was elected to the Hawaii Senate.", 
+            "'' Immediately after her intervention, she was elected to a new strike committee that was able to negotiate the historic agreement guaranteeing workers the right to form unions independent of the government or the ruling Communist Party.", 
+            " Percy Maxim Lee, a former president of the League of Women Voters of the United States, died on Saturday in New London, Conn. She was 96 and lived in Mystic, Conn. Born July 4, 1906, in Hartford, Mrs. Lee was elected to the national board of the league in 1944, and served four terms as its president, from 1950 to 1958."
+        ], 
+        "height": 42, 
+        "rate": 7, 
+        "start_y": 344, 
+        "id": "fem15"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Deeply interested in rodeo, Mrs. Formby was the first woman elected to the Texas Tech Rodeo Hall of Fame.", 
+            "Instead, Governor Williams appointed her to the bench of Recorder's Court in Detroit, and she was a judge until her election to the House in 1954, the first Democratic woman elected to Congress from Michigan.", 
+            "She was elected lieutenant governor and re-elected with him in 1986.", 
+            "She received a bachelor's degree in English, magna cum laude, from the University of California at Los Angeles, where she also was elected to Phi Beta Kappa.", 
+            "She was elected to the National Academy of Sciences in 1990, and held honorary degrees from the University of Utrecht in the Netherlands and the University of St. Andrews in Scotland.", 
+            "She was the first woman elected to the Roxburghe Club, an English association of bibliophiles, and one of the first to join the Grolier Club, another bibliophile's group, in New York City; she was vice president from 1982 to 1992.", 
+            "She was elected to Parliament in 1982 and quickly rose through her party's ranks, becoming chairman of its youth league in 1984 and a member of the policy-making executive committee in 1991.", 
+            "Another woman, Edwina Coven, was elected 17 months earlier, but was vetoed by her fellow aldermen.", 
+            "It was the Court of Aldermen that elected Lady Donaldson lord mayor after she had been nominated by the City's livery companies, a mixture of charitable trusts, gentlemen's clubs and guardians of craft standards and training.", 
+            "Mrs. Hicks was elected to the Boston School Committee in 1961.", 
+            "In 1956 when all the children were in school, Mrs. Stevenson joined the board of the American Theater Wing, and when Helen Menken, then the president, died in 1965, she was elected president.", 
+            " Mary Pinkett, a labor advocate from Brooklyn who became the first African-American woman elected to the New York City Council, died yesterday."
+        ], 
+        "height": 58, 
+        "rate": 9, 
+        "start_y": 344, 
+        "id": "fem16"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "One of the highest-ranking elected officials in the county, Ms.", 
+            "As her illness progressed in recent months, her duties often fell upon the deputy presiding officer elected alongside her, Joseph Caracappa, a Republican from Selden.", 
+            "In 1987 she was elected to the County Legislature.", 
+            "She graduated summa cum laude from the University of California, Los Angeles, where she was elected to Phi Beta Kappa and won a National Science Foundation research scholarship.", 
+            "'' Ms. Jeffrey ran for only one office, when she was elected in Michigan to the board of governors of Wayne State University in Detroit.", 
+            "Teddy Kollek, who was elected mayor of Jerusalem in 1965, commissioned her to write a hymn to the city.", 
+            "In 1976, she was elected to the first of two terms in the Colorado House of Representatives, where she was a member of a group that called itself the Crazies for its members' passionate devotion to states' rights and opposition to federal energy and environmental policies.", 
+            "Ms. Rubens won Britain's prestigious Booker Prize for fiction in 1970 for ''The Elected Member,'' the story of a Jewish family whose secrets drive one son insane.", 
+            "'' In 1975, Dr. de Laguna and Margaret Mead were the first female anthropologists elected to the National Academy of Sciences.", 
+            "She joined the board of the Studio Museum in the late 1970's and was elected a trustee emeritus in 2002."
+        ], 
+        "height": 50, 
+        "rate": 8, 
+        "start_y": 344, 
+        "id": "fem17"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "''Only nine black people have been elected to Congress, and those nine should be used as effectively as possible.", 
+            "She was elected a Supreme Court justice in 1987 and served in its Civil Term until her promotion to the Appellate Division in January 1994.", 
+            "Elected president of the Council, she had three members arrested in 1989, when they tried to walk out of a meeting, which would have prevented a quorum needed to pass the city budget.", 
+            "She got a seat on the Armed Services Committee and was elected co-chairwoman of the Freshman Republican Task Force on Reform.", 
+            "In 1998, Ms. Fowler was elected vice chairwoman of the House Republican Conference on the vow that she would serve no longer than two years in the Republican leadership.", 
+            "First elected in 1992, she retired in 2000 after four terms.", 
+            "In 1971 she was elected to the Westchester County legislature, where she served for 21 years.", 
+            "Gunter was elected to the Women's Basketball Hall of Fame in 2000, and to the Naismith Basketball Hall of Fame in March.", 
+            "work and handily defeated a Republican to become the first black woman elected to the State Senate.", 
+            "In 1987, she explained it to Nancy Carol Joyner of Western Carolina University: ''I said if Nixon was elected president I was going back to Europe.", 
+            "She was the first black and the first woman elected to the Philadelphia Zoning Board.", 
+            "Later in her career she studied the emerging importance of trained nurses in developing countries and, in 1993, was elected president of the International Council of Nurses."
+        ], 
+        "height": 80, 
+        "rate": 12, 
+        "start_y": 344, 
+        "id": "fem18"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "The group elected her a Companion of Literature in 1994, a position held by only 10 writers at a time.", 
+            "She was elected to the Advertising Hall of Fame in 1997.", 
+            "Her father, Charles Hobbs, was later elected Kansas insurance commissioner, and her mother, Emma Swisher, taught piano.", 
+            "In 1970, she was elected president of the Rockland County Bar Association.", 
+            "She was first elected to the Assembly in 1973 and was re-elected 13 times.", 
+            "She majored in economics at Mount Holyoke College, where she was elected to Phi Beta Kappa as a junior and graduated magna cum laude.", 
+            "In 2005, she was elected to the American Academy of Arts and Sciences.", 
+            "Mrs. Goodman, whose expertise was in early childhood education, joined the board at Teachers College in 1973 and led its committee on development before being elected the board's chairwoman in 1980.", 
+            "I believe that Mississippi now has the highest number of African-American elected officials in the nation.", 
+            "'' In 1982, she ran for state treasurer and received the most votes of any statewide candidate, becoming the first woman elected to statewide office in Texas in 50 years.", 
+            "In 1984, she became the first woman elected to the National Rowing Hall of Fame.", 
+            "Later that year, Berg was elected president of the fledgling L.P.G.A., and in 1950 the organization officially began with Berg and 12 other golfers recognized as the founders.", 
+            "'' In 1982, she ran for state treasurer, received the most votes of any statewide candidate, became the first woman elected to statewide office in Texas in 50 years and was re-elected in 1986.", 
+            "Mrs. Chenoweth-Hage was elected in 1994 as part of the Republican takeover of the House and served three terms, from 1995 to 2001, representing Idaho's First Congressional District."
+        ], 
+        "height": 58, 
+        "rate": 9, 
+        "start_y": 344, 
+        "id": "fem19"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
             "He was elected a trustee at Columbia in 1959 and became a trustee, as well as secretary and treasurer, at the Whitney Museum of American Art in 1961.", 
             "In 1938, he was elected to the Toronto Board of Education and the City Council, and in 1945 he was elected to the House of Commons, representing Eglinton.", 
             "The next year he was elected executive vice president.", 
@@ -203,32 +673,14 @@
             "He was a past president of the American Society of Human Genetics, an elected fellow of the Royal College of Physicians in London and a member of the National Academy of Sciences.", 
             "He received a Ph.D. in biochemistry at Cambridge in 1924 and was elected a Fellow of Trinity College the same year."
         ], 
-        "height_fem": 80, 
-        "start_y": 254, 
-        "sentences_fem": [
-            "In 1952, she was elected the Reverend Mother of the Community of the Holy Spirit, an Episcopal religious order for women that she founded that year.", 
-            "In 1952, she was elected the Reverend Mother of the Community of the Holy Spirit, an Episcopal religious order for women that she founded that year.", 
-            "In 1974, Mrs. Clark was elected to the Charleston County School Board.", 
-            "She was elected in 1983 to complete the term of her husband, Phillip, and was re-elected in 1984 and 1986.", 
-            "She was elected in 1983 to complete the term of her husband when he died and was re-elected in 1984 and 1986.", 
-            "Mrs. Freeman was elected to the board of directors in June 1972.", 
-            "'' Mrs. Meiers, a former Democratic member of the North Dakota House, was elected Lieutenant Governor in 1984.", 
-            "She was elected to the House in 1974, following her father, Axel Olson, to the Legislature.", 
-            "Elected to Assembly Mrs. Ryan went into politics after her husband, E. Gerard Ryan, a lawyer, died.", 
-            "Only a handful of women had served in the New York State Assembly when she was elected to the Legislature in 1958.", 
-            "She was recently elected president of the Bedford-Stuyvesant Brooklyn chapter of the Lioness Club.", 
-            "In 1959 she became the first woman to be elected president of the Indiana Democratic Editorial Association, and she was the first woman on the board of directors of the Hoosier State Press Association.       "
-        ]
+        "height": 210, 
+        "rate": 29, 
+        "start_y": 0, 
+        "id": "mal0"
     }, 
     {
-        "height_mal": 196, 
-        "rate_fem": 14, 
-        "rate_mal": 27, 
-        "heigh_fem": 0, 
-        "id": 1, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "He was elected to the upper house of Parliament in 1986 as a member of the ruling Congress Party.", 
             "Friar de Mojana, a Milanese lawyer of noble birth, was elected Grand Master of the charitable order in May 1962.", 
             "In 1955, he was elected to a 13-year term and, in 1957, was elected vice chancellor.", 
@@ -399,32 +851,14 @@
             "He served in the Alabama House from 1959 to 1963 and in the Alabama Senate from 1963 until he was elected to the House.", 
             "He was elected to the Hockey Hall of Fame in 1966."
         ], 
-        "height_fem": 96, 
-        "start_y": 238, 
-        "sentences_fem": [
-            "Studied Fish on Sea Floor Born in New York City, she graduated in 1924 from Connecticut College for Women, where she was twice chosen class president, was elected to Phi Beta Kappa and was selected a member of the All-America girls' hockey team.", 
-            "Camilla Ravera, a founder of the Communist Party in Italy and a champion of women's rights who became the first woman elected to the Italian Senate, died Thursday at her Rome apartment, her family reported.", 
-            "She was reinstated during the 1950's and was elected to the Senate in 1982.", 
-            "Sister Mary Celeste, who held a Ph.D. from St. John's University, was community supervisor of schools in the Brooklyn Diocese in 1962 when the trustees elected her president of what then was Molloy Catholic College for Women.", 
-            "Her first elected position was as a member of the Prince Georges County Board of Commissioners in 1962.", 
-            "She was a fellow of the American Academy of Poets and was elected a member of the National Institute of Arts and Letters in 1951.", 
-            "Mrs. Ram, who was an elected member of the National Executive Council of the Episcopal Church from 1976 to 1982, was a leader among Mexican-Americans in Los Angeles and was one of the founders of the United Neighborhood Organizations, which became a major force in the city.", 
-            "Leonor K. Sullivan, a 12-term Democratic member of the House of Representatives, the only woman ever elected to Congress from Missouri, died today of heart failure.", 
-            "A year later, Mrs. Sullivan was elected to her husband's seat in the House.", 
-            "A former coal miner, he was a elected to Parliament in 1929 and remained a Member of Parliament for 31 years, serving as Minister of Health from 1945 to 1951.", 
-            "After Jennie Lee was elected to Parliament from Staffordshire in 1945, and Mr. Bevan was re-elected to Parliament in the same elections, they became known as ''Britain's first man-and-wife parliamentary team.", 
-            "After practicing law in Mineola, L.I., for 20 years, she was elected a judge of the Nassau County District Court, where she served from 1953 to 1970, when she retired."
-        ]
+        "height": 196, 
+        "rate": 27, 
+        "start_y": 0, 
+        "id": "mal1"
     }, 
     {
-        "height_mal": 188, 
-        "rate_fem": 14, 
-        "rate_mal": 26, 
-        "heigh_fem": 0, 
-        "id": 2, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "In 1951 he was elected president of the Chartered Life Underwriters, a national professional organization.", 
             "Elected to Parliament In 1929, after taking flying lessons, Mr. Guinness became one of the first private citizens in England to own an airplane and soon he was a member of the County of London's Auxiliary Air Force.", 
             "In 1931, on his third try, Mr. Guinness was elected to Parliament from Bath and was named parliamentary private secretary to Sir Philip Sassoon, the Under Secretary for Air.", 
@@ -623,36 +1057,14 @@
             "He was elected to Sigma Delta Chi's Journalism Hall of Fame in 1985.", 
             "Justice Gulotta was first elected to the Supreme Court in 1958."
         ], 
-        "height_fem": 96, 
-        "start_y": 238, 
-        "sentences_fem": [
-            "In 1986 she was elected a charter member of the Settlement Hall of Fame.", 
-            "She and her husband, James, also opened a headquarters for the Association of Colored Women's Clubs, an organization that later elected her national president and president emeritus.", 
-            "Mrs. Mack was a delegate to six national Republican conventions and the first woman elected to the State Republican Committee from the Third Assembly District.", 
-            "Florence McDonald, an outspoken radical who was elected to two public offices in Berkeley, Calif., in the 1970's, died of cancer Thursday at Kaiser Hospital in Oakland, Calif. She was 73 years old and lived in Berkeley.", 
-            "In 1975 she was elected City Auditor and served four years; in 1979 she was elected to the City Council.", 
-            "She was a former member of the board of the Children's Books Council and was elected to the Academy of Women Achievers of the Y.M.C.A.", 
-            "She was first elected to the Metropolitan Opera's board in 1969.", 
-            "In 1955, she was elected a director of the National Association of Wool Manufacturers, the first woman to hold the position.", 
-            "Justice Danzig was first elected to a 14-year term in 1979.", 
-            "She was elected to the Outstanding Women Artists of America and has won several awards, including the American Watercolor Society Medal, the Philadelphia Watercolor Prize and the American Artists Professional League Medal.", 
-            "A Founder of Party She was a member of the first provincial committee of the fledgling Spanish Communist Party in her home province in 1920 and was elected a delegate to the first national Communist congress, which led to the formal founding of the party in 1921.", 
-            "In 1930, elected to the Central Committee of the party, she backed the national leadership in its fight against Trotskyists in Catalonia - a quarrel that was to come into the open again during the civil war.", 
-            "She was elected to the Spanish Parliament as a deputy for Asturias in 1934.", 
-            "Ten years later, she was elected trustee of the Title Guarantee and Trust Company, the first female director of a prominent banking concern.", 
-            "She ran a convenience store in Hartford's North End, a predominantly Puerto Rican neighborhood, and was elected to the Hartford Board of Education in 1973.", 
-            "Mrs. Sanchez, who was known for her work on behalf of Hispanic causes, was elected to the state House of Representatives in 1988."
-        ]
+        "height": 188, 
+        "rate": 26, 
+        "start_y": 0, 
+        "id": "mal2"
     }, 
     {
-        "height_mal": 188, 
-        "rate_fem": 11, 
-        "rate_mal": 26, 
-        "heigh_fem": 0, 
-        "id": 3, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "Democratic Party bosses did not regard him as a serious candidate, but he persisted, Shouldering a broom to symbolize a ''clean sweep'' of corruption, Mr. Clark won by a landslide, becoming the first Democrat to be elected Mayor of Philadelphia since 1884.", 
             "He was elected to a first term in the National Assembly in 1956 and was also a deputy in the 1970's as well as the 1980's.", 
             "He was first elected Mayor of Villeurbanne in 1977.", 
@@ -867,37 +1279,14 @@
             "He became president in 1950 and was chairman when he was elected Governor in 1968.", 
             "Mr. Snyder became affiliated with the Hearst Corporation in 1958 as general manager of WTAE-TV in Pittsburgh, In 1968 he was elected a vice president of the parent corporation and general manager of Hearst Broadcasting, which expanded to six television stations and seven radio stations."
         ], 
-        "height_fem": 74, 
-        "start_y": 260, 
-        "sentences_fem": [
-            "In 1973 she became the first American woman elected to France's 250-member Academie des Sciences d'Outre-Mer.", 
-            "India Edwards, former vice chairwoman of the Democratic National Committee, who worked to advance the role of women in politics, died Sunday at Fircrest Convalescent Hospital in Sebastopol, Calif. She was 94 years old and lived in Greenbrea, Calif. India Edwards, former vice chairwoman of the Democratic National Committee, who worked to advance the role of women in politics, died Sunday at Fircrest Convalescent Hospital in Sebastopol, Calif. She was 94 years old and lived in Greenbrea, Calif. Mrs. Edwards was unanimously elected to the national committee in 1950.", 
-            "She was elected to Community School Board 2 in Manhattan and was on the State Republican Committee.", 
-            "In 1967 she was elected to the board of the National Trust for Historic Preservation, a group established by Congress to preserve historic houses.", 
-            "She became its president in 1934 and held the office until 1950, when she was elected chairman.", 
-            "Offstage Figure at Paper In 1935, after the death of her father, Mrs. Sulzberger became a trustee under his will along with her husband and her cousin Julius Ochs Adler; her husband was elected president and publisher of The Times.", 
-            "A Democrat, she was elected to the House of Delegates in 1958 and to the Maryland Senate in 1962.", 
-            "Mrs. Hance, a Republican, was elected in November 1975 and served four two-year terms before retiring in 1983.", 
-            "She was also the first woman to be elected president of the United Nations Correspondents Association.", 
-            "Last year Dr. Rosen was elected a member of the National Academy of Sciences.", 
-            "Mrs. Bitker, a native New Yorker, graduated in 1921 from Barnard, where she was elected to Phi Beta Kappa.", 
-            "Mrs. Shattuck, a graduate of Smith College, was elected three times to the Board of Selectmen, serving from 1983 to 1989.", 
-            "Justice Heller was elected to the State Supreme Court in the 2nd Judicial Department, which covers Brooklyn and Staten Island, in 1982.", 
-            "Mrs. Gordon began her legislative career in 1946 as an Assemblywoman, one of the youngest ever to be elected to the New York State Assembly.", 
-            "After serving as a member of the Princeton Borough Council, she was elected in 1976 to the Mercer County Board of Freeholders.", 
-            "'' 'Subject to the Fates' After her defeat in the Senate primary, she was elected mayor of Princeton in 1983.", 
-            "At home, she was elected a lawmaker two times and served as Governor of the western state of Maharashtra."
-        ]
+        "height": 188, 
+        "rate": 26, 
+        "start_y": 0, 
+        "id": "mal3"
     }, 
     {
-        "height_mal": 188, 
-        "rate_fem": 16, 
-        "rate_mal": 26, 
-        "heigh_fem": 0, 
-        "id": 4, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "Justice Lakritz served from 1970 to 1979 on the Civil Court bench before he was elected to the Supreme Court in 1980.", 
             "Mr. Sharkey worked his way upward in politics, and in 1933 was elected an alderman.", 
             "Fish was elected to Congress in 1920, representing Dutchess, Orange and Putnam counties, and left office after his election defeat in 1944.", 
@@ -1074,38 +1463,14 @@
             "In 1940, at the age of 29, he became the youngest member ever elected to the Minnesota State Senate.", 
             "Mr. Blatnik first ran for Congress in 1946, on Minnesota's newly merged Democratic-Farmer-Labor ticket, and was the only Democrat elected that year in the state."
         ], 
-        "height_fem": 112, 
-        "start_y": 222, 
-        "sentences_fem": [
-            "In 1956, Mrs. Todd was elected vice chairman of the Republican National Committee.", 
-            "Mrs. Craig, who was a recipient of the Carl Sandburg Literary Arts Award in 1985, was elected president of the Mystery Writers of America last year.", 
-            "In 1965 she was elected president of the Municipal Arts Society and remained a member of its board of directors until her death.", 
-            "She was elected district leader in 1955 and 1957.", 
-            "In 1966, at the age of 75, she was elected to the Borough Council of New Hope and served until 1969.", 
-            "As the first woman elected to the Miami City Commission, Mrs. Wainwright successfully sponsored an anti-billboard ordinance.", 
-            "The daughter of a prominent Baptist minister, she was the wife of Walter Washington, the first elected Mayor of the District of Columbia.", 
-            "In 1955, when she was a teacher at Flushing High School in Queens, she was elected president of the High School Teachers Association, where she sought to improve working condition for city high school teachers.", 
-            "She was elected first vice chairwoman of the Westchester Democratic Committee in 1986.", 
-            " Ruth F. Corcoran, who became the first woman to be elected to a Suffolk County town board when she won a seat as a councilwoman in Huntington, L.I., in 1961, died on Friday at the Hilaire Farms Nursing Home in Huntington.", 
-            "After John F. Kennedy was elected President, he appointed Mrs. Tree to the United Nations job, where she served when Mr. Stevenson was the top United States representative there.", 
-            "She continued as administrative assistant to Mr. McCarran until he died in 1954, then served under his interim successor and under Senator Alan Bible, a Democrat elected as Mr. McCarran's permanent replacement.", 
-            "\" Prof. Sture Allen, one of the 18 members of the academy elected for life and also its permanent secretary, said that he had tried to call Miss Gordimer in Johannesburg on Wednesday night to give her the good news, but nobody at her home knew how to reach her.", 
-            "\" In 1983, Miss Ginzburg was elected to the Italian Parliament as a representative of a left-wing party unaffiliated with the Communists.", 
-            "Justice Kooper was appointed to the Family Court by Mayor John V. Lindsay in 1973, elected to the State Supreme Court two years later and was named by Gov.", 
-            "The American Advertising Federation named her woman of the year in 1951 and in 1989 elected her to its hall of fame.", 
-            "She was elected national committee woman of the Alabama Young Democrats in 1941 and a vice-president of the Young Democratic Clubs of America in 1943.", 
-            "For the last six years, she was an elected member of the Board of Education."
-        ]
+        "height": 188, 
+        "rate": 26, 
+        "start_y": 0, 
+        "id": "mal4"
     }, 
     {
-        "height_mal": 180, 
-        "rate_fem": 11, 
-        "rate_mal": 25, 
-        "heigh_fem": 0, 
-        "id": 5, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "In 1969, he was elected moderator of the United Presbyterian Church U.S.A., or titular head of the denomination.", 
             "Mr. Mackell initially refused to step down from the District Attorney's job he had held for six years, saying, \"I was elected by the people and I'm going to stay on the job.", 
             "Mr. Bere (pronounced beh-REY) started out as president and general manager of the Borg & Beck subsidiary and was elected a director and president of the parent company in 1968.", 
@@ -1260,35 +1625,14 @@
             "In 1937, he joined with co-workers in Newark to get a charter from the Congress of Industrial Organizations to form Local 108 Retail Store Employees Union, which he was elected to lead.", 
             "with the American Federation of Labor in 1955, Mr. Greenberg was elected to the A.F.L.-C.I.O."
         ], 
-        "height_fem": 74, 
-        "start_y": 260, 
-        "sentences_fem": [
-            "She became a New Rochelle trustee in 1950, retired from the board in 1978 and was elected to emeritus status at the college in 1980.", 
-            "In 1962, she was elected a fellow of the Institute of Electrical and Electronic Engineers.", 
-            "She served 20 years on the Durham City Council after being elected in nonpartisan balloting.", 
-            "In addition to her active role with the Red Sox and her extensive charitable work, Mrs. Yawkey had been a director of the National Baseball Museum and Hall of Fame since 1984, when she became the first, and so far only woman elected to the board.", 
-            "She was elected chairwoman of the Faculty Senate for the entire City University from 1986 to 1990, and in that post sat as an ex-officio member on the university's Board of Trustees.", 
-            "\" She was the first black woman elected to the Georgia Legislature, where she served in the General Assembly from 1966 to 1984.", 
-            "Honored at Wimbledon Mrs. Godfree was a regular visitor to Wimbledon and in 1989 became the first woman to be elected a vice president of the All England Club, where the tournament is played.", 
-            " Irene Silva de Santolalla, a Peruvian educator and author who in 1956 became the first woman in the country to be elected senator, died on Thursday at her home in Lima, the capital.", 
-            "Elected to the Senate in 1956, she served for six years and won praise as the author of a law on family education enacted in Peru in 1957.", 
-            "Born and raised on the Lower East Side of Manhattan, Mrs. Flast graduated from Hunter College, and was elected to the Hunter Hall of Fame in 1975.", 
-            "\" Mrs. Fenwick, whose colorful personality inspired cartoon characters, had a varied career, including stints as a fashion model, an author and editor and decades of public service in local, state and Federal elected and appointed posts.", 
-            "The Congressional primary rival she beat was Thomas H. Kean, later elected Governor.", 
-            "She started the league's popular reference booklet \"They Represent You and Your Community,\" listing elected officials with their addresses and telephone numbers and district maps.", 
-            "She served three terms as vice president of the Community Council of Greater New York and was elected its first president in 1973.", 
-            "She was the first woman elected vice chairman."
-        ]
+        "height": 180, 
+        "rate": 25, 
+        "start_y": 0, 
+        "id": "mal5"
     }, 
     {
-        "height_mal": 150, 
-        "rate_fem": 4, 
-        "rate_mal": 21, 
-        "heigh_fem": 0, 
-        "id": 6, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "He was elected to the Hall of Fame in 1949 and had been its oldest living member.", 
             "He was elected as a delegate to the national club in 1953, representing the Devon Dog Show Association, and served on its board from 1963 to 1987.", 
             "A Republican, he was elected to a full two-year term in Washington in 1958 but was defeated in 1960.", 
@@ -1431,25 +1775,14 @@
             "Her husband, Naoki, took the Tanaka name and was elected to Parliament, but he has remained a minor figure.", 
             "Mr. Cutler was a past president of the New York Chapter of the American Institute of Architects, served as a member of the City Art Commission in the 1950's, was a member of the Mayor's Committee to plan the Civic Center complex near City Hall in the 1960's, and also was elected president of the Fifth Avenue Association in 1969."
         ], 
-        "height_fem": 20, 
-        "start_y": 314, 
-        "sentences_fem": [
-            "She was a 1922 graduate of Vassar College, where she was elected to Phi Beta Kappa.", 
-            "She was elected in 1989 to a two-year term as the vice chairwoman of the Republican State Central Committee of Connecticut, becoming its highest-ranking female officer.", 
-            "The Raytheon Company bought Beech Aircraft in 1980, and she was elected to the parent company's board and executive committee.", 
-            "She was elected a director of the City Opera Company in July.", 
-            "\" Miss de Mille received more than 15 honorary degrees and was elected to the Theater Hall of Fame in 1973."
-        ]
+        "height": 150, 
+        "rate": 21, 
+        "start_y": 0, 
+        "id": "mal6"
     }, 
     {
-        "height_mal": 150, 
-        "rate_fem": 23, 
-        "rate_mal": 21, 
-        "heigh_fem": 0, 
-        "id": 7, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "\" Upon leaving office, he was elected vice president, secretary and general counsel of W. R. Grace & Company, a diversified multinational corporation.", 
             "He was then succeeded by the Generalissimo's son Chiang Ching-kuo, who was elected President.", 
             "In 1974 he was elected president of the Queens County Medical Society, becoming only the third black president of a county medical society in the United States.", 
@@ -1576,46 +1909,14 @@
             "When Vernon C. Walston, the firm's founder, died in 1964, Mr. Fleming was elected president.", 
             "He went on to work his way through Davidson College, in Davidson, N.C., where he was elected to Phi Beta Kappa and graduated in 1931."
         ], 
-        "height_fem": 164, 
-        "start_y": 170, 
-        "sentences_fem": [
-            "It was as a Democrat that Dr. Ray was elected in 1976 to one term as the only female Governor her state has had, becoming the nation's second woman to be elected Governor without succeeding her husband.", 
-            "Ella T. Grasso, a Democrat, had been elected Governor of Connecticut two years before.", 
-            "Marched for Civil Rights Mrs. Douglas was elected in 1944 after a campaign against isolationism and went to Washington as Representative-at-Large, representing Illinois as a whole.", 
-            "She was the first woman to be elected president of the Bibliographical Society of America, serving from 1988 to 1992.", 
-            "She immigrated to the United States in 1949, conducted post-graduate research at Harvard University and in 1955 was elected research fellow of the Peabody Musuem at Harvard.", 
-            "The Royal Aura Of the Kennedys After Mr. Kennedy was elected President in 1960, the mystique and aura around Mrs. Kennedy began to grow rapidly, especially after she and her husband made the state visit to France in 1961.", 
-            "Miss Chute was a president of the PEN American Center, and was elected to the American Academy of the National Institute of Arts and Letters.", 
-            "In 1942 Dr. Judd, a Republican, was elected to Congress from Minnesota and rose to prominence as a crusader against Japanese military expansionism and Chinese Communism; he retired from Congress in the 1960's.", 
-            " Jean Fredette Ingrao, one of the first women elected to high office in the A.F.L.-C.I.O., died on Thursday at her home in Falls Church, Va. She was 63.", 
-            "Mrs. Ingrao (pronounced in-GRAY-oh) was elected in 1979 as executive secretary-treasurer of the A.F.L.-C.I.O.", 
-            "Years before, in 1947, Professor Hodgkin was elected a fellow of the Royal Society for her analysis of penicillin.", 
-            "Another Langhorne aunt was Nancy, Viscountess Astor, the first woman elected to the House of Commons.", 
-            " Jessie Sumner, an Illinois Republican who was the first woman elected to a county judgeship in her state and a conservative member of Congress from 1939 to 1947, died on Wednesday in Iroquois Memorial Hospital in Watseka, Ill. She was 96 and lived in nearby Milford.", 
-            "In 1937, she became a judge in Iroquois County before being elected to the House of Representatives in 1938.", 
-            "After being elected to the House, she became nationally known as a foe of President Franklin D. Roosevelt and of his New Deal program and other policies.", 
-            "She was appointed Mayor in 1946 to replace an incumbent who had resigned, and she was elected to office in later years.", 
-            "After Mr. Kennedy was elected President, his wife made Mrs. Parish a consultant in her redecorating of the White House.", 
-            "Sister Mary Margaret was elected to the Provincial Council of the School Sisters of Notre Dame in St. Louis in 1971 and served as the international leader in Rome from 1977 to 1987.", 
-            "She had been executive director of the National Council in New York for 18 years before being elected president.", 
-            "Hunter elected her to its College Hall of Fame in 1983.", 
-            "She was then elected chairman of the combined institutions.", 
-            "She took her husband's seat on the bank's board and, on Jan. 21, 1937, was elected president.", 
-            "In 1991, she was elected an honorary trustee.", 
-            "She was elected secretary of NOW and of its national political action committee in 1991 and served until last year.", 
-            "She became a member in 1938, was elected to the board in 1948 and was made vice president in 1973.", 
-            "In 1959, she was elected the store's vice president, the first woman to hold that position at Ohrbach's."
-        ]
+        "height": 150, 
+        "rate": 21, 
+        "start_y": 0, 
+        "id": "mal7"
     }, 
     {
-        "height_mal": 150, 
-        "rate_fem": 21, 
-        "rate_mal": 21, 
-        "heigh_fem": 0, 
-        "id": 8, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "And in 1992, he was elected president of the Council of American Ambassadors, an organization of those who served as envoys.", 
             "In 1946, he was elected to the United States House of Representatives.", 
             "A brilliant Oxford-educated economist and the boy wonder of British politics after World War II, Mr. Wilson was first elected to Parliament in 1945 at the age of 29.", 
@@ -1778,43 +2079,14 @@
             "He was elected president of the group at its 82d annual convention in 1971 and for two years represented 1,100 rabbis serving more than a million congregants in virtually every section of the country.", 
             "Mr. Manginelli was elected Supreme Governor of the order, which is based in Mooseheart, Ill., at itsannual convention last June."
         ], 
-        "height_fem": 150, 
-        "start_y": 184, 
-        "sentences_fem": [
-            "She was elected president of the cultural, philanthropic and social organization in 1971 while her husband was the Deputy Permanent United States Representative, from 1969 to 1973.", 
-            " Kathryn Haeseler Stone, a former Virginia legislator who challenged school segregation and a reapportionment plan that penalized urban voters, died last Friday at her home in Alexandria, Va. She was 88 and had been a longtime resident of Arlington, Va. Elected to the Virginia Legislature five months before the United States Supreme Court's decision in Brown v. the Board of Education in 1954, she became an early promoter of school desegregation.", 
-            "Mr. Smith, who was prominent in local Republican circles, ran for office and in 1937 was elected Representative from Maine's Second Congressional District.", 
-            "After his death, she was chosen to fill his unexpired term in a special election and was elected in her own right later that year.", 
-            "She was elected a Fellow of the Royal Society of Arts in 1973.", 
-            " Roberta Church, an official in the Eisenhower and Nixon Administrations who was the first black woman to be elected to the Tennessee Republican State Executive Committee, died on Saturday at Baptist Memorial Hospital East in Memphis.", 
-            "Miss Church took over the campaign and was elected in his stead to represent Memphis and surrounding Shelby County.", 
-            "She was elected president of the organization's Pacific-Southwest Region in 1987 and president of the association in 1993.", 
-            "\" \"Governor\" was William P. Hobby, an easy-going newspaperman who was the top elected official in Texas from 1917 to 1921; his most notable action as Governor was to call out the state militia to crush a dock strike.", 
-            "The Macdonalds settled in Malden, Mass., where Mr. Macdonald was elected to Congress in 1954.", 
-            "She obtained her degree in 1936, and four years later was one of the first seven women elected to the Brooklyn Bar Association.", 
-            "She returned home shortly after the junta fell in 1974, reopened her newspapers and was elected to Parliament as a member of the conservative New Democracy party.", 
-            "In 1966, Sister Evelyn was elected to a five-year term as superior of the Sisters of Charity of New York, putting her in charge of 1,200 nuns in 87 schools, colleges, hospitals and child-care centers throughout the archdiocese.", 
-            "Sister Evelyn was also the first woman to be elected president of the Greater New York Hospital Association, a position she filled for a year.", 
-            " Mildred Barry Hughes, who in 1965 was the first woman elected a state senator in New Jersey, died on Jan. 11 at the Cranford (N.J.) Health and Extended Care Center.", 
-            "The cause was a heart attack, said a son, Peter L. Hughes 3d of Annandale, N.J. First elected to the New Jersey Assembly in 1957, she represented Union Township for four terms before running for the Senate in 1965.", 
-            "In that victory, she also was the first Democrat from Union County to be elected to the State Senate in 75 years.", 
-            "Her son Robert was appointed Attorney General, and Edward was elected to fill John's unexpired Senate term.", 
-            "Kathleen Kennedy Townsend, Robert's oldest child, was elected Lieutenant Governor of Maryland in 1994; Patrick Kennedy, one of Edward's sons, was elected to the United States House of Representatives in 1994 after serving as a Rhode Island state legislator.", 
-            "And Mark Shriver, the son of Eunice, was elected in 1994 to the Maryland House of Delegates.", 
-            "She was a past vice chairman of the New Jersey Democratic State Committee and in 1977 became the first woman to be elected president of the National Association of State Chairmen.", 
-            "She was elected head of the New York Newspaper Guild's Times unit in 1980, the first woman in the post.", 
-            "Ms. Cook, who was elected in 1980 to head the guild's Times unit, was not the first woman to do so."
-        ]
+        "height": 150, 
+        "rate": 21, 
+        "start_y": 0, 
+        "id": "mal8"
     }, 
     {
-        "height_mal": 134, 
-        "rate_fem": 18, 
-        "rate_mal": 19, 
-        "heigh_fem": 0, 
-        "id": 9, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "He grew up in Anchorage, Alaska, and received a degree in 1966 from the University of Oregon, where he was elected to Phi Beta Kappa.", 
             " William O. Aydelotte, a retired University of Iowa professor who was one of the first historians elected to the National Academy of Sciences, died on Wednesday at University Hospitals in Iowa City.", 
             "He was elected to the National Academy of Sciences in 1974.", 
@@ -1959,49 +2231,14 @@
             "And he went on to be elected to the Birmingham City Council in 1969, becoming the first black to secure such a victory.", 
             "It was after being appointed to the City Council earlier in 1969 -- to replace a white who had died -- that Mr. Shores was elected to the Council, placing second in a field of 20 candidates vying for five open seats."
         ], 
-        "height_fem": 126, 
-        "start_y": 208, 
-        "sentences_fem": [
-            "Mrs. Rose, who was active in many civic and cultural affairs, was elected to  the International Center of Photography's board of trustees in 1981 and became the board's president in 1989.", 
-            "The author of two instructional tennis books, \"Winning Tennis and How to Play It\" (1946) and \"Tennis for Anyone\" (1966), Danzig was elected to the sport's Hall of Fame in 1963.", 
-            "But she continued to teach, write, edit and experiment for several more years and was elected to the American Academy of Arts and Sciences  in 1992 in recognition of her contributions.", 
-            "She was also one of the first women elected to the board of the Metropolitan Museum of Art.", 
-            " Susie Marshall Sharp, the first woman to be popularly elected to the post of  chief justice of a state supreme court in the United States, died on Friday at her home.", 
-            "\" Miss Sharp was elected Chief Justice in November 1974, replacing William H. Bobbitt, her longtime colleague on the bench.", 
-            "She was the first woman to be elected president of the Association for Psychoanalytic Medicine and the first female member and president of the New York Psychiatric Society.", 
-            "She was also the first woman to be elected an international vice president of the union, in 1970.", 
-            "She was elected to the policy-setting board at the union convention in 1966.", 
-            "She and her husband had five children, including Rodney P. Frelinghuysen, also a Republican Congressman from north central New Jersey, who was elected in  1994.", 
-            "The General Assembly elected her Treasurer in 1987.", 
-            "In 1968, Ms. Clark was elected president of the United States Scenic Artists, Local 829, the first woman to hold that job.", 
-            " Justice Birdie Amsterdam, who achieved several judicial firsts, including being the first woman elected to the New York State Supreme Court, died on Monday at Beth Israel Medical Center in Manhattan.", 
-            "She was the first woman elected to the Municipal Court in New York County in 1940.", 
-            "The State Supreme Court was more than 250 years old before a woman was elected to it, Judge Kaye wrote, and even today women do not enjoy the status of equals in the legal profession.", 
-            "Correction:  July 11, 1996, Thursday An obituary yesterday of Justice Birdie Amsterdam, the first woman elected to New York State Supreme Court, misstated the given name of a surviving sister.", 
-            " Judge Genevieve Blatt, the first woman to be elected to statewide office in Pennsylvania and to serve on the state's appellate court, died on Thursday at a  retirement home in Hampden Township, Pa. She was 83 and a former resident of Harrisburg.", 
-            "In 1954 she  was elected Secretary of Internal Affairs, a statewide office.", 
-            "Within months of her arrival, she began investigating conditions in her children's public school, joined and was elected president of the neighborhood branch of the United Parents Association and led a campaign for smaller schools under greater neighborhood control.", 
-            "In 1974, she became the first female composer to be elected to the American Academy of Arts and Letters.", 
-            "She was elected to the National Academy of Sciences in 1984.", 
-            "She was twice elected to lead the national umbrella Association of Commissions on Women, of which she eventually became president emeritus.", 
-            "There had been women in Congress continuously for more than 30 years, and Mrs. Knutson, although the first from Minnesota, was one of seven elected in 1954.", 
-            " Eileen C. Dugan, a Brooklyn Democrat who was elected to her ninth term in the New York State Assembly only on Tuesday, died yesterday at Beth Israel Medical Center.", 
-            "In 1985, five years after she was first elected to the Assembly, Ms. Dugan became the first female member of the powerful Ways and Means Committee, which writes the budget.", 
-            "She was elected guild unit chairwoman at The Post in 1976, while Dorothy Schiff was publisher.", 
-            "Ms. Jordan, the first black elected to Congress from Texas after Reconstruction, retired from the House in 1979 after three terms to teach political ethics at the university's Lyndon B. Johnson School of Public Affairs, never losing her potent talent for public speaking even from the confines of a wheelchair.", 
-            "In 1966, she was elected as the first black state Senator in Texas, and went on to be the first woman and first black elected to Congress from Texas.", 
-            "But she succeeded when state legislative  districts were finally redrawn and she became the first black of either sex to be elected to the Texas Senate since 1883."
-        ]
+        "height": 134, 
+        "rate": 19, 
+        "start_y": 0, 
+        "id": "mal9"
     }, 
     {
-        "height_mal": 112, 
-        "rate_fem": 15, 
-        "rate_mal": 16, 
-        "heigh_fem": 0, 
-        "id": 10, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "He returned to Malcolm Pirnie Engineers in 1945, became a partner in 1952 and was elected chairman when the company was incorporated in 1970.", 
             "He was elected to the advertising agency's executive committee, served as its chairman and in 1976 was named vice chairman of the company.", 
             "He was elected to the Borough Council in the London suburb of Surbiton when he was only 21, was called to the bar and then rose to be Surbiton's Mayor and an influential member of the London County Council, while making a living as a barrister.", 
@@ -2129,40 +2366,14 @@
             "Justice DiGiovanna was elected to a 14-year term on the State Supreme Court in 1948 and re-elected, with the endorsement of the Democratic, Republican and Liberal parties, for a second 14-year term.", 
             "''The old-fashioned ward heeler who rounded up and delivered derelicts to the polls at $1 a vote was an honest man compared to the widespread public immorality that has infected otherwise reputable and respectable American men and women who are willing, even eager, to turn their elected representatives into bagmen,'' he said in a speech at the National Press Club on Aug. 7, 1963."
         ], 
-        "height_fem": 104, 
-        "start_y": 230, 
-        "sentences_fem": [
-            "In 1956, Parade magazine quoted Mrs. Dixon as forecasting that a Democratic President, elected in 1960, would die in office.", 
-            "In 1975 Dr. Wu became the first woman to be elected president of the American Physical Society, the chief organization of physicists in the United States.", 
-            "Dr. Wu was elected to the National Academy of Sciences, and was elected to the Royal Society of Edinburgh as an honorary fellow.", 
-            "As one of two elected judges of the Surrogate's Court in Manhattan, which Fiorello La Guardia described  as ''the most expensive undertaking establishment in the world,'' Surrogate Lambert heard disputes pertaining to wills and estates, and formalized adoptions.", 
-            "From 1977, when she was elected, to 1990, when she retired at the mandatory age of 70, Surrogate Lambert, feared for her quick temper and ability to keep lawyers working in her court till the early morning hours, drew fire.", 
-            "In 1974, the New York State Trial Lawyers elected her president.", 
-            "As one of two elected judges of the Surrogate's Court in Manhattan, which Fiorello La Guardia described as ''the most expensive undertaking establishment in the world,'' Surrogate Lambert heard disputes pertaining to wills and estates, and formalized adoptions.", 
-            "She began in 1951 as a member of the national board and in 1988 was elected to the Board of Trustees.", 
-            "Dr. Esau (pronounced EE-saw) was also the sixth woman elected to the National Academy of Sciences, in 1957, the academy said.", 
-            "1 in 1936, and was elected to the International Tennis Hall of Fame in 1962.", 
-            "In January 1977, the Republican National Committee elected Bill Brock, a conservative former Senator from Tennessee, to succeed Mrs. Smith.", 
-            "After Mr. Reagan was elected President, he appointed Mrs. Smith to the United States Commission on Civil Rights.", 
-            "Her mother, Nellie Nugent Somerville, was the first woman to be elected to the Mississippi Legislature, and Lucy also served there for four years in the 1930's.", 
-            "In 1982, she was a media adviser to Felipe Gonzalez when he was elected for the first time as Prime Minister, starting nearly 14 years of Socialist Party rule.", 
-            "She was the first woman elected president of the American Association for the Advancement of Science, the largest alliance of scientists in the world.", 
-            "Dr. Rees enjoyed a crowning moment in 1969, when the 120,000-member American Association for the Advancement of Science elected her president.", 
-            "She was a delegate to the Connecticut Constitutional Convention in 1965 and was elected to the General Assembly the following year for the first of four terms.", 
-            " Helen Stevenson Meyner, a liberal Democrat who was elected to two terms in Congress by a heavily Republican district in New Jersey, died yesterday after a long illness at the Heartland Health Care Center, a nursing home in Fort Myers, Fla. She was 69.", 
-            "She lost that election to Joseph J. Maraziti, a Republican, but defeated him in 1974, the same year that Representative Millicent Fenwick, a Republican, was elected.", 
-            "Mrs. Chubb was elected to the board in 1955 and was a trustee at her death."
-        ]
+        "height": 112, 
+        "rate": 16, 
+        "start_y": 0, 
+        "id": "mal10"
     }, 
     {
-        "height_mal": 142, 
-        "rate_fem": 6, 
-        "rate_mal": 20, 
-        "heigh_fem": 0, 
-        "id": 11, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "Mr. Gilman was born and reared  on Manhattan's Upper East Side, attended Horace Mann School in the Bronx, received a bachelor's degree in 1944 from Dartmouth, where he was elected to Phi Beta Kappa, and served in the Navy during part of World War II.", 
             "He was elected largely with the support of labor unions and minorities, though he managed to draw the votes of many Republican middle-class homeowners.", 
             "In 1964 he was elected pastor of Grace Baptist Church in Mount Vernon, N.Y., his pulpit until his move to Brooklyn.", 
@@ -2328,30 +2539,14 @@
             "The magazine's Internet site declares that he received an honorary directorate from the Pythagorean University in 1947 and was elected a Fellow of the Royal Astronomical Society in London.", 
             "Apps was elected to the Hockey Hall of Fame in 1961."
         ], 
-        "height_fem": 36, 
-        "start_y": 298, 
-        "sentences_fem": [
-            "In 1970, she was the first woman to be elected president of the academy and, mindful of the overwhelming preponderance of men in her metier, came up with an arbitration training program for women.", 
-            "She was elected a fellow of the American Physics Society in 1947 and the American Association for the Advancement of Science in 1980, and to membership in the National Academy of Sciences in 1972.", 
-            "The democratically elected Government said the move was essential for national reconciliation.", 
-            "She was elected a State Supreme Court justice in 1971.", 
-            "Disillusioned by what she considered the extremism of her father's party, she joined Labor at the age of 24, won several local elections and was elected to Parliament in 1966.", 
-            "She was on many committees and boards of the American Public Health Association and was elected chairwoman in 1995.", 
-            "Her father, Victor Hugo Stickney, a doctor who made calls on horseback, was one of the first 10 members elected to the National Cowboy Hall of Fame.", 
-            "Ms. Snyder was elected to the Teva board.", 
-            "After Mr. Godin was elected to the province's assembly in 1976, the year the separatist party won control of the provincial government, she appeared regularly at major separatist rallies, leading huge crowds in song and fiery speeches.", 
-            "After her retirement in 1971, she was elected to the museum's board of trustees."
-        ]
+        "height": 142, 
+        "rate": 20, 
+        "start_y": 0, 
+        "id": "mal11"
     }, 
     {
-        "height_mal": 104, 
-        "rate_fem": 8, 
-        "rate_mal": 15, 
-        "heigh_fem": 0, 
-        "id": 12, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "After Dan Quayle, his nephew, was elected Vice President in 1988, Mr. Pulliam contended that the press had been guilty of ''unfair and inaccurate reporting'' during the Presidential campaign.", 
             "Judge Tannenwald was appointed by President Lyndon B. Johnson in 1965, and his colleagues elected him to a two-year term as chief judge in 1981.", 
             "The Melville Society elected Mr. Kring its first nonacademic president in 1979.", 
@@ -2478,30 +2673,14 @@
             "When he was elected to the National Track and Field Hall of Fame in 1981, he refused induction because Hayward, his college coach, had never been chosen.", 
             "In 1980 Dr. Sarett was elected to the National Inventors Hall of Fame, created by the National Council of Patent Law Associations and the Patent and Trademark Office in 1973."
         ], 
-        "height_fem": 50, 
-        "start_y": 284, 
-        "sentences_fem": [
-            "She attended a high school for a year in Wichita, Kan., where some members of her family lived, and went on to receive a bachelor's degree in 1926 from Barnard, where she was elected to Phi Beta Kappa and was taught by the anthropologists Ruth Benedict and Franz Boas.", 
-            "In 1977 she was elected a justice of the State Supreme Court.", 
-            "In 1956, she was elected recording secretary general of the national society, and in 1959, she was elected first vice president general.", 
-            "She was elected president general in 1965, serving one term until 1968, when she was made an honorary president general for life.", 
-            " State Senator Wynona M. Lipman, who in 1971 became the first African-American woman to be elected to the New Jersey Senate, died Sunday at her home in Newark.", 
-            "In 1973, in a right-wing coup backed by the American Government, General Pinochet overthrew the Government of Salvador Allende Gossens, a democratically elected Marxist.", 
-            " Judith Campbell Exner, who asserted in a 1988 interview in People magazine that she had been having an affair with John F. Kennedy when he was elected President, died late Friday at the City of Hope Cancer Center in Duarte, Calif., a suburb of Los Angeles.", 
-            "It quoted assertions she had made over the years that she had had an affair with John F. Kennedy before and after he was elected President.", 
-            "After being elected state N.A.A.C.P.", 
-            "Ms. Iotti, who served as a Partisan during World War II, was first elected to office in 1946, winning a seat in the constitutional assembly."
-        ]
+        "height": 104, 
+        "rate": 15, 
+        "start_y": 0, 
+        "id": "mal12"
     }, 
     {
-        "height_mal": 126, 
-        "rate_fem": 8, 
-        "rate_mal": 18, 
-        "heigh_fem": 0, 
-        "id": 13, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "Elected by a diocesan convention of priests and laity, he served as the bishop's principal aide from 1960 until his retirement in 1987.", 
             "Although he had decided not to take the post, the society's board elected him president before accepting his resignation a few hours later.", 
             "In 1977, Mr. Cony became a vice president for news at Dow Jones, and in 1980 was elected to the board of Ottaway Newspapers, a subsidiary of Dow Jones.", 
@@ -2650,32 +2829,14 @@
             "Later, the Legislature fashioned a compromise, decentralizing city schools into 32 districts and giving locally elected boards power to run their elementary and junior high schools, but adopting strong protections for teachers' jobs.", 
             "Dr. Feshbach was elected to the National Academy of Sciences in 1969 and was awarded the National Medal of Science in 1986."
         ], 
-        "height_fem": 50, 
-        "start_y": 284, 
-        "sentences_fem": [
-            "Justice Denman, a former Buffalo city judge and Erie County Court judge, was elected to State Supreme Court in 1976.", 
-            "The pace of life -- eventually as secretary of the Board of Estimate, the panel of top elected officials that then ran city government -- was blistering: Mayor La Guardia resented staff members taking lunch, barely tolerated their vacations and routinely punished unproductive commissioners by making them wait five or six hours for appointments.", 
-            " Hannah Komanoff, the first woman elected to the Board of Supervisors in Nassau County, N.Y., died on Sunday at a hospital in Long Beach, on Long Island.", 
-            "Mrs. Komanoff, a Democrat, was elected to the board from Long Beach, where she lived much of her life, in 1973, and served three terms from 1974 to 1985.", 
-            "Correction:  April 18, 2000, Tuesday  An obituary yesterday about Hannah Komanoff, the first woman elected to the Board of Supervisors in Nassau County, N.Y., misstated the date of her death.", 
-            "The board of the Corporation for Public Broadcasting elected her chairman in 1997 for a two-year term.", 
-            "In 1968, she was the first woman to be elected a national vice president of the committee.", 
-            "In the early 1960's, she became a staff assistant to Abraham A. Ribicoff, the secretary of Health, Education and Welfare, and became his executive assistant when he was elected senator from Connecticut.", 
-            "After holding paid and unpaid posts with Girl Scouts of the U.S.A., whose headquarters are in Manhattan, she was on its board of directors for some years and was elected national president after holding lesser executive posts in the 1960's.", 
-            "In 1976, she became the first black woman to be elected to the 250-member National Institute of Arts and Letters.", 
-            "In 1978, Mrs. Ireys was elected a fellow in the American Society of Landscape Architects.", 
-            "In 1976 she became the first black woman to be elected to the 250-member National Institute of Arts and Letters."
-        ]
+        "height": 126, 
+        "rate": 18, 
+        "start_y": 0, 
+        "id": "mal13"
     }, 
     {
-        "height_mal": 104, 
-        "rate_fem": 8, 
-        "rate_mal": 15, 
-        "heigh_fem": 0, 
-        "id": 14, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "He was elected to the National Academy of Sciences in 1974.", 
             "So Mr. Nixon persisted, helped to bring down Mr. Hiss in one of the most sensational cases of the century, and was elected to the Senate in 1950.", 
             "On July 6, 1961, the nine City Council members from Brooklyn unanimously elected Mr. Hayes borough president for an interim term expiring at midnight on Dec. 31, 1961.", 
@@ -2783,33 +2944,14 @@
             "Mr. Senghor was elected its first president.", 
             "He was president of the county bar association and had just been elected president of the state bar association when he was appointed to the bench in 1987 by Gov."
         ], 
-        "height_fem": 50, 
-        "start_y": 284, 
-        "sentences_fem": [
-            "She was elected to the National Academy of Sciences and was the president of the Infectious Diseases Society of America.", 
-            "A Democrat, she was elected in 1962 with bipartisan support to District Court in Nassau County.", 
-            "Six years later, she was elected to Family Court.", 
-            "In 1958 she was elected third president of the Federation of Japanese Women's Organizations, a group opposed to nuclear weapons and committed to promoting peace.", 
-            "In 1969, Ms. Hunter was elected president of the Women's National Press Club.", 
-            "'' She elected to remain in Australia, and, though she did rather little stage work after 1985, was much in demand for concerts and recitals in Australia, Britain and the United States.", 
-            "Its other members elected her as chairwoman for seven successive two-year terms.", 
-            "In 1972, she became the third woman to be elected president of the American Psychological Association.", 
-            "She was elected president of the company, but she felt ''abysmally ignorant'' about how to proceed.", 
-            "''When he was elected president, she had more communication and involvement with her father than she had had for the rest of her life,'' her friend Judy Carter, the daughter-in-law of former President Jimmy Carter, said in 1989.", 
-            "In 1987, Judge Kaiser, who opposed compulsory retirement for judges, reached 70, the state's mandatory retirement age for Family Court judges, and could not finish her elected 10-year term.", 
-            "One of the experiments in greater community control began with an elected local board for the Ocean Hill-Brownsville section of Brooklyn.", 
-            "In 1944 she was elected president of the citywide United Parents Association, helping to boost its strength from 80,000 to 250,000 dues-paying members in her four years in charge."
-        ]
+        "height": 104, 
+        "rate": 15, 
+        "start_y": 0, 
+        "id": "mal14"
     }, 
     {
-        "height_mal": 104, 
-        "rate_fem": 7, 
-        "rate_mal": 15, 
-        "heigh_fem": 0, 
-        "id": 15, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "He was elected to the National Basketball Hall of Fame in Springfield, Mass., in 1986.", 
             "Responsible for rallying public support, he lined up backing from civil rights leaders like Dr. King, Bayard Rustin, A. Philip Randolph and many elected officials and editorial writers.", 
             "But that race made him well known through the county and paved the way for this tall, athletic-looking politician with a regal manner to be elected county executive in 1961.", 
@@ -2913,31 +3055,14 @@
             "Mr. Jagan was elected president in a disputed race 1992.", 
             "Bharrat Jagdeo, the Moscow-educated economist who was elected president in 2001, held reconciliation talks with Mr. Hoyte, but they broke off last year."
         ], 
-        "height_fem": 42, 
-        "start_y": 292, 
-        "sentences_fem": [
-            "She went to Agnes Scott College in Atlanta, where she was elected to Phi Beta Kappa.", 
-            "But she made it to the university, where she was elected Queen of the Carnival.", 
-            "Ms. Castle's personal popularity with the party's rank and file was confirmed in 1950 when she was elected to its national executive committee, a post she held until 1979.", 
-            "She served as president of the College Art Association from 1988 to 1990; was elected to the Accademia Nazionale dei Lincei in Rome in 1995 and to the American Philosophical Society in 1999 and, because of her work in culinary history, to the Dames d'Escoffier in 1995.", 
-            "A precocious child, Flora graduated from high school at 15 and entered the University of California at Los Angeles, where she earned a bachelor of arts summa cum laude and was elected to Phi Beta Kappa.", 
-            " Representative Patsy T. Mink, a liberal Democrat from Hawaii who was likely to be elected to a 13th term in November, died Saturday at the Straub Clinic and Hospital in Honolulu.", 
-            "As a senior at Maui High School she was elected student body president, and by the time she graduated from the University of Hawaii in 1948, her interests had shifted from medicine to the humanities.", 
-            "In 1956, Ms. Mink was elected to the Hawaii Territorial Legislature.", 
-            "In 1958, she was elected to the Hawaii Senate.", 
-            "'' Immediately after her intervention, she was elected to a new strike committee that was able to negotiate the historic agreement guaranteeing workers the right to form unions independent of the government or the ruling Communist Party.", 
-            " Percy Maxim Lee, a former president of the League of Women Voters of the United States, died on Saturday in New London, Conn. She was 96 and lived in Mystic, Conn. Born July 4, 1906, in Hartford, Mrs. Lee was elected to the national board of the league in 1944, and served four terms as its president, from 1950 to 1958."
-        ]
+        "height": 104, 
+        "rate": 15, 
+        "start_y": 0, 
+        "id": "mal15"
     }, 
     {
-        "height_mal": 142, 
-        "rate_fem": 9, 
-        "rate_mal": 20, 
-        "heigh_fem": 0, 
-        "id": 16, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "Made a life peer in 1987, taking the title Baron Jenkins of Hillhead, he was elected chancellor of Oxford University the same year.", 
             "The investment he and more affluent colleagues made in the oil and gas producer grew so large that in 1965 Mr. Wilzig was elected a member of Wilshire's board.", 
             "Six months later, at age 39, he was elected president and chief executive.", 
@@ -3056,32 +3181,14 @@
             "Once in private practice, he became the leader and the financial savior of the Progressive Conservative Party of Nova Scotia and was elected to the provincial legislature in 1949.", 
             "He was elected a trustee of New York University in 1959."
         ], 
-        "height_fem": 58, 
-        "start_y": 276, 
-        "sentences_fem": [
-            "Deeply interested in rodeo, Mrs. Formby was the first woman elected to the Texas Tech Rodeo Hall of Fame.", 
-            "Instead, Governor Williams appointed her to the bench of Recorder's Court in Detroit, and she was a judge until her election to the House in 1954, the first Democratic woman elected to Congress from Michigan.", 
-            "She was elected lieutenant governor and re-elected with him in 1986.", 
-            "She received a bachelor's degree in English, magna cum laude, from the University of California at Los Angeles, where she also was elected to Phi Beta Kappa.", 
-            "She was elected to the National Academy of Sciences in 1990, and held honorary degrees from the University of Utrecht in the Netherlands and the University of St. Andrews in Scotland.", 
-            "She was the first woman elected to the Roxburghe Club, an English association of bibliophiles, and one of the first to join the Grolier Club, another bibliophile's group, in New York City; she was vice president from 1982 to 1992.", 
-            "She was elected to Parliament in 1982 and quickly rose through her party's ranks, becoming chairman of its youth league in 1984 and a member of the policy-making executive committee in 1991.", 
-            "Another woman, Edwina Coven, was elected 17 months earlier, but was vetoed by her fellow aldermen.", 
-            "It was the Court of Aldermen that elected Lady Donaldson lord mayor after she had been nominated by the City's livery companies, a mixture of charitable trusts, gentlemen's clubs and guardians of craft standards and training.", 
-            "Mrs. Hicks was elected to the Boston School Committee in 1961.", 
-            "In 1956 when all the children were in school, Mrs. Stevenson joined the board of the American Theater Wing, and when Helen Menken, then the president, died in 1965, she was elected president.", 
-            " Mary Pinkett, a labor advocate from Brooklyn who became the first African-American woman elected to the New York City Council, died yesterday."
-        ]
+        "height": 142, 
+        "rate": 20, 
+        "start_y": 0, 
+        "id": "mal16"
     }, 
     {
-        "height_mal": 74, 
-        "rate_fem": 8, 
-        "rate_mal": 11, 
-        "heigh_fem": 0, 
-        "id": 17, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "In recognition of his work, Dr. Julesz was given a MacArthur Foundation grant in 1983, and was later elected to the National Academy of Sciences.", 
             "Mr. Duryea, a Republican, was first elected to the State Assembly in 1960, and became the Assembly minority leader in 1966.", 
             "Mr. Duryea, a Republican, was first elected to the State Assembly in 1960 and, with a family history in state politics, swiftly rose to the upper echelon of leadership and held on.", 
@@ -3147,30 +3254,14 @@
             "He was a member of the American Academy of Arts and Sciences and was elected to the National Academy of Sciences in 1961.", 
             "Mr. Rao, a lawyer and scholar, served as a minister and as chief minister of Andhra Pradesh before being elected to the Indian Parliament in 1972."
         ], 
-        "height_fem": 50, 
-        "start_y": 284, 
-        "sentences_fem": [
-            "One of the highest-ranking elected officials in the county, Ms.", 
-            "As her illness progressed in recent months, her duties often fell upon the deputy presiding officer elected alongside her, Joseph Caracappa, a Republican from Selden.", 
-            "In 1987 she was elected to the County Legislature.", 
-            "She graduated summa cum laude from the University of California, Los Angeles, where she was elected to Phi Beta Kappa and won a National Science Foundation research scholarship.", 
-            "'' Ms. Jeffrey ran for only one office, when she was elected in Michigan to the board of governors of Wayne State University in Detroit.", 
-            "Teddy Kollek, who was elected mayor of Jerusalem in 1965, commissioned her to write a hymn to the city.", 
-            "In 1976, she was elected to the first of two terms in the Colorado House of Representatives, where she was a member of a group that called itself the Crazies for its members' passionate devotion to states' rights and opposition to federal energy and environmental policies.", 
-            "Ms. Rubens won Britain's prestigious Booker Prize for fiction in 1970 for ''The Elected Member,'' the story of a Jewish family whose secrets drive one son insane.", 
-            "'' In 1975, Dr. de Laguna and Margaret Mead were the first female anthropologists elected to the National Academy of Sciences.", 
-            "She joined the board of the Studio Museum in the late 1970's and was elected a trustee emeritus in 2002."
-        ]
+        "height": 74, 
+        "rate": 11, 
+        "start_y": 0, 
+        "id": "mal17"
     }, 
     {
-        "height_mal": 88, 
-        "rate_fem": 12, 
-        "rate_mal": 13, 
-        "heigh_fem": 0, 
-        "id": 18, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "He was first elected to Congress in 1978 to serve the Sacramento area.", 
             "He became a precinct activist and got a job as an assistant state attorney general that ended when Thomas E. Dewey was elected governor in 1942.", 
             "He resigned in 1961 when he was elected by the City Council to serve as Manhattan borough president, after a fellow Harlemite, Hulan E. Jack, had to quit the position amid a conflict of interest scandal.", 
@@ -3257,32 +3348,14 @@
             "Mr. Proxmire was first elected to the Senate in 1957 to fill the unexpired term of the late Joseph R. McCarthy, the Republican who was censured for reckless attacks on those he accused of being communists or fellow travelers.", 
             "In 1972, he was elected to the Institute of Medicine at the National Academy of Sciences."
         ], 
-        "height_fem": 80, 
-        "start_y": 254, 
-        "sentences_fem": [
-            "''Only nine black people have been elected to Congress, and those nine should be used as effectively as possible.", 
-            "She was elected a Supreme Court justice in 1987 and served in its Civil Term until her promotion to the Appellate Division in January 1994.", 
-            "Elected president of the Council, she had three members arrested in 1989, when they tried to walk out of a meeting, which would have prevented a quorum needed to pass the city budget.", 
-            "She got a seat on the Armed Services Committee and was elected co-chairwoman of the Freshman Republican Task Force on Reform.", 
-            "In 1998, Ms. Fowler was elected vice chairwoman of the House Republican Conference on the vow that she would serve no longer than two years in the Republican leadership.", 
-            "First elected in 1992, she retired in 2000 after four terms.", 
-            "In 1971 she was elected to the Westchester County legislature, where she served for 21 years.", 
-            "Gunter was elected to the Women's Basketball Hall of Fame in 2000, and to the Naismith Basketball Hall of Fame in March.", 
-            "work and handily defeated a Republican to become the first black woman elected to the State Senate.", 
-            "In 1987, she explained it to Nancy Carol Joyner of Western Carolina University: ''I said if Nixon was elected president I was going back to Europe.", 
-            "She was the first black and the first woman elected to the Philadelphia Zoning Board.", 
-            "Later in her career she studied the emerging importance of trained nurses in developing countries and, in 1993, was elected president of the International Council of Nurses."
-        ]
+        "height": 88, 
+        "rate": 13, 
+        "start_y": 0, 
+        "id": "mal18"
     }, 
     {
-        "height_mal": 96, 
-        "rate_fem": 9, 
-        "rate_mal": 14, 
-        "heigh_fem": 0, 
-        "id": 19, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "Dr. Bullock taught at the University of California, Los Angeles, before joining Scripps, which is also part of the University of California, and was elected a member of the National Academy of Sciences in 1963.", 
             "He worked for the United Aircraft Corporation and several other firms, and in 1999 was elected to the Air Force Space and Missile Hall of Fame.", 
             "He was appointed vice chairman in 1972, two years before the board elected him chairman and chief executive.", 
@@ -3376,23 +3449,9 @@
             "He became vice president after Spiro T. Agnew was forced to resign in October 1973, and 10 months later ascended to the presidency when Nixon stepped down, thus becoming the first person to serve as president without having been elected to that office or the vice presidency.", 
             "''I am acutely aware that you have not elected me as your president by your ballots,'' he said to the dignitaries in the East Room of the White House and to the millions of Americans watching on television."
         ], 
-        "height_fem": 58, 
-        "start_y": 276, 
-        "sentences_fem": [
-            "The group elected her a Companion of Literature in 1994, a position held by only 10 writers at a time.", 
-            "She was elected to the Advertising Hall of Fame in 1997.", 
-            "Her father, Charles Hobbs, was later elected Kansas insurance commissioner, and her mother, Emma Swisher, taught piano.", 
-            "In 1970, she was elected president of the Rockland County Bar Association.", 
-            "She was first elected to the Assembly in 1973 and was re-elected 13 times.", 
-            "She majored in economics at Mount Holyoke College, where she was elected to Phi Beta Kappa as a junior and graduated magna cum laude.", 
-            "In 2005, she was elected to the American Academy of Arts and Sciences.", 
-            "Mrs. Goodman, whose expertise was in early childhood education, joined the board at Teachers College in 1973 and led its committee on development before being elected the board's chairwoman in 1980.", 
-            "I believe that Mississippi now has the highest number of African-American elected officials in the nation.", 
-            "'' In 1982, she ran for state treasurer and received the most votes of any statewide candidate, becoming the first woman elected to statewide office in Texas in 50 years.", 
-            "In 1984, she became the first woman elected to the National Rowing Hall of Fame.", 
-            "Later that year, Berg was elected president of the fledgling L.P.G.A., and in 1950 the organization officially began with Berg and 12 other golfers recognized as the founders.", 
-            "'' In 1982, she ran for state treasurer, received the most votes of any statewide candidate, became the first woman elected to statewide office in Texas in 50 years and was re-elected in 1986.", 
-            "Mrs. Chenoweth-Hage was elected in 1994 as part of the Republican takeover of the House and served three terms, from 1995 to 2001, representing Idaho's First Congressional District."
-        ]
+        "height": 96, 
+        "rate": 14, 
+        "start_y": 0, 
+        "id": "mal19"
     }
 ]

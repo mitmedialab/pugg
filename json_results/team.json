@@ -19,15 +19,476 @@
         "y_spacing": 165
     }, 
     {
-        "height_mal": 116, 
-        "rate_fem": 5, 
-        "rate_mal": 17, 
-        "heigh_fem": 0, 
-        "id": 0, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
-            "With the arrival of the Carter Administration in 1977 came a fresh team of Interior Department officials, whose priorities lay in the environmental problems posed by strip mining and offshore oil drilling.", 
+        "sentences": [
+            "'' She acted in movies including ''Love Happy'' with the Marx Brothers, ''In Society'' with the comedy team of Abbott and Costello, and others with Perry Como, Bob Hope and Jack Carson.", 
+            "'' She acted in movies including ''Love Happy'' with the Marx Brothers, ''In Society'' with the comedy team of Abbott and Costello, and others with Perry Como, Bob Hope and Jack Carson.", 
+            "She was an expert on health and environmental factors in hospital design and had directed a design team to remodel Montefiore Hospital in the Bronx.", 
+            "She managed the Gallup farm in Montgomery Township, N.J., and was a former coach of the boys' junior varsity tennis team at the Princeton Day School.", 
+            "In Venice in 1974, Mrs. Hawes was a member of the winning American team at the first world championship for women's teams based on continental zones, winning the Venice Trophy.", 
+            "In 1980, in Valkenburg, the Netherlands, she and her regular teammates - Dorothy Hayden Truscott, Jacqui Mitchell, Gail Greenberg, Mary Jane Farell and Marilyn Johnson - became the first Americans to win the Olympiad team title in either the open or women's divisions."
+        ], 
+        "height": 26, 
+        "rate": 5, 
+        "start_y": 324, 
+        "id": "fem0"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Studied Fish on Sea Floor Born in New York City, she graduated in 1924 from Connecticut College for Women, where she was twice chosen class president, was elected to Phi Beta Kappa and was selected a member of the All-America girls' hockey team.", 
+            "After Jennie Lee was elected to Parliament from Staffordshire in 1945, and Mr. Bevan was re-elected to Parliament in the same elections, they became known as ''Britain's first man-and-wife parliamentary team."
+        ], 
+        "height": 4, 
+        "rate": 2, 
+        "start_y": 324, 
+        "id": "fem1"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Network executives objected, contending the public would not accept the team of an American redhead and a Cuban bandleader with a heavy accent.", 
+            "Once, during a stage rehearsal, she looked into the auditorium and saw the team of backup singers for ''Il Trovatore.", 
+            "In 1937, they made their debut at Town Hall as a duo piano team.", 
+            "She joined a diabetes practice headed by Elliott P. Joslin, and in 1924 became the youngest member of the team that established the Joslin center.", 
+            "Mrs. Bachner, a graduate of St. Lawrence University, and her husband, Lester, a Manhattan lawyer who died in 1976, were avid tournament bridge players and won the National Mixed Team Championship in 1932."
+        ], 
+        "height": 20, 
+        "rate": 4, 
+        "start_y": 324, 
+        "id": "fem2"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "They were part of an American squad that finished second in the World Women's Team Championship in Port Chester, N.Y., in 1981.", 
+            "In ''Boy Meets Girl,'' which opened in New York on Nov. 27, 1935, and ran for 669 performances, the Spewacks wrote about a fictional writing team, Benson and Law.", 
+            "I'm the mascot on their softball team.", 
+            "'' The team of Block and Sully was among the last to play the vaudeville circuit at the Loew's Theaters before they ceased to have live shows."
+        ], 
+        "height": 12, 
+        "rate": 3, 
+        "start_y": 324, 
+        "id": "fem3"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Performing regularly, sometimes annually, in the United States for 15 years, the team was unsurpassed in critical acclaim, box office success and public adulation.", 
+            "Ms. Perkins works with Penn and Teller, the comic magic team, who bill themselves as \"a couple of eccentric guys who've learned to do a few cool things,\" as a fire-eater.", 
+            "The writing team's first novel, \"Hurry Sundown\" (1965), was an instant commercial success.", 
+            "As a husband-and-wife team, Ms. Rubinstein and Mr. Schickel co-produced several television specials, including \"Minnelli on Minnelli: Liza Remembers Vincente\" for the Public Broadcasting Service and \"Gary Cooper: American Life, American Legend\" for Turner Network Television.", 
+            "Start of a Team Major success began after the 1958 Greenwich Village Circle in the Square production of Edwin Justus Mayer's \"Children of Darkness,\" in which she appeared with another up-and-coming young performer, George C. Scott."
+        ], 
+        "height": 20, 
+        "rate": 4, 
+        "start_y": 324, 
+        "id": "fem4"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "For a while, however, it appeared that the team would fall into other, less generous, hands.", 
+            "In 1978, the Yawkey estate was on the verge of selling the team to a syndicate formed by Haywood C. Sullivan, a Red Sox executive, and the team's former trainer, Edward G. (Buddy) LeRoux Jr., with Mrs. Yawkey as a limited partner.", 
+            "The arrangement proved stormy almost from the start, with Mr. LeRoux pressing for measures that would earn profits for the partnership and Mrs. Yawkey just as determined to continue operating the team in the grand Yawkey tradition.", 
+            "Like her husband, who saw his team win three pennants but never a World Series championship, Mrs. Yawkey, too, was denied the ultimate goal.", 
+            "She was the youngest member of the Austrian women's team that won the European title in 1935 and 1936 and the world title in 1937.", 
+            "In 1951 she returned to international competition as a member of the British women's team and won another European Women's Championship, a triumph she was to repeat six more times.", 
+            "She won another title at the World Team Olympiad in New York in 1964.", 
+            "Mrs. Markus became the target of controversy when she supported two British players, Terence Reese and Boris Schapiro, who had been found guilty of cheating by the World Bridge Federation in the 1965 World Team Championships in Buenos Aires.", 
+            "Five Doubles Titles She married Leslie Godfree, the captain of England's Wightman Cup Team, in 1926.", 
+            "In recent years, Mrs. Ley directed a team of designers who turned out 1,200 styles each season under the Escada label alone.", 
+            "She was born in Worthington, Minn., was an alternate on the 1928 Olympic diving team and became a champion golfer.", 
+            "Although Miss Green had the same first name, and played the same position on the same team as the character portrayed by Geena Davis in \"A League of Their Own,\" the 1992 movie based on the famous women's league, that was merely a coincidence, according to those familiar with the league and the movie, including Kelly Candaele, whose story was the basis of the movie.", 
+            "After graduation, she played semipro softball for the Olympettes, a women's team that played in Boston Garden.", 
+            "Her service in Africa included work on the Committee for Health in Southern Africa, a physicians' evaluation team in Liberia, the medical college planning committee for Africa University in Zimbabwe and the United Methodist Church medical aid program for Mozambique.", 
+            "They won the Goldman Pairs in 1957, making them the only married couple to win in the 64-year history of the event; they also won the Master Mixed Team Championship in 1965.", 
+            "In her prior teaching post at the University of Washington School of Public Health from 1972 to 1986, she was on the team that developed the Sickness Impact Profile.", 
+            "Linked Cancers to Virus She also studied the relationship between viruses and human cancer cells, leading a team of researchers that succeeded in linking viruses to eight types of human cancer in 1960.", 
+            "In 1945, when the team moved to Indiana and became the Fort Wayne Daisies, Mrs. St. Aubin, a left-handed batter, led the league with a .299 average and in extra-base hits (24), doubles (17) and home runs (3)."
+        ], 
+        "height": 92, 
+        "rate": 14, 
+        "start_y": 324, 
+        "id": "fem5"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            " Julia Jones-Pugliese, who took up fencing as a New York University student in 1927 and five years later began a 60-year career as one the nation's premier coaches, died on Saturday after coaching Hunter College's men's team at a meet at St. John's.", 
+            "The first woman to coach a collegiate fencing team, Mrs. Jones-Pugliese led N.Y.U.", 
+            "to national championships in 1933 and 1938 and coached the Hunter team to a national title in 1970.", 
+            "basketball team, she took up fencing and helped found the National Intercollegiate Women's Fencing Association.", 
+            "She had first helped to refine penicillin specifically for the treatment of infections as a member of a research team at the College of Physicians and Surgeons of Columbia University.", 
+            "Mrs. Schenken had an unusual string of successes in national women's team championships, winning in 1958, 1960, 1961, 1964, 1968 and 1969.", 
+            "They became a Times reporting team working in Italy, Mexico and Latin America and she retained her old byline throughout her career with The Times.", 
+            "\" Farr played on the 1984 Curtis Cup team and the 1984 World Amateur team.", 
+            "From 1945 to 1970, she collaborated with her first husband as the freelance writing team of Jhan and June Robbins, whose articles appeared in Readers' Digest, McCall's, Redbook, Good Housekeeping and This Week."
+        ], 
+        "height": 48, 
+        "rate": 8, 
+        "start_y": 324, 
+        "id": "fem6"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In 1937 she married William A. Shea, a New York lawyer who became a partner in Shea & Gould, founded the Mets baseball team and for whom Shea Stadium is named.", 
+            "Their other team efforts included \"Topkapi,\" a well-regarded 1964 museum-theft caper; \"10:30 P.M. Summer,\" a 1966 story of a descent into alcoholism, and \"Promise at Dawn\" (1970), from a memoir by Romain Gary about his unconventional mother.", 
+            " Fiona Baan, the director of dressage and driving programs for the United States Equestrian Team, died on Sunday at her home in Chester, N.J. She was 55.", 
+            "The cause was cancer, a team spokeswoman said.", 
+            "Mrs. Baan was responsible for training this country's international teams in driving and dressage and coordinated national championships from which the United States Olympic team was selected.", 
+            "Mrs. Baan's job covered all aspects of administering the two disciplines for the United States Equestrian Team, with headquarters in Gladstone, N.J. She managed the teams for the North American Dressage Championships in 1985 and 1989; the 1986 World Dressage Championships, and the 1989 and 1991 Pairs World Driving Championships.", 
+            "She managed the 1989, 1990 and 1991 Olympic dressage teams and served as chef d'equipe, or team manager, for the dressage team at the 1987 Pan American Games.", 
+            "In 1991, she helped organize the Equestrian Team's Festival of Champions, having previously set up dressage championships and selection trials at Gladstone.", 
+            "She hunted with the hounds and successfully competed herself while working for the Equestrian Team.", 
+            "She began with the team in 1966 as a secretary.", 
+            "After narrowly failing to make the 1988 United States Olympic gymnastics team, Ms. Henrich, a hard-driving competitor who was only 4 feet 10 inches tall, placed fourth in the unequal parallel bars event in the 1989 world championships.", 
+            "A Phenomenal Record Of Joint Triumphs When Miss Tandy and Mr. Cronyn first appeared together, in \"The Fourposter\" in 1951, audiences found a husband-and-wife team that would come to succeed Alfred Lunt and Lynn Fontanne as the foremost couple of the American theater.", 
+            "\" At 13, she went out for the high school basketball team and twice made the all-state team.", 
+            "Bulked up to 130 pounds, she made the 1960 Olympic team."
+        ], 
+        "height": 92, 
+        "rate": 14, 
+        "start_y": 324, 
+        "id": "fem7"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Reached yesterday at the University of Nevada in Reno, where he and his wife had worked as a team, her husband said the cause of death was a central nervous infection.", 
+            "She married Dr. Scharrer in 1934, and they remained a team at Einstein until his accidental drowning in 1965.", 
+            "\" As part of the writing team for the soap opera \"All My Children,\" she won Emmy Awards in 1985 and 1988.", 
+            "She also had her differences with the Masters-Johnson team, questioning their advocacy and use of two therapists working together because, she felt, one therapist of either sex would suffice.", 
+            "In her youth, Miss Chadwick was a downhill ski racer on the United States A team.", 
+            " Lee Hadley, an Iowa State English professor who helped turn a collaborative pedagogical sendup into an acclaimed literary career as half of a writing team known to young readers as Hadley Irwin, died on Tuesday at her home in Madrid, Iowa.", 
+            "But that would have made her a mere 14 in 1914, when as a Chicago debutante she scandalized North Shore society by dropping out of Madame Young's finishing school to form a dance team with Carl Hyson, a wealthy young man who later became her husband.", 
+            "Calvin Griffith became president of the franchise after Clark Griffith died and moved the team to Minnesota in 1961.", 
+            "Mrs. Haynes served as an executive vice president and assistant treasurer and each owned 26 percent of the team before it was sold to Carl Pohlad in 1985.", 
+            "A native of Cleveland, Miss Wade was a star on the Delta State team there in the late 1920's before barnstorming with a semipro team known as the Tupelo Red Wings.", 
+            "In 21 years at Cleveland High School, she led the team to a 453-89-6 record.", 
+            "The experience started them in their career as a husband-and-wife team examining sexual bias in schools through research based on transcripts of classroom interactions, textbooks, surveys and polls.", 
+            "In 1972, she was a member of the American team that finished third in the World Team Olympiad.", 
+            "Her 14 second-place results included all three major national team championships, the Spingold Knockout in 1944, the Board-a-Match in 1953 and the Vanderbilt Knockout in 1954."
+        ], 
+        "height": 78, 
+        "rate": 12, 
+        "start_y": 324, 
+        "id": "fem8"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "They won the National Women's Pair Championship in Phoenix in March, and, with others, the National Women's Knockout Team Championship in Atlanta in August.", 
+            "She said she was apparently kept on the job because of her citywide reputation as a terror on the women's softball team.", 
+            "The Butlers were a popular ballroom dance team for many years, performing in  Manhattan at the Ritz-Carlton, the Plaza and other hotels, as well as in Europe.", 
+            "Her father, Frederick C. Miller, who had been captain of Notre Dame's 1928 football team, was the company chairman.", 
+            "Mrs. Baron was a member of the United States Women's Team that took third place in the 1968 world championships in Deauville, France, and she competed in the World Women's Pairs Championship in 1978 and 1982.", 
+            "The Hymans first oversaw the attendance of disabled veterans at Giants games at the Polo Grounds, then followed the team's migration to Yankee Stadium in 1956, then Giants Stadium in 1976.", 
+            " Toni Stone, a scrappy second baseman who became a footnote to baseball history in 1953 as a member of the Negro League's Indianapolis Clowns when she became the first woman to play as a regular on a big-league professional team, died on Nov. 2 at a nursing home in Alameda, Calif. She was 75 and had lived in Oakland, Calif., for many years.", 
+            "She began playing on the sandlots of St. Paul, becoming so proficient that Gabby Street, a former major league catcher and St. Louis Cardinals manager who was managing a minor league team in St. Paul, bought her a pair of spikes and let her attend his baseball camp.", 
+            "After she and Dr. Robbins were married in 1975, the couple worked as a team.", 
+            "As leader of the debating team, Ms. Jordan, known as B. J. to her friends, later proudly recalled maneuvering the Harvard team to a draw.", 
+            "\"When an all-black team ties Harvard, it wins,\" she said.", 
+            "The next year, she was selected for the United States Curtis Cup team."
+        ], 
+        "height": 48, 
+        "rate": 8, 
+        "start_y": 324, 
+        "id": "fem9"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Dr. Wu joined forces with a research team at the National Bureau of Standards in Washington, which had one of the few laboratories in the country that could chill materials to extremely low temperatures.", 
+            "Ms. Cohan, who was the broadcast creative director at the agency, had ultimate responsibility for the production of its television and radio commercials, working with the creative director and creative team.", 
+            "An accomplished athlete who founded Switzerland's first women's field hockey club and was a member of the Swiss sailing team in the 1924 Olympics, Ms. Maillart was initially drawn to the sea.", 
+            "Instead, after a brief film career in Berlin in 1930, she went to Moscow, then walked across the Caucasus Mountains, tried to put together a women's field hockey team in Russia and rowed for a team called the Alimentation Workers' Eight.", 
+            "Mrs. Clark was also widely known for directing many of the surveys that defined American public opinion during a time of great social and political turmoil in the 1970's, and she was part of the team that introduced exit polls into American politics and journalism.", 
+            "In 1964, she was part of the Harris team that conducted an exit poll for CBS News in the tightly contested California Republican primary between Nelson A. Rockefeller and Barry Goldwater.", 
+            "'' But the official results proved the Harris team right.", 
+            "But, she liked to recall, the nuns, in a gesture of sublime sportsmanship and Christian compassion for the team's hapless junior college opponents, told her that if she hit a ninth one out of the park, they would excommunicate her on the spot.", 
+            "After all, while Roller Derby's women did not skate with or against men, they were an integral part of the team, taking to the track for two of the four 12-minute quarters and skating under the same no-holds-barred rules that applied to their male teammates.", 
+            "She was a mainstay for the United States Wightman Cup team from 1927-39.", 
+            "In the days before pretaped shows, she was part of a six-member production team that brought a script from rehearsal through live production in about a month, said Mildred Schaefer, whose husband, George, headed Compass Productions.", 
+            "A native of Waco whose restless father kept the family on the move, including three years homesteading in the New Mexico Territory, she was 13 when she hitched up a four-horse team, gathered the reins and led a Conestoga convoy that took her family to the dusty little town of Alpine in the Big Bend region of southwestern Texas.", 
+            "Mrs. Henson was also the lead plaintiff in a class action suit against the Japanese Government seeking damages for forced prostitution, and shortly before she died she was interviewed by a team of lawyers visiting from Tokyo.", 
+            "She was affiliated for many years with the Chest Service at Bellevue Hospital, where she headed a research team that tested new drugs for tuberculosis.", 
+            "But her team of clinical social workers arranged for Owen and his mother to stay with Owen's grandmother, preserving Owen's caretaking environment and family connection, she said.", 
+            "During World War II, she worked on a research team that produced a vaccine for cholera, and in 1945 and 1946 she was a research assistant on the Manhattan Project, which developed the atomic bomb.", 
+            "6 player on the Surrey county team, but had had only one lesson from a professional.", 
+            "In Brooklyn, where a fictional cat named Rhubarb once inherited a baseball team named the Loons, Miss Katzenbogen's expensive eccentricities on behalf of cats might have been shrugged off, but not on Laurel Canyon Boulevard.", 
+            "'' Ms. Steel produced several movies in recent years, among them ''Cool Runnings,'' a highly successful comedy about a Jamaican bobsled team.", 
+            "Dr. Holley gave some of the prize money to Dr. Keller and others on his research team at Cornell.", 
+            "She represented the United States in 1996 at the Blenheim Castle three-day event in England; also that year she won the fall national championship three-day event of the United States equestrian team at Fair Hill."
+        ], 
+        "height": 92, 
+        "rate": 14, 
+        "start_y": 324, 
+        "id": "fem10"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "At Citicorp, as senior officer for corporate affairs and a member of the company's senior management team, Mrs. Meyer was widely credited with restoring the reputation of the banking company after it had gone through a financial crisis.", 
+            "As a team in meditation and activism, the couple helped renovate dilapidated buildings to house the homeless.", 
+            " Eleanor C. Lambertsen, a leader in American nursing education who introduced the concept of team nursing for better patient care, died on March 30 at Waverly Heights, a nursing home in Gladwyne, Pa. She was 82 and a former resident of the Upper East Side of Manhattan.", 
+            "The idea of team nursing sprang from her doctoral dissertation, and in the decades afterward, the concept made her a mentor and teacher to generations of health professionals around the world.", 
+            "''The purpose of team nursing,'' Dr. Lambertsen wrote in her dissertation, ''is to blend different kinds of nurses into the working unit whose core is the patient and his individual nursing needs.", 
+            "Her dissertation spelled out her idea of team nursing, and it was published as a book by Teachers College Press under the title ''Nursing Team Organization and Functioning.", 
+            "The demonstration attracted administrators from across the country who sought to reorganize their nursing staffs according to Dr. Lambertsen's team concept.", 
+            "The American Nurses Association honored Dr. Lambertsen in 1984 for originating the concept of team nursing.", 
+            "She was 82, and with Lee Hadley had formed the writing team known as Hadley Irwin.", 
+            "''I think she established herself in sport like Babe Ruth,'' said Terry Crawford, who coached the American women's track and field team at the 1988 Summer Games.", 
+            "A team of designers that reported to her will continue to design the line.", 
+            "Ms. Long and Mr. Daniell became a prominent husband-wife journalistic team, covering the Nuremberg trials and postwar Germany.", 
+            "She also helped lead a team of the paper's reporters who  covered the 1993 bombing of the World Trade Center.", 
+            "She and her husband were a team.", 
+            "Beginning in 1937, and through World War II, they lived in London, and Mr. Murrow  went on to direct CBS's World War II reporting team and to win fame for his reporting about the war.", 
+            "She also served on a British-American crisis team that worked to enhance relations between British civilians and American military personnel stationed in Britain."
+        ], 
+        "height": 64, 
+        "rate": 10, 
+        "start_y": 324, 
+        "id": "fem11"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "They were married in the mid-1940's and became a team in their Holocaust pursuits when he started representing the victims, especially children, before the courts and found that many of them had only vague memories of their ordeals.", 
+            "The couple, who eventually married, became an artistic team, he handling the plaster and she the painting for frescoes all over the country, including her most acclaimed work, ''The Evolution of Music,'' at George Washington High School in upper Manhattan.", 
+            "It was by shining precisely tuned lasers on such a condensate, or cloud, of ultra-cold sodium atoms that Dr. Hau and her team reduced the speed of a light beam to a pace slower than her bicycle.", 
+            "A table covered with a labyrinth of little mirrors guides a network of beams requiring perfect adjustment, and Dr. Hau and her team work long and tedious hours, sometimes around the clock.", 
+            "Other major 60's hits included ''Wishin' and Hopin' '' (1964), and ''The Look of Love'' (1967), both written by Burt Bacharach and Hal David, the team that supplied Ms. Warwick with most of her early hits.", 
+            "To make the album, the Atlantic producing team of Jerry Wexler, Tom Dowd and Arif Mardin, who had brought Ms. Franklin to her peak of popularity, took Ms. Springfield to Memphis to record with a hot rhythm section.", 
+            "'' For many years, she went back and forth between dance forms, touring with the Fokine Ballet, forming a ballroom dance team with Tony de Marco, appearing in pioneering television productions in 1931 and 1939 and serving as ballerina of the Roxy Theater.", 
+            "In her third meet, the United States final trials in Newark, she finished second and made the Olympic team.", 
+            "'' Rosenfeld and her Canadian teammates later defeated Robinson and the American team in the 4x100-meter relay, with the United States team taking the silver.", 
+            "Still, she made the Olympic relay team, along with Harriet Bland, Annette Rogers and Helen Stephens.", 
+            "This time in Berlin, the American team -- with Robinson running the third leg -- captured the gold when a member of the record-setting German team fumbled the baton pass before the last handoff.", 
+            "She sat on the Governor's Council on AIDS, the Task Force on Child Abuse and Neglect and the New Jersey Court Team on Domestic Violence.", 
+            "Sonny Werblin later became an officer of Monmouth Park race track and president of the New York Jets football team, built the Meadowlands Sports Complex and was chairman of Madison Square Garden.", 
+            "Although Austrian officials were uncomfortable about choosing Jews for their Olympic team, she, Judith Deutsch and Lucie Goldner, all Jews, were about to be selected.", 
+            " Kim Perrot, the tiny floor leader of the Houston Comets team that has won the first two Women's National Basketball Association championships, died here today.", 
+            "But the success of college women's basketball, coupled with the Olympic championship team at the 1996 Atlanta Games, put women's basketball on the American sports map.", 
+            "'s first season, Perrot was in charge of the league's best team.", 
+            "When they did their ''Meat'' show, for example, they cooked for a girls' lacrosse team in the kitchen of a boarding school.", 
+            "Her death was reported at Dhaulagiri base camp by her husband, Gary Scott Pfisterer, the American leader of the team.", 
+            "'' In 1971, when Princeton University first admitted women, Kraft became the women's varsity tennis coach, leading the team to an undefeated record for the three years of her tenure.", 
+            "After working as a public defender and teaching a seminar in criminal defense at Stanford University's law school, Ms. Bird became a volunteer in Mr. Brown's 1974 campaign for governor, serving as his frequent chauffeur on his trips to her area and later as a trusted adviser on his transition team."
+        ], 
+        "height": 108, 
+        "rate": 16, 
+        "start_y": 324, 
+        "id": "fem12"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "There she became a member of a team assembled by Ernst May, who was Frankfurt's architect and overseer of city planning in the late 1920's.", 
+            "''I knew Wilma was nervous because she was only 16, and I knew how nervous I was at 16 trying to make the Olympic team,'' Faggs remembered.", 
+            " Sandra Schmirler, the star of the first women's curling team to win an Olympic gold medal and one of Canada's most popular athletes, died Thursday in Regina, Saskatchewan.", 
+            "After graduating from the University of Regina, Schmirler was asked to join a local team.", 
+            "Schmirler was six months pregnant when she won the world title in 1996 and was on maternity leave from her job with a recreation center when the team went to the 1998 Winter Games in Nagano, Japan.", 
+            "''When you have success and you're having fun, it just snowballs and gets bigger and bigger,'' Schmirler said of the team's success.", 
+            "'' Schmirler's team was voted the Canadian Press team of the year for 1998, and she was inducted into the Canadian Curling Hall of Fame last March.", 
+            "By the age of 6, Ms. Trent was the host of her own radio show on WHN, ''Baby Sybil Elaine and Her Kiddie Revue,'' on which she would conjure  imitations of Joe Penner and the Block and Sully comedy team before closing with a sweetly sung ''Thank You for a Lovely Evening.", 
+            "But that was only a small part of the legacy of the team known as ''Mac and Elsie.", 
+            "Her movie appearances included ''The Hospital''; two films with the team of Merchant Ivory, ''The Bostonians'' and ''Jefferson in Paris'';  and the remake of ''Sabrina,'' in which she played Harrison Ford's mother.", 
+            "In 1901, her father, John Stephen Dooley, helped the new Red Sox team get a home at the Huntington Avenue Grounds.", 
+            "At 18, she was a platform diver on the first United States women's swimming team in the Olympics.", 
+            "She was an official of United States Olympians, held the starter's gun for women's swimming in the Olympic trials during the 1920's and 1930's, helped choose team uniforms and raised money for the United States squads.", 
+            "Reilly first gained a degree of prominence as a member of the Raybestos Brakettes fast-pitch softball team in the 1950's and 60's.", 
+            "The team won scores of national and world championships, and its members encouraged Reilly to attend college, pointing her on a career that made her a well-known coach and athletic administrator.", 
+            "''Brenda joined the Brakettes at 18 right out of high school and worked at the Raybestos factory in Stratford for a number of years while playing for the team from 1956 until 1965,'' said Mickey Macchietto Stratton, one of her teammates.", 
+            "''By the time Brenda was a senior member of the women's basketball team, she was 30 and three years older than the coach,'' Pullek said.", 
+            " Mary K. Wells, who acted in films, theater, television and radio and was part of a writing team that won two daytime Emmy Awards, died on Monday.", 
+            "Her parents, Jack and Josephine Peck formed a song and dance team in vaudeville and radio.", 
+            "Among the other artists whose work Ms. Austin produced were Stanley Silverman, Anne Bogart, David Del Tredici, Eve Ensler, John Kelly, Elizabeth Swados, Richard Peaslee, Bill Irwin and the team of Cornelius Eady and Deidre Murray, the authors of the musical ''Running Man,'' one of her recent projects.", 
+            "Mrs. Leighton-Porter settled into family life in Bermuda and in England, turning to more staid endeavors like sponsoring teas for a cricket team in Horsham.", 
+            "Mr. Kanzler, who died in 1967 and was an uncle by marriage of Henry Ford, was associated with the Ford company and was a director of the Detroit Lions football team."
+        ], 
+        "height": 108, 
+        "rate": 16, 
+        "start_y": 324, 
+        "id": "fem13"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "The reason they failed became apparent when Dr. Horstmann's team detected the polio virus in the blood of infected monkeys and chimpanzees before signs of paralysis appeared.", 
+            "'' ''What to Expect When You're Expecting,'' the team's first book in a best-selling series on what to expect from pregnancy, babies and toddlers, was released by the Workman Publishing Company in 1984.", 
+            "On her 100th birthday she was presented with a team jersey bearing the number 100.", 
+            "It was produced by an interdisciplinary team at Massachusetts Institute of Technology and financed by the Club of Rome, an international research organization that studies ''the complex of problems troubling men of all nations,'' like poverty, alienated youth and monetary disruptions.", 
+            "As a teenager working as a ticket taker, Ms. Rutherford met Sam Russell, a star of the black theater with the comedy team Bilo and Ashes.", 
+            "They made a formidable team, propelling The Post into one of its most dynamic periods.", 
+            "The daughter of a husband-and-wife vaudeville team, Ms. Freeman was literally born into show business, growing up on the song-and-dance circuit.", 
+            "In her junior year, the high school ski coach asked her to join the team.", 
+            "She rejoined the national disabled team and persuaded potential corporate sponsors to support the team as they would any other.", 
+            "She provided drill teams for 10 Super Bowls, 4 Rose Bowls and 7 Pro Bowls, and at the 1984 Los Angeles Olympics, she put 1,268 drill team members through their lively paces.", 
+            "Two years later, at the rededication of the Statue of Liberty, she fielded a team almost that large, including all-stars from every state.", 
+            "David Wolper, who produced the Olympic and Statue of Liberty shows, said: ''Kay recruited, trained and prepared thousands of young drill team girls for the events, and when Kay trained them, they were perfect.", 
+            "'' She took her drill team idea to El Centro High School in El Centro, Calif., and from there to San Diego High School and Santa Monica High School.", 
+            "She opened a drill team summer camp, started an international competition for drill teams, founded and edited a magazine on the subject of drill teams, and wrote what some consider the definitive textbook on the subject.", 
+            "She had been heartily campaigning to make drill team competitions an Olympic sport.       ", 
+            "The Eniac programming team broke up, but Mrs. Holberton was the one of the six who stayed longest in the field."
+        ], 
+        "height": 70, 
+        "rate": 11, 
+        "start_y": 324, 
+        "id": "fem14"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Two years later, she was part of a team of physicians at Hopkins that performed the first ''blue baby'' operation, a surgical procedure that corrected a congenital heart abnormality that robs the blood of oxygen.", 
+            "The film's success led the team to make ''Joe Leahy's Neighbors'' (1989), about the political and cultural struggles of a mixed-race coffee planter, and ''Black Harvest'' (1992), about land and money disputes and their escalation into tribal warfare.", 
+            "The films established the team's international reputation, with each one winning a major prize at the Cin\u00e9ma du R\u00e9el festival, which honors documentaries.", 
+            "She and her husband were Life magazine's first photographer-reporter team to cover the war.", 
+            "She played an important role in the small team that  shaped Mrs. Reagan's trademark ''just say no'' to drugs campaign.", 
+            "'' In high school, she played softball for a girls' team called the Dr Peppers, sponsored by the soft-drink company.", 
+            "Her team was beaten in the real game, the final of the 1946 championship series of the All-American Girls Professional Baseball League, despite getting 13 hits.", 
+            "She excelled in track and field at Lincoln High School, and after graduation played amateur softball with a team called the Americanettes.", 
+            "She coached the Linden, N.J., Arians, a team in the Eastern Major Girls Softball League.", 
+            "'' Ms. Lutyens had a costume shop in New York, where she helped create costumes for several Ballet Theater productions, among them Antony Tudor's ''Dim Luster'' and Jerome Robbins's ''Fancy Free,'' working with Motley, the British design team, and designers who included Kermit Love and Miles White.", 
+            "'' The daughter of a tennis instructor and a native of Ventura, Calif., she played on the men's tennis team at the University of Southern California because there was no women's squad.", 
+            "In 1951, she teamed with Todd in doubles at the nationals, losing in the final to Fry and Hart, and she played doubles on the 1951 Wightman Cup team that defeated Britain, 6-1.", 
+            "The Perkins Center used psychoanalytic ideas to help children deal with emotional problems and incorporated the idea of team treatment, which helped parents understand children's actions.", 
+            "The 11 a.m. entry: ''Went in to get dinner, as I've got menfolk working hard, hauling loads and loads of manure with the manure spreader that is driven by a team of horses.", 
+            "In 1974, in one of the many articles she wrote on her career, she said: ''My most unforgettable experience would have to be as the youngest member of the first American women's Olympic swimming and diving team in 1920.", 
+            "On her doctor's recommendation that she swim for her health, she joined the celebrated Women's Swimming Association team in New York.", 
+            "But because Riggin and Wainwright had also made the Olympic team as swimmers, they went.", 
+            "''When I won my first trophy and it was as big as me, I knew I wanted to someday make the Olympic team.", 
+            "Gallagher attended the University of Arizona for a semester and a half, training with the men's cross-country team."
+        ], 
+        "height": 78, 
+        "rate": 12, 
+        "start_y": 324, 
+        "id": "fem15"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "The Kerrs made their debut as a team on Broadway in 1946 with ''Song of Bernadette,'' a dramatization of Franz Werfel's novel about a young Frenchwoman who was canonized after saying she had seen visions of the Virgin Mary in a grotto near Lourdes.", 
+            "She met Mr. Griffiths, a fellow student, at the University of Missouri, where both were on the debating team.", 
+            "Caryll G. Rice II, the secretary of the Marine team she coached in the mid-1990's, recalled her enthusiasm.", 
+            "Late in 1972, when her team played in Florida against a squad from the East Coast, the emotions were overwhelming.", 
+            "Mrs. Rosenfield took credit for casting a virtually unknown Robert De Niro as the doomed catcher, and Mr. Rosenfield, a Chicago corporate lawyer, appeared as a team owner.", 
+            " Diane Geppi-Aikens, who coached the Loyola of Maryland women's lacrosse team to a No.", 
+            "'' Geppi-Aikens persevered in the hopes of seeing her son, Michael, graduate from high school and having her team make it to the N.C.A.A.", 
+            "On May 31, two weeks after her team went to the tournament semifinals, she attended Michael's graduation in Towson, Md.", 
+            "''Having Diane in our lives, she taught us that winning and losing a lacrosse game isn't anything,'' Suzanne Eyler, a senior and the team's top scorer, told The Baltimore Sun afterward.", 
+            " Martha Chase, who was half of a scientific team that in 1952 used a kitchen blender to help prove that DNA is the molecule that carries genetic information, died on Aug. 8 in Lorain, Ohio, a suburb of Cleveland.", 
+            "At one, Thomas Jefferson High, she founded a drill team called the Lassos, which is still in existence.", 
+            "Gibson did team with Angela Buxton to win the Wimbledon doubles in 1956.", 
+            "Still, she made extraordinary use of the 170-member team of cameramen and technicians that she assembled.", 
+            "The truth was that Ms. Cross was the child of an affair Mrs. Storch had had with Jimmy Cross, a black song-and-dance man who was Stump in the well-known performing team Stump and Stumpy.", 
+            "In 1924, she was a member of the United States team that competed in the Olympics in Paris.", 
+            "The group, the team argued, subjected Ms. Hearst to intensely stressful conditions, like isolating her from family and friends and locking her in a closet for six weeks, allowing its members to indoctrinate her and force a bizarre behavioral transformation."
+        ], 
+        "height": 86, 
+        "rate": 13, 
+        "start_y": 324, 
+        "id": "fem16"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "But when the ship docked at Hamburg, Germany, she was no longer a member of the Olympic team.", 
+            "Did you make the Olympic team or did I?", 
+            "So she went to Brundage and complained that I was setting a bad example for the team, and they got together and told me the next morning that I was fired.", 
+            "'' According to ''The Complete Book of the Summer Olympics,'' by David Wallechinsky, the Olympic team doctor had reported that she was suffering from acute alcoholism, but Holm denied it.", 
+            "Holm maintained that many of her fellow athletes had also been drinking on the voyage because there was no ban on alcohol, and some 200 team members petitioned Brundage to reverse the ban.", 
+            "When she took control of the Reds, Mrs. Schott, a socially prominent widow and heir to an industrial fortune, was the only female owner in the major leagues who had bought a team in her own right.", 
+            "She maintained that in purchasing the team, she might have prevented its move out of Cincinnati.", 
+            "In October 1999, Mrs. Schott turned over control of the team to a group headed by Carl Lindner, one of the limited partners, in a $67 million deal.", 
+            "Mrs. Schott promoted the team at functions, and she loved to take part in the Wave from her box seat at Riverfront Stadium.", 
+            "'' She compounded that gaffe with her sympathy offering to the umpiring crew; according to published reports, it was a recycled bouquet given to her by the team's television affiliate.", 
+            "She turned over day-to-day affairs to John Allen, the team's controller.", 
+            "In 1978 she was invited by the Miami Dolphins football team to direct the team's cheerleaders.", 
+            "Peter Kennedy attributed much of the team's success to his father having taught them perseverance.", 
+            "The daughter of Charles Shipman Payson, an industrialist, and Joan Whitney Payson, founder of the New York Mets baseball team, she grew up in Manhasset, N.Y., where she founded the Manhasset Stable for thoroughbred racing, which she later moved to Delaplane.", 
+            " Rose Gacioch, an outstanding outfielder and pitcher in the heyday of women's professional baseball who became a mainstay of the Rockford Peaches team later featured in the movie ''A League of Their Own,'' died last Thursday at a nursing home in Clinton Township, Mich. She was 89.", 
+            "At 16, she was the only girl on a town baseball team called the Little Cardinals.", 
+            "While still in her teens, she played one season for the All Star Ranger Girls, a barnstorming women's team.", 
+            "In 1950, a team led by Karl Lehmann unearthed the missing right hand of the Louvre's Winged Victory.", 
+            "The team also found the tip of the ring finger nearby.", 
+            "Examining the fragments left there by the Austrian team more than 70 years before, she found the rest of Winged Victory's ring finger and a thumb.", 
+            "But although their names are inextricably linked as a duet team for many listeners, Mr. Frank said they had actually devoted most their time to performing on their own, mainly because they disliked much of duet repertory.", 
+            "Parks worked hard behind the scenes at the Tony Awards: ''As the one who warms up the live audience with good-natured barbs at the theater industry before airtime, Mr. Cohen is the more visible member of the team; but it is Miss Parks who puts the whole thing together.", 
+            "After the Sept. 11 attacks, she became a team leader of the Community Resilience Project, a counseling center in Northern Virginia supported by the Federal Emergency Management Agency.", 
+            "Because Ms. Lloyd's conversation was as expressive as her dancing, and because she and her husband were inseparable, Richard Buckle, editor of Ballet magazine in London, suggested in 1951 that the couple write dance criticism as a team.", 
+            "After they wrote for various publications, the team as Alexander Bland began writing dance reviews in 1955 in The Observer, a weekly for which Gosling was also the art critic."
+        ], 
+        "height": 144, 
+        "rate": 21, 
+        "start_y": 324, 
+        "id": "fem17"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            " Katherine A. Lathrop, a pioneering researcher in nuclear medicine and a member of a University of Chicago team that developed an isotope widely used to locate and diagnose cancers, died on March 10 at a nursing home in Las Cruces, N.M. She was 89.", 
+            "Ms. Lathrop and the Chicago team experimented with an isotope, technetium 99m, by injecting it into a patient's bloodstream and then tracing its path through the brain, heart, kidney, liver and other organs.", 
+            "Dr. Harper's team also found technetium was less radioactive and had a shorter half-life than many other isotopes, and was therefore less dangerous to patients.", 
+            "Dr. Robert Beck, an emeritus professor of radiology at Chicago and a member of Dr. Harper's team, recalled that Ms. Lathrop was ''an indispensable part of Paul Harper's team.", 
+            " Dr. Georgeanna S. Jones, who was half of a husband-and-wife team that created the first program for in vitro fertilization in the United States and its first ''test tube'' baby, died on Saturday at a hospital in Norfolk, Va. She was 92 and lived in Portsmouth, Va.", 
+            "In 1980, Ms. Stutz assembled a team of investors and acquired the store from Genesco.", 
+            "''Vera was one of the strongest on our team.", 
+            "Two other members of the team fell to their deaths in the attempt.", 
+            "team to Pokey Chatman, who had spent the last 17 seasons with her as a player or as an assistant coach.", 
+            "She coached the team.", 
+            "'' In 1980, Gunter was the head coach of the United States Olympic women's basketball team, which never made it to the Moscow Games because of a United States boycott to protest the Soviet Union's invasion of Afghanistan.", 
+            "She and Chasins married in 1949, and performed and recorded together as a duo-piano team."
+        ], 
+        "height": 78, 
+        "rate": 12, 
+        "start_y": 324, 
+        "id": "fem18"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            " Nena O'Neill, one half of the husband-and-wife team whose best-selling book ''Open Marriage'' helped spread the youthful sexual revolution of the 1960's to the middle-aged, middle-class Middle America of the 1970's, died on March 9 in Manhattan.", 
+            "In high school she was popular, proud of her hook shot on the basketball court and captain of the field hockey team.", 
+            "Ms. Zeck was part of a team that prosecuted officials of the German industrial company I. G. Farben for war crimes, including plunder and the use of slave labor.", 
+            "Ms. Zeck had joined the legal team in 1946, when she was recruited from her job in Washington at the general counsel's office of the United States Treasury.", 
+            " Maggie Dixon, who coached the women's basketball team at Army to its first N.C.A.A.", 
+            "She inherited a team with players who take up to 24 credits a semester in subjects like engineering, physics and calculus and have limited time for sports.", 
+            "Her team started the season 5-7, including losses by 39 points to Connecticut and 17 to Baylor.", 
+            "Three weeks ago, she recalled that speech for The New York Times this way: ''We're just in the spot where we want to be,'' she said she told the team.", 
+            "We're just coming together as a team.", 
+            "'' Her team won the Patriot League regular-season championship for the first time.", 
+            "tournament, her team was routed by Tennessee, a perennial national power, 102-54, and finished 20-11.", 
+            "Cara Enright, a guard on Dixon's team, said yesterday: ''I just loved the energy that Coach brought to practice every day and the way she never gave up on us, always believed in us.", 
+            "For the stage, she twice adapted the works of the French playwriting team Pierre Barillet and Jean-Pierre Gredy; for ''Tru,'' which she also directed, she created a play out of Capote's own writings.", 
+            "Five years later, in August 2005, she was part of a team of three lawyers that won a verdict of $253.5 million against Merck in a state court in Texas, one of the largest damage awards ever to a single plaintiff.", 
+            "Ms. Epstein and Mr. Silvers made an unusual literary tag team.", 
+            "Mrs. Truscott won four world titles as a player: the Venice Cup in 1974, 1976 and 1978, and the Women's Team Olympiad in 1980.", 
+            "She was the nonplaying captain of the winning American Venice Cup team in 1989.", 
+            "She won the first of her national titles in 1959, and in 1965 became the second woman to play for the United States in the Bermuda Bowl world team championship.", 
+            "She won one world silver medal, from the 1965 Bermuda Bowl, and six world bronze medals, from the Open Pairs in 1966 (she is the only woman to win a medal in this event); the Women's Team Olympiads in 1968, 1972 and 1976; and the Women's Pairs in 1962 and 1974.", 
+            "For the next decade, Miss Allyson and Mr. Johnson were a romantic team, co-starring in ''High Barbaree'' (1947), ''The Bride Goes Wild'' (1948), ''Too Young to Kiss'' (1951), and ''Remains to Be Seen'' (1953).", 
+            "In 1949, Mr. Ewing and his team moved their base of operations to the newly opened Lamont Geological Observatory (now the Lamont-Doherty Earth Observatory), in Palisades, N.Y.", 
+            "Among her many achievements, Butcher was the first to summit Mount McKinley, North America's highest peak, with a dog team in 1979.", 
+            "As a youngster, she played quarterback for a boys' neighborhood football team called the 50th Street Tigers.", 
+            "The team had a lineman named Bud Wilkinson, who became a legendary football coach at Oklahoma.", 
+            "At 18, she was a member of the United States Curtis Cup team, a red-haired youngster with a face full of freckles, as she was invariably described in the press.", 
+            "'' In 1938, Berg won 10 of 13 amateur tournaments, including the United States Women's Amateur, and was named to the Curtis Cup team for the second time.", 
+            "In 1978, she explained to The New York Times, ''The decisions of the surgeon as team leader are final, and men have simply been unwilling to accept women in that role of the all-powerful decision maker.", 
+            "The Gilbreth brother-and-sister team also wrote ''Belles on Their Toes,'' a 1950 sequel that was turned into a movie in 1952.", 
+            "Dr. Lederberg was also a central member of a team led by her husband, Joshua Lederberg, who shared a Nobel Prize for genetic research in 1958.", 
+            "She was part of a national security team that was often at war with itself.", 
+            "She recalled that she wondered aloud how she, a Democrat all her life, could join his team."
+        ], 
+        "height": 138, 
+        "rate": 20, 
+        "start_y": 324, 
+        "id": "fem19"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
             "With the arrival of the Carter Administration in 1977 came a fresh team of Interior Department officials, whose priorities lay in the environmental problems posed by strip mining and offshore oil drilling.", 
             "Mr. Henry was also a certified public accountant and was a founder of the United States Equestrian Team, a director of the National Horse Show and a horse show judge and steward.", 
             "Mr. Danzig was born in Waco, Tex., and was a 1921 graduate of Cornell University, where he had been a 125-pound lineman on the varsity football team.", 
@@ -123,26 +584,14 @@
             "Mr. Becker won 23 major team titles in national tournaments - the Vanderbilt Knockout, the Spingold Knockout and the Reisinger Board-a-Match event - setting a record that is likely to stand many years.", 
             "Right Place, Right Time The senior member of the Nobel team, Dr. Brattain was modest about his accomplishment."
         ], 
-        "height_fem": 26, 
-        "start_y": 288, 
-        "sentences_fem": [
-            "'' She acted in movies including ''Love Happy'' with the Marx Brothers, ''In Society'' with the comedy team of Abbott and Costello, and others with Perry Como, Bob Hope and Jack Carson.", 
-            "'' She acted in movies including ''Love Happy'' with the Marx Brothers, ''In Society'' with the comedy team of Abbott and Costello, and others with Perry Como, Bob Hope and Jack Carson.", 
-            "She was an expert on health and environmental factors in hospital design and had directed a design team to remodel Montefiore Hospital in the Bronx.", 
-            "She managed the Gallup farm in Montgomery Township, N.J., and was a former coach of the boys' junior varsity tennis team at the Princeton Day School.", 
-            "In Venice in 1974, Mrs. Hawes was a member of the winning American team at the first world championship for women's teams based on continental zones, winning the Venice Trophy.", 
-            "In 1980, in Valkenburg, the Netherlands, she and her regular teammates - Dorothy Hayden Truscott, Jacqui Mitchell, Gail Greenberg, Mary Jane Farell and Marilyn Johnson - became the first Americans to win the Olympiad team title in either the open or women's divisions."
-        ]
+        "height": 116, 
+        "rate": 17, 
+        "start_y": 0, 
+        "id": "mal0"
     }, 
     {
-        "height_mal": 116, 
-        "rate_fem": 2, 
-        "rate_mal": 17, 
-        "heigh_fem": 0, 
-        "id": 1, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "He was also a founder of the Community Renewal Team, an antipoverty agency.", 
             "A native of Boston and the sixth of 11 children in the family of a bricklayer who had emigrated from Ireland, Mr. McGrath was captain of the football team at Milton High School.", 
             "As in college, he never played for a championship team in the pros, and his 10 pro seasons never surpassed the ones at L.S.U.", 
@@ -238,22 +687,14 @@
             "He was with the Rangers for seven seasons and was on the last Ranger team to win a Stanley Cup, in 1940.", 
             "Mr. Hager, a yachtsman and philanthropist, had served since 1975 on the board of directors of the St. Louis Cardinals baseball team and was president of the American Academy of Dramatic Arts in New York City from 1975 to 1977."
         ], 
-        "height_fem": 4, 
-        "start_y": 310, 
-        "sentences_fem": [
-            "Studied Fish on Sea Floor Born in New York City, she graduated in 1924 from Connecticut College for Women, where she was twice chosen class president, was elected to Phi Beta Kappa and was selected a member of the All-America girls' hockey team.", 
-            "After Jennie Lee was elected to Parliament from Staffordshire in 1945, and Mr. Bevan was re-elected to Parliament in the same elections, they became known as ''Britain's first man-and-wife parliamentary team."
-        ]
+        "height": 116, 
+        "rate": 17, 
+        "start_y": 0, 
+        "id": "mal1"
     }, 
     {
-        "height_mal": 116, 
-        "rate_fem": 4, 
-        "rate_mal": 17, 
-        "heigh_fem": 0, 
-        "id": 2, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "A Boy of Summer He was one of the star players for the Dodger teams recalled in ''The Boys of Summer'' by Roger Kahn and was a member of the only Brooklyn team that won the World Series, in 1955.", 
             "In 1955, he played on the only Brooklyn team that won the World Series.", 
             "'' Devoted Team Player Under that gruff exterior, recalled Mr. Erskine, was a sensitive man with a fierce devotion to his team.", 
@@ -374,25 +815,14 @@
             "Called to Hollywood, the team of Fain and Kahal wrote songs for a number of movie musicals, including ''Footlight Parade'' (1933), ''Dames'' (1934) and ''Sweet Music'' (1935).", 
             "He had apparently just finished his daily workout on a stationary bike and had taken a few steps when he fell to the floor in the team's training room, the Eagles said."
         ], 
-        "height_fem": 20, 
-        "start_y": 294, 
-        "sentences_fem": [
-            "Network executives objected, contending the public would not accept the team of an American redhead and a Cuban bandleader with a heavy accent.", 
-            "Once, during a stage rehearsal, she looked into the auditorium and saw the team of backup singers for ''Il Trovatore.", 
-            "In 1937, they made their debut at Town Hall as a duo piano team.", 
-            "She joined a diabetes practice headed by Elliott P. Joslin, and in 1924 became the youngest member of the team that established the Joslin center.", 
-            "Mrs. Bachner, a graduate of St. Lawrence University, and her husband, Lester, a Manhattan lawyer who died in 1976, were avid tournament bridge players and won the National Mixed Team Championship in 1932."
-        ]
+        "height": 116, 
+        "rate": 17, 
+        "start_y": 0, 
+        "id": "mal2"
     }, 
     {
-        "height_mal": 108, 
-        "rate_fem": 3, 
-        "rate_mal": 16, 
-        "heigh_fem": 0, 
-        "id": 3, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "R. Peter Nyquist, a physicians' assistant and administrator of the AIDS Team at Bronx Municipal Hospital Center, died of complications of AIDS on Jan. 9 at Montefiore Medical Center in the Bronx.", 
             "Before becoming administrator of the AIDS Team three and a half years ago, Mr. Nyquist coordinated AIDS programs at the central office of the New York City Health and Hospitals Corporation.", 
             "In 1985 Dr. Kass led a team of scientists who found that certain fibers contained in some tampons had a powerful ability to absorb magnesium, enhancing production in the body of a bacterial toxin that causes toxic shock syndrome, a rare but sometimes fatal illness.", 
@@ -518,24 +948,14 @@
             "Earlier this year, Clarence Johnson and the design team for the SR-71 received the 1990 National Air and Space Museum trophy for their work on the Blackbird aircraft.", 
             "When he was 39 years old, he gave up his career with the city to team up with the actor Melvyn Douglas to produce \"Call Me Mister,\" a revue about returning World War II veterans that Lewis Nichols of The New York Times called \"one of the cheerful musicals of the year."
         ], 
-        "height_fem": 12, 
-        "start_y": 302, 
-        "sentences_fem": [
-            "They were part of an American squad that finished second in the World Women's Team Championship in Port Chester, N.Y., in 1981.", 
-            "In ''Boy Meets Girl,'' which opened in New York on Nov. 27, 1935, and ran for 669 performances, the Spewacks wrote about a fictional writing team, Benson and Law.", 
-            "I'm the mascot on their softball team.", 
-            "'' The team of Block and Sully was among the last to play the vaudeville circuit at the Loew's Theaters before they ceased to have live shows."
-        ]
+        "height": 108, 
+        "rate": 16, 
+        "start_y": 0, 
+        "id": "mal3"
     }, 
     {
-        "height_mal": 122, 
-        "rate_fem": 4, 
-        "rate_mal": 18, 
-        "heigh_fem": 0, 
-        "id": 4, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "His team had a 6-5 record; Long Beach was 4-8 the previous season.", 
             "Mr. Allen ranks as the winningest coach in team history for both the Rams and the Redskins.", 
             "The late Edward Bennett Williams, who owned the team, said, \"George was given an unlimited budget -- and exceeded it.", 
@@ -667,25 +1087,14 @@
             "Mr. Farber was born in Brooklyn and was captain of the football team at Erasmus Hall High School.", 
             "During 13 major league baseball seasons, Mr. Keltner, who broke in with the Indians in 1937 and ended his career with one season with the Boston Red Sox in 1950, was named to the American League All-Star team seven times."
         ], 
-        "height_fem": 20, 
-        "start_y": 294, 
-        "sentences_fem": [
-            "Performing regularly, sometimes annually, in the United States for 15 years, the team was unsurpassed in critical acclaim, box office success and public adulation.", 
-            "Ms. Perkins works with Penn and Teller, the comic magic team, who bill themselves as \"a couple of eccentric guys who've learned to do a few cool things,\" as a fire-eater.", 
-            "The writing team's first novel, \"Hurry Sundown\" (1965), was an instant commercial success.", 
-            "As a husband-and-wife team, Ms. Rubinstein and Mr. Schickel co-produced several television specials, including \"Minnelli on Minnelli: Liza Remembers Vincente\" for the Public Broadcasting Service and \"Gary Cooper: American Life, American Legend\" for Turner Network Television.", 
-            "Start of a Team Major success began after the 1958 Greenwich Village Circle in the Square production of Edwin Justus Mayer's \"Children of Darkness,\" in which she appeared with another up-and-coming young performer, George C. Scott."
-        ]
+        "height": 122, 
+        "rate": 18, 
+        "start_y": 0, 
+        "id": "mal4"
     }, 
     {
-        "height_mal": 122, 
-        "rate_fem": 14, 
-        "rate_mal": 18, 
-        "heigh_fem": 0, 
-        "id": 5, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             " Anthony J. Pisani, a noted orthopedist who performed surgery on sports players as a team doctor for the Brooklyn Dodgers and the New York Giants, died Friday at his home in Boynton Beach, Fla.", 
             "Broken bones, sprained joints and muscle, ligament and tendon problems kept him busy as the Dodgers team doctor from 1946 to 1951 and as the Giants orthopedic surgeon from 1956 to 1974.", 
             "He attended the University of California at Los Angeles, where as quarterback of the football team in 1932 he was part of a 93-yard touchdown pass play that still stands as a U.C.L.A.", 
@@ -799,38 +1208,14 @@
             "Because there were threats that the team would be sold to outside interests and moved elsewhere, his role in saving the franchise made Mr. Barger a hero in Pittsburgh.", 
             "When the war ended, he enrolled at Yale, where he rowed on the crew and was captain of the squash team."
         ], 
-        "height_fem": 92, 
-        "start_y": 222, 
-        "sentences_fem": [
-            "For a while, however, it appeared that the team would fall into other, less generous, hands.", 
-            "In 1978, the Yawkey estate was on the verge of selling the team to a syndicate formed by Haywood C. Sullivan, a Red Sox executive, and the team's former trainer, Edward G. (Buddy) LeRoux Jr., with Mrs. Yawkey as a limited partner.", 
-            "The arrangement proved stormy almost from the start, with Mr. LeRoux pressing for measures that would earn profits for the partnership and Mrs. Yawkey just as determined to continue operating the team in the grand Yawkey tradition.", 
-            "Like her husband, who saw his team win three pennants but never a World Series championship, Mrs. Yawkey, too, was denied the ultimate goal.", 
-            "She was the youngest member of the Austrian women's team that won the European title in 1935 and 1936 and the world title in 1937.", 
-            "In 1951 she returned to international competition as a member of the British women's team and won another European Women's Championship, a triumph she was to repeat six more times.", 
-            "She won another title at the World Team Olympiad in New York in 1964.", 
-            "Mrs. Markus became the target of controversy when she supported two British players, Terence Reese and Boris Schapiro, who had been found guilty of cheating by the World Bridge Federation in the 1965 World Team Championships in Buenos Aires.", 
-            "Five Doubles Titles She married Leslie Godfree, the captain of England's Wightman Cup Team, in 1926.", 
-            "In recent years, Mrs. Ley directed a team of designers who turned out 1,200 styles each season under the Escada label alone.", 
-            "She was born in Worthington, Minn., was an alternate on the 1928 Olympic diving team and became a champion golfer.", 
-            "Although Miss Green had the same first name, and played the same position on the same team as the character portrayed by Geena Davis in \"A League of Their Own,\" the 1992 movie based on the famous women's league, that was merely a coincidence, according to those familiar with the league and the movie, including Kelly Candaele, whose story was the basis of the movie.", 
-            "After graduation, she played semipro softball for the Olympettes, a women's team that played in Boston Garden.", 
-            "Her service in Africa included work on the Committee for Health in Southern Africa, a physicians' evaluation team in Liberia, the medical college planning committee for Africa University in Zimbabwe and the United Methodist Church medical aid program for Mozambique.", 
-            "They won the Goldman Pairs in 1957, making them the only married couple to win in the 64-year history of the event; they also won the Master Mixed Team Championship in 1965.", 
-            "In her prior teaching post at the University of Washington School of Public Health from 1972 to 1986, she was on the team that developed the Sickness Impact Profile.", 
-            "Linked Cancers to Virus She also studied the relationship between viruses and human cancer cells, leading a team of researchers that succeeded in linking viruses to eight types of human cancer in 1960.", 
-            "In 1945, when the team moved to Indiana and became the Fort Wayne Daisies, Mrs. St. Aubin, a left-handed batter, led the league with a .299 average and in extra-base hits (24), doubles (17) and home runs (3)."
-        ]
+        "height": 122, 
+        "rate": 18, 
+        "start_y": 0, 
+        "id": "mal5"
     }, 
     {
-        "height_mal": 122, 
-        "rate_fem": 8, 
-        "rate_mal": 18, 
-        "heigh_fem": 0, 
-        "id": 6, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "Mr. Kelly left a broader, though less tangible, mark on Central Park as a member of the team responsible for \"Rebuilding Central Park: A Management and Restoration Plan,\" issued in 1985.", 
             "Also on the team were Ms. Rogers, John Berendt, Marianne Cramer, Judith Heintz and Philip N. Winslow.", 
             "\" Mr. Kelly and Mr. Varnell were originally part of a design team for the South Garden at Battery Park City, with the artist Jennifer Bartlett.", 
@@ -949,29 +1334,14 @@
             "In 1924 he was gravely wounded when, as a member of the Columbia College fencing team, he was accidentally stabbed in the chest by an opponent's blade.", 
             "\" Led a Transplant Team He also participated in one of the world's first heart-lung transplants, on Dec. 25, 1969, when he and Dr. C. Walton Lillehei led a team of 12 doctors in transplanting the heart and lungs of a 50-year-old woman into a 43-year-old man suffering from emphysema."
         ], 
-        "height_fem": 48, 
-        "start_y": 266, 
-        "sentences_fem": [
-            " Julia Jones-Pugliese, who took up fencing as a New York University student in 1927 and five years later began a 60-year career as one the nation's premier coaches, died on Saturday after coaching Hunter College's men's team at a meet at St. John's.", 
-            "The first woman to coach a collegiate fencing team, Mrs. Jones-Pugliese led N.Y.U.", 
-            "to national championships in 1933 and 1938 and coached the Hunter team to a national title in 1970.", 
-            "basketball team, she took up fencing and helped found the National Intercollegiate Women's Fencing Association.", 
-            "She had first helped to refine penicillin specifically for the treatment of infections as a member of a research team at the College of Physicians and Surgeons of Columbia University.", 
-            "Mrs. Schenken had an unusual string of successes in national women's team championships, winning in 1958, 1960, 1961, 1964, 1968 and 1969.", 
-            "They became a Times reporting team working in Italy, Mexico and Latin America and she retained her old byline throughout her career with The Times.", 
-            "\" Farr played on the 1984 Curtis Cup team and the 1984 World Amateur team.", 
-            "From 1945 to 1970, she collaborated with her first husband as the freelance writing team of Jhan and June Robbins, whose articles appeared in Readers' Digest, McCall's, Redbook, Good Housekeeping and This Week."
-        ]
+        "height": 122, 
+        "rate": 18, 
+        "start_y": 0, 
+        "id": "mal6"
     }, 
     {
-        "height_mal": 152, 
-        "rate_fem": 14, 
-        "rate_mal": 22, 
-        "heigh_fem": 0, 
-        "id": 7, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             " Fred Snowden, the first black coach of a major college basketball team, died in Washington on Monday.", 
             "He later guided the basketball team to a 89-5 record in five years as coach.", 
             "The appointment made Mr. Snowden the second black coach of a Division I team, after Will Robinson of Illinois State, and the first at a major college.", 
@@ -1094,34 +1464,14 @@
             "Besides real estate, Mr. DeBartolo and his family bought the San Francisco 49ers football team and the Pittsburgh Penguins hockey team.", 
             "As a result of negotiations with bankers, he sold the Pittsburgh Penguins hockey team."
         ], 
-        "height_fem": 92, 
-        "start_y": 222, 
-        "sentences_fem": [
-            "In 1937 she married William A. Shea, a New York lawyer who became a partner in Shea & Gould, founded the Mets baseball team and for whom Shea Stadium is named.", 
-            "Their other team efforts included \"Topkapi,\" a well-regarded 1964 museum-theft caper; \"10:30 P.M. Summer,\" a 1966 story of a descent into alcoholism, and \"Promise at Dawn\" (1970), from a memoir by Romain Gary about his unconventional mother.", 
-            " Fiona Baan, the director of dressage and driving programs for the United States Equestrian Team, died on Sunday at her home in Chester, N.J. She was 55.", 
-            "The cause was cancer, a team spokeswoman said.", 
-            "Mrs. Baan was responsible for training this country's international teams in driving and dressage and coordinated national championships from which the United States Olympic team was selected.", 
-            "Mrs. Baan's job covered all aspects of administering the two disciplines for the United States Equestrian Team, with headquarters in Gladstone, N.J. She managed the teams for the North American Dressage Championships in 1985 and 1989; the 1986 World Dressage Championships, and the 1989 and 1991 Pairs World Driving Championships.", 
-            "She managed the 1989, 1990 and 1991 Olympic dressage teams and served as chef d'equipe, or team manager, for the dressage team at the 1987 Pan American Games.", 
-            "In 1991, she helped organize the Equestrian Team's Festival of Champions, having previously set up dressage championships and selection trials at Gladstone.", 
-            "She hunted with the hounds and successfully competed herself while working for the Equestrian Team.", 
-            "She began with the team in 1966 as a secretary.", 
-            "After narrowly failing to make the 1988 United States Olympic gymnastics team, Ms. Henrich, a hard-driving competitor who was only 4 feet 10 inches tall, placed fourth in the unequal parallel bars event in the 1989 world championships.", 
-            "A Phenomenal Record Of Joint Triumphs When Miss Tandy and Mr. Cronyn first appeared together, in \"The Fourposter\" in 1951, audiences found a husband-and-wife team that would come to succeed Alfred Lunt and Lynn Fontanne as the foremost couple of the American theater.", 
-            "\" At 13, she went out for the high school basketball team and twice made the all-state team.", 
-            "Bulked up to 130 pounds, she made the 1960 Olympic team."
-        ]
+        "height": 152, 
+        "rate": 22, 
+        "start_y": 0, 
+        "id": "mal7"
     }, 
     {
-        "height_mal": 166, 
-        "rate_fem": 12, 
-        "rate_mal": 24, 
-        "heigh_fem": 0, 
-        "id": 8, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "His first client was a small-time dance team, and his first year's gross was $383.", 
             "He was a limited partner in the Boston Red Sox, rarely missing a home game and occasionally traveling with the team.", 
             "Mr. Nail reached his peak as a bridge player in 1962 and 1963, when he represented the United States in two world team championships, finishing second twice to the great Italian Blue Team.", 
@@ -1291,34 +1641,14 @@
             "The victory meant even more when he learned that before the tournament, Mr. Olin had bet $10,000 on his own team and was splitting his winnings with Mr. Palmer, who never forgot the source of the windfall.", 
             "A world-class polo player, in the winters he played goalie at night for the St. Nick's semiprofessional hockey team in New York."
         ], 
-        "height_fem": 78, 
-        "start_y": 236, 
-        "sentences_fem": [
-            "Reached yesterday at the University of Nevada in Reno, where he and his wife had worked as a team, her husband said the cause of death was a central nervous infection.", 
-            "She married Dr. Scharrer in 1934, and they remained a team at Einstein until his accidental drowning in 1965.", 
-            "\" As part of the writing team for the soap opera \"All My Children,\" she won Emmy Awards in 1985 and 1988.", 
-            "She also had her differences with the Masters-Johnson team, questioning their advocacy and use of two therapists working together because, she felt, one therapist of either sex would suffice.", 
-            "In her youth, Miss Chadwick was a downhill ski racer on the United States A team.", 
-            " Lee Hadley, an Iowa State English professor who helped turn a collaborative pedagogical sendup into an acclaimed literary career as half of a writing team known to young readers as Hadley Irwin, died on Tuesday at her home in Madrid, Iowa.", 
-            "But that would have made her a mere 14 in 1914, when as a Chicago debutante she scandalized North Shore society by dropping out of Madame Young's finishing school to form a dance team with Carl Hyson, a wealthy young man who later became her husband.", 
-            "Calvin Griffith became president of the franchise after Clark Griffith died and moved the team to Minnesota in 1961.", 
-            "Mrs. Haynes served as an executive vice president and assistant treasurer and each owned 26 percent of the team before it was sold to Carl Pohlad in 1985.", 
-            "A native of Cleveland, Miss Wade was a star on the Delta State team there in the late 1920's before barnstorming with a semipro team known as the Tupelo Red Wings.", 
-            "In 21 years at Cleveland High School, she led the team to a 453-89-6 record.", 
-            "The experience started them in their career as a husband-and-wife team examining sexual bias in schools through research based on transcripts of classroom interactions, textbooks, surveys and polls.", 
-            "In 1972, she was a member of the American team that finished third in the World Team Olympiad.", 
-            "Her 14 second-place results included all three major national team championships, the Spingold Knockout in 1944, the Board-a-Match in 1953 and the Vanderbilt Knockout in 1954."
-        ]
+        "height": 166, 
+        "rate": 24, 
+        "start_y": 0, 
+        "id": "mal8"
     }, 
     {
-        "height_mal": 188, 
-        "rate_fem": 8, 
-        "rate_mal": 27, 
-        "heigh_fem": 0, 
-        "id": 9, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "He began his career on the team laying out Disneyland  in Anaheim, Calif., and opened his own firm in 1960.", 
             "At the University of Alabama, where he was an  honor student on an academic scholarship, he was a 185-pound guard on the football team from 1928 to 1930.", 
             " Dr. John J. Wasmuth, a biochemist and leader of a team of molecular researchers who tracked down genes responsible for inherited diseases like dwarfism and Huntington's disease, died on Friday at Mission Hospital Regional Medical Center in Mission Viejo, Calif.", 
@@ -1527,32 +1857,14 @@
             "As a member of the Voyager team, Dr. Sagan conceived the idea of putting a message aboard the Voyager spacecraft on the chance that extraterrestrial beings will come upon it centuries from now, somewhere on its endless journey beyond the solar system.", 
             "He also carried out extensive research relating to the origin of life, and was a member of a team that raised the specter that dust and smoke thrown up by explosions and fires in a nuclear war could lead to a devastating cooling of the atmosphere, or ''nuclear winter."
         ], 
-        "height_fem": 48, 
-        "start_y": 266, 
-        "sentences_fem": [
-            "They won the National Women's Pair Championship in Phoenix in March, and, with others, the National Women's Knockout Team Championship in Atlanta in August.", 
-            "She said she was apparently kept on the job because of her citywide reputation as a terror on the women's softball team.", 
-            "The Butlers were a popular ballroom dance team for many years, performing in  Manhattan at the Ritz-Carlton, the Plaza and other hotels, as well as in Europe.", 
-            "Her father, Frederick C. Miller, who had been captain of Notre Dame's 1928 football team, was the company chairman.", 
-            "Mrs. Baron was a member of the United States Women's Team that took third place in the 1968 world championships in Deauville, France, and she competed in the World Women's Pairs Championship in 1978 and 1982.", 
-            "The Hymans first oversaw the attendance of disabled veterans at Giants games at the Polo Grounds, then followed the team's migration to Yankee Stadium in 1956, then Giants Stadium in 1976.", 
-            " Toni Stone, a scrappy second baseman who became a footnote to baseball history in 1953 as a member of the Negro League's Indianapolis Clowns when she became the first woman to play as a regular on a big-league professional team, died on Nov. 2 at a nursing home in Alameda, Calif. She was 75 and had lived in Oakland, Calif., for many years.", 
-            "She began playing on the sandlots of St. Paul, becoming so proficient that Gabby Street, a former major league catcher and St. Louis Cardinals manager who was managing a minor league team in St. Paul, bought her a pair of spikes and let her attend his baseball camp.", 
-            "After she and Dr. Robbins were married in 1975, the couple worked as a team.", 
-            "As leader of the debating team, Ms. Jordan, known as B. J. to her friends, later proudly recalled maneuvering the Harvard team to a draw.", 
-            "\"When an all-black team ties Harvard, it wins,\" she said.", 
-            "The next year, she was selected for the United States Curtis Cup team."
-        ]
+        "height": 188, 
+        "rate": 27, 
+        "start_y": 0, 
+        "id": "mal9"
     }, 
     {
-        "height_mal": 160, 
-        "rate_fem": 14, 
-        "rate_mal": 23, 
-        "heigh_fem": 0, 
-        "id": 10, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             " Richard A. R. Pinkham, a retired New York advertising executive who was a member of the team that helped the National Broadcasting Company enter the era of network television, died last Sunday at Jupiter Medical Center in Jupiter, Fla.", 
             "Mr. Kilpatrick, who had a string of exploits as an underwater demolition team officer in World War II and the Korean War, had dreamed of continuing his Navy career.", 
             "But he could not resist recounting how as a pitcher and the captain of the University of Richmond baseball team in 1948 he had struck out the captain of the Yale University team, George Bush.", 
@@ -1743,41 +2055,14 @@
             "He sold the team the next season and in later years promoted college basketball in Rochester.", 
             "'' But he also played a Japanese sailor stranded on a tropical island with an American sailor, Lee Marvin, in John Boorman's ''Hell in the Pacific'' (1968); an industrialist sponsoring a racing team in John Frankheimer's ''Grand Prix'' (1966), and a bumbling submarine commander in Steven Spielberg's ''1941'' (1979)."
         ], 
-        "height_fem": 92, 
-        "start_y": 222, 
-        "sentences_fem": [
-            "Dr. Wu joined forces with a research team at the National Bureau of Standards in Washington, which had one of the few laboratories in the country that could chill materials to extremely low temperatures.", 
-            "Ms. Cohan, who was the broadcast creative director at the agency, had ultimate responsibility for the production of its television and radio commercials, working with the creative director and creative team.", 
-            "An accomplished athlete who founded Switzerland's first women's field hockey club and was a member of the Swiss sailing team in the 1924 Olympics, Ms. Maillart was initially drawn to the sea.", 
-            "Instead, after a brief film career in Berlin in 1930, she went to Moscow, then walked across the Caucasus Mountains, tried to put together a women's field hockey team in Russia and rowed for a team called the Alimentation Workers' Eight.", 
-            "Mrs. Clark was also widely known for directing many of the surveys that defined American public opinion during a time of great social and political turmoil in the 1970's, and she was part of the team that introduced exit polls into American politics and journalism.", 
-            "In 1964, she was part of the Harris team that conducted an exit poll for CBS News in the tightly contested California Republican primary between Nelson A. Rockefeller and Barry Goldwater.", 
-            "'' But the official results proved the Harris team right.", 
-            "But, she liked to recall, the nuns, in a gesture of sublime sportsmanship and Christian compassion for the team's hapless junior college opponents, told her that if she hit a ninth one out of the park, they would excommunicate her on the spot.", 
-            "After all, while Roller Derby's women did not skate with or against men, they were an integral part of the team, taking to the track for two of the four 12-minute quarters and skating under the same no-holds-barred rules that applied to their male teammates.", 
-            "She was a mainstay for the United States Wightman Cup team from 1927-39.", 
-            "In the days before pretaped shows, she was part of a six-member production team that brought a script from rehearsal through live production in about a month, said Mildred Schaefer, whose husband, George, headed Compass Productions.", 
-            "A native of Waco whose restless father kept the family on the move, including three years homesteading in the New Mexico Territory, she was 13 when she hitched up a four-horse team, gathered the reins and led a Conestoga convoy that took her family to the dusty little town of Alpine in the Big Bend region of southwestern Texas.", 
-            "Mrs. Henson was also the lead plaintiff in a class action suit against the Japanese Government seeking damages for forced prostitution, and shortly before she died she was interviewed by a team of lawyers visiting from Tokyo.", 
-            "She was affiliated for many years with the Chest Service at Bellevue Hospital, where she headed a research team that tested new drugs for tuberculosis.", 
-            "But her team of clinical social workers arranged for Owen and his mother to stay with Owen's grandmother, preserving Owen's caretaking environment and family connection, she said.", 
-            "During World War II, she worked on a research team that produced a vaccine for cholera, and in 1945 and 1946 she was a research assistant on the Manhattan Project, which developed the atomic bomb.", 
-            "6 player on the Surrey county team, but had had only one lesson from a professional.", 
-            "In Brooklyn, where a fictional cat named Rhubarb once inherited a baseball team named the Loons, Miss Katzenbogen's expensive eccentricities on behalf of cats might have been shrugged off, but not on Laurel Canyon Boulevard.", 
-            "'' Ms. Steel produced several movies in recent years, among them ''Cool Runnings,'' a highly successful comedy about a Jamaican bobsled team.", 
-            "Dr. Holley gave some of the prize money to Dr. Keller and others on his research team at Cornell.", 
-            "She represented the United States in 1996 at the Blenheim Castle three-day event in England; also that year she won the fall national championship three-day event of the United States equestrian team at Fair Hill."
-        ]
+        "height": 160, 
+        "rate": 23, 
+        "start_y": 0, 
+        "id": "mal10"
     }, 
     {
-        "height_mal": 218, 
-        "rate_fem": 10, 
-        "rate_mal": 31, 
-        "heigh_fem": 0, 
-        "id": 11, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "In 1978 he married the former Kathleen Sullivan, an unsuccessful Senate candidate in Massachusetts and a daughter of William H. Sullivan Jr., the then owner of the New England Patriots football team and one of Mr. Alioto's clients.", 
             "Mr. Bono almost prided himself on never being taken, or taking himself, very seriously -- either in his successful entertainment career, as part of the team Sonny and Cher, in the 1960's and 70's, or in his recent political career.", 
             "The team -- she was a long-haired beauty; he was short, nasal and bumbling -- made several modestly successful recordings (''Baby, Don't Go,'' ''Just You'') before creating a giant hit in June 1965 with ''I Got You, Babe,'' which Sonny had written as an expression of their feelings for each other.", 
@@ -2039,36 +2324,14 @@
             "Later he became part of the scientific team that was sent to Tinian in the western Pacific to put together the two nuclear bombs that were dropped on Japan.", 
             "'' The call for aid came from a 12-man Special Forces team -- 3 Green Berets and 9 Montagnard tribesmen -- that had been ambushed by North Vietnamese troops at a jungle site a few miles inside Cambodia."
         ], 
-        "height_fem": 64, 
-        "start_y": 250, 
-        "sentences_fem": [
-            "At Citicorp, as senior officer for corporate affairs and a member of the company's senior management team, Mrs. Meyer was widely credited with restoring the reputation of the banking company after it had gone through a financial crisis.", 
-            "As a team in meditation and activism, the couple helped renovate dilapidated buildings to house the homeless.", 
-            " Eleanor C. Lambertsen, a leader in American nursing education who introduced the concept of team nursing for better patient care, died on March 30 at Waverly Heights, a nursing home in Gladwyne, Pa. She was 82 and a former resident of the Upper East Side of Manhattan.", 
-            "The idea of team nursing sprang from her doctoral dissertation, and in the decades afterward, the concept made her a mentor and teacher to generations of health professionals around the world.", 
-            "''The purpose of team nursing,'' Dr. Lambertsen wrote in her dissertation, ''is to blend different kinds of nurses into the working unit whose core is the patient and his individual nursing needs.", 
-            "Her dissertation spelled out her idea of team nursing, and it was published as a book by Teachers College Press under the title ''Nursing Team Organization and Functioning.", 
-            "The demonstration attracted administrators from across the country who sought to reorganize their nursing staffs according to Dr. Lambertsen's team concept.", 
-            "The American Nurses Association honored Dr. Lambertsen in 1984 for originating the concept of team nursing.", 
-            "She was 82, and with Lee Hadley had formed the writing team known as Hadley Irwin.", 
-            "''I think she established herself in sport like Babe Ruth,'' said Terry Crawford, who coached the American women's track and field team at the 1988 Summer Games.", 
-            "A team of designers that reported to her will continue to design the line.", 
-            "Ms. Long and Mr. Daniell became a prominent husband-wife journalistic team, covering the Nuremberg trials and postwar Germany.", 
-            "She also helped lead a team of the paper's reporters who  covered the 1993 bombing of the World Trade Center.", 
-            "She and her husband were a team.", 
-            "Beginning in 1937, and through World War II, they lived in London, and Mr. Murrow  went on to direct CBS's World War II reporting team and to win fame for his reporting about the war.", 
-            "She also served on a British-American crisis team that worked to enhance relations between British civilians and American military personnel stationed in Britain."
-        ]
+        "height": 218, 
+        "rate": 31, 
+        "start_y": 0, 
+        "id": "mal11"
     }, 
     {
-        "height_mal": 234, 
-        "rate_fem": 16, 
-        "rate_mal": 33, 
-        "heigh_fem": 0, 
-        "id": 12, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "A native of Goshen, Ind., he attended the University of Michigan on a basketball scholarship but became captain of the track team and a noted middle-distance runner.", 
             "In 1952, Dr. Zoll and a team of other doctors in Boston applied electric charges externally to the chest to resuscitate two patients whose hearts had stopped.", 
             "His vision of a firm that would give comparatively small investors the benefits of professional money management was so novel, his brother recalled yesterday, that the Harvard Business School sent a team of student researchers to study the operation.", 
@@ -2337,41 +2600,14 @@
             "Then came the Nike team of Bowerman and Phil Knight, a former runner whom Bowerman had coached at Oregon.", 
             "Bowerman coached the United States men's track team at the 1972 Olympics in Munich at which Israeli athletes and coaches were massacred by Palestinian terrorists."
         ], 
-        "height_fem": 108, 
-        "start_y": 206, 
-        "sentences_fem": [
-            "They were married in the mid-1940's and became a team in their Holocaust pursuits when he started representing the victims, especially children, before the courts and found that many of them had only vague memories of their ordeals.", 
-            "The couple, who eventually married, became an artistic team, he handling the plaster and she the painting for frescoes all over the country, including her most acclaimed work, ''The Evolution of Music,'' at George Washington High School in upper Manhattan.", 
-            "It was by shining precisely tuned lasers on such a condensate, or cloud, of ultra-cold sodium atoms that Dr. Hau and her team reduced the speed of a light beam to a pace slower than her bicycle.", 
-            "A table covered with a labyrinth of little mirrors guides a network of beams requiring perfect adjustment, and Dr. Hau and her team work long and tedious hours, sometimes around the clock.", 
-            "Other major 60's hits included ''Wishin' and Hopin' '' (1964), and ''The Look of Love'' (1967), both written by Burt Bacharach and Hal David, the team that supplied Ms. Warwick with most of her early hits.", 
-            "To make the album, the Atlantic producing team of Jerry Wexler, Tom Dowd and Arif Mardin, who had brought Ms. Franklin to her peak of popularity, took Ms. Springfield to Memphis to record with a hot rhythm section.", 
-            "'' For many years, she went back and forth between dance forms, touring with the Fokine Ballet, forming a ballroom dance team with Tony de Marco, appearing in pioneering television productions in 1931 and 1939 and serving as ballerina of the Roxy Theater.", 
-            "In her third meet, the United States final trials in Newark, she finished second and made the Olympic team.", 
-            "'' Rosenfeld and her Canadian teammates later defeated Robinson and the American team in the 4x100-meter relay, with the United States team taking the silver.", 
-            "Still, she made the Olympic relay team, along with Harriet Bland, Annette Rogers and Helen Stephens.", 
-            "This time in Berlin, the American team -- with Robinson running the third leg -- captured the gold when a member of the record-setting German team fumbled the baton pass before the last handoff.", 
-            "She sat on the Governor's Council on AIDS, the Task Force on Child Abuse and Neglect and the New Jersey Court Team on Domestic Violence.", 
-            "Sonny Werblin later became an officer of Monmouth Park race track and president of the New York Jets football team, built the Meadowlands Sports Complex and was chairman of Madison Square Garden.", 
-            "Although Austrian officials were uncomfortable about choosing Jews for their Olympic team, she, Judith Deutsch and Lucie Goldner, all Jews, were about to be selected.", 
-            " Kim Perrot, the tiny floor leader of the Houston Comets team that has won the first two Women's National Basketball Association championships, died here today.", 
-            "But the success of college women's basketball, coupled with the Olympic championship team at the 1996 Atlanta Games, put women's basketball on the American sports map.", 
-            "'s first season, Perrot was in charge of the league's best team.", 
-            "When they did their ''Meat'' show, for example, they cooked for a girls' lacrosse team in the kitchen of a boarding school.", 
-            "Her death was reported at Dhaulagiri base camp by her husband, Gary Scott Pfisterer, the American leader of the team.", 
-            "'' In 1971, when Princeton University first admitted women, Kraft became the women's varsity tennis coach, leading the team to an undefeated record for the three years of her tenure.", 
-            "After working as a public defender and teaching a seminar in criminal defense at Stanford University's law school, Ms. Bird became a volunteer in Mr. Brown's 1974 campaign for governor, serving as his frequent chauffeur on his trips to her area and later as a trusted adviser on his transition team."
-        ]
+        "height": 234, 
+        "rate": 33, 
+        "start_y": 0, 
+        "id": "mal12"
     }, 
     {
-        "height_mal": 204, 
-        "rate_fem": 16, 
-        "rate_mal": 29, 
-        "heigh_fem": 0, 
-        "id": 13, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "In 1975, Mr. Gaherin was involved in talks over baseball's reserve clause, which kept players tied to one team unless they were traded or sold.", 
             "As a rookie, he pitched for a team that featured the likes of Marvelous Marv Throneberry, Choo Choo Coleman and Hot Rod Kanehl, and that lost 111 games.", 
             "'' Bearnarth grew up on Staten Island and pitched three years for St. John's, playing on the team that went to the College World Series in 1960.", 
@@ -2604,42 +2840,14 @@
             "Jackson remembered a moment near the end of the football team's 35-0 loss to Vanderbilt at Yale Bowl in 1948.", 
             "In 1956 he was named the official artist for the United States Equestrian Team, based in Gladstone, N.J., whose activities include training horses and riders to compete in the Olympics."
         ], 
-        "height_fem": 108, 
-        "start_y": 206, 
-        "sentences_fem": [
-            "There she became a member of a team assembled by Ernst May, who was Frankfurt's architect and overseer of city planning in the late 1920's.", 
-            "''I knew Wilma was nervous because she was only 16, and I knew how nervous I was at 16 trying to make the Olympic team,'' Faggs remembered.", 
-            " Sandra Schmirler, the star of the first women's curling team to win an Olympic gold medal and one of Canada's most popular athletes, died Thursday in Regina, Saskatchewan.", 
-            "After graduating from the University of Regina, Schmirler was asked to join a local team.", 
-            "Schmirler was six months pregnant when she won the world title in 1996 and was on maternity leave from her job with a recreation center when the team went to the 1998 Winter Games in Nagano, Japan.", 
-            "''When you have success and you're having fun, it just snowballs and gets bigger and bigger,'' Schmirler said of the team's success.", 
-            "'' Schmirler's team was voted the Canadian Press team of the year for 1998, and she was inducted into the Canadian Curling Hall of Fame last March.", 
-            "By the age of 6, Ms. Trent was the host of her own radio show on WHN, ''Baby Sybil Elaine and Her Kiddie Revue,'' on which she would conjure  imitations of Joe Penner and the Block and Sully comedy team before closing with a sweetly sung ''Thank You for a Lovely Evening.", 
-            "But that was only a small part of the legacy of the team known as ''Mac and Elsie.", 
-            "Her movie appearances included ''The Hospital''; two films with the team of Merchant Ivory, ''The Bostonians'' and ''Jefferson in Paris'';  and the remake of ''Sabrina,'' in which she played Harrison Ford's mother.", 
-            "In 1901, her father, John Stephen Dooley, helped the new Red Sox team get a home at the Huntington Avenue Grounds.", 
-            "At 18, she was a platform diver on the first United States women's swimming team in the Olympics.", 
-            "She was an official of United States Olympians, held the starter's gun for women's swimming in the Olympic trials during the 1920's and 1930's, helped choose team uniforms and raised money for the United States squads.", 
-            "Reilly first gained a degree of prominence as a member of the Raybestos Brakettes fast-pitch softball team in the 1950's and 60's.", 
-            "The team won scores of national and world championships, and its members encouraged Reilly to attend college, pointing her on a career that made her a well-known coach and athletic administrator.", 
-            "''Brenda joined the Brakettes at 18 right out of high school and worked at the Raybestos factory in Stratford for a number of years while playing for the team from 1956 until 1965,'' said Mickey Macchietto Stratton, one of her teammates.", 
-            "''By the time Brenda was a senior member of the women's basketball team, she was 30 and three years older than the coach,'' Pullek said.", 
-            " Mary K. Wells, who acted in films, theater, television and radio and was part of a writing team that won two daytime Emmy Awards, died on Monday.", 
-            "Her parents, Jack and Josephine Peck formed a song and dance team in vaudeville and radio.", 
-            "Among the other artists whose work Ms. Austin produced were Stanley Silverman, Anne Bogart, David Del Tredici, Eve Ensler, John Kelly, Elizabeth Swados, Richard Peaslee, Bill Irwin and the team of Cornelius Eady and Deidre Murray, the authors of the musical ''Running Man,'' one of her recent projects.", 
-            "Mrs. Leighton-Porter settled into family life in Bermuda and in England, turning to more staid endeavors like sponsoring teas for a cricket team in Horsham.", 
-            "Mr. Kanzler, who died in 1967 and was an uncle by marriage of Henry Ford, was associated with the Ford company and was a director of the Detroit Lions football team."
-        ]
+        "height": 204, 
+        "rate": 29, 
+        "start_y": 0, 
+        "id": "mal13"
     }, 
     {
-        "height_mal": 234, 
-        "rate_fem": 11, 
-        "rate_mal": 33, 
-        "heigh_fem": 0, 
-        "id": 14, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "He was also on the nation's fastest quarter-mile sprint relay team in college and was a competitive runner for most of his life.", 
             "'' At Warner Brothers, where the Epstein twins worked as a team for more than a decade, they were constantly being asked to add zip and sparkle to other writers' scripts.", 
             "In 1929, Julius was intercollegiate bantamweight boxing champion and captain of the Penn State boxing team, which won the national championship.", 
@@ -2872,36 +3080,14 @@
             "He holds team records for career sacks, with 113, and single-season sacks, with 20, achieved in 1977, when he was the N.F.L.", 
             "At right end, Martin was part of a fearsome defensive line that included Randy White at right tackle and Ed (Too Tall) Jones at left end when the glamorous Cowboys were known as America's Team."
         ], 
-        "height_fem": 70, 
-        "start_y": 244, 
-        "sentences_fem": [
-            "The reason they failed became apparent when Dr. Horstmann's team detected the polio virus in the blood of infected monkeys and chimpanzees before signs of paralysis appeared.", 
-            "'' ''What to Expect When You're Expecting,'' the team's first book in a best-selling series on what to expect from pregnancy, babies and toddlers, was released by the Workman Publishing Company in 1984.", 
-            "On her 100th birthday she was presented with a team jersey bearing the number 100.", 
-            "It was produced by an interdisciplinary team at Massachusetts Institute of Technology and financed by the Club of Rome, an international research organization that studies ''the complex of problems troubling men of all nations,'' like poverty, alienated youth and monetary disruptions.", 
-            "As a teenager working as a ticket taker, Ms. Rutherford met Sam Russell, a star of the black theater with the comedy team Bilo and Ashes.", 
-            "They made a formidable team, propelling The Post into one of its most dynamic periods.", 
-            "The daughter of a husband-and-wife vaudeville team, Ms. Freeman was literally born into show business, growing up on the song-and-dance circuit.", 
-            "In her junior year, the high school ski coach asked her to join the team.", 
-            "She rejoined the national disabled team and persuaded potential corporate sponsors to support the team as they would any other.", 
-            "She provided drill teams for 10 Super Bowls, 4 Rose Bowls and 7 Pro Bowls, and at the 1984 Los Angeles Olympics, she put 1,268 drill team members through their lively paces.", 
-            "Two years later, at the rededication of the Statue of Liberty, she fielded a team almost that large, including all-stars from every state.", 
-            "David Wolper, who produced the Olympic and Statue of Liberty shows, said: ''Kay recruited, trained and prepared thousands of young drill team girls for the events, and when Kay trained them, they were perfect.", 
-            "'' She took her drill team idea to El Centro High School in El Centro, Calif., and from there to San Diego High School and Santa Monica High School.", 
-            "She opened a drill team summer camp, started an international competition for drill teams, founded and edited a magazine on the subject of drill teams, and wrote what some consider the definitive textbook on the subject.", 
-            "She had been heartily campaigning to make drill team competitions an Olympic sport.       ", 
-            "The Eniac programming team broke up, but Mrs. Holberton was the one of the six who stayed longest in the field."
-        ]
+        "height": 234, 
+        "rate": 33, 
+        "start_y": 0, 
+        "id": "mal14"
     }, 
     {
-        "height_mal": 234, 
-        "rate_fem": 12, 
-        "rate_mal": 33, 
-        "heigh_fem": 0, 
-        "id": 15, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "He was an outfielder-infielder on the 1954 Indians team that won the American League with what was then a record 111 victories, and he led the league in runs scored in 1955, with 123.", 
             "A native of Zanesville, Ohio, the 6-foot-4 Taylor played on the Ohio State team that won the Big Ten championship in 1950, and he was also a baseball all-American.", 
             "Taylor was an adept recruiter and stressed smart team play.", 
@@ -3137,39 +3323,14 @@
             "We were a very popular team.", 
             "His account, published in The Chicago Daily News in December 1942, described the surgical team as ''a little group of anxious-faced men with their arms thrust into reversed white pajama coats."
         ], 
-        "height_fem": 78, 
-        "start_y": 236, 
-        "sentences_fem": [
-            "Two years later, she was part of a team of physicians at Hopkins that performed the first ''blue baby'' operation, a surgical procedure that corrected a congenital heart abnormality that robs the blood of oxygen.", 
-            "The film's success led the team to make ''Joe Leahy's Neighbors'' (1989), about the political and cultural struggles of a mixed-race coffee planter, and ''Black Harvest'' (1992), about land and money disputes and their escalation into tribal warfare.", 
-            "The films established the team's international reputation, with each one winning a major prize at the Cin\u00e9ma du R\u00e9el festival, which honors documentaries.", 
-            "She and her husband were Life magazine's first photographer-reporter team to cover the war.", 
-            "She played an important role in the small team that  shaped Mrs. Reagan's trademark ''just say no'' to drugs campaign.", 
-            "'' In high school, she played softball for a girls' team called the Dr Peppers, sponsored by the soft-drink company.", 
-            "Her team was beaten in the real game, the final of the 1946 championship series of the All-American Girls Professional Baseball League, despite getting 13 hits.", 
-            "She excelled in track and field at Lincoln High School, and after graduation played amateur softball with a team called the Americanettes.", 
-            "She coached the Linden, N.J., Arians, a team in the Eastern Major Girls Softball League.", 
-            "'' Ms. Lutyens had a costume shop in New York, where she helped create costumes for several Ballet Theater productions, among them Antony Tudor's ''Dim Luster'' and Jerome Robbins's ''Fancy Free,'' working with Motley, the British design team, and designers who included Kermit Love and Miles White.", 
-            "'' The daughter of a tennis instructor and a native of Ventura, Calif., she played on the men's tennis team at the University of Southern California because there was no women's squad.", 
-            "In 1951, she teamed with Todd in doubles at the nationals, losing in the final to Fry and Hart, and she played doubles on the 1951 Wightman Cup team that defeated Britain, 6-1.", 
-            "The Perkins Center used psychoanalytic ideas to help children deal with emotional problems and incorporated the idea of team treatment, which helped parents understand children's actions.", 
-            "The 11 a.m. entry: ''Went in to get dinner, as I've got menfolk working hard, hauling loads and loads of manure with the manure spreader that is driven by a team of horses.", 
-            "In 1974, in one of the many articles she wrote on her career, she said: ''My most unforgettable experience would have to be as the youngest member of the first American women's Olympic swimming and diving team in 1920.", 
-            "On her doctor's recommendation that she swim for her health, she joined the celebrated Women's Swimming Association team in New York.", 
-            "But because Riggin and Wainwright had also made the Olympic team as swimmers, they went.", 
-            "''When I won my first trophy and it was as big as me, I knew I wanted to someday make the Olympic team.", 
-            "Gallagher attended the University of Arizona for a semester and a half, training with the men's cross-country team."
-        ]
+        "height": 234, 
+        "rate": 33, 
+        "start_y": 0, 
+        "id": "mal15"
     }, 
     {
-        "height_mal": 188, 
-        "rate_fem": 13, 
-        "rate_mal": 27, 
-        "heigh_fem": 0, 
-        "id": 16, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "After watching a Marine aerial team perform acrobatics in open-cockpit biplanes, he was convinced that the aviator's life was for him.", 
             "In his last column, which ran last Saturday, he called Larry Lucchino, the president of the Boston Red Sox, ''the invisible director'' of the team for living in La Jolla, Calif. Mr. Lucchino told Mr. McDonough to stick to football.       ", 
             "He graduated in 1927 from the Groton School and in 1931 from Harvard, where he was considered too wiry to be a member of the football team.", 
@@ -3331,36 +3492,14 @@
             "Keiser played on the United States' 1947 Ryder Cup team, which defeated Britain, 11-1, in Portland, Ore., but he lost to Sam King for the only American defeat, and he never won another major.", 
             "A bare-bones Web site stated that ''The team at Artemis is committed to studying the results of sleep deprivation, poor diet and no social life for extended periods of time on humans and dwarf rabbits."
         ], 
-        "height_fem": 86, 
-        "start_y": 228, 
-        "sentences_fem": [
-            "The Kerrs made their debut as a team on Broadway in 1946 with ''Song of Bernadette,'' a dramatization of Franz Werfel's novel about a young Frenchwoman who was canonized after saying she had seen visions of the Virgin Mary in a grotto near Lourdes.", 
-            "She met Mr. Griffiths, a fellow student, at the University of Missouri, where both were on the debating team.", 
-            "Caryll G. Rice II, the secretary of the Marine team she coached in the mid-1990's, recalled her enthusiasm.", 
-            "Late in 1972, when her team played in Florida against a squad from the East Coast, the emotions were overwhelming.", 
-            "Mrs. Rosenfield took credit for casting a virtually unknown Robert De Niro as the doomed catcher, and Mr. Rosenfield, a Chicago corporate lawyer, appeared as a team owner.", 
-            " Diane Geppi-Aikens, who coached the Loyola of Maryland women's lacrosse team to a No.", 
-            "'' Geppi-Aikens persevered in the hopes of seeing her son, Michael, graduate from high school and having her team make it to the N.C.A.A.", 
-            "On May 31, two weeks after her team went to the tournament semifinals, she attended Michael's graduation in Towson, Md.", 
-            "''Having Diane in our lives, she taught us that winning and losing a lacrosse game isn't anything,'' Suzanne Eyler, a senior and the team's top scorer, told The Baltimore Sun afterward.", 
-            " Martha Chase, who was half of a scientific team that in 1952 used a kitchen blender to help prove that DNA is the molecule that carries genetic information, died on Aug. 8 in Lorain, Ohio, a suburb of Cleveland.", 
-            "At one, Thomas Jefferson High, she founded a drill team called the Lassos, which is still in existence.", 
-            "Gibson did team with Angela Buxton to win the Wimbledon doubles in 1956.", 
-            "Still, she made extraordinary use of the 170-member team of cameramen and technicians that she assembled.", 
-            "The truth was that Ms. Cross was the child of an affair Mrs. Storch had had with Jimmy Cross, a black song-and-dance man who was Stump in the well-known performing team Stump and Stumpy.", 
-            "In 1924, she was a member of the United States team that competed in the Olympics in Paris.", 
-            "The group, the team argued, subjected Ms. Hearst to intensely stressful conditions, like isolating her from family and friends and locking her in a closet for six weeks, allowing its members to indoctrinate her and force a bizarre behavioral transformation."
-        ]
+        "height": 188, 
+        "rate": 27, 
+        "start_y": 0, 
+        "id": "mal16"
     }, 
     {
-        "height_mal": 182, 
-        "rate_fem": 21, 
-        "rate_mal": 26, 
-        "heigh_fem": 0, 
-        "id": 17, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "'' McGraw pitched for the Mets team that shocked the baseball world by winning the 1969 World Series.", 
             "His 1981 Phillies team reached the postseason in a strike-shortened schedule.", 
             "'' Whelan was the team's ''medicine guy and psychologist,'' Reed said.", 
@@ -3512,45 +3651,14 @@
             "'s 75th anniversary team in 1994 at defensive end, along with Gino Marchetti and Deacon Jones.", 
             "''That's what changed the football fortunes of this franchise; it was huge,'' Bob Harlan, the Packers' president, said yesterday on the team's Web site regarding White's arrival in Green Bay."
         ], 
-        "height_fem": 144, 
-        "start_y": 170, 
-        "sentences_fem": [
-            "But when the ship docked at Hamburg, Germany, she was no longer a member of the Olympic team.", 
-            "Did you make the Olympic team or did I?", 
-            "So she went to Brundage and complained that I was setting a bad example for the team, and they got together and told me the next morning that I was fired.", 
-            "'' According to ''The Complete Book of the Summer Olympics,'' by David Wallechinsky, the Olympic team doctor had reported that she was suffering from acute alcoholism, but Holm denied it.", 
-            "Holm maintained that many of her fellow athletes had also been drinking on the voyage because there was no ban on alcohol, and some 200 team members petitioned Brundage to reverse the ban.", 
-            "When she took control of the Reds, Mrs. Schott, a socially prominent widow and heir to an industrial fortune, was the only female owner in the major leagues who had bought a team in her own right.", 
-            "She maintained that in purchasing the team, she might have prevented its move out of Cincinnati.", 
-            "In October 1999, Mrs. Schott turned over control of the team to a group headed by Carl Lindner, one of the limited partners, in a $67 million deal.", 
-            "Mrs. Schott promoted the team at functions, and she loved to take part in the Wave from her box seat at Riverfront Stadium.", 
-            "'' She compounded that gaffe with her sympathy offering to the umpiring crew; according to published reports, it was a recycled bouquet given to her by the team's television affiliate.", 
-            "She turned over day-to-day affairs to John Allen, the team's controller.", 
-            "In 1978 she was invited by the Miami Dolphins football team to direct the team's cheerleaders.", 
-            "Peter Kennedy attributed much of the team's success to his father having taught them perseverance.", 
-            "The daughter of Charles Shipman Payson, an industrialist, and Joan Whitney Payson, founder of the New York Mets baseball team, she grew up in Manhasset, N.Y., where she founded the Manhasset Stable for thoroughbred racing, which she later moved to Delaplane.", 
-            " Rose Gacioch, an outstanding outfielder and pitcher in the heyday of women's professional baseball who became a mainstay of the Rockford Peaches team later featured in the movie ''A League of Their Own,'' died last Thursday at a nursing home in Clinton Township, Mich. She was 89.", 
-            "At 16, she was the only girl on a town baseball team called the Little Cardinals.", 
-            "While still in her teens, she played one season for the All Star Ranger Girls, a barnstorming women's team.", 
-            "In 1950, a team led by Karl Lehmann unearthed the missing right hand of the Louvre's Winged Victory.", 
-            "The team also found the tip of the ring finger nearby.", 
-            "Examining the fragments left there by the Austrian team more than 70 years before, she found the rest of Winged Victory's ring finger and a thumb.", 
-            "But although their names are inextricably linked as a duet team for many listeners, Mr. Frank said they had actually devoted most their time to performing on their own, mainly because they disliked much of duet repertory.", 
-            "Parks worked hard behind the scenes at the Tony Awards: ''As the one who warms up the live audience with good-natured barbs at the theater industry before airtime, Mr. Cohen is the more visible member of the team; but it is Miss Parks who puts the whole thing together.", 
-            "After the Sept. 11 attacks, she became a team leader of the Community Resilience Project, a counseling center in Northern Virginia supported by the Federal Emergency Management Agency.", 
-            "Because Ms. Lloyd's conversation was as expressive as her dancing, and because she and her husband were inseparable, Richard Buckle, editor of Ballet magazine in London, suggested in 1951 that the couple write dance criticism as a team.", 
-            "After they wrote for various publications, the team as Alexander Bland began writing dance reviews in 1955 in The Observer, a weekly for which Gosling was also the art critic."
-        ]
+        "height": 182, 
+        "rate": 26, 
+        "start_y": 0, 
+        "id": "mal17"
     }, 
     {
-        "height_mal": 234, 
-        "rate_fem": 12, 
-        "rate_mal": 33, 
-        "heigh_fem": 0, 
-        "id": 18, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             " Dr. Maclyn McCarty, the last surviving member of a Manhattan scientific team that overturned medical dogma in the 1940's and became the first to demonstratethat genes were made of DNA, died on Sunday.", 
             "Until the team's findings, published in 1944 in the Journal of Experimental Medicine, scientists believed that genes must be made of protein, Dr. McCarty said.", 
             "'' He added, ''There must be 20 to 25 prizes that have been awarded for work that depends on the team's seminal paper.", 
@@ -3764,32 +3872,14 @@
             "He was captain of the 1937 team and was also its place-kicker.", 
             "'' Fordham's 1936 team shut out three opponents and gave up only 33 points."
         ], 
-        "height_fem": 78, 
-        "start_y": 236, 
-        "sentences_fem": [
-            " Katherine A. Lathrop, a pioneering researcher in nuclear medicine and a member of a University of Chicago team that developed an isotope widely used to locate and diagnose cancers, died on March 10 at a nursing home in Las Cruces, N.M. She was 89.", 
-            "Ms. Lathrop and the Chicago team experimented with an isotope, technetium 99m, by injecting it into a patient's bloodstream and then tracing its path through the brain, heart, kidney, liver and other organs.", 
-            "Dr. Harper's team also found technetium was less radioactive and had a shorter half-life than many other isotopes, and was therefore less dangerous to patients.", 
-            "Dr. Robert Beck, an emeritus professor of radiology at Chicago and a member of Dr. Harper's team, recalled that Ms. Lathrop was ''an indispensable part of Paul Harper's team.", 
-            " Dr. Georgeanna S. Jones, who was half of a husband-and-wife team that created the first program for in vitro fertilization in the United States and its first ''test tube'' baby, died on Saturday at a hospital in Norfolk, Va. She was 92 and lived in Portsmouth, Va.", 
-            "In 1980, Ms. Stutz assembled a team of investors and acquired the store from Genesco.", 
-            "''Vera was one of the strongest on our team.", 
-            "Two other members of the team fell to their deaths in the attempt.", 
-            "team to Pokey Chatman, who had spent the last 17 seasons with her as a player or as an assistant coach.", 
-            "She coached the team.", 
-            "'' In 1980, Gunter was the head coach of the United States Olympic women's basketball team, which never made it to the Moscow Games because of a United States boycott to protest the Soviet Union's invasion of Afghanistan.", 
-            "She and Chasins married in 1949, and performed and recorded together as a duo-piano team."
-        ]
+        "height": 234, 
+        "rate": 33, 
+        "start_y": 0, 
+        "id": "mal18"
     }, 
     {
-        "height_mal": 226, 
-        "rate_fem": 20, 
-        "rate_mal": 32, 
-        "heigh_fem": 0, 
-        "id": 19, 
         "sentence_index": 0, 
-        "heigh_mal": 0, 
-        "sentences_mal": [
+        "sentences": [
             "In 1976 the team made Mr. Rawls's signature recording, ''You'll Never Find (Another Love Like Mine),'' a lavish ballad with disco rhythm.", 
             "He coached the United States national team to an unofficial silver medal in the 1984 Los Angeles Olympics when baseball was a demonstration sport.", 
             "'' After victories, the entire team sang ''McNamara's Band'' in the clubhouse.", 
@@ -3993,40 +4083,9 @@
             "He said decades later that ''one of my great ambitions was to be captain of the Michigan football team,'' the Wolverines, in his senior year.", 
             "He led the center's legal team in litigation arising from the deadly Attica prison rioting in 1971."
         ], 
-        "height_fem": 138, 
-        "start_y": 176, 
-        "sentences_fem": [
-            " Nena O'Neill, one half of the husband-and-wife team whose best-selling book ''Open Marriage'' helped spread the youthful sexual revolution of the 1960's to the middle-aged, middle-class Middle America of the 1970's, died on March 9 in Manhattan.", 
-            "In high school she was popular, proud of her hook shot on the basketball court and captain of the field hockey team.", 
-            "Ms. Zeck was part of a team that prosecuted officials of the German industrial company I. G. Farben for war crimes, including plunder and the use of slave labor.", 
-            "Ms. Zeck had joined the legal team in 1946, when she was recruited from her job in Washington at the general counsel's office of the United States Treasury.", 
-            " Maggie Dixon, who coached the women's basketball team at Army to its first N.C.A.A.", 
-            "She inherited a team with players who take up to 24 credits a semester in subjects like engineering, physics and calculus and have limited time for sports.", 
-            "Her team started the season 5-7, including losses by 39 points to Connecticut and 17 to Baylor.", 
-            "Three weeks ago, she recalled that speech for The New York Times this way: ''We're just in the spot where we want to be,'' she said she told the team.", 
-            "We're just coming together as a team.", 
-            "'' Her team won the Patriot League regular-season championship for the first time.", 
-            "tournament, her team was routed by Tennessee, a perennial national power, 102-54, and finished 20-11.", 
-            "Cara Enright, a guard on Dixon's team, said yesterday: ''I just loved the energy that Coach brought to practice every day and the way she never gave up on us, always believed in us.", 
-            "For the stage, she twice adapted the works of the French playwriting team Pierre Barillet and Jean-Pierre Gredy; for ''Tru,'' which she also directed, she created a play out of Capote's own writings.", 
-            "Five years later, in August 2005, she was part of a team of three lawyers that won a verdict of $253.5 million against Merck in a state court in Texas, one of the largest damage awards ever to a single plaintiff.", 
-            "Ms. Epstein and Mr. Silvers made an unusual literary tag team.", 
-            "Mrs. Truscott won four world titles as a player: the Venice Cup in 1974, 1976 and 1978, and the Women's Team Olympiad in 1980.", 
-            "She was the nonplaying captain of the winning American Venice Cup team in 1989.", 
-            "She won the first of her national titles in 1959, and in 1965 became the second woman to play for the United States in the Bermuda Bowl world team championship.", 
-            "She won one world silver medal, from the 1965 Bermuda Bowl, and six world bronze medals, from the Open Pairs in 1966 (she is the only woman to win a medal in this event); the Women's Team Olympiads in 1968, 1972 and 1976; and the Women's Pairs in 1962 and 1974.", 
-            "For the next decade, Miss Allyson and Mr. Johnson were a romantic team, co-starring in ''High Barbaree'' (1947), ''The Bride Goes Wild'' (1948), ''Too Young to Kiss'' (1951), and ''Remains to Be Seen'' (1953).", 
-            "In 1949, Mr. Ewing and his team moved their base of operations to the newly opened Lamont Geological Observatory (now the Lamont-Doherty Earth Observatory), in Palisades, N.Y.", 
-            "Among her many achievements, Butcher was the first to summit Mount McKinley, North America's highest peak, with a dog team in 1979.", 
-            "As a youngster, she played quarterback for a boys' neighborhood football team called the 50th Street Tigers.", 
-            "The team had a lineman named Bud Wilkinson, who became a legendary football coach at Oklahoma.", 
-            "At 18, she was a member of the United States Curtis Cup team, a red-haired youngster with a face full of freckles, as she was invariably described in the press.", 
-            "'' In 1938, Berg won 10 of 13 amateur tournaments, including the United States Women's Amateur, and was named to the Curtis Cup team for the second time.", 
-            "In 1978, she explained to The New York Times, ''The decisions of the surgeon as team leader are final, and men have simply been unwilling to accept women in that role of the all-powerful decision maker.", 
-            "The Gilbreth brother-and-sister team also wrote ''Belles on Their Toes,'' a 1950 sequel that was turned into a movie in 1952.", 
-            "Dr. Lederberg was also a central member of a team led by her husband, Joshua Lederberg, who shared a Nobel Prize for genetic research in 1958.", 
-            "She was part of a national security team that was often at war with itself.", 
-            "She recalled that she wondered aloud how she, a Democrat all her life, could join his team."
-        ]
+        "height": 226, 
+        "rate": 32, 
+        "start_y": 0, 
+        "id": "mal19"
     }
 ]

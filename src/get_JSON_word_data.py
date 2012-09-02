@@ -93,7 +93,7 @@ def stringer(heights, width, spacing, c_h, start_x, start_y):
     return [rt, rb]
 
 class WordCounter: # Looks for single words in article fulltexts
-    def __init__(self, words, mama_dir, papa_dir, baby_dir, y_topspace, c_h, div_width, div_spacing, start_x):
+    def __init__(self, words, mama_dir, papa_dir, baby_dir, y_topspace, c_h, div_width, div_spacing, start_x, topID):
     # words is dictionary of lower-case words mapped to lists of
     #   words to be searched for.
     # papa_dir is string of directory where the male txt files to be searched are
@@ -108,6 +108,7 @@ class WordCounter: # Looks for single words in article fulltexts
     # div_width is the width of the sentence-holding divs on the graph.
     # div_spacing is the space between the sentence-holding divs.
     # start_x is the x-location, in pixels, where the raphael lines should start.
+    # topID is the ID for the topbar json.
         self.papa_dir = papa_dir
         self.mama_dir = mama_dir
         self.words = words
@@ -117,6 +118,7 @@ class WordCounter: # Looks for single words in article fulltexts
         self.div_width = div_width
         self.div_spacing = div_spacing
         self.start_x = start_x
+        self.topID = topID
         
         # This dictionary will be used when calculating word use/total articles
         self.yearly_female_obit_totals = {1987: 293, 1988: 338, \
@@ -205,15 +207,22 @@ class WordCounter: # Looks for single words in article fulltexts
 
         # Data for each year
         for word in self.words:
+            # Female div data
             for i in range(20):
                 content_dict[word].append(\
-                    {'id': i, \
-                     'sentences_fem': [], \
-                     'sentences_mal': [], \
-                     'heigh_fem': 0, \
-                     'heigh_mal': 0, \
-                     'rate_fem': 0, \
-                     'rate_mal': 0, \
+                    {'id': 'fem'+str(i), \
+                     'sentences': [], \
+                     'height': 0, \
+                     'rate': 0, \
+                     'sentence_index': 0, \
+                     'start_y': 0})
+            # Male div data
+            for i in range(20):
+                content_dict[word].append(\
+                    {'id': 'mal'+str(i), \
+                     'sentences': [], \
+                     'height': 0, \
+                     'rate': 0, \
                      'sentence_index': 0, \
                      'start_y': 0})
             for i in range(1, len(self.words[word])):
@@ -239,14 +248,14 @@ class WordCounter: # Looks for single words in article fulltexts
                         for key in self.words:
                             if word in self.words[key]:
                                 word_count[key] += 1
-                                if sentence not in content_dict[key][year - 1986]['sentences_fem']:
-                                    content_dict[key][year - 1986]['sentences_fem'].append(sentence)
+                                if sentence not in content_dict[key][year - 1986]['sentences']:
+                                    content_dict[key][year - 1986]['sentences'].append(sentence)
 
             # Calculate and store word-use-rates
             for word in self.words:
                 use_rate = \
                     (word_count[word]/float(self.yearly_female_allword_totals[year]))*100000
-                content_dict[word][year-1986]['rate_fem'] = int(round(use_rate))
+                content_dict[word][year-1986]['rate'] = int(round(use_rate))
                 rates_dict_fem[word].append(use_rate)
 
         # Counting up male word uses and storing sentences containing those words
@@ -269,14 +278,14 @@ class WordCounter: # Looks for single words in article fulltexts
                         for key in self.words:
                             if word in self.words[key]:
                                 word_count[key] += 1
-                                if sentence not in content_dict[key][year - 1986]['sentences_mal']:
-                                    content_dict[key][year - 1986]['sentences_mal'].append(sentence)
+                                if sentence not in content_dict[key][year + 20 - 1986]['sentences']:
+                                    content_dict[key][year + 20 - 1986]['sentences'].append(sentence)
 
             # Calculate and store word-use-rates
             for word in self.words:
                 use_rate = \
                     (word_count[word]/float(self.yearly_male_allword_totals[year]))*100000
-                content_dict[word][year-1986]['rate_mal'] = int(round(use_rate))
+                content_dict[word][year+20-1986]['rate'] = int(round(use_rate))
                 rates_dict_mal[word].append(use_rate)
 
         # Generate font sizes and raphael lines for each word.
@@ -291,19 +300,19 @@ class WordCounter: # Looks for single words in article fulltexts
             # Store heights of divs based on stretch factor
             for i in range(1, 21):
                 # Female div heights
-                height_fem = int(round((content_dict[word][i]['rate_fem']*stretch_factor)))-self.c_h
+                height_fem = int(round((content_dict[word][i]['rate']*stretch_factor)))-self.c_h
                 height_fem -= height_fem%2 # For raphael line generator to not tend towards too short
-                content_dict[word][i]['height_fem'] = height_fem
+                content_dict[word][i]['height'] = height_fem
                 heights_dict_fem[word].append(height_fem)
+            for i in range(21, 41):
                 # Male div heights
-                height_mal = int(round((content_dict[word][i]['rate_mal']*stretch_factor)))-self.c_h
+                height_mal = int(round((content_dict[word][i]['rate']*stretch_factor)))-self.c_h
                 height_mal -= height_mal%2 # For raphael line generator to not tend towards too short
-                content_dict[word][i]['height_mal'] = height_mal
+                content_dict[word][i]['height'] = height_mal
                 heights_dict_mal[word].append(height_mal)
                 
             # Double-count first sentence in 1987 so that active div won't hide first sentence when fired.
-            content_dict[word][1]['sentences_fem'] = [content_dict[word][1]['sentences_fem'][0]] + content_dict[word][1]['sentences_fem']
-            content_dict[word][1]['sentences_mal'] = [content_dict[word][1]['sentences_mal'][0]] + content_dict[word][1]['sentences_mal']
+            content_dict[word][1]['sentences'] = [content_dict[word][1]['sentences'][0]] + content_dict[word][1]['sentences']
             avg_rate = int(round((sum(rates_dict_fem[word]) + sum(rates_dict_mal[word]))/ 40.0))
             font_size = 10 + min(avg_rate/30, 2)*2
             header_font_sizes[word] = font_size
@@ -312,8 +321,14 @@ class WordCounter: # Looks for single words in article fulltexts
             content_dict[word][0]["max_height_mal"] = max(heights_dict_mal[word])
             midline = self.y_topspace + max_height_fem + self.c_h
             content_dict[word][0]['midline'] = midline
+
+            # Y-coordinates for sentence divs to be placed at
             for id in range(1, 21):
-                content_dict[word][id]['start_y'] = midline - content_dict[word][id]['height_fem'] - self.c_h/2
+                content_dict[word][id]['start_y'] = midline - content_dict[word][id]['height'] - self.c_h/2
+            for id in range(21, 41):
+                content_dict[word][id]['start_y'] = midline + self.c_h/2
+
+            # Raphael lines for graph
             raphlist_mal = [height*2 + self.c_h for height in heights_dict_mal[word]]
             raph_mal = stringer(raphlist_mal, self.div_width, \
                                                 self.div_spacing, self.c_h, self.start_x, midline)[0]
@@ -325,16 +340,16 @@ class WordCounter: # Looks for single words in article fulltexts
         # Create sorted list of words based on change_ratio_fem/change_ratio_mal
         ratio_tuples = []
         for word in self.words:
-            change_ratio_fem = sum([content_dict[word][i]['rate_fem'] for i in range(12, 21)])/\
-                               float(sum([content_dict[word][i]['rate_fem'] for i in range(1,11)]))
-            change_ratio_mal = sum([content_dict[word][i]['rate_mal'] for i in range(12, 21)])/\
-                               float(sum([content_dict[word][i]['rate_mal'] for i in range(1,11)]))
+            change_ratio_fem = sum([content_dict[word][i]['rate'] for i in range(12, 21)])/\
+                               float(sum([content_dict[word][i]['rate'] for i in range(1,11)]))
+            change_ratio_mal = sum([content_dict[word][i]['rate'] for i in range(32, 41)])/\
+                               float(sum([content_dict[word][i]['rate'] for i in range(21,31)]))
             ratio_tuples.append((word, change_ratio_fem/change_ratio_mal))
         sorted_tuples = sorted(ratio_tuples, key=itemgetter(1))
         sorted_words = [item[0] for item in sorted_tuples]
 
         # Generate the jsons.
-        topbar_datafile = open(self.baby_dir + '/topbar3.json', 'w')
+        topbar_datafile = open(self.baby_dir + '/topbar'+self.topID+'.json', 'w')
         content = [{'word': word, 'size': header_font_sizes[word]} for word in sorted_words]
         topbar_datafile.write(json.dumps(content, indent=4))
         topbar_datafile.close()
@@ -345,8 +360,8 @@ class WordCounter: # Looks for single words in article fulltexts
             word_datafile.close()
 
 if __name__ == "__main__":
-    #__init__(self, words, mama_dir, papa_dir, baby_dir, y_topspace, c_h, div_width, div_spacing, start_x):
-    word_counter = WordCounter({"community": ["community"],\
+    #__init__(self, words, mama_dir, papa_dir, baby_dir, y_topspace, c_h, div_width, div_spacing, start_x, topID):
+    word_counter1 = WordCounter({"community": ["community"],\
 "served": ["served"],\
 "health": ["health"],\
 "republican": ["republican"],\
@@ -379,6 +394,43 @@ if __name__ == "__main__":
 "movement": ["movement"],\
 "team": ["team"],\
 "thought": ["thought"],\
-"wanted": ["wanted"]}, "obits_fem", "obits_mal", "json_results", 165, 10, 30, 10, 40)
-    word_counter.generate_jsons()
+"wanted": ["wanted"]}, "obits_fem", "obits_mal", "json_results", 165, 10, 30, 10, 40, '3')
+    word_counter1.generate_jsons()
+
+    word_counter2 = WordCounter({"leadership": ["leader", "administrator", "executive", "chair", "director", "president", "chairwoman", "chairman"], \
+"acting": ["actress", "actor", "thespian"], \
+"academia": ["professor", "faculty", "lecturer"], \
+"assistant": ["assistant", "secretary", "aide"], \
+"teaching": ["teacher", "schoolteacher"], \
+"law": ["lawyer", "attorney", "defender", "judge"], \
+"science": ["science", "scientist", "research"], \
+"fashion": ["fashion"], \
+"music": ["musician", "composer", "pianist", "opera", "orchestra", "singer"], \
+"visual arts" : ["artist", "painter", "photographer", "painted", "sculptor", "curator", "architect", "illustrator"], \
+"writing" : ["editor", "publisher", "writer", "author", "novelist"], \
+"journalism": ["reporter", "journalist", "columnist"], \
+"politics": ["congress", "congresswoman", "congressman", "politics", "political"], \
+"business": ["business", "company"], \
+"dance": ["dancer", "dance", "ballet"], \
+"medicine": ["doctor", "dr", "surgeon"], \
+"military": ["military", "army", "navy"]}, "obits_fem", "obits_mal", "json_results", 165, 10, 30, 10, 40, '1')
+    word_counter2.generate_jsons()
+
+    word_counter3 = WordCounter({"grandchildren": ["grandchildren", "grandchild", "granddaughter", "grandson"] ,\
+"brother": ["brother", "brothers"] ,\
+"sister": ["sister", "sisters"] ,\
+"daughter": ["daughter", "daughters"] ,\
+"husband": ["husband"] ,\
+"son": ["son", "sons"] ,\
+"family": ["family"] ,\
+"wife": ["wife"] ,\
+"children": ["children"] ,\
+"friend": ["friend"] ,\
+"divorce": ["divorce", "divorced", "divorcing"] ,\
+"marriage": ["married", "marry", "marriage"] ,\
+"mother": ["mother"] ,\
+"father": ["father"]}, "obits_fem", "obits_mal", "json_results", 165, 10, 30, 10, 40, '2')
+    word_counter3.generate_jsons()
+
+    
 
