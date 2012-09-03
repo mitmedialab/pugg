@@ -53,7 +53,7 @@
         ], 
         "height": 148, 
         "rate": 34, 
-        "start_y": 408, 
+        "start_y": 250, 
         "id": "fem0"
     }, 
     {
@@ -99,7 +99,7 @@
         ], 
         "height": 228, 
         "rate": 51, 
-        "start_y": 408, 
+        "start_y": 170, 
         "id": "fem1"
     }, 
     {
@@ -138,7 +138,7 @@
         ], 
         "height": 120, 
         "rate": 28, 
-        "start_y": 408, 
+        "start_y": 278, 
         "id": "fem2"
     }, 
     {
@@ -186,7 +186,7 @@
         ], 
         "height": 126, 
         "rate": 29, 
-        "start_y": 408, 
+        "start_y": 272, 
         "id": "fem3"
     }, 
     {
@@ -218,7 +218,7 @@
         ], 
         "height": 88, 
         "rate": 21, 
-        "start_y": 408, 
+        "start_y": 310, 
         "id": "fem4"
     }, 
     {
@@ -255,7 +255,7 @@
         ], 
         "height": 88, 
         "rate": 21, 
-        "start_y": 408, 
+        "start_y": 310, 
         "id": "fem5"
     }, 
     {
@@ -298,7 +298,7 @@
         ], 
         "height": 134, 
         "rate": 31, 
-        "start_y": 408, 
+        "start_y": 264, 
         "id": "fem6"
     }, 
     {
@@ -339,7 +339,7 @@
         ], 
         "height": 116, 
         "rate": 27, 
-        "start_y": 408, 
+        "start_y": 282, 
         "id": "fem7"
     }, 
     {
@@ -382,7 +382,7 @@
         ], 
         "height": 112, 
         "rate": 26, 
-        "start_y": 408, 
+        "start_y": 286, 
         "id": "fem8"
     }, 
     {
@@ -426,7 +426,7 @@
         ], 
         "height": 92, 
         "rate": 22, 
-        "start_y": 408, 
+        "start_y": 306, 
         "id": "fem9"
     }, 
     {
@@ -476,7 +476,7 @@
         ], 
         "height": 120, 
         "rate": 28, 
-        "start_y": 408, 
+        "start_y": 278, 
         "id": "fem10"
     }, 
     {
@@ -529,7 +529,7 @@
         ], 
         "height": 112, 
         "rate": 26, 
-        "start_y": 408, 
+        "start_y": 286, 
         "id": "fem11"
     }, 
     {
@@ -584,7 +584,7 @@
         ], 
         "height": 140, 
         "rate": 32, 
-        "start_y": 408, 
+        "start_y": 258, 
         "id": "fem12"
     }, 
     {
@@ -647,7 +647,7 @@
         ], 
         "height": 168, 
         "rate": 38, 
-        "start_y": 408, 
+        "start_y": 230, 
         "id": "fem13"
     }, 
     {
@@ -702,7 +702,7 @@
         ], 
         "height": 134, 
         "rate": 31, 
-        "start_y": 408, 
+        "start_y": 264, 
         "id": "fem14"
     }, 
     {
@@ -752,7 +752,7 @@
         ], 
         "height": 116, 
         "rate": 27, 
-        "start_y": 408, 
+        "start_y": 282, 
         "id": "fem15"
     }, 
     {
@@ -785,7 +785,7 @@
         ], 
         "height": 84, 
         "rate": 20, 
-        "start_y": 408, 
+        "start_y": 314, 
         "id": "fem16"
     }, 
     {
@@ -822,7 +822,7 @@
         ], 
         "height": 98, 
         "rate": 23, 
-        "start_y": 408, 
+        "start_y": 300, 
         "id": "fem17"
     }, 
     {
@@ -856,7 +856,7 @@
         ], 
         "height": 102, 
         "rate": 24, 
-        "start_y": 408, 
+        "start_y": 296, 
         "id": "fem18"
     }, 
     {
@@ -898,7 +898,7 @@
         ], 
         "height": 92, 
         "rate": 22, 
-        "start_y": 408, 
+        "start_y": 306, 
         "id": "fem19"
     }, 
     {
@@ -1073,7 +1073,7 @@
         ], 
         "height": 126, 
         "rate": 29, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal0"
     }, 
     {
@@ -1250,7 +1250,7 @@
         ], 
         "height": 126, 
         "rate": 29, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal1"
     }, 
     {
@@ -1431,7 +1431,7 @@
         ], 
         "height": 106, 
         "rate": 25, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal2"
     }, 
     {
@@ -1604,7 +1604,7 @@
         ], 
         "height": 84, 
         "rate": 20, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal3"
     }, 
     {
@@ -1782,7 +1782,7 @@
         ], 
         "height": 102, 
         "rate": 24, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal4"
     }, 
     {
@@ -1953,7 +1953,7 @@
         ], 
         "height": 106, 
         "rate": 25, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal5"
     }, 
     {
@@ -2089,7 +2089,7 @@
         ], 
         "height": 84, 
         "rate": 20, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal6"
     }, 
     {
@@ -2271,7 +2271,7 @@
         ], 
         "height": 126, 
         "rate": 29, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal7"
     }, 
     {
@@ -2485,7 +2485,7 @@
         ], 
         "height": 126, 
         "rate": 29, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal8"
     }, 
     {
@@ -2716,7 +2716,7 @@
         ], 
         "height": 126, 
         "rate": 29, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal9"
     }, 
     {
@@ -2949,7 +2949,7 @@
         ], 
         "height": 116, 
         "rate": 27, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal10"
     }, 
     {
@@ -3212,7 +3212,7 @@
         ], 
         "height": 130, 
         "rate": 30, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal11"
     }, 
     {
@@ -3464,7 +3464,7 @@
         ], 
         "height": 126, 
         "rate": 29, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal12"
     }, 
     {
@@ -3754,7 +3754,7 @@
         ], 
         "height": 154, 
         "rate": 35, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal13"
     }, 
     {
@@ -3981,7 +3981,7 @@
         ], 
         "height": 134, 
         "rate": 31, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal14"
     }, 
     {
@@ -4169,7 +4169,7 @@
         ], 
         "height": 106, 
         "rate": 25, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal15"
     }, 
     {
@@ -4337,7 +4337,7 @@
         ], 
         "height": 116, 
         "rate": 27, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal16"
     }, 
     {
@@ -4515,7 +4515,7 @@
         ], 
         "height": 130, 
         "rate": 30, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal17"
     }, 
     {
@@ -4695,7 +4695,7 @@
         ], 
         "height": 116, 
         "rate": 27, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal18"
     }, 
     {
@@ -4892,7 +4892,7 @@
         ], 
         "height": 120, 
         "rate": 28, 
-        "start_y": 0, 
+        "start_y": 408, 
         "id": "mal19"
     }
 ]
