@@ -312,7 +312,8 @@ class WordCounter: # Looks for single words in article fulltexts
                 heights_dict_mal[word].append(height_mal)
                 
             # Double-count first sentence in 1987 so that active div won't hide first sentence when fired.
-            content_dict[word][1]['sentences'] = [content_dict[word][1]['sentences'][0]] + content_dict[word][1]['sentences']
+            if len(content_dict[word][1]['sentences'])>0:
+                content_dict[word][1]['sentences'] = [content_dict[word][1]['sentences'][0]] + content_dict[word][1]['sentences']
             avg_rate = int(round((sum(rates_dict_fem[word]) + sum(rates_dict_mal[word]))/ 40.0))
             font_size = 10 + min(avg_rate/30, 2)*2
             header_font_sizes[word] = font_size
@@ -361,76 +362,49 @@ class WordCounter: # Looks for single words in article fulltexts
 
 if __name__ == "__main__":
     #__init__(self, words, mama_dir, papa_dir, baby_dir, y_topspace, c_h, div_width, div_spacing, start_x, topID):
-    word_counter1 = WordCounter({"community": ["community"],\
-"served": ["served"],\
-"health": ["health"],\
-"republican": ["republican"],\
-"elected": ["elected"],\
-"social": ["social"],\
-"taught": ["taught"],\
-"national": ["national"],\
-"democrat": ["democratic", "democrat"],\
-"major": ["major"],\
-"won": ["won"],\
-"great": ["great"],\
-"established": ["established"],\
-"world": ["world"],\
-"million": ["million"],\
-"success": ["success"],\
-"wrote": ["wrote"],\
-"style": ["style"],\
-"love": ["love"],\
-"sold": ["sold", "sell", "selling"],\
-"book": ["book"],\
-"black": ["black", "african-american"],\
-"gave": ["gave", "give", "giving"],\
-"rights": ["rights"],\
-"found": ["found"],\
-"people": ["people"],\
-"power": ["power"],\
-"experience": ["experience"],\
-"decided": ["decided"],\
-"left": ["left"],\
-"movement": ["movement"],\
-"team": ["team"],\
-"thought": ["thought"],\
-"wanted": ["wanted"]}, "obits_fem", "obits_mal", "json_results", 165, 10, 30, 10, 40, '3')
+    word_counter1 = WordCounter({"helped": ["helped"], \
+"developed": ["developed"], \
+"war": ["war", "combat"], \
+"career": ["career"], \
+"award": ["award"], \
+"earned": ["earned"], \
+"interest": ["interest"], \
+"life": ["life"], \
+"continued": ["continued"], \
+"society": ["society"], \
+"addiction": ["addiction"], \
+"figure": ["figure"], \
+"famous": ["famous"], \
+"good": ["good"], \
+"action": ["action", "active"], \
+"ideas": ["ideas"], \
+"modern": ["modern"], \
+"culture": ["culture", "cultural"], \
+"icon": ["icon"], \
+"important": ["important"], \
+"influence": ["influence", "impact"], \
+"problems": ["problems", "problem"], \
+"human": ["human"], \
+"built": ["built"], \
+"decided": ["decided", "decision", "decide"], \
+"religion": ["god", "gods", "religious", "religion", "jewish", "judaism", "christian", "christianity", "muslim", "islam",  "buddhist", "buddhism", "hinduism", "hindu"]}, "obits_fem", "obits_mal", "json_results", 165, 10, 30, 10, 40, '4')
     word_counter1.generate_jsons()
 
     word_counter2 = WordCounter({"leadership": ["leader", "administrator", "executive", "chair", "director", "president", "chairwoman", "chairman"], \
-"acting": ["actress", "actor", "thespian"], \
-"academia": ["professor", "faculty", "lecturer"], \
-"assistant": ["assistant", "secretary", "aide"], \
+"acting": ["actress", "actor", "thespian", "film", "theater", "broadway", "television"], \
+"academia": ["professor", "faculty", "lecturer", "emeritus", "doctorate", "institute"], \
 "teaching": ["teacher", "schoolteacher"], \
 "law": ["lawyer", "attorney", "defender", "judge"], \
-"science": ["science", "scientist", "research"], \
+"science": ["science", "scientist", "research", "scientific", "sciences", "scientists", "engineer", "engineering"], \
 "fashion": ["fashion"], \
-"music": ["musician", "composer", "pianist", "opera", "orchestra", "singer"], \
+"music": ["musician", "composer", "pianist", "opera", "orchestra", "singer", "sang", "symphony", "conductor", "musical"], \
 "visual arts" : ["artist", "painter", "photographer", "painted", "sculptor", "curator", "architect", "illustrator"], \
-"writing" : ["editor", "publisher", "writer", "author", "novelist"], \
+"writing" : ["editor", "publisher", "writer", "author", "novelist", "novel", "novels", "book", "books", "literary", "literature", "poetry", "poet"], \
 "journalism": ["reporter", "journalist", "columnist"], \
-"politics": ["congress", "congresswoman", "congressman", "politics", "political"], \
-"business": ["business", "company"], \
-"dance": ["dancer", "dance", "ballet"], \
+"politics": ["congress", "congresswoman", "congressman", "politics", "political", "government", "minister"], \
+"business": ["business", "company", "corporation", "finance"], \
+"dance": ["dancer", "dance", "ballet", "choreographer"], \
 "medicine": ["doctor", "dr", "surgeon"], \
 "military": ["military", "army", "navy"]}, "obits_fem", "obits_mal", "json_results", 165, 10, 30, 10, 40, '1')
     word_counter2.generate_jsons()
-
-    word_counter3 = WordCounter({"grandchildren": ["grandchildren", "grandchild", "granddaughter", "grandson"] ,\
-"brother": ["brother", "brothers"] ,\
-"sister": ["sister", "sisters"] ,\
-"daughter": ["daughter", "daughters"] ,\
-"husband": ["husband"] ,\
-"son": ["son", "sons"] ,\
-"family": ["family"] ,\
-"wife": ["wife"] ,\
-"children": ["children"] ,\
-"friend": ["friend"] ,\
-"divorce": ["divorce", "divorced", "divorcing"] ,\
-"marriage": ["married", "marry", "marriage"] ,\
-"mother": ["mother"] ,\
-"father": ["father"]}, "obits_fem", "obits_mal", "json_results", 165, 10, 30, 10, 40, '2')
-    word_counter3.generate_jsons()
-
-    
 

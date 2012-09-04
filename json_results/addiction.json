@@ -1,0 +1,567 @@
+[
+    {
+        "div_width": 30, 
+        "c_h": 10, 
+        "max_height_fem": 266, 
+        "id": "meta-data", 
+        "midline": 441, 
+        "word": "Addiction", 
+        "caption": "", 
+        "max_height_mal": 128, 
+        "start_x": 50, 
+        "s_f": 68.88416844710963, 
+        "words_included": "addiction", 
+        "div_spacing": 10, 
+        "raphlines": [
+            "M40,440L40,499S40,509,50,509L70,509S80,509,80,519L80,569S80,579,90,579L110,579S120,579,120,569L120,519S120,509,130,509L150,509S160,509,160,509S160,509,170,509L190,509S200,509,200,509S200,509,210,509L230,509S240,509,240,509S240,509,250,509L270,509S280,509,280,509S280,509,290,509L310,509S320,509,320,509S320,509,330,509L350,509S360,509,360,519L360,569S360,579,370,579L390,579S400,579,400,579S400,579,410,579L430,579S440,579,440,579S440,579,450,579L470,579S480,579,480,569L480,519S480,509,490,509L510,509S520,509,520,509S520,509,530,509L550,509S560,509,560,509S560,509,570,509L590,509S600,509,600,509S600,509,610,509L630,509S640,509,640,519L640,569S640,579,650,579L670,579S680,579,680,569L680,519S680,509,690,509L710,509S720,509,720,509S720,509,730,509L750,509S760,509,760,509S760,509,770,509L790,509S800,509,800,519L800,569S800,579,810,579L830,579S840,579,840,569L840,441L840,440", 
+            "M40,441L40,383S40,373,50,373L70,373S80,373,80,363L80,245S80,235,90,235L110,235S120,235,120,245L120,431S120,441,130,441L150,441S160,441,160,431L160,383S160,373,170,373L190,373S200,373,200,373S200,373,210,373L230,373S240,373,240,363L240,313S240,303,250,303L270,303S280,303,280,303S280,303,290,303L310,303S320,303,320,313L320,363S320,373,330,373L350,373S360,373,360,383L360,431S360,441,370,441L390,441S400,441,400,431L400,383S400,373,410,373L430,373S440,373,440,373S440,373,450,373L470,373S480,373,480,363L480,313S480,303,490,303L510,303S520,303,520,313L520,431S520,441,530,441L550,441S560,441,560,431L560,383S560,373,570,373L590,373S600,373,600,373S600,373,610,373L630,373S640,373,640,363L640,175S640,165,650,165L670,165S680,165,680,175L680,293S680,303,690,303L710,303S720,303,720,313L720,363S720,373,730,373L750,373S760,373,760,383L760,431S760,441,770,441L790,441S800,441,800,431L800,383S800,373,810,373L830,373S840,373,840,383L840,441"
+        ], 
+        "y_spacing": 165
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In 1965 she sought treatment for alcoholism and addiction to certain prescription drugs.", 
+            "In 1965 she sought treatment for alcoholism and addiction to certain prescription drugs."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 378, 
+        "id": "fem0"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Louise Nevelson was indoctrinated into this mode of life to the point of lifelong addiction; and although she cared nothing for possessions and still less for comfort, she was to the end of her days a spectacular figure for whom no combination of clothing, headgear and jewelry could be too startling.", 
+            "Louise was indoctrinated into this mode of life to the point of lifelong addiction; and although she cared nothing for possessions and still less for comfort, she was to the end of her days a spectacular figure for whom no combination of clothing, headgear and jewelry could be too startling."
+        ], 
+        "height": 196, 
+        "rate": 3, 
+        "start_y": 240, 
+        "id": "fem1"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 446, 
+        "id": "fem2"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "For the last 15 years, she served as president of the institute, organizing seminars and lectures on nutrition and biochemical disorders like schizophrenia, alcoholism and drug addiction."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 378, 
+        "id": "fem3"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "The drug has also been used to treat drug addiction."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 378, 
+        "id": "fem4"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Among the issues her organizations focused on were reductions in government aid to health programs, health care for the poor, infant mortality, the spread of AIDS and tuberculosis epidemics, sickness among the homeless and the shortages of nurses and of treatment for drug addiction.", 
+            "\" Hale House's policy is to reunite children with their families after the parents recover from their addiction, and it says it has been able to do so with about 90 percent of the children."
+        ], 
+        "height": 128, 
+        "rate": 2, 
+        "start_y": 308, 
+        "id": "fem5"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            " Yolanda Serrano, the head of a private addiction and AIDS prevention organization in New York City that fought for the distribution of free needles and syringes to prevent infection, died yesterday at St. Vincent's Hospital and Medical Center.", 
+            "As the founder of Adapt, Mrs. Serrano took part in several Federal and state panels dealing with drug addiction and AIDS."
+        ], 
+        "height": 128, 
+        "rate": 2, 
+        "start_y": 308, 
+        "id": "fem6"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "She was the hospital's chief executive during the institution's greatest period of growth, which included the addition of an addiction recovery center, a hospice, family health centers and home health care outreach operations."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 378, 
+        "id": "fem7"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 446, 
+        "id": "fem8"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "To know, to understand Has been my passion and addiction.", 
+            "Since the essence of the short story is its conciseness, an addiction to change is an occupational disease and not the self-indulgence publishers think."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 378, 
+        "id": "fem9"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "''The Connection,'' filmed in cinema verite style in 1960 and taken from Jack Gelber's Off Broadway play, was a frank study of drug addiction that was banned on grounds of obscenity by the motion picture division of the New York State Board of Regents."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 378, 
+        "id": "fem10"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "She was a former chairwoman of a community board in Fluvanna County, Va., that provided services for mental health, mental retardation and drug addiction.", 
+            "She acted in the soap opera ''Capitol'' in 1986, but also spent part of the year at the Betty Ford clinic fighting an addiction to prescription painkillers.", 
+            "But she also spent part of the year at the Betty Ford Clinic fighting an addiction to prescription painkillers."
+        ], 
+        "height": 128, 
+        "rate": 2, 
+        "start_y": 308, 
+        "id": "fem11"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 446, 
+        "id": "fem12"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "'' In 1987, she said that largely because of drug addiction, more and more of the Family Court cases involved abused or neglected children, who had flooded the court system and in turn had overburdened the foster care system.", 
+            "She attributed her downfall not only to the rise of rock 'n' roll but also to bad management and her addiction to drugs and alcohol."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 378, 
+        "id": "fem13"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            " Marian Fischman, a scientist who explored narcotics addiction by paying addicts to take heroin, cocaine and other drugs, died on Oct. 23 at New York Presbyterian Hospital."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 378, 
+        "id": "fem14"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "'' Ms. Heckart smoked up until her death and blamed her friend Bette Davis for her addiction.", 
+            "But she became less of a force to be reckoned with as she slipped into drug addiction, hustling and homelessness.", 
+            "''Doctors are afraid of things like addiction and overdosing when that isn't the primary concern to a terminal patient in severe pain,'' Ms. Levinson said in an interview in 1985 with The Record, a newspaper in northern New Jersey.", 
+            "'' The book, published by Dial Press in 1996, was praised by critics for its painful honestly in describing the grip of addiction and the difficulty of overcoming it.", 
+            "In ''Drinking'' Ms. Knapp characterized her addiction as a bad love affair.", 
+            "Lady Longford confessed to having ''an addiction to motherhood'' and continued to have children even after her Labor Party handlers said it was getting in the way of her parliamentary career."
+        ], 
+        "height": 266, 
+        "rate": 4, 
+        "start_y": 170, 
+        "id": "fem15"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "It was the worst period of Mr. Cash's addiction to barbiturates and amphetamines.", 
+            " Gertrude Samuels, a writer and photographer whose 50-year career took her from the displaced-persons camps of postwar Europe to the blight of drug addiction in America's cities, died Wednesday at her home on the Upper West Side.", 
+            "On the home front, she told readers about the racial unrest attending school desegregation in the South, juvenile delinquency in the inner cities and drug addiction."
+        ], 
+        "height": 128, 
+        "rate": 2, 
+        "start_y": 308, 
+        "id": "fem16"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "She also served on the city's Commission on Heroin Addiction and twice was a delegate to the White House Conference on Aging."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 378, 
+        "id": "fem17"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 446, 
+        "id": "fem18"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Their son, a drug addict, contracted AIDS and died of complications of his addiction in 1990."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 378, 
+        "id": "fem19"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Mr. Marek once issued a record called ''Classical Music for People Who Hate Classical Music''; for him, getting customers started on ''music, any kind of music'' would form an unbreakable addiction.", 
+            "In the late 1960's he served as director of the Division of Narcotic Addiction and Drug Abuse of the National Institute of Mental Health.", 
+            "He fought to improve the lot of the handicapped, especially children and poorly paid migrant workers, and worked for programs to combat drug addiction and hard-core pornography.", 
+            "In 1966, after helping to draft Mr. Rockefeller's tough anti-narcotics program, Justice Lang was named chief counsel of the State Narcotic Addiction Control Commission, and two years later a commissioner on the panel."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 446, 
+        "id": "mal0"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Mr. Albany's struggles with drug addiction interrupted his career and sent him in and out of hospitals and jails for 25 years.", 
+            "He also did extensive work in respiratory pharmacology, aerospace medicine and drug addiction.       ", 
+            "Mr. Baker was known for his gentle, pensive trumpet playing - the epitome of West Coast ''cool jazz'' - and for a difficult life that included battles with drug addiction, jailings and hard luck; in a 1968 beating most of his teeth were knocked out.", 
+            "But in the late 1950's, heroin addiction began to take its toll on his career.", 
+            "Through most of the 1960's, his recordings were disappointing as his addiction continued.", 
+            "Jay James Swift, a former official of the New York City Environmental Control Board and of the city's Addiction Services Agency, died of cancer Thursday at Roosevelt Hospital.", 
+            "He was in charge of community development for the Addiction Services Agency from 1968 to 1970 and for the next three years was first deputy commissioner.", 
+            "But another theory was that he had been told as early as 1964 that he would never ascend because of his reported addiction to alcohol, which is forbidden under the strictures of the Koran.", 
+            "Dr. Bejerot won wide recognition for developing an epidemiology of drug abuse and for investigating ways to prevent addiction to amphetamines, heroin, cocaine and other narcotics.", 
+            "''He made a unique contribution by pointing out the epidemic proportions of 'street' addiction and by focusing attention on the individual drug abuser,'' Jonas Hartelius, chief of staff of the Carnegie Institute, said yesterday.", 
+            "Controversial in Sweden But while Dr. Bejerot's work was hailed in other countries, including the United States, which he visited several times, he remained a controversial figure in Sweden because of his emphasis on prevention rather than treatment of drug addiction."
+        ], 
+        "height": 128, 
+        "rate": 2, 
+        "start_y": 446, 
+        "id": "mal1"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "'' 'Remarkable Impact' Cited Authorities in the field say Dr. Zinberg broadened the concepts under which drug addiction is treated by psychiatrists and other health-care professionals.", 
+            "Some people here today said his addiction should be taken as a spur to step up the fight against drugs.       ", 
+            "Carl D. Chambers, a former research director for the New York State Narcotic Addiction Control Commission, died of complications of a heart attack on Friday at West Pennsylvania Hospital in Pittburgh.", 
+            "From 1971 to 1973, he was co-director of the addiction sciences division at the University of Miami's medical school."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 446, 
+        "id": "mal2"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Dr. Felix, an authority on alcoholism and drug addiction, was also a former dean of the medical school at St. Louis University, president of the American Psychiatric Association in 1960-61 and a member of the World Health Organization's advisory panel on mental health from 1952 to 1978.", 
+            "Dr. Henry Brill, an authority on drug addiction who was director of the Pilgrim State Psychiatric Center in West Brentwood, L.I., from 1958 to 1974, died yesterday at Good Samaritan Hospital in West Islip, L.I.", 
+            "Directed TV Episodes Other Leacock films were ''Take a Giant Step,'' about a black youth's encounter with racism, and ''Let No Man Write My Epitaph,'' about juvenile drug addiction.", 
+            "Patrick Butler, who helped establish the Hazelden Foundation as an international leader in the treatment of alcoholism and drug addiction, died Saturday after a four-month illness.", 
+            "Harold L. Trigg, one of the first doctors to use methadone in treating heroin addiction, died on Monday at the Beth Israel Medical Center in Manhattan.", 
+            "''The key to the problem is psychological addiction.", 
+            "He previously was chairman of the Committee on Roads and Public Works and the Committee on Mental Hygiene and Addiction Control.", 
+            "Why do so many people seek escape from life in alcoholism and narcotics addiction if life is so good?"
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 446, 
+        "id": "mal3"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "At the time of his death, Mr. Steinbeck, who had been a recovering alcoholic for three years, was working on his autobiography, \"Legacy,\" in which he said he intended to examine the heredity in addiction and try to link what he believed to be his father's alcoholism to his own.", 
+            "He was also a member of the State Council on Narcotic Addiction and the New York State Council of Law Enforcement Officers.", 
+            "Dr. Greenberg was a pioneer in the treatment of alcoholism and drug addiction.", 
+            "He was the author of \"Narcotics: An American Plan\" (1966), which put forward a plan to stem drug addiction in the United States through free drugs, free medical treatment and other means.", 
+            "But in 1954 he overcame his addiction and began his first string of important small-group recordings.", 
+            "Ties With Foreign Universities Under his academic leadership, Brown created centers for studying addiction to drugs and alcohol, women, population, world hunger, international health and other issues.", 
+            "On the witness stand, his own history of struggling with drug addiction and alcoholism was put on public display as defense lawyers sought to undermine the credibility of his vivid accounts of the attack.", 
+            "Mr. Yao also wrote on modern themes; for example, his play \"Abyss\" depicts urban slums and drug addiction."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 446, 
+        "id": "mal4"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "From 1965 to 1978, Mr. Pendrell wrote and produced more than 30 documentaries for ABC News, examining welfare, drug addiction, abortion and the energy crisis.", 
+            "He was one of 20 Manhattan physicians who in 1987 were asked by state health officials, concerned about cocaine addiction, to substitute nonaddictive painkillers.", 
+            "Depending on individual need, the assistance includes food, clothing, counseling, drug addiction therapy, on-the-job training, placement, remedial high school and even college preparation.", 
+            "He said alcoholism harmed far more people than drug addiction.", 
+            "Dr. Seixas (pronounced SAY-shuss) studied many aspects of alcoholism: diagnosis, treatment, epidemiology, prevention and heredity; its role in violence and traffic accidents; its effect on fetuses, and its similarities to and differences from drug addiction.", 
+            "In its grants in the health field, the foundation focuses on memory loss, depression and addiction as problems that can be treated by the application of recent breakthroughs in neurobiological research.", 
+            "In May 1970, Mr. Jones was sworn in as a member of the State Narcotic Addiction Control Commission, of which he became chairman the following year.", 
+            "Robert Banome, a Roman Catholic priest who fought drug addiction and urban decay in blighted neighborhoods of the South Bronx, died on Monday.", 
+            "\" Professor Lyford asserted that an urban atmosphere rife with violence, drug addiction and muggings caused many urban residents to \"seal themselves in at night\" as if in a \"fortress of fear."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 446, 
+        "id": "mal5"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Mr. Nanas said he believed Mr. Sharkey contracted the AIDS from a contaminated needle during a five years of heroin addiction in the mid-1980's.", 
+            "Mr. Nanas said he believed Mr. Sharkey contracted the AIDS from a contaminated needle during five years of heroin addiction in the mid-1980's.", 
+            "He spent the last five years of his life in Jersey City helping convert the Barrow Mansion into a center for AIDS and addiction services.", 
+            "\" \"To me, films that deal with drug addiction, crime and war are the real horror films,\" he said on another occasion.", 
+            "He was also active in helping physicians to overcome drug addiction and other problems.", 
+            "He served a stint in city government in Buffalo, then went to work for New York City's Addiction Services Administration."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 446, 
+        "id": "mal6"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "For the next 10 years Mr. Periconi held a series of posts in the city and state government, his last as a member of the state's Narcotic Addiction Control Commission from 1973 to 1975.", 
+            "From 1968 to 1974, Mr. King worked variously for Lincoln Hospital in the Bronx, Metropolitan Hospital in Manhattan, the New York State Drug Addiction Control Commission and the New York State Division for Youth.", 
+            "He also placed his \"first bet on the ponies,\" he said, \"and had the misfortune to win,\" starting a longtime addiction to gambling.", 
+            "More recently, he was vice president of the Center on Addiction and Substance Abuse at Columbia University and chief of staff to its president, Joseph A. Califano Jr. \"Jeff came in and really provided the cement that was critical in molding it,\" Mr. Califano said.", 
+            "In retirement, despite his illness, he became a volunteer teacher and adviser offering training in the culinary arts to hundreds of young people being treated for drug addiction."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 446, 
+        "id": "mal7"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "The academy called for a national program to eradicate drug addiction by treating it as an illness and not a crime.", 
+            "In the 1960's, he was known as Captain Trips, referring to his frequent use of LSD, and he struggled through the years with heroin addiction.", 
+            "Mr. Solomon was a pioneer in addiction research, having devised an opponent-process theory to explain drug use and addiction.", 
+            " State Senator Joseph L. Galiber, a Bronx Democrat who took unpopular stands on crime and drug addiction and survived major scandals to remain a power in city politics for three decades, died yesterday at Columbia-Presbyterian Medical Center in Manhattan.", 
+            "Mr. Galiber studied problems stemming from drug addiction, and he came to advocate legalization of some drugs.", 
+            "He was an early supporter of methadone-maintenance programs to wean drug users from addiction.", 
+            "He conducted studies that he said showed that needle exchanges reduced the transmission of H.I.V., the virus that causes AIDS, among intravenous drug users without increasing in drug addiction.", 
+            "He also wrote documentaries on drug addiction and housing for Channel  13 and was a commentator and moderator on some of its news programs.", 
+            "\"All our sincere attempts to build up a good athletic program, which would help combat the problems of drug addiction and dropouts, are being shoved aside in almost cavalier fashion.", 
+            "\"I still have to fight my food addiction.", 
+            " Michael V. Gazzo, an actor and playwright whose 1955 drama, \"A Hatful of Rain,\" broke theatrical ground in its candid and sympathetic portrayal of drug addiction, died on Feb. 14 at Vencor Hospital in Los Angeles."
+        ], 
+        "height": 128, 
+        "rate": 2, 
+        "start_y": 446, 
+        "id": "mal8"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            " Father James E. Royce, a professor emeritus of psychology and addiction studies at Seattle University who spent decades counseling people in books and lecture halls about alcoholism and other substance abuse, died last Saturday at  Providence Hospital in Seattle.", 
+            "This led to a career in the field of addiction studies.", 
+            "But when Mr. Bass designed a grotesquely deconstructed arm for Otto Preminger's movie, about heroin addiction, and Mr. Preminger accepted his idea of using the arm as the moving focus of the opening credits, a mini-genre was born.", 
+            "The jagged arm was such a powerful symbol of addiction, Mr. Bass once said, that when \"The Man With the Golden Arm,\" opened in New York, a poster depicting  the arm served as the only advertising.", 
+            " Chet Forte, the 5-foot-7-inch Columbia basketball player who won a national scoring title but earned more fame as the director of \"Monday Night Football\" before a gambling addiction ended his television career, died in San Diego yesterday of a heart attack.", 
+            " Chet Forte, the tiny Columbia basketball player who won a national scoring title but earned more fame as the director of \"Monday Night Football\" before a gambling addiction ended his television career, died in San Diego Saturday of a  heart attack.", 
+            "Judge Joseph Rodriguez said the only reason he didn't throw him in jail was that he had cooperated and begun treatment for his gambling addiction.", 
+            "In 1959, Mr. Brown started a counseling and referral center in a storefront  on Monroe Street in Manhattan, naming it the Lower Eastside Information and Service Center for Narcotics Addiction.", 
+            "Among his findings was that the addicts' mothers, gratifying their own need for a dependent son, created \"a psychic state prone to addiction.", 
+            "In his poem ''Tuolomne,'' Mr. Starbuck seemed to confess to an addiction: I have committed whimsy.", 
+            "Other medical conditions for which he helped develop drugs included cancer, drug and alcohol addiction and schistosomiasis, a usually tropical chronic parasitic disorder of the liver, lungs, bladder or central nervous system.", 
+            "In Masschusetts, whose laws became models for national and international legislation, he left his fingerprints on so many statutes dealing with issues like psychiatric commitments, qualifications of physicians' assistants, minimum professional standards for medical examiners, patients' rights and drug addiction rehabilitation, that the state's health and medical laws could be called the Curran Code.", 
+            "Among other things, he drafted the organization's guidelines for legislation for treatment of drug and alcohol addiction, created and directed its collaborating center on law in Boston and served as a ''temporary'' adviser to the organization from 1976 until his death.", 
+            "If there are different kinds of receptors, one kind might be for pain relief while another causes addiction."
+        ], 
+        "height": 128, 
+        "rate": 2, 
+        "start_y": 446, 
+        "id": "mal9"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "''What Synanon is dealing with is addiction to stupidity.", 
+            "Other Zinnemann films were ''A Hatful of Rain,'' a harrowing 1957 study of drug addiction; ''The Nun's Story,'' a 1959 account of an ethically tormented woman that earned the best-director award from the New York critics, and ''Julia,'' a 1977 tale of a brave anti-Fascist that won Vanessa Redgrave and Jason Robards supporting-actor Oscars.", 
+            "'' Dr. Schachter's interests were wide-ranging, and he asked the kinds of questions about topics like obesity, addiction, emotions and the behavior of stock market investors that the public found interesting.", 
+            "When he became interested in the metabolic basis of cigarette addiction, Dr. Schachter persuaded friends near his summer home in East Hampton to join a study.", 
+            "Adolescence' for many, many years,'' said Albert J. Solnit, Commissioner of Mental Health and Addiction Services for Connecticut and a founder, with Dr. Blos and others, of the Association for Child Psychoanalysis.", 
+            "His recovery was all the more noteworthy since he had spent so many of his younger days engulfed in narcotics addiction, an imperative so demanding that in 1954, while living in London, he sold his typewriter to buy heroin, although he kept working in longhand.", 
+            "Scrawl of 'Naked Lust' Becomes 'Naked Lunch' By 1944, he had an apartment on Bedford Street in Greenwich Village and developed an addiction to heroin.", 
+            "'' The incident did not stop his drug use, and in his introduction to ''Naked Lunch,'' he describes his addiction: ''I have smoked junk, eaten it, sniffed it, injected it in vein-skin-muscle, inserted it in rectal suppositories.", 
+            "'' When he was 45, he ended  15 years of addiction by taking apomorphine, a chemical compound developed in Britain.", 
+            "His recovery was all the more noteworthy since he had spent so many of his younger days engulfed in narcotics addiction, an imperative so  demanding that in 1954, while living in London, he sold his typewriter to buy heroin, although he kept working in longhand.", 
+            "By 1944, Mr. Burroughs had an apartment on Bedford Street in Greenwich Village and developed an addiction to heroin.", 
+            "'' When he was 45 years old, he ended 15 years of addiction by taking apomorphine, a chemical compound developed in Britain.", 
+            "Away from boxing, Pastrano fell on hard times, experiencing financial woes and battling heroin addiction, while working odd jobs such as a bouncer at topless bars and a greeter at a casino in Reno."
+        ], 
+        "height": 128, 
+        "rate": 2, 
+        "start_y": 446, 
+        "id": "mal10"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Mr. Pilatus recently underwent therapy for drug addiction and was planning further treatment, Mr. Farian told German reporters.", 
+            "He was treated for addiction to crack cocaine in 1990.", 
+            "Manigault continued to struggle academically, squabbled with his coach about playing time and returned to the playgrounds of New York, where a drug addiction slowly began to destroy his great athletic ability.", 
+            "He ran 12 times for elective office in campaigns noteworthy for threadbare war chests and left-liberal agendas, daring to call for decriminalizing drug addiction in one.", 
+            "Although the series itself, unlike ''Father Knows Best,'' dealt with serious problems like autism, blindness, LSD side effects, drug addiction and leukemia, Marcus Welby himself was something of a fantasy doctor who took a deeply personal approach to all of his patients.", 
+            "He was on the Mayor's Committee on Narcotics Addiction in 1965 and often appeared in newspaper and magazine articles and on television.", 
+            " Patrick J. Frawley Jr., a high school dropout who made millions of dollars in business, gave millions to conservative causes and candidates, then made it his business and his life's work to combat alcohol and drug addiction, died on Tuesday at a hospital in Santa Monica, Calif.", 
+            " Louis A. Delgado Jr., a playwright who wove his experiences with drug addiction and his life on the street into his work, died on Dec. 1 at Wyckoff Heights Medical Center in Brooklyn.", 
+            "Mr. Delgado, who was born in the Bronx, overcame 23 years of addiction and damaged family relationships by turning to writing.", 
+            "After learning English, he worked first at the drug rehabilitation center Horizon House and then for 10 years as director of community relations for the New York City Drug Addiction Services Agency."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 446, 
+        "id": "mal11"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In 1971, Dr. Oates wrote ''Confessions of a Workaholic: The Facts about Work Addiction,'' adding a word to the American lexicon; the Oxford English Dictionary credits him with inventing it.", 
+            "His concept was that work can become an addiction, akin to alcoholism.", 
+            "''The event helped bring about a raising of consciousness in the state about the effectiveness of community-based services,'' said Lee Sharp, an addiction program specialist at the New York State Office of Alcoholism and Substance Abuse Services, the state agency created in 1993.", 
+            "Gillespie also brought him to Los Angeles to fill out his sextet at Billy Berg's club, hedging against the probability that Parker, who was in the band and at the low point of his heroin addiction, would fail to show up.", 
+            "In 1990, WCBS broadcast some program segments about treatment he had undergone for addiction to alcohol and Valium."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 446, 
+        "id": "mal12"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "''There were some of us with an addiction, with fierce passion for the medium,'' he wrote.", 
+            "At the time, Father Egan was serving in nursing homes for AIDS patients and continuing his work against addiction.", 
+            "His sunny disposition complemented the brooding Mr. Ness, and he helped his bandmate overcome heroin addiction in the late 1980's.", 
+            "Ms. Hahn made the new romance -- not to mention her avid opium addiction -- a topic of discussion in her 1944 best seller, ''China to Me.", 
+            "Instead he championed it as a treatment for people with serious psychological disturbances like psychosis, severe borderline pathology, psychosomatic illness or addiction.", 
+            "''He was one of the most extraordinary corporate leaders to focus on education,'' said Mr. Califano, who now heads the National Center on Addiction and Substance Abuse at Columbia University.", 
+            "''Before, I was a rather typical suburbanite who came into New York and went to the theater but who never thought much about the problems of the urban poor or hunger or drug addiction.", 
+            " Joe Gilliam, who was one of the first blacks to be a starting pro quarterback when he played for the Pittsburgh Steelers' 1974 Super Bowl champions but who later slid into drug addiction and homelessness, died Monday in Nashville."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 446, 
+        "id": "mal13"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "While such testimony on disease and addiction made him a notorious figure among antismoking advocates, Mr. Spears was widely praised as a outstanding civic leader in his hometown.", 
+            "In his 1986 autobiography, ''Papa John,'' Mr. Phillips chronicled his slide into drug addiction.", 
+            "It's an obsession, an addiction.", 
+            "Known as ''the Young Marshal,'' Mr. Zhang commanded 200,000 troops but wrestled with a drug addiction and a reputation as a playboy.", 
+            "The programs include education, recreation, nutrition, addiction services and the arts, and Mr. Kirk played an important role in their proliferation."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 446, 
+        "id": "mal14"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Among several civic and professional affiliations, Mr. Cooper was a former trustee of the Caledonia campus of Brooklyn Hospital Center, director of the Addiction Research and Treatment Corporation and a member of One Hundred Black Men Inc.", 
+            "Making the ''status'' of addiction itself a crime violated the Eighth Amendment's prohibition against cruel and unusual punishment, the majority ruled.", 
+            "Beginning with its 1990 EP, ''We Die Young,'' the group sang bleak visions of death, addiction and despair, set to grinding minor-key guitar riffs.", 
+            "'' On the band's second album, ''Dirt'' in 1992, Mr. Staley sang directly about heroin addiction in songs like ''God Smack'' and ''Junkman,'' with its chorus, ''What's my drug of choice/Well, what have you got?", 
+            "By then, Mr. Staley was struggling with heroin addiction, and on the verge of a 1994 summer tour, the band broke up for six months.", 
+            "'' On the band's second album, ''Dirt,'' in 1992, Mr. Staley sang directly about heroin addiction in songs like ''God Smack'' and ''Junkman,'' with its chorus, ''What's my drug of choice/Well, what have you got?", 
+            "By then, Mr. Staley was struggling with heroin addiction, and on the verge of a 1994 summer tour the band broke up for six months.", 
+            "He recounted how a heroin addiction, acquired in 1962 after falling ill on the Goodman band's famously stressful trip to Russia, had left him broke and despondent.", 
+            "The methadone treatment he began three years later enabled him to overcome his addiction and continue a successful career.", 
+            "He served on federal advisory committees on health and mental health, and in recent years he concentrated on lobbying a wide circle of policy makers and program directors for improving treatment of people with both mental illness and drug addiction.", 
+            " Darrell Porter, the All-Star catcher who overcame drug and alcohol addiction to become the most valuable player of the 1982 World Series with the St. Louis Cardinals, was found dead Monday at a park outside Kansas City, Mo.", 
+            "But he entered a substance-abuse clinic in Arizona during 1980 spring training after listening to a talk about addiction by Don Newcombe, a former pitcher for the Dodgers and the Reds who was a recovering alcoholic.", 
+            "When he went to New York to be honored as the World Series M.V.P., Porter told of his addiction.", 
+            "He also made social services, like addiction counseling and child care, part of New York's public housing."
+        ], 
+        "height": 128, 
+        "rate": 2, 
+        "start_y": 446, 
+        "id": "mal15"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "The intermission features include the Texaco Opera Quiz, which for opera buffs quirkily combines the elements of Trivial Pursuit, the law boards and a troublesome addiction.", 
+            "Their work helped lay the foundation for modern psychopharmacology, which explains, among other things, mechanisms for drug addiction and mental illness and the effects of certain poison gases.", 
+            "He played the role of Leach in Jack Gelber's corrosive drama of heroin addiction, ''The Connection'' and went on to play Galy Gay, the once-mild-mannered ''human fighting machine,'' in Brecht's ''Man Is Man.", 
+            "With its bare-bones realism, the song distilled the sepulchral grimness that often seemed to engulf Mr. Cash, who fought a long battle against addiction to drugs, particularly amphetamines.", 
+            "He served as commissioner from 1962 to 1969, a period when drug addiction was starting to be perceived as a threatening national disease.", 
+            "His sense of melody harked back to the Beatles and to folk-rock, but within the understated settings were bleak stories of turmoil, addiction, domestic violence and despair.", 
+            "Mr. Smith often insisted he was not a confessional songwriter, but he had struggled with drug addiction and alcoholism and had spent a short time in a psychiatric hospital."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 446, 
+        "id": "mal16"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "He later established the All Saints Health Care Center for Addiction Recovery in Racine.", 
+            "He also started an addiction to heroin that lasted 17 years.", 
+            "He spent time in a California sanatorium to shake his addiction and stopped performing for a year, the only break during his long career."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 446, 
+        "id": "mal17"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "He was producer of a theater piece called ''The Concept,'' which dramatized the experiences of young people in treatment for drug addiction; it was presented at the White House on three separate occasions.", 
+            "He did not have another job in journalism, and he long struggled with drug addiction.", 
+            "''I was 49 turning 50; that was kind of like a birthday present for me,'' he told William C. Rhoden of The New York Times in February 2000, recalling his descent into drug addiction.", 
+            "'' For its customers, many of whom flew in from distant cities, Discophile helped slake an acquisitive thirst so deep it verged on addiction."
+        ], 
+        "height": 58, 
+        "rate": 1, 
+        "start_y": 446, 
+        "id": "mal18"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "He also had a brief but memorable stage and screen career, appearing in the 1959 Off Broadway production of ''The Connection,'' Jack Gelber's play about drug addiction, and in the 1961 film version, directed by Shirley Clarke.", 
+            "''He was the first scientist to provide a language to describe the psychological dimensions of human sexual identity; no such language had existed before,'' said Dr. Kenneth J. Zucker, psychologist in chief at the Centre for Addiction and Mental Health in Toronto.", 
+            "Although Dr. Dole and Dr. Nyswander never considered methadone a silver bullet for heroin addiction, their work is credited with making it possible for thousands of addicts to lead normal lives.", 
+            "'' This view of heroin addiction as a medically treatable disease was shared by Dr. Dole and led to his frequent and forceful efforts to open methadone clinics in New York City and keep them open in the face of sometimes strong opposition.", 
+            "When Dr. Dole began planning to study the biology of addiction in the mid-60's, he could find only one significant book on street addicts, ''The Drug Addict as a Patient,'' by Dr. Nyswander, who was then a psychiatrist treating addicts at a Manhattan storefront clinic.", 
+            "Methadone has several advantages, many addiction experts say.", 
+            "Methadone creates a physical dependence that can be as strong as heroin addiction, and many street addicts now also use cocaine, which methadone cannot block.", 
+            "''When I began taking prisoners it became an addiction -- I found that I couldn't stop -- I was hooked.", 
+            "Among the series of unfortunate events to which Mr. Davis's young protagonists fall victim are these: abduction, murder, rape, stabbing, robbery at gunpoint, falling off a cliff, suffocating in an abandoned refrigerator, being burned to a crisp, being stuffed into the trunk of a car, being run over, pregnancy, venereal disease, unemployment, time in pool halls, time in prison, myriad auto accidents, heroin addiction (a direct result of smoking marijuana), prostitution (ditto) and bad hair (ditto).", 
+            "And in 1974 he released two films, exploring gambling addiction in ''California Split'' and riffing on the Dust Bowl gangster saga with ''Thieves Like Us."
+        ], 
+        "height": 128, 
+        "rate": 2, 
+        "start_y": 446, 
+        "id": "mal19"
+    }
+]

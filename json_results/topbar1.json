@@ -1,9 +1,5 @@
 [
     {
-        "word": "acting", 
-        "size": 12
-    }, 
-    {
         "word": "academia", 
         "size": 14
     }, 
@@ -16,7 +12,7 @@
         "size": 10
     }, 
     {
-        "word": "science", 
+        "word": "acting", 
         "size": 14
     }, 
     {
@@ -24,19 +20,19 @@
         "size": 10
     }, 
     {
-        "word": "writing", 
-        "size": 14
-    }, 
-    {
         "word": "music", 
         "size": 14
     }, 
     {
-        "word": "assistant", 
-        "size": 12
+        "word": "leadership", 
+        "size": 14
     }, 
     {
-        "word": "leadership", 
+        "word": "writing", 
+        "size": 14
+    }, 
+    {
+        "word": "science", 
         "size": 14
     }, 
     {
@@ -53,7 +49,7 @@
     }, 
     {
         "word": "politics", 
-        "size": 12
+        "size": 14
     }, 
     {
         "word": "military", 
