@@ -1,7 +1,0 @@
-
-        Phillip W. Katz, the inventor of file-compression software used in computers around the world, died on April 14 in a hotel room in Milwaukee. He was 37.
-        The cause was complications from alcoholism, according to a report from the Milwaukee medical examiner's office.
-        Mr. Katz's program, PKZip, played a major role in making Internet communications faster and less expensive. The zip file archive he developed compresses information so that it takes up less space on a disk drive and less time is needed to download it from the Web or send it to another computer.
-        In an interview with The Milwaukee Journal in 1993, Mr. Katz said he had developed the concept for PKZip at his mother's kitchen table in 1986. ''It was just a hobby,'' he said. ''I didn't expect it to turn into a business.'' Mr. Katz is survived by his mother, Hildegard, and his sister, Cynthia.
-        Mr. Katz built a company called PKWare Inc. on the success of the file-compression program and became its president. Today, files compressed with Mr. Katz's software are ubiquitous and the term ''zip file'' is familiar to even casual computer users.
-      

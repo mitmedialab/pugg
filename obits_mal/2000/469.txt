@@ -1,9 +1,0 @@
-
-        Richard M. BlochRichard M. Bloch, a pioneer in the development and design of digital computers, died of cancer on May 22  in Framingham, Mass. He was 78 and lived in Marlborough, Mass.
-        As chief operations officer at Harvard University's Computation Laboratory in the 1940's, Mr. Bloch helped design and program the first automatic digital computer, the Mark 1.
-        He also invented the procedure for automatic error detection known as parity check, which is used in almost all computers today.
-        Born in Rochester, N.Y., on June 18, 1921, Richard Milton Bloch was the son of Harry and Tillie Bloch, who operated a small printing business. He attended Harvard on a scholarship, graduating in 1943 and serving in the Navy in World War II. He then returned to Harvard as a research associate in the university's engineering division.
-        Over the succeeding years, Mr. Bloch held a number of administrative positions in the rapidly growing computer industry, including general manager of the computer division of Raytheon, vice president for technical operations at Honeywell, vice president for corporate development at the Auerbach Corporation and vice president of the advanced systems division of General Electric.
-        He was also chairman and chief executive of the Artificial Intelligence Corporation and the Meiko Scientific Corporation.
-        Mr. Bloch is survived by his wife, Ruth; seven children: Susan Bloch-Nevitte of Toronto, Charlote Johnson Zembko of Bolton, Mass., Lawrence, of Belmont, Emily Martin of Bolton, Debra Ellingwood of Framingham, Katheryn Swarts of Houston, and Richard, of Huntington Beach, Calif.; and eight grandchildren.
-      
