@@ -1,0 +1,454 @@
+[
+    {
+        "div_width": 30, 
+        "c_h": 10, 
+        "max_height_fem": 260, 
+        "id": "meta-data", 
+        "midline": 435, 
+        "word": "Icon", 
+        "caption": "", 
+        "max_height_mal": 80, 
+        "start_x": 50, 
+        "s_f": 90.08383691541489, 
+        "words_included": "icon", 
+        "div_spacing": 10, 
+        "raphlines": [
+            "M40,434S40,435,50,435L70,435S80,435,80,435S80,435,90,435L110,435S120,435,120,435S120,435,130,435L150,435S160,435,160,435S160,435,170,435L190,435S200,435,200,435S200,435,210,435L230,435S240,435,240,435S240,435,250,435L270,435S280,435,280,435S280,435,290,435L310,435S320,435,320,445L320,515S320,525,330,525L350,525S360,525,360,525S360,525,370,525L390,525S400,525,400,525S400,525,410,525L430,525S440,525,440,525S440,525,450,525L470,525S480,525,480,525S480,525,490,525L510,525S520,525,520,525S520,525,530,525L550,525S560,525,560,525S560,525,570,525L590,525S600,525,600,525S600,525,610,525L630,525S640,525,640,525S640,525,650,525L670,525S680,525,680,515L680,445S680,435,690,435L710,435S720,435,720,445L720,515S720,525,730,525L750,525S760,525,760,515L760,445S760,435,770,435L790,435S800,435,800,435S800,435,810,435L830,435S840,435,840,440L840,434", 
+            "M40,435S40,435,50,435L70,435S80,435,80,435S80,435,90,435L110,435S120,435,120,435S120,435,130,435L150,435S160,435,160,435S160,435,170,435L190,435S200,435,200,435S200,435,210,435L230,435S240,435,240,435S240,435,250,435L270,435S280,435,280,435S280,435,290,435L310,435S320,435,320,435S320,435,330,435L350,435S360,435,360,435S360,435,370,435L390,435S400,435,400,425L400,355S400,345,410,345L430,345S440,345,440,355L440,425S440,435,450,435L470,435S480,435,480,425L480,355S480,345,490,345L510,345S520,345,520,345S520,345,530,345L550,345S560,345,560,355L560,425S560,435,570,435L590,435S600,435,600,425L600,355S600,345,610,345L630,345S640,345,640,335L640,265S640,255,650,255L670,255S680,255,680,265L680,335S680,345,690,345L710,345S720,345,720,335L720,265S720,255,730,255L750,255S760,255,760,255S760,255,770,255L790,255S800,255,800,245L800,175S800,165,810,165L830,165S840,165,840,175L840,435"
+        ], 
+        "y_spacing": 165
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "fem0"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "fem1"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "fem2"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "fem3"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "fem4"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "fem5"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "fem6"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "fem7"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "fem8"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            " Jan Kerouac, a novelist and the only child of the Beat Generation's icon Jack Kerouac, died on Wednesday at Lovelace Medical Center here.", 
+            "'' Mr. Beene described Mrs. Phillips as ''an icon to an audience of a more frivolous era of dressing -- steeped in vanity and femininity."
+        ], 
+        "height": 80, 
+        "rate": 1, 
+        "start_y": 350, 
+        "id": "fem9"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "fem10"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            " Chessy Rayner, a decorator, fashion icon, editor and author of ''New York: Trends and Traditions,'' a recently published book about significant Manhattan interiors, died on Thursday night at Sloan-Kettering Medical Center in New York.", 
+            "In the movement's giddy, sloganeering early days, Ms. Abzug was, like Betty Friedan and Gloria Steinem, an icon, the hat bobbing before the cameras at marches and rallies."
+        ], 
+        "height": 80, 
+        "rate": 1, 
+        "start_y": 350, 
+        "id": "fem11"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Ms. Springfield, with her teased beehive hairdo and eyes heavily blackened with mascara, was a 1960's pop fashion icon.", 
+            "After her marriage, she quickly became a fashion icon herself, on the cover of numerous magazines."
+        ], 
+        "height": 80, 
+        "rate": 1, 
+        "start_y": 350, 
+        "id": "fem12"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "fem13"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "An outspoken feminist in the 1940's and 50's before feminism became popular, Mrs. McIntosh was the first married woman to head one of the seven top women's colleges known as the Seven Sisters and became a national icon."
+        ], 
+        "height": 80, 
+        "rate": 1, 
+        "start_y": 350, 
+        "id": "fem14"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "'' She spent the next few years working in movies in Hollywood, mostly in small parts, but sometimes with an icon of 1940's cinema.", 
+            " Ruth Handler, creator of the Barbie doll, one of the world's best-selling toys and one that became an icon of American popular culture, an artistic muse and a lightning rod of feminist politics, died on Saturday at a hospital in Los Angeles, where she lived.", 
+            " Holly Solomon, an art dealer known for her championship of the new and untried, for her spirited, high-stepping lifestyle and for being the subject of a glamorous portrait by Andy Warhol that made her a Pop icon like Elizabeth Taylor and Marilyn Monroe, died on Thursday at Memorial Sloan-Kettering Cancer Center."
+        ], 
+        "height": 170, 
+        "rate": 2, 
+        "start_y": 260, 
+        "id": "fem15"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "She wrote or co-wrote 26 books, including ''Selling Science: How the Press Covers Science and Technology,'' ''The DNA Mystique: The Gene as a Cultural Icon'' and ''Body Bazaar: The Market for Human Tissue in the Biotechnology Age."
+        ], 
+        "height": 80, 
+        "rate": 1, 
+        "start_y": 350, 
+        "id": "fem16"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "According to some historians, Ms. Mirrer is allowing conservative board members to push the society into showcasing national history at the expense of the city's, and kicking it all off with a tribute to Hamilton, a conservative icon.", 
+            "Ms. Sontag was the subject of an unauthorized biography by Carl Rollyson and Lisa Paddock, ''Susan Sontag: The Making of an Icon'' (Norton, 2000), and of several critical studies, including ''Sontag & Kael: Opposites Attract Me,'' by Craig Seligman (Counterpoint/Perseus, 2004)."
+        ], 
+        "height": 170, 
+        "rate": 2, 
+        "start_y": 260, 
+        "id": "fem17"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "A tremendous commercial success, ''A Summer Place'' was among the earliest studio films to commodify youthful rebelliousness, though Ms. Dee was hardly an icon of adolescent revolt with her shiny helmet of flipped hair and color-coordinated outfits.", 
+            "But even as she remained an icon of textbooks , her final years were troubled."
+        ], 
+        "height": 170, 
+        "rate": 2, 
+        "start_y": 260, 
+        "id": "fem18"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "''I don't know that she was a civil rights leader in the truest sense, but she became a civil rights figure and a civil rights icon because of what she came to represent.", 
+            "''She was an icon for women in a man's world especially when it came to her pinups,'' Mr. Franklin said.", 
+            "Many years later, in 2004, some of her punk numbers were released on an album called ''Ageless Icon: The Greatest Hits of Dika Newlin.", 
+            " Oriana Fallaci, a dissecting interviewer of the powerful and an iconoclastic journalist who became an icon herself, died Friday in her home city of Florence, Italy.", 
+            "''We're gonna tell how the cow ate the cabbage,'' she said, bringing the great tradition of vernacular Southern oratory to the national political stage in a way that transformed the mother of four into an revered icon of feminist activism."
+        ], 
+        "height": 260, 
+        "rate": 3, 
+        "start_y": 170, 
+        "id": "fem19"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "mal0"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "mal1"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In his 80's, he became an icon of survival."
+        ], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "mal2"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "mal3"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "mal4"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "The publication of Mr. Bloom's book, \"The Closing of the American Mind,\" (Simon & Schuster, 1987) transformed him from an obscure professor, little known outside the University of Chicago, to a cranky icon of conservative views about education, music, morals and the values held by society.", 
+            " Emilio Pucci, the Italian fashion designer whose brilliantly colored prints were an icon of the 1960's, died Sunday morning in a nursing home in Florence."
+        ], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "mal5"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "mal6"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In the Depression, when the large Tames family depended heavily on relief, President Roosevelt was venerated in their back-alley home, his photograph placed alongside those of St. George and the Virgin Mother next to candles on an icon stand.", 
+            "But on Capitol Hill, Mr. Natcher was an icon, a lawmaker who educated himself on the issues rather than rely on his staff, who took no campaign contributions, who was visibly offended by hints of corruption and who honored legislative procedures and courtesies to their last jot.", 
+            "He became something of an icon among his most dedicated fans, a humorist who made a career out of parading his Southern roots and good ol' boy style in his writing.", 
+            "His long Slavic face and high cheekbones recalled portraits of Nijinsky or an icon of some forgotten Orthodox saint."
+        ], 
+        "height": 80, 
+        "rate": 1, 
+        "start_y": 440, 
+        "id": "mal7"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Mr. Garcia's smiling, bearded face became an icon of a utopian 1960's spirit.", 
+            "His retirement in 1968 coincided with the decline of cabaret revues, and he lived the rest of his life as a kind of cultural icon of a displaced but fondly remembered era.", 
+            "A ball clock designed for the company by George H. Nelson became a 1950's icon of the atomic era.", 
+            "But some nationalists saw him as something of an icon."
+        ], 
+        "height": 80, 
+        "rate": 1, 
+        "start_y": 440, 
+        "id": "mal8"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "It quickly made its way into offices throughout the country, ultimately reaching the status of a cultural icon.", 
+            "They honored him in turn by making him an icon of his times.", 
+            "He may have been overshadowed by some of his friends, but Mr. Clark became an icon of an era, thanks in part to a famous double portrait by his closest friend, Mr. Hockney, depicting Mr. Clark with his wife and partner, Celia Birtwell, in their London home.", 
+            "The Government announced today that Mr. Bokassa, who had enjoyed something of a return to popularity as a nationalist icon in recent years, would be given a state funeral.       ", 
+            "In 1935, the year before Owens would win four gold medals in the Berlin Olympics and become an American icon, Peacock defeated him in 7 of their 10 meetings."
+        ], 
+        "height": 80, 
+        "rate": 1, 
+        "start_y": 440, 
+        "id": "mal9"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "Frank Zappa called it ''an archetypal American musical icon.", 
+            "To his fans, Mr. Caen (pronounced cane) was sui generis, a towering icon in his adopted hometown -- although he was largely unknown in much of the nation, his column of stubborn localisms not even traveling well across the San Francisco Bay.", 
+            "Directing traffic downtown today, Officer Percy Johnson, 33, described Mr. Royko as ''an icon of Chicago, just like Michael Jordan and Al Capone.", 
+            "Mr. Turnbull collaborated with Mr. Moore, who died in 1993, on Sea Ranch, a condominium project on the Pacific Coast in Sonoma County, Calif., that not long after its completion in 1965 became an icon of American architecture.", 
+            " James Stewart, whose movie portrayals of decent, idealistic and naive small-town Americans made him a beloved national icon, died yesterday at his home in Beverly Hills, Calif.", 
+            "Fela (pronounced FAY-la) was a showy, insolent, marijuana-smoking icon, who often made appearances wearing only bikini underwear.", 
+            "By the time Mr. Remer began living on the outskirts of Marbella in 1994, he was regarded as an icon by several thousand Spaniards who adhere to neo-Nazi doctrine, Mr. Samuels said."
+        ], 
+        "height": 80, 
+        "rate": 1, 
+        "start_y": 440, 
+        "id": "mal10"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "''I consider him an icon in the world of offshore racing,'' John Carbonell, president of Super Boat International, a national offshore racing organization, said yesterday.", 
+            "'' The design used the same signature that the Campbell Soup Company had used since the 19th century, but it was placed on the red-and-white can that after attracting consumers for four decades would be given the status of a contemporary icon by Andy Warhol.", 
+            "It was a harsh portrait that nevertheless acknowledged Sinatra's role as a musical icon.", 
+            "An Icon as Popular As Great Presidents At the pinnacle of his fame in the decade after the end of World War II, Mr. Rogers was consistently the most popular western star in America, succeeding Gene Autry and William (Hopalong Cassidy) Boyd in the genre.", 
+            "It was crisp but comfortable traditionalism, however, that became Mr. Hampton's hallmark in the early 1980's, and that made him an icon of American style and one of the nation's most sought-after decorators.", 
+            "And when Mr. Ryan, long Chicago's best known and most beloved Irish icon, died on July 26 at 97 at his son Tom's home in suburban Park Ridge, the only question was whether the violin strains at his own funeral on Thursday would be drowned out by the skirl of bagpipes.", 
+            "She became a feminist icon, celebrated as a passionately creative woman stifled by the confines of motherhood and by a husband who misunderstood and betrayed her.", 
+            "But it was his script for ''Miri,'' the eighth ''Star Trek'' episode, broadcast on Oct. 27, 1966, that made him something of a minor icon among the ranks of the show's fans."
+        ], 
+        "height": 80, 
+        "rate": 1, 
+        "start_y": 440, 
+        "id": "mal11"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "By the time the new National League for Democracy was elected to power in 1990, only to be ousted by a uniformed junta, she had become what her husband called ''an icon of popular hope and longing.", 
+            "And he was conscious of his burden as an American icon.", 
+            "'' Giving a Museum A Modern Icon In 1988, when there were no tax deductions for gifts to museums, Mr. Castelli gave one of the icons of postwar American art, Mr. Rauschenberg's 1955 ''Bed,'' to the Museum of Modern Art.", 
+            " The trumpeter, band leader and composer Lester Bowie, an icon of the experimental movement in jazz from the mid-1960's on who was also known for his comic shows and jazz-based treatments of pop music, died on Monday at his home in Brooklyn.", 
+            "'' In 1959, with Mr. Castro newly in power, Mr. Bolet found out that he was to be arrested, his daughter, Adela Maria Bolet, recalled last week, adding that he ''wasn't really a political figure, but he was a cultural icon.", 
+            "Together with his wife, a novelist and playwright who died in 1973, he became an icon of individualism."
+        ], 
+        "height": 80, 
+        "rate": 1, 
+        "start_y": 440, 
+        "id": "mal12"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "''He taught an important lesson: longevity,'' said Drew Nieporent, whose restaurants include Montrachet, TriBeCa Grill and Icon.", 
+            "But Srulik remains a national icon, featured on posters and stickers and celebrated in a stamp issued to commemorate Israel's 50th anniversary in 1998.", 
+            "''I absolutely adored her, she was a mysterious person, perfectly cast for that part,'' Mr. Lederer once said of Miss Brooks, who became a Jazz Age icon of sexuality.", 
+            "In the years to come, only Richard would rival Morenz as a Canadien icon.", 
+            "Thus it was Mr. Jennings whose courage made him a permanent icon -- and the infant movement's first hero -- when he was arrested in Los Angeles on a sexual solicitation charge a year later and decided to publicly contest it in court.", 
+            "In addition to receiving the Medal of Honor, the nation's highest award for valor, Mr. Miller was awarded the Silver Star, two Bronze Stars, the Air Medal and six Purple Hearts in four years in combat, prompting Gen. Henry H. Shelton, the chairman of the Joint Chiefs of Staff, to call him  ''an icon to what service in the armed forces is about.", 
+            "Wider acclaim followed with his serendipitous transformation of an unusual egg timer that he saw at a pub into an icon of the 1970's.", 
+            " Mickey Mantle Jr., who struggled with the expectations accompanying the son of a baseball icon and the travails that afflicted his family far from the public eye, died Wednesday at a hospital in Dallas.", 
+            "It turned into a television icon that shared top ratings with shows like  ''The Brady Bunch'' and ''Sesame Street.", 
+            "''It was the cult car of the 60's, an icon,'' Doug Nye, a writer on motor racing and family friend, said."
+        ], 
+        "height": 80, 
+        "rate": 1, 
+        "start_y": 440, 
+        "id": "mal13"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "'' He grew up, Bishop Moore said, to become ''an icon for my generation,'' ''a leader in confusing and troubled times'' who was never ''quite given in his day the glory he deserved.", 
+            " Meldrim Thomson Jr., the former New Hampshire governor who became an ultraconservative icon with his grand and petty crusades against taxes, big government and political critics, died yesterday at his home in Orford, N.H.", 
+            "In a peculiar way that reflected the ambiguous nature of his bilingual, bicultural homeland, Mr. Richler (pronounced RICH-ler) was considered both an icon of Canadian culture, who won all of Canada's most important literary awards, and one of that culture's most withering critics.", 
+            "Mr. Taglioni, a compact man with slicked-back dark hair, had become an icon among motorcycle riders.", 
+            "Maple as a man who had risen from transit police officer ''to nothing less than a nationally, internationally, recognized icon -- the cop who cleaned up New York.", 
+            "The book was praised by a reviewer in The New York Times as ''a late-night unearthing of childhood joy and adolescent regret'' that also extended into the ''discovery of manly love and pardon'' toward a literary icon and often distant father."
+        ], 
+        "height": 80, 
+        "rate": 1, 
+        "start_y": 440, 
+        "id": "mal14"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "In a career that began in the 1950's, Mr. Jennings became a country icon: a bearded man in a black hat, part cowboy, part rambler and always his own man.", 
+            "His last match was in Japan, where he was an icon.", 
+            "Mr. Alper was the British equivalent of Wally Byam, who invented the Airstream trailer, the slender silver cylinder that became an American icon.", 
+            "Widely considered an icon of cool, Mr. Coburn was once asked to define the term."
+        ], 
+        "height": 80, 
+        "rate": 1, 
+        "start_y": 440, 
+        "id": "mal15"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "The water tank is turned into an icon.", 
+            "In 1994, he had a two-million-selling album, ''The Icon Is Love,'' and his 1999 album, ''Staying Power,'' won two rhythm-and-blues Grammy Awards.", 
+            "Surmises about its function cropped up before and since; it has been interpreted as a Druidic place of worship, a contrivance of the wizard Merlin or, according to a recent Canadian study, as an immense fertility icon."
+        ], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "mal16"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "''I knew him as an icon, not just a chef,'' Mr. Smalls said.", 
+            "All of this was set in motion when the rugged cowboy replaced the Lilliputian bellhop as the icon and mascot on the company's advertising.", 
+            " Col. Robert Morgan, who piloted a B-17 bomber that soared into history and Hollywood movies as an icon of World War II, died Saturday night in Asheville, N.C., after breaking his neck in a fall, said his wife, Linda.", 
+            "'' Christiaan Frederick Beyers Naude's journey to national icon was a strange trip indeed."
+        ], 
+        "height": 80, 
+        "rate": 1, 
+        "start_y": 440, 
+        "id": "mal17"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            "But in the 1982 Times Magazine article, Thomas Stevens, then the principal trumpeter of the Los Angles Philharmonic, suggested that Mr. Giulini enjoyed being a local icon more than he let on.", 
+            "As soccer's first pop icon, often compared to the American football star Joe Namath of the Jets, Best began his professional career with Manchester United, one of the most powerful clubs in the world."
+        ], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "mal18"
+    }, 
+    {
+        "sentence_index": 0, 
+        "sentences": [
+            " Warren Platner, an architect and designer who created a furniture collection that has proved to be an enduring icon of 1960's Modernism and designed several prominent interiors in New York, including offices for the Ford Foundation building and the original Windows on the World restaurant, died on Monday in New Haven, Conn.", 
+            "''The real American icon is not apple pie,'' he realized.", 
+            "Infrequently, his chases became dangerously dramatic, as when he pointed his gun at thieves of a Russian icon."
+        ], 
+        "height": -10, 
+        "rate": 0, 
+        "start_y": 440, 
+        "id": "mal19"
+    }
+]
