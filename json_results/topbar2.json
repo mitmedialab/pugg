@@ -1,0 +1,58 @@
+[
+    {
+        "word": "husband", 
+        "size": 14
+    }, 
+    {
+        "word": "divorce", 
+        "size": 10
+    }, 
+    {
+        "word": "marriage", 
+        "size": 14
+    }, 
+    {
+        "word": "children", 
+        "size": 14
+    }, 
+    {
+        "word": "grandchildren", 
+        "size": 14
+    }, 
+    {
+        "word": "son", 
+        "size": 14
+    }, 
+    {
+        "word": "friend", 
+        "size": 10
+    }, 
+    {
+        "word": "brother", 
+        "size": 14
+    }, 
+    {
+        "word": "father", 
+        "size": 12
+    }, 
+    {
+        "word": "family", 
+        "size": 14
+    }, 
+    {
+        "word": "daughter", 
+        "size": 14
+    }, 
+    {
+        "word": "mother", 
+        "size": 12
+    }, 
+    {
+        "word": "sister", 
+        "size": 14
+    }, 
+    {
+        "word": "wife", 
+        "size": 14
+    }
+]

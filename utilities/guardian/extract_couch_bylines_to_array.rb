@@ -48,7 +48,5 @@ index_data["rows"].each do |row|
   end
   article["bylines"] = bylines
   server.put("/#{database}/#{index}", article.to_json)
-  #puts bylines
   print bylines.size
-
 end

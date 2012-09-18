@@ -100,7 +100,7 @@ index_data["rows"].each do |row|
   print "."
 end
 
-File.open(ARGV[1]) do |f|
+File.open(ARGV[1], "wb") do |f|
   Author.get_authors.each do |name, author|
     f.write author.to_csv + "\n"
     puts "o"

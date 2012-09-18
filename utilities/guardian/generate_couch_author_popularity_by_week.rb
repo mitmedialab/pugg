@@ -7,7 +7,7 @@ require './utilities/guardian/couch.rb'
 
 error_counter = 0
 
-baseurls = {"telegraph"=>"http://telegraph.co.uk", "dailymail"=>"http://dailymail.co.uk", "guardian"=>""}
+baseurls = {"telegraph"=>"http://www.telegraph.co.uk", "dailymail"=>"http://www.dailymail.co.uk", "guardian"=>""}
 url_key = {"telegraph"=>"url", "dailymail"=>"url", "guardian"=> "webUrl"}
 xml_query_key = {"telegraph"=>"", "dailymail"=>"a.author"}
 server = Couch::Server.new("localhost", "5984")
@@ -114,7 +114,11 @@ elsif database =="dailymail"
 end
 prevdate_week = prevdate.year.to_s + prevdate.cweek.to_s
 
-startkey = index_data["rows"][0]["key"]
+startkey = index_data["rows"][0]["key"].gsub("_","%5F")
+startid = index_data["rows"][0]["value"]["_id"]
+
+prevdate = Date.parse(index_data["rows"][0]["value"]["webPublicationDate"])
+prevdate_week = prevdate.year.to_s + prevdate.cweek.to_s
 
 more_articles = true
 rows_per_page = 200
@@ -122,7 +126,8 @@ rows_per_page = 200
 #this while loop processes every article, in a paged manner
 while more_articles
   row_id = 0 
-  index_data = JSON.load(server.get("/#{database}/_design/dates/_view/dates?startkey=#{startkey}&limit=#{rows_per_page + 1}").response.body)
+  index_data = JSON.load(server.get("/#{database}/_design/dates/_view/dates?startkey=\"#{startkey}\"&startid=#{startid}&limit=#{rows_per_page + 1}").response.body)
+ # puts "/#{database}/_design/dates/_view/dates?startkey=#{startkey}&limit=#{rows_per_page + 1}"
   print "|"
   index_data["rows"].each do |row|
     row_id += 1
@@ -138,18 +143,19 @@ while more_articles
       #end state: this is the final item in the entire dataset,
       #so save it and conclude
     elsif row_id >= index_data["rows"].size() -1
-      puts "END OF INDEX"
-      startkey = row["key"]
+      startkey = row["key"].gsub("_","%5F")
+      startid = row["value"]["_id"]
+      puts "END OF INDEX #{startid} >= #{index_data["rows"].size}"
       break
     end
     article = row["value"]
-
     if(database =="guardian")
       curdate = Date.parse(article["webPublicationDate"])
     elsif database =="dailymail"
       pubdate = article["pubdate"]
       curdate = Date.parse(pubdate[6..7] + "/" + pubdate[4..5] + "/" + pubdate[0..3])
     end
+
     curdate_week = curdate.year.to_s + curdate.cweek.to_s
     ##ADDED CLAUSE FOR WEEKEND
     #if(curdate.wday == 0 or curdate.wday == 7)
@@ -172,4 +178,3 @@ while more_articles
   end
 
 end
-

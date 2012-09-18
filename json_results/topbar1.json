@@ -1,0 +1,66 @@
+[
+    {
+        "word": "academia", 
+        "size": 14
+    }, 
+    {
+        "word": "visual arts", 
+        "size": 12
+    }, 
+    {
+        "word": "fashion", 
+        "size": 10
+    }, 
+    {
+        "word": "acting", 
+        "size": 14
+    }, 
+    {
+        "word": "teaching", 
+        "size": 10
+    }, 
+    {
+        "word": "music", 
+        "size": 14
+    }, 
+    {
+        "word": "leadership", 
+        "size": 14
+    }, 
+    {
+        "word": "writing", 
+        "size": 14
+    }, 
+    {
+        "word": "science", 
+        "size": 14
+    }, 
+    {
+        "word": "medicine", 
+        "size": 10
+    }, 
+    {
+        "word": "journalism", 
+        "size": 10
+    }, 
+    {
+        "word": "law", 
+        "size": 12
+    }, 
+    {
+        "word": "politics", 
+        "size": 14
+    }, 
+    {
+        "word": "military", 
+        "size": 12
+    }, 
+    {
+        "word": "business", 
+        "size": 14
+    }, 
+    {
+        "word": "dance", 
+        "size": 14
+    }
+]
