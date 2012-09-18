@@ -18,6 +18,7 @@ db = server[paper]
 #                 "articles","facebook","googleplus","twitter"])
 
 return_data = {paper:{}}
+ag_key = {"X":"unknown", "M":"male", "F":"female", "B": "mixed"}
 
 emptybylines = 0
 article_total = 0
@@ -76,7 +77,7 @@ def get_sharedata( gender, article, return_data):
 
 
 ##### START THE SCRIPT ######
-for row in db.view('_design/bylines/_view/bylinereport'): #, limit = 10000):
+for row in db.view('_design/bylines/_view/bylinereport', limit = 10000):
   article_total += 1
   article = row["value"]
 
@@ -92,7 +93,7 @@ for row in db.view('_design/bylines/_view/bylinereport'): #, limit = 10000):
   else:
     section = article["sectionId"]
   if( not (section in return_data[paper])):
-    return_data[paper][section] = {"articles":0,"male":0,"female":0,"unknown":0,"social":0,"facebook":0,"twitter":0,"googleplus":0, "M_social":0, "F_social":0, "X_social":0, "M_facebook":0, "F_facebook":0, "X_facebook":0, "M_twitter":0, "F_twitter":0, "X_twitter":0, "M_googleplus":0, "F_googleplus":0, "X_googleplus":0, "emptybylines":0}
+    return_data[paper][section] = {"articles":0,"male":0,"female":0,"unknown":0, "mixed":0, "male_bylines":0, "female_bylines":0, "unknown_bylines":0, "social":0,"facebook":0,"twitter":0,"googleplus":0, "M_social":0, "F_social":0, "X_social":0, "B_social":0, "M_facebook":0, "F_facebook":0, "X_facebook":0, "B_facebook":0, "M_twitter":0, "F_twitter":0, "X_twitter":0, "B_twitter":0, "M_googleplus":0, "F_googleplus":0, "X_googleplus":0, "B_googleplus":0, "emptybylines":0}
   
   return_data[paper][section]["articles"] += 1
 
@@ -104,6 +105,15 @@ for row in db.view('_design/bylines/_view/bylinereport'): #, limit = 10000):
     return_data[paper][section]["emptybylines"] += 1
     emptybylines += 1
     continue #fix this. should be reported as unknown
+
+  #possible article_gender values:
+  # X: unknown
+  # M: all male
+  # F: all female
+  # B: Mixed
+
+  article_gender = "X"
+
   for byline in article["bylines"]:
 
       byline = byline.lower().strip()
@@ -115,65 +125,39 @@ for row in db.view('_design/bylines/_view/bylinereport'): #, limit = 10000):
         (re.search("correspondent", byline) and len(byline.split(" ")) <=3 ) or
         re.search("staff", byline) or len(byline) == 0):
 
-        return_data[paper][section]["unknown"] += 1
+        return_data[paper][section]["unknown_bylines"] += 1
+        gender ="X" #we're calling all unknown ones "X"
 
       else:
         gender = genderer.estimate_gender(byline)
         if(gender == None):
-          return_data[paper][section]["unknown"] += 1
+          return_data[paper][section]["unknown_bylines"] += 1
           gender ="X"
         elif(gender =="M"):
-          return_data[paper][section]["male"] += 1
+          return_data[paper][section]["male_bylines"] += 1
         elif(gender == "F"):
-          return_data[paper][section]["female"] += 1
+          return_data[paper][section]["female_bylines"] += 1
+
+      #decide article gender 
+      if(article_gender=="X" and gender !="X"):
+        article_gender = gender
+      elif (article_gender!="B" and article_gender != gender):
+        article_gender = "B"
+
+  return_data[paper][section][ag_key[article_gender]] += 1
 
   if "sharedata" in article and article["sharedata"]!=None:
-#    try:
-    return_data[paper][section] = get_sharedata(gender, article, return_data[paper][section])
-#      total = 0
-#      gplus = 0
-#      twitter = 0
-#      shares = 0
-#      likes = 0
-#      if "googlePlus" in article["sharedata"]:
-#        gplus = article["sharedata"]["googlePlus"]["count"]
-#        if gplus == None:
-#          gplus = 0
-#        return_data[paper][section]["googleplus"] += gplus
-#        total += gplus
-#      if "twitter" in article["sharedata"]:
-#        twitter = article["sharedata"]["twitter"]["count"]
-#        if twitter == None:
-#          twitter = 0
-#        return_data[paper][section]["twitter"] += twitter
-#        total += twitter
-#      if "facebook" in article["sharedata"]:
-#        if "shares" in article["sharedata"]["facebook"]:
-#          shares = article["sharedata"]["facebook"]["shares"]
-#          if shares == None:
-#            shares = 0
-#          return_data[paper][section]["facebook"] += shares
-#          total += shares
-#        if "likes" in article["sharedata"]["facebook"]:
-#          likes = article["sharedata"]["facebook"]["likes"]
-#          if likes == None:
-#            likes = 0
-#          return_data[paper][section]["facebook"] += likes
-#          total += likes
-#      return_data[paper][section]["social"] = gplus + twitter + shares + likes
+    return_data[paper][section] = get_sharedata(article_gender, article, return_data[paper][section])
 
-#    except Exception:
-#      print "exception with social storage"
-      #omitted += 1
  
 output_file = argv[2] 
 output = csv.writer(open(output_file, "wb"))
 
-output.writerow(["paper","section","articles","male","female","unknown", "social", "facebook", "twitter", "googleplus", "M_social", "F_social", "X_social", "M_facebook", "F_facebook", "X_facebook", "M_twitter", "F_twitter", "X_twitter", "M_googleplus", "F_googleplus", "X_googleplus", "emptybylines"])
+output.writerow(["paper","section","articles","male","female","unknown", "mixed", "male_bylines", "female_bylines", "unknown_bylines", "social", "facebook", "twitter", "googleplus", "M_social", "F_social", "X_social", "B_social", "M_facebook", "F_facebook", "X_facebook", "B_facebook", "M_twitter", "F_twitter", "X_twitter", "B_twitter", "M_googleplus", "F_googleplus", "X_googleplus", "B_googleplus" "emptybylines"])
 
 for section_name in return_data[paper]:
   section = return_data[paper][section_name]
-  output.writerow([paper, section_name, section["articles"], section["male"], section["female"], section["unknown"], section["social"], section['facebook'], section['twitter'], section['googleplus'], section["M_social"], section["F_social"], section["X_social"], section["M_facebook"], section["F_facebook"], section["X_facebook"], section["M_twitter"], section["F_twitter"], section["X_twitter"], section["M_googleplus"], section["F_googleplus"], section["X_googleplus"], section['emptybylines']])
+  output.writerow([paper, section_name, section["articles"], section["male"], section["female"], section["unknown"], section["mixed"], section["male_bylines"], section["female_bylines"], section["unknown_bylines"], section["social"], section['facebook'], section['twitter'], section['googleplus'], section["M_social"], section["F_social"], section["X_social"], section["B_social"], section["M_facebook"], section["F_facebook"], section["X_facebook"], section["B_facebook"], section["M_twitter"], section["F_twitter"], section["X_twitter"], section["B_twitter"], section["M_googleplus"], section["F_googleplus"], section["X_googleplus"], section["B_googleplus"], section['emptybylines']])
 
 
 print "Total: " + str(article_total)

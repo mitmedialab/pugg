@@ -106,7 +106,12 @@ def Author.write_authors yearweek, date
 end
 
 index_data = JSON.load(server.get("/#{database}/_design/dates/_view/dates?limit=1").response.body)
-prevdate = Date.parse(index_data["rows"][0]["value"]["webPublicationDate"])
+if(database =="guardian")
+  prevdate = Date.parse(index_data["rows"][0]["value"]["webPublicationDate"])
+elsif database =="dailymail"
+  pubdate = index_data["rows"][0]["value"]["pubdate"]
+  prevdate = Date.parse(pubdate[6..7] + "/" + pubdate[4..5] + "/" + pubdate[0..3])
+end
 prevdate_week = prevdate.year.to_s + prevdate.cweek.to_s
 
 startkey = index_data["rows"][0]["key"]
@@ -125,7 +130,7 @@ while more_articles
     #for pagination: if it's the last row, use that as
     # the startkey for the next page, and continue without processing
     #TODO: Fix something in this bit of code
-    if index_data["rows"].size == 1
+    if index_data["rows"].size <= 1
       Author.write_authors prevdate_week
       puts "END OF SCRIPT"
       more_articles = false 
@@ -139,8 +144,19 @@ while more_articles
     end
     article = row["value"]
 
-    curdate = Date.parse(article["webPublicationDate"])
+    if(database =="guardian")
+      curdate = Date.parse(article["webPublicationDate"])
+    elsif database =="dailymail"
+      pubdate = article["pubdate"]
+      curdate = Date.parse(pubdate[6..7] + "/" + pubdate[4..5] + "/" + pubdate[0..3])
+    end
     curdate_week = curdate.year.to_s + curdate.cweek.to_s
+    ##ADDED CLAUSE FOR WEEKEND
+    #if(curdate.wday == 0 or curdate.wday == 7)
+    #  print "."
+    #  next
+    #end
+
     if(curdate_week!=prevdate_week)
       puts prevdate_week
       Author.write_authors prevdate_week, curdate

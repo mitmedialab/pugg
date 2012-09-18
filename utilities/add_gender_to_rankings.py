@@ -25,6 +25,9 @@ for filename in glob(argv[1]+"*"):
       if row_count == 0:
         row_count +=1
         continue
+      if len(row) <8:
+        print row #FIX THIS
+        continue
 
       row_count += 1
       return_row = []
@@ -38,7 +41,9 @@ for filename in glob(argv[1]+"*"):
         byline =="ap" or byline =="" or
         (re.search("editor", byline) and len(byline.split(" ")) <=3) or 
         (re.search("correspondent", byline) and len(byline.split(" ")) <=3 ) or
-        re.search("staff", byline) or len(byline) == 0):
+        re.search("staff", byline) or len(byline) == 0 or
+        re.search("reporter", byline) or re.search("daily mail", byline) or
+        re.search("this is money", byline) or re.search("money mail", byline)):
         gender ="X"
       else:
         gender = genderer.estimate_gender(byline)

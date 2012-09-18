@@ -1,3 +1,5 @@
 *.swp
 data/
+results/*
 *.pyc
+*.DS_Store
