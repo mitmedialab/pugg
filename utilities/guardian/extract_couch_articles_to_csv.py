@@ -71,14 +71,14 @@ def get_sharedata(article):
 output_file = argv[2]
 output = csv.writer(open(output_file, "wb"))
 
-output.writerow(["paper","section", "gender", "date", "bylines", "social", "facebook", "twitter", "googleplus"])
+output.writerow(["paper","section", "title", "gender", "date", "bylines", "social", "facebook", "twitter", "googleplus", "url"])
 
 
 for row in db.view('_design/bylines/_view/bylinereport'):
   article = row["value"]
   article_gender = "X"
 
-  if(paper == "dailymail" and "pubdate" in article and len(article["pubdate"])==8):
+  if((paper =="telegraph" or paper == "dailymail" )and "pubdate" in article and len(article["pubdate"])==8):
     pubdate = article["pubdate"]
 
   if(paper =="guardian" and "webPublicationDate" in article):
@@ -119,9 +119,6 @@ for row in db.view('_design/bylines/_view/bylinereport'):
     section = "none"
   else:
     section = article["sectionId"]
-
-
-    #continue #fix this. should be reported as unknown
 
   #possible article_gender values:
   # X: unknown
@@ -169,7 +166,15 @@ for row in db.view('_design/bylines/_view/bylinereport'):
         article_gender = "B"
   sharedata = get_sharedata(article)
 
-  output.writerow([paper, section, article_gender, pubdate, bylines.encode("ascii", 'xmlcharrefreplace'), sharedata["social"],sharedata["facebook"], sharedata["twitter"], sharedata["googleplus"]])
+  title = ""
+  if("title" in article):
+    title = article["title"]
+
+  url = ""
+  if("url" in article):
+    url = article["url"]
+
+  output.writerow([paper, section, title, article_gender, pubdate, bylines.encode("ascii", 'xmlcharrefreplace'), sharedata["social"],sharedata["facebook"], sharedata["twitter"], sharedata["googleplus"], url])
 
 
 
