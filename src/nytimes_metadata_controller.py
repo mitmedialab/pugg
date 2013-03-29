@@ -7,6 +7,7 @@ from decimal import *
 import sys
 import re
 import os
+import json
 
 class NYTimesMetadataController:
   def __init__(self):
@@ -105,6 +106,7 @@ class NYTimesMetadataController:
 
         article_gender = self.name_gender.estimate_gender(article.byline)
         subject_gender = self.pronoun_gender.estimate_gender(fulltext)
+
         gender_key = ""
         if article_gender == "F":
           gender_key = "female"
@@ -236,20 +238,9 @@ class NYTimesMetadataController:
 
   def generate_death_samples(self):
     
-    monthID = 0 # Keep track of months
-    obitID_fem = 0 # ID of individual featured obits in a given month
+    obitID_fem = 0 # ID of individual featured obits in a given year
     obitID_mid = 0
     obitID_mal = 0
-    noticeID_fem = 0 # ID of individual paid death notices in a given month
-    noticeID_mid = 0
-    noticeID_mal = 0
-    bothID_fem = 0 # ID of individual article, including featured obits and paid death notices, in a given month
-    bothID_mid = 0
-    bothID_mal = 0
-
-    f_fe = open("death_fulltext/symlinks_fem.txt", 'w')
-    f_ma = open("death_fulltext/symlinks_mal.txt", 'w')
-    f_mi = open("death_fulltext/symlinks_mid.txt", 'w')
     
     articles = self.articles.getNextMonth()
     getcontext.prec = 4
@@ -260,111 +251,45 @@ class NYTimesMetadataController:
         try:
           article = self.articles.createArticle(article_row)
           fulltext = article.getDataFileObject("data/nytimes/", "data/nytimes-fulltext/", "txt").read()
+
         except ValueError:
           continue
 
-        has_death = False
+        if str(article.pub_date)[:6] != '199704':
+    continue
 
         # Featured Obituaries
         if "Top/News/Obituaries" in article.taxonomic_classifiers:
-          has_death = True
           subject_gender = self.pronoun_gender.estimate_gender(fulltext)
+	  article_data_dict = json.loads(article.getDataFileObject("data/nytimes/", "data/nytimes-name-url", "json").read()) # {"person":NAME, "url":ARTICLE URL}
+	  name = article_data_dict["person"]
+	  url = article_data_dict["url"]
           if subject_gender == "F":
             
-            obit_filename_female = str(monthID) + "_fem_" + str(obitID_fem) + ".txt"
-            obit_file_female = open("death_fulltext/featured_obituaries/" + obit_filename_female, 'w')
-            obit_file_female.write(re.sub(' LEAD: ', '',fulltext))
+            obit_filename_female = str(obitID_fem) + ".json"
+            obit_file_female = open("death_fulltext/featured_obituaries_fem/"+ obit_filename_female, 'w')
+            fulltext_in = re.sub(' LEAD: ', '',fulltext)
+	    json.dump([name, url, fulltext_in], obit_file_female)
             obit_file_female.close()
             obitID_fem +=1
             
-            both_filename_female = str(monthID) + "_fem_" + str(bothID_fem) + ".txt"
-            os.symlink("death_fulltext/featured_obituaries/" + obit_filename_female, "death_fulltext/all_symlinks/" + both_filename_female)
-            bothID_fem +=1
-            f_fe.write("death_fulltext/all_symlinks/" + both_filename_female + "\n")
-            
           if subject_gender == "M":
-            obit_filename_male = str(monthID) + "_mal_" + str(obitID_mal) + ".txt"
-            obit_file_male = open("death_fulltext/featured_obituaries/" + obit_filename_male, 'w')
-            obit_file_male.write(re.sub(' LEAD: ', '',fulltext))
+            obit_filename_male = str(obitID_mal) + ".json"
+            obit_file_male = open("death_fulltext/featured_obituaries_mal/" + obit_filename_male, 'w')
+            fulltext_in = re.sub(' LEAD: ', '',fulltext)
+	    json.dump([name, url, fulltext_in], obit_file_male)
             obit_file_male.close()
             obitID_mal +=1
-            
-            both_filename_male = str(monthID) + "_mal_" + str(bothID_mal) + ".txt"
-            os.symlink("death_fulltext/featured_obituaries/" + obit_filename_male, "death_fulltext/all_symlinks/" + both_filename_male)
-            bothID_mal +=1
-            f_ma.write("death_fulltext/all_symlinks/" + both_filename_male + "\n")
-            
+                        
           if subject_gender == "N":
-            obit_filename_middle = str(monthID) + "_mid_" + str(obitID_mid) + ".txt"
-            obit_file_middle = open("death_fulltext/featured_obituaries/" + obit_filename_middle, 'w')
-            obit_file_middle.write(re.sub(' LEAD: ', '',fulltext))
+            obit_filename_middle = str(obitID_mid) + ".json"
+            obit_file_middle = open("death_fulltext/featured_obituaries_mid/" + obit_filename_middle, 'w')
+            fulltext_in = re.sub(' LEAD: ', '',fulltext)
+	    json.dump([name, url, fulltext_in], obit_file_middle)
             obit_file_middle.close()
             obitID_mid +=1
-            
-            both_filename_middle = str(monthID) + "_mid_" + str(bothID_mid) + ".txt"
-            os.symlink("death_fulltext/featured_obituaries/" + obit_filename_middle, "death_fulltext/all_symlinks/" + both_filename_middle)
-            bothID_mid +=1
-            f_mi.write("death_fulltext/all_symlinks/" + both_filename_middle + "\n")
-
-        # Paid Death Notices
-        if "Top/Classifieds/Paid Death Notices" in article.taxonomic_classifiers:
-          subject_gender = self.pronoun_gender.estimate_gender(fulltext)
-          if subject_gender == "F":
-            
-            notice_filename_female = str(monthID) + "_fem_" + str(noticeID_fem) + ".txt"
-            notice_file_female = open("death_fulltext/paid_death_notices/" + notice_filename_female, 'w')
-            notice_file_female.write(re.sub(' LEAD: ', '',fulltext))
-            notice_file_female.close()
-            noticeID_fem +=1
-
-            if not has_death:
-              both_filename_female = str(monthID) + "_fem_" + str(bothID_fem) + ".txt"
-              os.symlink("death_fulltext/paid_death_notices/" + notice_filename_female, "death_fulltext/all_symlinks/" + both_filename_female)
-              bothID_fem +=1
-              f_fe.write("death_fulltext/all_symlinks/" + both_filename_female + "\n")
-            
-          if subject_gender == "M":
-            notice_filename_male = str(monthID) + "_mal_" + str(noticeID_mal) + ".txt"
-            notice_file_male = open("death_fulltext/paid_death_notices/" + notice_filename_male, 'w')
-            notice_file_male.write(re.sub(' LEAD: ', '',fulltext))
-            notice_file_male.close()
-            noticeID_mal +=1
-
-            if not has_death:
-              both_filename_male = str(monthID) + "_mal_" + str(bothID_mal) + ".txt"
-              os.symlink("death_fulltext/paid_death_notices/" + notice_filename_male, "death_fulltext/all_symlinks/" + both_filename_male)
-              bothID_mal +=1
-              f_ma.write("death_fulltext/all_symlinks/" + both_filename_male + "\n")
-            
-          if subject_gender == "N":
-            notice_filename_middle = str(monthID) + "_mid_" + str(noticeID_mid) + ".txt"
-            notice_file_middle = open("death_fulltext/paid_death_notices/" + notice_filename_middle, 'w')
-            notice_file_middle.write(re.sub(' LEAD: ', '',fulltext))
-            notice_file_middle.close()
-            noticeID_mid +=1
-
-            if not has_death:
-              both_filename_middle = str(monthID) + "_mid_" + str(bothID_mid) + ".txt"
-              os.symlink("death_fulltext/paid_death_notices/" + notice_filename_middle, "death_fulltext/all_symlinks/" + both_filename_middle)
-              bothID_mid +=1
-              f_mi.write("death_fulltext/all_symlinks/" + both_filename_middle + "\n")
-
-      monthID +=1 # Keep track of months
-      obitID_fem = 0 # ID of individual featured obits in a given month
-      obitID_mid = 0
-      obitID_mal = 0
-      noticeID_fem = 0 # ID of individual paid death notices in a given month
-      noticeID_mid = 0
-      noticeID_mal = 0
-      bothID_fem = 0 # ID of individual article, including featured obits and paid death notices, in a given month
-      bothID_mid = 0
-      bothID_mal = 0
 
       articles = self.articles.getNextMonth()
-
-    f_fe.close()
-    f_mi.close()
-    f_ma.close()
 
 
 if __name__ == "__main__":
