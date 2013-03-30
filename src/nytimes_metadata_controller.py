@@ -251,12 +251,17 @@ class NYTimesMetadataController:
         try:
           article = self.articles.createArticle(article_row)
           fulltext = article.getDataFileObject("data/nytimes/", "data/nytimes-fulltext/", "txt").read()
+	  day = str(article.pub_date)[6:]
+	  month = str(article.pub_date)[4:6]
+	  year = str(article.pub_date)[:4]
+	  date = month+'/'+day+'/'+year
 
         except ValueError:
           continue
 
         if str(article.pub_date)[:6] != '199704':
-    continue
+	  print str(article.pub_date)[:6]
+	  continue
 
         # Featured Obituaries
         if "Top/News/Obituaries" in article.taxonomic_classifiers:
@@ -269,7 +274,7 @@ class NYTimesMetadataController:
             obit_filename_female = str(obitID_fem) + ".json"
             obit_file_female = open("death_fulltext/featured_obituaries_fem/"+ obit_filename_female, 'w')
             fulltext_in = re.sub(' LEAD: ', '',fulltext)
-	    json.dump([name, url, fulltext_in], obit_file_female)
+	    json.dump({'name':name, 'date':date, 'url':url, 'fulltext':fulltext_in}, obit_file_female)
             obit_file_female.close()
             obitID_fem +=1
             
@@ -277,7 +282,7 @@ class NYTimesMetadataController:
             obit_filename_male = str(obitID_mal) + ".json"
             obit_file_male = open("death_fulltext/featured_obituaries_mal/" + obit_filename_male, 'w')
             fulltext_in = re.sub(' LEAD: ', '',fulltext)
-	    json.dump([name, url, fulltext_in], obit_file_male)
+	    json.dump({'name':name, 'date':date, 'url':url, 'fulltext':fulltext_in}, obit_file_male)
             obit_file_male.close()
             obitID_mal +=1
                         
@@ -285,7 +290,7 @@ class NYTimesMetadataController:
             obit_filename_middle = str(obitID_mid) + ".json"
             obit_file_middle = open("death_fulltext/featured_obituaries_mid/" + obit_filename_middle, 'w')
             fulltext_in = re.sub(' LEAD: ', '',fulltext)
-	    json.dump([name, url, fulltext_in], obit_file_middle)
+	    json.dump({'name':name, 'date':date, 'url':url, 'fulltext':fulltext_in}, obit_file_middle)
             obit_file_middle.close()
             obitID_mid +=1
 
